@@ -2,7 +2,7 @@
 
 English fan translation and tools for **Sunrise World War from Sunrise Eiyuutan** on PlayStation 2 (**Japan, SLPS-25270**).
 
-![Original Japanese PlayStation 2 box art for Sunrise World War](assets/social-preview.jpg)
+![Sunrise World War English translation patch preview with the original Japanese PS2 cover](assets/social-preview.jpg)
 
 ## Contribute
 
@@ -68,7 +68,7 @@ This is an unofficial fan translation. The game and its characters belong to the
 
 ## Credits
 
-Translation, tooling and testing by the retro-trans project. The social preview uses generated mecha artwork in the layout of the project's ACE card.
+Translation, tooling and testing by the retro-trans project. The preview pairs the original Japanese PS2 box art with the layout of the project's ACE card. [Box art source](https://gamesdb.launchbox-app.com/games/images/130937-sunrise-world-war)
 
 ## Status
 

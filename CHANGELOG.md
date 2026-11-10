@@ -4,7 +4,7 @@ Local builds and release packages are under `work/output/v<version>/`.
 
 ## Repository preview — 2026-11-10
 
-- Used the [original Japanese PS2 front cover](https://gamesdb.launchbox-app.com/games/images/130937-sunrise-world-war) as the README preview.
+- Added the [original Japanese PS2 front cover](https://gamesdb.launchbox-app.com/games/images/130937-sunrise-world-war) to the ACE-style preview card in the README.
 
 ## v0.8.0 — 2026-11-10 — First private release package
 
