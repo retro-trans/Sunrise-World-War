@@ -1,0 +1,147 @@
+{
+ "table": "4822_10348",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "Right now, two gates have been\nconfirmed in Claudia."
+    },
+    {
+     "en": "Looks like both gates\nlead to \"Space.\""
+    },
+    {
+     "en": "Units without the \"Space\" type\ncan't launch, so be careful."
+    },
+    {
+     "en": "Yeah, I know."
+    }
+   ],
+   "notes": "Seg 2: blank header, read as Rie continuing. [jp] attribute rendered \"Space\" type (UI form, cf. \"Ground\" type).",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Right now, two gates have been\nconfirmed in Claudia."
+    },
+    {
+     "en": "Both gates lead to \"Space.\""
+    },
+    {
+     "en": "Units without the \"Space\" type\ncannot sortie."
+    },
+    {
+     "en": "Please keep that in mind\nduring Squad Setup."
+    },
+    {
+     "en": "Roger!"
+    }
+   ],
+   "notes": "Segs 1-3: blank headers, read as Aria continuing. [jp] -> Squad Setup (UI).",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Entering combat with the main force\nof the Claudian Unified Forces."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "We have a report from the\nInfantry Squad."
+    },
+    {
+     "en": "Enemy resistance was light.\nThey've secured the interior."
+    },
+    {
+     "en": "That was awfully flimsy..."
+    },
+    {
+     "en": "Is that really all they've got...?"
+    },
+    {
+     "en": "They saw the tide was against them\nand pulled out, I'd say."
+    },
+    {
+     "en": "Looks like we let their\nmain force slip away."
+    },
+    {
+     "en": "I figured it'd all be over\nas soon as we took this place."
+    },
+    {
+     "en": "Where the heck\ndid they run off to?"
+    },
+    {
+     "en": "The enemy is human,\njust like us."
+    },
+    {
+     "en": "They won't slip up and show\nthemselves that easily."
+    },
+    {
+     "en": "All we can do now is hunt down\ntheir bases one by one."
+    },
+    {
+     "en": "You can now dock at\nAstante Fortress."
+    }
+   ],
+   "notes": "Segs 1, 3, 5, 7, 9, 10: blank headers, read as continuations of the previous header (Aria, Kanji, Omega). [jp] rendered 'slip up and show themselves'.",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Entering combat with the\nCecibel Base garrison."
+    }
+   ],
+   "notes": "[jp] -> Cecibel Base (elf_strings UI form).",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Air superiority over\nCecibel Base secured."
+    },
+    {
+     "en": "However, a powerful enemy\ninfantry squad has been confirmed\ninside Cecibel Base."
+    },
+    {
+     "en": "Proceed to infantry combat?"
+    },
+    {
+     "en": "Yes\nNo"
+    },
+    {
+     "en": "Sending the Infantry Squad\ninto the base."
+    },
+    {
+     "en": "Holding off on the\ninfantry assault."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "The interior of Cecibel Base\nhas been secured."
+    },
+    {
+     "en": "You can now dock."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

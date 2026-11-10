@@ -1,0 +1,164 @@
+{
+ "table": "0002_09386",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "Guess they're still getting ready..."
+    }
+   ],
+   "notes": "Subject of [jp] not stated; 'they' kept vague (whatever Kanji is waiting for).",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Come to think of it,\nit's not time yet..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "We're still getting ready.\nWait just a little longer, okay?"
+    }
+   ],
+   "notes": "Subject of [jp] assumed to be Lun's side ('we').",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "What's wrong?\nIt isn't time yet, you know."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Huh?\nI can't go outside?"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "No going out, huh..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Oh?\nLooks like we can't go outside."
+    }
+   ],
+   "notes": "Lun's 'we' assumes she is speaking for the group.",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Too ba~d. No going out right now."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Looks like we can't depart yet..."
+    }
+   ],
+   "notes": "[jp] = UI 'Depart'.",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Preparing to depart."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Going out is not allowed at this time."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Going out is not allowed at this time."
+    }
+   ],
+   "notes": "Same Japanese as row 10.",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "Attention, approaching fleet!"
+    },
+    {
+     "en": "This sector is currently under the\njurisdiction of the Konpei Island Fleet!\nWithdraw from this area at once!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "You cannot descend to Earth."
+    },
+    {
+     "en": "Correcting course."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "Sweetwater is within Neo Zeon's\nsphere of influence.\nYou cannot dock there."
+    },
+    {
+     "en": "Correcting course."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

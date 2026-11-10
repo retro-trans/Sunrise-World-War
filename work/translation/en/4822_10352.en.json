@@ -1,0 +1,110 @@
+{
+ "table": "4822_10352",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "This is the Terra Realm,\nthe Gaia Continent."
+    },
+    {
+     "en": "Most of this continent has fallen\nto the invasion of the mighty\nGrados Army."
+    },
+    {
+     "en": "But the resistance groups fighting\nback were slowly growing in\nstrength."
+    },
+    {
+     "en": "A faction is seeking\nan alliance."
+    },
+    {
+     "en": "It will be shown with a marker."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Alliance formed with the Resistance.\nThe Resistance joins your forces."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Alliance formed with the\nGrados Army."
+    }
+   ],
+   "notes": "Source typo [jp] ignored.",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Entering combat with the\nGrados Army."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "You can now dock at\nGrados City."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Entering combat with the\nResistance's main force."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "You can now dock at the\nResistance Base."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Entering combat with the\nRedros-Galfa forces."
+    }
+   ],
+   "notes": "[jp] rendered 'Redros-Galfa forces' (joint army).",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "The enemy forces have been\ndriven off."
+    },
+    {
+     "en": "The Cusco gate can now be used."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

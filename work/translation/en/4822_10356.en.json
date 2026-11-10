@@ -1,0 +1,961 @@
+{
+ "table": "4822_10356",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "King Foizon of the Kingdom of Lau\nwishes to form an alliance."
+    },
+    {
+     "en": "Head for the town of Tatara."
+    }
+   ],
+   "notes": "Tatara (Lau's capital) romanized; not in the glossary.",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Drake Luft of the Kingdom of A\nwishes to form an alliance."
+    },
+    {
+     "en": "Head for Laas Wau."
+    }
+   ],
+   "notes": "Laas Wau as in the library draft (Drake profile); not in the glossary.",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "You are most welcome here!"
+    },
+    {
+     "en": "Let us fight together to\nstrike down Drake's army!!"
+    },
+    {
+     "en": "An alliance with the Kingdom of Lau\nhas been formed."
+    },
+    {
+     "en": "Drake Luft's power keeps\ngrowing ever greater."
+    },
+    {
+     "en": "I want you to go to the Kingdom of Na\nand negotiate with Ciela Lapana."
+    },
+    {
+     "en": "Once we have an alliance with Na,\nwe go on the counteroffensive!"
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "Could someone be assigned\nto guide us?"
+    },
+    {
+     "en": "That duty has been entrusted\nto my Zelerna Unit."
+    },
+    {
+     "en": "This is Sir Nie Given."
+    },
+    {
+     "en": "His unit is small, but it has\na fine Holy Warrior in its ranks."
+    },
+    {
+     "en": "That's a big help.\nWe're counting on you."
+    },
+    {
+     "en": "Well, let us be off."
+    },
+    {
+     "en": "Even as we speak, Drake's army\nkeeps growing stronger."
+    },
+    {
+     "en": "Right!"
+    }
+   ],
+   "notes": "[jp] -> 'Zelerna Unit' to match the glossary's 'Botune (Zelerna Unit)'.",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "I'm Sho Zama."
+    },
+    {
+     "en": "Looking forward to working with you."
+    },
+    {
+     "en": "Nice to meet you."
+    },
+    {
+     "en": "So you're all from the Zelerna Unit."
+    },
+    {
+     "en": "I'm Kanji Akatsuki."
+    },
+    {
+     "en": "I'm more or less the combat leader,\nso I'll be the one commanding you."
+    },
+    {
+     "en": "Well, let's take it easy."
+    },
+    {
+     "en": "If anything's wrong,\ntell me right away, okay?"
+    },
+    {
+     "en": "He doesn't seem very reliable~"
+    },
+    {
+     "en": "I can see why..."
+    },
+    {
+     "en": "Ha ha ha..."
+    },
+    {
+     "en": "People usually think that about\nKanji at first, you know."
+    },
+    {
+     "en": "Then again, he really is unreliable."
+    },
+    {
+     "en": "Ouch..."
+    },
+    {
+     "en": "Well, in my case, I guess it's all\nthanks to the friends backing me up?"
+    },
+    {
+     "en": "Nothing wrong with that, is there?\nThat kind of leader works too."
+    },
+    {
+     "en": "It's not like any of us\nare raw recruits, after all."
+    },
+    {
+     "en": "Heh... I suppose so."
+    },
+    {
+     "en": "Then that settles it!"
+    },
+    {
+     "en": "The Zelerna Unit has joined you."
+    },
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "That alarm..."
+    },
+    {
+     "en": "Drake's army has appeared!"
+    },
+    {
+     "en": "Damn it!\nAt a time like this!"
+    },
+    {
+     "en": "Lau's entire army will move\nto intercept them!"
+    },
+    {
+     "en": "His Majesty asks that you set out\nand make for the Kingdom of Na!"
+    },
+    {
+     "en": "We're running without a fight?"
+    },
+    {
+     "en": "Wait!\nI'm checking the data right now."
+    },
+    {
+     "en": "Okay!\nThe enemy data's up!"
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "The enemy force isn't\nall that big..."
+    },
+    {
+     "en": "It's probably a reconnaissance in force."
+    },
+    {
+     "en": "Looks like it'd be quicker to just\ndrive them off right here."
+    },
+    {
+     "en": "But King Foizon has made\nhis decision, hasn't he?"
+    },
+    {
+     "en": "He'll understand."
+    },
+    {
+     "en": "King Foizon needs to see\nwhat Kanji and the others\ncan do, too, right?"
+    },
+    {
+     "en": "I suppose so..."
+    },
+    {
+     "en": "Chum! Go tell Nie\nand King Foizon!"
+    },
+    {
+     "en": "Got it!\nI'm off!"
+    },
+    {
+     "en": "All ships, prepare for battle!"
+    },
+    {
+     "en": "Beginning final check\nof all weapons!"
+    }
+   ],
+   "notes": "[25] 'His Majesty asks' restores the implied source of the order (Foizon, confirmed by [33]). [15] Sho approves Kanji's style of leading. | [accuracy 12] 'he really isn't' read as the opposite after Lun's line; Nelfea is confirming Kanji IS unreliable (hence his 'Ouch') | [editorial 15] literal 'Isn't that fine? / That kind of leader, I mean' read stiff; Sho casually approving Kanji's style | [editorial 31] line break split the term 'reconnaissance in force'",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "So that's the ship the Redros Army\ntipped us off about."
+    },
+    {
+     "en": "But our forces aren't enough\nto take Tatara, sir..."
+    },
+    {
+     "en": "I know that."
+    },
+    {
+     "en": "Just strike once and\ngauge their strength!"
+    },
+    {
+     "en": "As you command!"
+    },
+    {
+     "en": "All units, get ready to launch!"
+    },
+    {
+     "en": "Roger!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Remaining enemy ships\nare falling back!"
+    },
+    {
+     "en": "Phew...\nIt's over..."
+    },
+    {
+     "en": "All units, return to the ship!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Kanji, you guys are amazing!"
+    },
+    {
+     "en": "That was quite something..."
+    },
+    {
+     "en": "I'm kind of... a little scared..."
+    },
+    {
+     "en": "Huh?\nWhat's wrong?"
+    },
+    {
+     "en": "Well..."
+    },
+    {
+     "en": "It feels like... this war is\ngoing to get really, really big."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Maybe so..."
+    },
+    {
+     "en": "A splendid fight."
+    },
+    {
+     "en": "Thanks to you, everyone's\nmorale is running high."
+    },
+    {
+     "en": "I thank you for your valor!"
+    },
+    {
+     "en": "Not at all. We only did\nwhat we had to."
+    },
+    {
+     "en": "Now then, I'll finally take you\nto the Kingdom of Na."
+    },
+    {
+     "en": "Oh, yes.\nWe're in your hands."
+    },
+    {
+     "en": "On the way, we'll join up\nwith reinforcements."
+    },
+    {
+     "en": "They're at Mt. Karakara."
+    },
+    {
+     "en": "Displaying the marker."
+    },
+    {
+     "en": "You'll go by way of Mt. Karakara\nbefore heading to the Kingdom of Na."
+    }
+   ],
+   "notes": "[7] source [jp] read as [jp] (typo). Mt. Karakara romanized; not in the glossary. | [editorial 21] 'pass by' suggests not stopping; [jp] = via (they join reinforcements there)",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Whoa, I can see one\nseriously huge ship."
+    },
+    {
+     "en": "That's the Goraon."
+    },
+    {
+     "en": "Lady Elle has come out\nto meet us."
+    },
+    {
+     "en": "Guide beacon confirmed!"
+    },
+    {
+     "en": "Prepare to come alongside!"
+    },
+    {
+     "en": "Roger."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Goraon: Bridge"
+    },
+    {
+     "en": "I am Elle Hunm, daughter of\nPinegan Hunm, King of the Kingdom of Mi."
+    },
+    {
+     "en": "With all my heart, I welcome all of you\nwho have come to lend us your strength."
+    },
+    {
+     "en": "Lady Elle is King Foizon's\ngranddaughter."
+    },
+    {
+     "en": "She is prepared to become heir\nto the Kingdom of Lau."
+    },
+    {
+     "en": "Then the Kingdom of Mi...?"
+    },
+    {
+     "en": "The Kingdom of Mi...\nhas fallen..."
+    },
+    {
+     "en": "But King Foizon entrusted\nthe Goraon to me."
+    },
+    {
+     "en": "To repay his kindness, I must\nguide this world in a better\ndirection."
+    },
+    {
+     "en": "To end this evil war, and make\nByston Well a world without\nborders between nations."
+    },
+    {
+     "en": "Joined up with the Goraon."
+    }
+   ],
+   "notes": "[1] source writes [jp]; rendered Pinegan Hunm as in the library ([jp], Elle's profile) -- likely a source typo. | [editorial 2] 'From my heart, I welcome' unidiomatic | [proofread 0] location card in the UI 'Place: Room' form (style sheet; cf. 'Balket: Bridge')",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "So it's finally the Kingdom of Na."
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "Even inside Na, recon units from\nDrake's army and the Redros Army\nare flying about."
+    },
+    {
+     "en": "Please don't neglect\nyour preparations."
+    },
+    {
+     "en": "Understood."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Launch for Uroporos,\ncapital of the Kingdom of Na!"
+    },
+    {
+     "en": "Sho! Marvel!\nDon't slack on anti-air watch!"
+    },
+    {
+     "en": "I know!"
+    }
+   ],
+   "notes": "[jp] romanized Uroporos (not Ouroboros: source has [jp]); not in the glossary.",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "We're almost at Uroporos."
+    },
+    {
+     "en": "I can see a city up ahead.\nIs that it?"
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "But...\nsomething is wrong."
+    },
+    {
+     "en": "Detected an approaching fleet."
+    },
+    {
+     "en": "Oh!\nDid they come out to meet us again?"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "What?\nThat's not Lady Ciela's ship...!"
+    },
+    {
+     "en": "That's the enemy!"
+    },
+    {
+     "en": "Whaaat?!\nWhy is the enemy in Uroporos?!"
+    },
+    {
+     "en": "Transmission from the enemy ship!"
+    },
+    {
+     "en": "Heh... Did you think you could\njust waltz in and join up?\nSho!!"
+    },
+    {
+     "en": "Todd!"
+    },
+    {
+     "en": "Looks like they got here first..."
+    },
+    {
+     "en": "I can see right through anything\nyou people would come up with!"
+    },
+    {
+     "en": "This time, I'm settling\nthings for good!"
+    },
+    {
+     "en": "Oh, no...!"
+    },
+    {
+     "en": "Hey, what about Lady Ciela?!\nWhat's happened to Lady Ciela?"
+    },
+    {
+     "en": "She's all right."
+    },
+    {
+     "en": "I can sense Lady Ciela's\nAura Power coming from\nsomewhere else."
+    },
+    {
+     "en": "Everyone!\nFor now, focus on the enemy\nin front of you!"
+    },
+    {
+     "en": "Understood!"
+    },
+    {
+     "en": "All right!\nLet's go, everyone!!"
+    }
+   ],
+   "notes": "[5] source [jp] is a typo for [jp]: rendered Todd. | [editorial 12] term: aura power is lowercase (project decision)",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "Holy Warrior!!\nOur losses are too heavy!"
+    },
+    {
+     "en": "We can't hold out much longer!!"
+    },
+    {
+     "en": "Tch!"
+    },
+    {
+     "en": "I got too far from the main force...\nI can't expect any more reinforcements..."
+    },
+    {
+     "en": "Right, we're pulling out!!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "This isn't over!\nSho!!"
+    },
+    {
+     "en": "Enemy fleet repelled."
+    },
+    {
+     "en": "No enemy contacts in the area."
+    },
+    {
+     "en": "Sho!\nCan we get into the city?"
+    },
+    {
+     "en": "Yeah!"
+    },
+    {
+     "en": "Doesn't look like there are\nany enemies hiding there."
+    },
+    {
+     "en": "No word from Lady Ciela?"
+    },
+    {
+     "en": "No...\nNot so far..."
+    },
+    {
+     "en": "In any case,\nlet's dock."
+    }
+   ],
+   "notes": "[accuracy 3] verb and subject restored ([jp]); 'No hope of...' had neither | [editorial 3] literal '/' in the text instead of a line break",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "Nie, what now?"
+    },
+    {
+     "en": "Let's go into the city anyway.\nSomeone may still be there."
+    },
+    {
+     "en": "Then let's go."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Sir Nie!\nYou're safe!"
+    },
+    {
+     "en": "What happened?\nWhere's Lady Ciela?!"
+    },
+    {
+     "en": "Lady Ciela moved the entire fleet\nso the city wouldn't be engulfed\nin the fighting."
+    },
+    {
+     "en": "We're under radio silence now,\nso we can't reach them by radio..."
+    },
+    {
+     "en": "I see...\nSo Lady Ciela is safe."
+    },
+    {
+     "en": "Then all we have to do is join\nup with the fleet directly."
+    },
+    {
+     "en": "Yes."
+    },
+    {
+     "en": "Your guide should be arriving\nat your ship about now."
+    },
+    {
+     "en": "Right, let's get ready to depart.\nBack to the ship!"
+    },
+    {
+     "en": "Hm?\nThis machine..."
+    },
+    {
+     "en": "A Brain Powerd...\nIt's my partner."
+    },
+    {
+     "en": "Are you our guide?"
+    },
+    {
+     "en": "I'm Yu Isami."
+    },
+    {
+     "en": "I'll take you to Lady Ciela's\nflagship, the Gran-Garan."
+    },
+    {
+     "en": "You're Japanese?"
+    },
+    {
+     "en": "Are you a Holy Warrior,\nlike Sho?"
+    },
+    {
+     "en": "Hmm...\nNot quite?"
+    },
+    {
+     "en": "We did come from another world,\nthat's for sure."
+    },
+    {
+     "en": "But we don't ride\nAura Battlers."
+    },
+    {
+     "en": "And you are?"
+    },
+    {
+     "en": "Hime Utsumiya."
+    },
+    {
+     "en": "Like Yu, I'm a\nBrain Powerd pilot."
+    },
+    {
+     "en": "I see...\nGood to have you."
+    },
+    {
+     "en": "When you set out, take\na battleship that can fly."
+    },
+    {
+     "en": "Lady Ciela's Gran-Garan isn't on land.\nIt's above the Sea of Clouds."
+    },
+    {
+     "en": "I see. Got it!"
+    },
+    {
+     "en": "The Brain Powerd Team\nhas joined the unit."
+    }
+   ],
+   "notes": "[7] source [jp] read as [jp]. [16] Hime answers Kanji's question to You (speaker header Hime). [20] reading ([jp]) after the name dropped. [jp] -> 'Brain Powerd Team'. | [accuracy 10] verb restored in the answer to Kanji's 'This machine...' | [editorial 10] literal '/' in the text instead of a line break | [editorial 26] system line aligned to '<name> has joined the unit.'",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "We've set out!"
+    },
+    {
+     "en": "We'll now head for Lady Ciela's\nflagship, the Gran-Garan!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "We've reached our destination.\nTake us in to dock!"
+    }
+   ],
+   "notes": "[jp] may be a prompt to the player; rendered as Rie's order to the helm.",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Lady Ciela, I'm so glad\nto see you well."
+    },
+    {
+     "en": "And you, Elle."
+    },
+    {
+     "en": "Welcome to you all as well."
+    },
+    {
+     "en": "Let us join hands and\nstand against Drake."
+    },
+    {
+     "en": "Yes, Lady Ciela."
+    },
+    {
+     "en": "An evil power is growing."
+    },
+    {
+     "en": "If this continues, it will\nin time swallow every world."
+    },
+    {
+     "en": "Do you mean Drake?"
+    },
+    {
+     "en": "That is part of it."
+    },
+    {
+     "en": "But behind Drake lies an even\ngreater source of power."
+    },
+    {
+     "en": "You must cut off the source\nof this evil power."
+    },
+    {
+     "en": "(An evil power\n behind Drake...?)"
+    },
+    {
+     "en": "(The Redros Army has to be\n mixed up in this...)"
+    },
+    {
+     "en": "An alarm?!"
+    },
+    {
+     "en": "What is it?!"
+    },
+    {
+     "en": "Word has come that a great fleet of\nDrake's army is heading for Tatara,\ncapital of the Kingdom of Lau!"
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "I sense a strong Aura Power\nnearing Lau."
+    },
+    {
+     "en": "At this rate, King Foizon\nis in danger!"
+    },
+    {
+     "en": "We, too, must commit\nall our strength."
+    },
+    {
+     "en": "Organize reinforcements\nat once!"
+    },
+    {
+     "en": "This battle will be\nthe decisive one."
+    },
+    {
+     "en": "Everyone, steel yourselves."
+    }
+   ],
+   "notes": "[editorial 15] 'Drake Army' -> 'Drake's army' as everywhere else in the unit | [editorial 17] term: aura power is lowercase (project decision)",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "We've set out."
+    },
+    {
+     "en": "Holding course for our\ndestination, Tatara!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "Sho Zama, it seems you are making\ngood use of the Billbine I gave you."
+    },
+    {
+     "en": "Yes, it's a fine machine."
+    },
+    {
+     "en": "I see."
+    },
+    {
+     "en": "But do not forget."
+    },
+    {
+     "en": "Holding great power means you must\nresist the temptation of evil power\nall the more."
+    },
+    {
+     "en": "Yes, I understand..."
+    },
+    {
+     "en": "I am counting on you,\nSho Zama."
+    },
+    {
+     "en": "Now, go."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "King Foizon!\nWe've come to reinforce you!"
+    },
+    {
+     "en": "I'm in your debt!"
+    },
+    {
+     "en": "Drake's army is almost upon us."
+    },
+    {
+     "en": "Make your preparations at once."
+    },
+    {
+     "en": "Joined up with King Foizon's forces."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "Setting out will lead to a battle\nwith Drake's fleet."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 25,
+   "segments": [
+    {
+     "en": "Drake's army has been repelled."
+    },
+    {
+     "en": "The enemy forces in Byston Well\nhave been wiped out."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 26,
+   "segments": [
+    {
+     "en": "Lady Ciela..."
+    },
+    {
+     "en": "Is using force to cut off\nthe evil power truly right?"
+    },
+    {
+     "en": "I cannot help but see it..."
+    },
+    {
+     "en": "Dark shadows spreading over\nthose with good hearts..."
+    },
+    {
+     "en": "I feel it too."
+    },
+    {
+     "en": "Using force to hold back force..."
+    },
+    {
+     "en": "That is what we are\ntrying to do."
+    },
+    {
+     "en": "And that can also help\nthe evil power grow."
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "That is why we must\nbe resolved."
+    },
+    {
+     "en": "To purify the world once\nit is all over..."
+    },
+    {
+     "en": "Lady Ciela..."
+    },
+    {
+     "en": "Elle, will you lend me\nyour strength?"
+    },
+    {
+     "en": "Yes."
+    },
+    {
+     "en": "If it will save the world, I will\ngladly offer up my life."
+    },
+    {
+     "en": "Thank you."
+    }
+   ],
+   "notes": "[14] [jp] rendered 'offer up my life' (lit. 'offer this body/myself'). | [editorial 2] [jp]: involuntary seeing (accuracy flag); links to the vision on the next page",
+   "status": "proofread"
+  },
+  {
+   "id": 27,
+   "segments": [
+    {
+     "en": "Welcome."
+    },
+    {
+     "en": "My army swears to faithfully uphold\nthe alliance forged between us\nand your forces."
+    },
+    {
+     "en": "Formed an alliance with\nDrake's army."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 28,
+   "segments": [
+    {
+     "en": "Our target is Tatara,\ncapital of the Kingdom of Lau."
+    },
+    {
+     "en": "Destroy the enemy's giant\nbattleship, the Goraon."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 31,
+   "segments": [
+    {
+     "en": "Enemy forces successfully\neliminated."
+    },
+    {
+     "en": "You can now dock at Tatara."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 35,
+   "segments": [
+    {
+     "en": "The conquest of Byston Well\nis complete."
+    },
+    {
+     "en": "Head for another continent."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

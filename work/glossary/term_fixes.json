@@ -1,0 +1,362 @@
+{
+ "_doc": "Orchestrator decisions for cross-slice conflicts (library draft stage). Applied to work/translation/en/*.json 'en' fields and glossary 'en' by tools/term_fixes.py (regex). Listed for user review in docs/review_library_draft.md; reversible by editing this file.",
+ "fixes": [
+  [
+   "\\bThird Claudia War\\b",
+   "Third Claudian War",
+   "sibling-project form"
+  ],
+  [
+   "\\bundergear\\b",
+   "Under Gear",
+   "02471_4 form"
+  ],
+  [
+   "\\bDaimakai\\b",
+   "Great Demon World",
+   "meaning-bearing; 10345_4 form"
+  ],
+  [
+   "\\bYoja [Rr]ealm\\b",
+   "Yoja World",
+   "majority"
+  ],
+  [
+   "\\bYohsho Academy\\b",
+   "Yosho Academy",
+   "majority"
+  ],
+  [
+   "\\bArcturus\\b",
+   "Arktos",
+   "translators' choice (Dendoh)"
+  ],
+  [
+   "\\bKnight Ogre\\b",
+   "Knight Ouga",
+   "glossary: Ouga"
+  ],
+  [
+   "\\bX-Slash\\b",
+   "X-Cut",
+   "glossary note"
+  ],
+  [
+   "\\bG Stone\\b",
+   "G-Stone",
+   "majority"
+  ],
+  [
+   "\\bGilthor\\b",
+   "Giltor",
+   "10345_4 form"
+  ],
+  [
+   "HUF \\(Melee Unit\\)",
+   "HUF (Close-Combat Unit)",
+   "majority"
+  ],
+  [
+   "\\bPosaydal\\b",
+   "Poseidal",
+   "wiki spelling; unifies with Poseidal Regular Army"
+  ],
+  [
+   "\\bRasid\\b",
+   "Rashid",
+   "character spelling"
+  ],
+  [
+   "\\bKingdom of Ah\\b",
+   "Kingdom of A",
+   "sibling form"
+  ],
+  [
+   "\\bSpace (Guard|Police)\\b(?! Organization)",
+   "Space Patrol",
+   "Fighbird 宇宙警備隊; Dagwon's Space Police Organization is a different body"
+  ],
+  [
+   "\\bBrain Powered\\b",
+   "Brain Powerd",
+   "official title spelling"
+  ],
+  [
+   "\\bEldoran\\b",
+   "Eldran",
+   "official Eldran series spelling"
+  ],
+  [
+   "\\bIpuron\\b",
+   "Ipron",
+   "majority"
+  ],
+  [
+   "\\bCloud Sea\\b(?! Observation)",
+   "Sea of Clouds",
+   "dialogue: 雲海 decided"
+  ],
+  [
+   "\\bSandrats\\b",
+   "Sand Rats",
+   "dialogue decision"
+  ],
+  [
+   "\\bSweet Water\\b",
+   "Sweetwater",
+   "UI form"
+  ],
+  [
+   "\\bZeon Daikun\\b",
+   "Zeon Deikun",
+   "Gundam spelling"
+  ],
+  [
+   "(?<!Accounting )\\bAudit Bureau\\b",
+   "Accounting Audit Bureau",
+   "library form"
+  ],
+  [
+   "\\bUndersecretary\\b",
+   "Vice Chief of Staff",
+   "参謀次官 (Adenauer)"
+  ],
+  [
+   "<Clear Conditions?>",
+   "<Win Condition>",
+   "UI string"
+  ],
+  [
+   "\\bJanous Squad\\b",
+   "Janous Team",
+   "majority"
+  ],
+  [
+   "\\bCuzco\\b",
+   "Cusco",
+   "UI/library form"
+  ],
+  [
+   "\\bSaint of Cusco's Band\\b",
+   "Saint of Cusco Corps",
+   "聖女隊"
+  ],
+  [
+   "\\bCommander Master Asia\\b",
+   "Master Asia",
+   "東方司令"
+  ],
+  [
+   "\\bCommander Undefeated of the East\\b",
+   "Master Asia",
+   "東方不敗司令"
+  ],
+  [
+   "\\basteroid drop\\b",
+   "meteor drop",
+   "majority"
+  ],
+  [
+   "\\bSart ?[Ss]tar\\b",
+   "Theart Star",
+   "glossary (high confidence)"
+  ],
+  [
+   "\\bSir Omega\\b",
+   "Lord Omega",
+   "majority"
+  ],
+  [
+   "\\bKurks\\b",
+   "Karcus",
+   "library decision (Baron Karcus); research file still says Kurks"
+  ],
+  [
+   "\\bCaptain (Kanji|Amuro|Quattro|Min)\\b",
+   "Lieutenant \\1",
+   "owner decision 2026-11-01: 大尉 = Lieutenant (Amuro); same rank for Kanji, Quattro, Min"
+  ],
+  [
+   "\\bYou Isami\\b",
+   "Yu Isami",
+   "勇: Yu (owner-delegated decision)"
+  ],
+  [
+   "\\bYou Brain\\b",
+   "Yu Brain",
+   "official merch spelling"
+  ],
+  [
+   "\\bGreat Poseidal\\b",
+   "Lord Poseidal",
+   "ポセイダル様: the address subjects use (decision 2026-11-01)"
+  ],
+  [
+   "\\bthe Brave Express\\b(?!\\s+(Team|Might))",
+   "the Brave Express Team",
+   "勇者特急隊 (decision 2026-11-01)"
+  ],
+  [
+   "\\bBlue Hawk of Giganos\\b",
+   "Blue Falcon of Giganos",
+   "majority (decision 2026-11-01)"
+  ],
+  [
+   "\\bthe Grados (army|military)\\b",
+   "the Grados Army",
+   "グラドス軍 decision"
+  ],
+  [
+   "\\bDragonar team\\b",
+   "Dragonar Team",
+   "decision"
+  ],
+  [
+   "\\bCyber-Newtype",
+   "cyber-Newtype",
+   "decision"
+  ],
+  [
+   "\\bSoukaizan\\b",
+   "Sokaizan",
+   "majority (library + 21 of 27 uses)"
+  ],
+  [
+   "\\bthe Giganos army\\b",
+   "the Giganos Army",
+   "ギガノス軍 (decision 2026-11-01)"
+  ],
+  [
+   "\\bthe Gilgamesh army\\b",
+   "the Gilgamesh Army",
+   "ギルガメス軍"
+  ],
+  [
+   "\\bDeath Demon Squad\\b",
+   "Shiki Squad",
+   "死鬼隊 (decision 2026-11-01)"
+  ],
+  [
+   "\\bShikitai\\b",
+   "Shiki Squad",
+   "死鬼隊"
+  ],
+  [
+   "\\bAltea\\b",
+   "Arthea",
+   "glossary character spelling"
+  ],
+  [
+   "\\bUndefeated of the East school\\b",
+   "Undefeated of the East School",
+   "glossary capital S"
+  ],
+  [
+   "^Commencing battle\\.$",
+   "The battle will now begin.",
+   "system line decision"
+  ],
+  [
+   "\\baura power\\b",
+   "Aura Power",
+   "decision reversed 2026-11-01: capitalised series term (library majority)"
+  ],
+  [
+   "\\bSenior Dars\\b",
+   "Elite Dars",
+   "glossary form"
+  ],
+  [
+   "\\bGilltor\\b",
+   "Giltor",
+   "10345_4 form"
+  ],
+  [
+   "\\bYohsho\\b",
+   "Yosho",
+   "decision"
+  ],
+  [
+   "\\bSibell?e?\\b",
+   "Cybele",
+   "library/glossary note"
+  ],
+  [
+   "\\bFrozen Eyes of Cybele\\b",
+   "Freezing Eyes of Cybele",
+   "character library"
+  ],
+  [
+   "\\bKarl Richter von Randoll\\b",
+   "Karl Lichter von Randoll",
+   "glossary"
+  ],
+  [
+   "\\bAye-aye\\b",
+   "Aye aye",
+   "style sheet"
+  ],
+  [
+   "\\bCusco Gate\\b",
+   "Cusco gate",
+   "style sheet: gate lowercase"
+  ],
+  [
+   "\\bthe Asian continent\\b",
+   "the Asia Continent",
+   "place-name form"
+  ],
+  [
+   "\\bthe Asian Continent\\b",
+   "the Asia Continent",
+   "place-name form (UI)"
+  ],
+  [
+   "^The ship can now depart\\.$",
+   "\"Depart\" is now available.",
+   "system line decision"
+  ],
+  [
+   "\\bthe special anti-Alter unit of HOLD\\b",
+   "the anti-Alter-user special unit of HOLD",
+   "library majority (7 entries)"
+  ],
+  [
+   "\\bOthers; various options mountable\\b",
+   "Others; can mount various options",
+   "majority wording (他、各種オプションを装備可能)"
+  ],
+  [
+   "\\bDeloyer State government\\b",
+   "Deloyer State Government",
+   "machine library form"
+  ],
+  [
+   "\\bJanus\\b",
+   "Janous",
+   "glossary ship name"
+  ],
+  [
+   "\\bAura power\\b",
+   "Aura Power",
+   "capitalised series term"
+  ],
+  [
+   "\\bWhy you!",
+   "Why, you!",
+   "punctuation (proofread)"
+  ],
+  [
+   "\\bFate of Flames\\b",
+   "Destiny of Flame",
+   "BGM title, one form"
+  ]
+ ],
+ "header_fixes": [
+  [
+   "%4■Alias■%1",
+   "%4■Known As■%1",
+   "通称 only: applied where the source header is 通称"
+  ]
+ ]
+}

@@ -1,0 +1,432 @@
+{
+ "table": "0002_10344",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "This is the port of the Side 1\nspace colony...\n\"Londenion.\""
+    },
+    {
+     "en": "It's amazing to think there's\nman-made land inside this\nhuge structure..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Londenion Spaceport..."
+    }
+   ],
+   "notes": "Matches UI telop '\"Londenion\" Spaceport'.",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Hey... You hear?"
+    },
+    {
+     "en": "Word is the Argama\ncame to the colony."
+    },
+    {
+     "en": "Is that so..."
+    },
+    {
+     "en": "Let's hope it doesn't\nturn into trouble..."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "What's going on?"
+    },
+    {
+     "en": "Wasn't the Argama's docking\nsupposed to be classified?"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "So this is the town of Londenion..."
+    },
+    {
+     "en": "Back in Claudia where I'm from,\nthere are towns like this too..."
+    },
+    {
+     "en": "Hey, kid,\ngot a sec?"
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "Uh, sure...\nWhat is it?"
+    },
+    {
+     "en": "You ain't a colony\nresident, are ya?"
+    },
+    {
+     "en": "Huh?\nHow can you tell?"
+    },
+    {
+     "en": "Well, you were starin' up at the\nceiling like it was somethin' rare..."
+    },
+    {
+     "en": "Hahaha...\nI'm still not used to space."
+    },
+    {
+     "en": "I mean, isn't it strange that\nthere's a town up in the sky too?"
+    },
+    {
+     "en": "Hahaha!\nJust came from Earth, I take it."
+    },
+    {
+     "en": "But listen, kid,\nyou'd better watch yourself."
+    },
+    {
+     "en": "Lotta folks in the colonies\ncan't stand people who\nused to live on Earth."
+    },
+    {
+     "en": "Huh?\nWhy's that?"
+    },
+    {
+     "en": "You've gotten to your age\nwithout knowing any of this?"
+    },
+    {
+     "en": "Out in space, it's mostly\nworking-class folks."
+    },
+    {
+     "en": "Anyone with a home on Earth\ngets taken for one of the elite."
+    },
+    {
+     "en": "Huh...\nIs that right?"
+    },
+    {
+     "en": "Got it?\nDon't go wandering into\nthe back alleys much."
+    },
+    {
+     "en": "See ya!"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "People living on the ground\nare the elite, huh..."
+    },
+    {
+     "en": "Doesn't sound like life in\nspace is all that comfortable."
+    }
+   ],
+   "notes": "[jp] -> 'kid'. Civilian's gender unknown; no pronoun used for them. | [editorial 14] awkward 'You're that age and...'; natural rendering of [jp] | [editorial 15] 'Space is mostly working-class folks' reads oddly",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Apparently this town was\nonce devastated by war."
+    },
+    {
+     "en": "It must've been rebuilt through\nthe hard work of a lot of people..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "A colony's land is on the\ninside of the cylinder."
+    },
+    {
+     "en": "So when it's clear out, you can\nsee a town up on the ceiling..."
+    },
+    {
+     "en": "Then again, from over there,\nwe're the ones on the ceiling..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "In the colonies, electric cars\ncalled elecars are what\ncitizens use to get around."
+    },
+    {
+     "en": "That's so they don't pollute the\nair inside the sealed colony."
+    },
+    {
+     "en": "Well, it makes sense\nwhen you think about it."
+    },
+    {
+     "en": "Anyway, it just shows how strictly\nthe air is managed in space."
+    }
+   ],
+   "notes": "[jp] -> 'elecar' (Gundam term, not in glossary).",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "No useful information, huh..."
+    },
+    {
+     "en": "Let's try somewhere else."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "The town of Londenion..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Yo! Kanji,\nfind out anything?"
+    },
+    {
+     "en": "Let's see..."
+    },
+    {
+     "en": "Oh, right...\nA civilian I met outside knew\nabout the Argama docking."
+    },
+    {
+     "en": "Well, if they work for the Colony\nCorporation, that's not so strange."
+    },
+    {
+     "en": "Didn't seem that way\nto me, though..."
+    },
+    {
+     "en": "So basically, ordinary citizens\nare keeping that close an eye on\nmilitary comings and goings, right?"
+    },
+    {
+     "en": "Peace is being kept,\nmore or less..."
+    },
+    {
+     "en": "but there's been fighting here\nand there these past few years."
+    },
+    {
+     "en": "So even civilians are\non a war footing, huh..."
+    },
+    {
+     "en": "That's about the size of it."
+    },
+    {
+     "en": "Well then..."
+    },
+    {
+     "en": "I've had my break.\nGuess I'll head back to the port..."
+    }
+   ],
+   "notes": "Civilian kept gender-neutral ('they'). [jp] = Colony Corporation (glossary NPC labels).",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "This is the lounge\nnext to the spaceport..."
+    },
+    {
+     "en": "Maybe I'll rest here a bit..."
+    }
+   ],
+   "notes": "[jp] -> 'lounge'.",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Looks like there's nobody\nin the lounge..."
+    },
+    {
+     "en": "Guess I'll go somewhere else..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "The spaceport is zero-G, but\nthis lounge has a little gravity."
+    },
+    {
+     "en": "I wonder if that's to help people\nadjust to the change in gravity...?"
+    }
+   ],
+   "notes": "[editorial 1] clarity: 'the change' had no referent on this page (accuracy flag); 'gravity' restored from [jp]",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "I tried sitting on the sofa,\nbut it doesn't quite feel\nlike I'm really sitting..."
+    },
+    {
+     "en": "I'd better hurry up and get\nused to life in space, too..."
+    }
+   ],
+   "notes": "[editorial 0] flow: stray 'for now'; [jp] = 'doesn't quite'",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "The lounge at\nLondenion's port..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Hmm...\nSo it's this wide open outside town."
+    },
+    {
+     "en": "Standing here, it doesn't feel\nlike man-made land at all..."
+    }
+   ],
+   "notes": "[editorial 0] awkward 'it's this wide outside the town'",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "Hey!\nKanji, what's up?"
+    },
+    {
+     "en": "Hm?\nOh..."
+    },
+    {
+     "en": "The view here is\npretty, isn't it?"
+    },
+    {
+     "en": "This colony was rebuilt as a\nresort colony after the One Year War."
+    },
+    {
+     "en": "Huh~\nNo wonder there are so many plants."
+    },
+    {
+     "en": "I hear Side 1 got\nhit pretty hard..."
+    },
+    {
+     "en": "Supposedly it took nearly\nten years to rebuild."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "See ya.\nDon't stay out too late."
+    },
+    {
+     "en": "I know."
+    },
+    {
+     "en": "Now then, where\nshould I go next?"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "From here, the horizon looks\nlike it curves the other way."
+    },
+    {
+     "en": "Since the land is the inside of\nthe cylinder, that's only natural."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Hmm..."
+    },
+    {
+     "en": "They say colonies make gravity\nwith centrifugal force, but\nI can't really feel it..."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "Forget it..."
+    },
+    {
+     "en": "If I think about it too hard,\nI'll get dizzy."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "The outskirts of Londenion..."
+    },
+    {
+     "en": "This place is beautiful no matter\nhow many times I come here..."
+    }
+   ],
+   "notes": "[editorial 1] flow: 'No matter how many times I come, it's a beautiful place' was stilted",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "It's pretty quiet\nout this way..."
+    },
+    {
+     "en": "Now then, where should I go next?"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "The outskirts of Londenion..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

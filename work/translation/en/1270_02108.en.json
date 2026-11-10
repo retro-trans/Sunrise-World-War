@@ -1,0 +1,95 @@
+{
+ "table": "1270_02108",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "Honestly, what is that boy doing...\nOh, there you are."
+    }
+   ],
+   "notes": "Developer test text (test_mes). 'that boy' for [jp]: the next row shows Kyo is waiting for his son Kanji.",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Dad!!"
+    },
+    {
+     "en": "You're late!\nWhat were you doing?"
+    },
+    {
+     "en": "Sorry, I got thinking about stuff\nand lost track of the time."
+    },
+    {
+     "en": "You're hopeless."
+    },
+    {
+     "en": "Now then, once more...\nKanji Akatsuki!"
+    },
+    {
+     "en": "What is it, Dad?"
+    },
+    {
+     "en": "Never mind that.\nPull yourself together and answer properly!"
+    },
+    {
+     "en": "Y-Yes, sir!\n(What's gotten into Dad?)"
+    },
+    {
+     "en": "You understand this mission, don't you?"
+    },
+    {
+     "en": "Yes, sir."
+    }
+   ],
+   "notes": "Seg 4 has no speaker header; read as Kyo continuing (he formally calls Kanji's name, Kanji answers 'What is it, Dad?').",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Hmm... I wonder if this'll work~"
+    },
+    {
+     "en": "Nonsense!\nWatch closely."
+    },
+    {
+     "en": "Pipiruma Pririnpa\nSharanla Make Up\nHoney Flash! Chouriki Shourai!!"
+    },
+    {
+     "en": "Minky Momo~!"
+    },
+    {
+     "en": "Magical Girl Meg!"
+    },
+    {
+     "en": "Pretty Soldier Sailor Moon"
+    },
+    {
+     "en": "Cutey Honey~!"
+    },
+    {
+     "en": "Inazuman!"
+    },
+    {
+     "en": "I... I did it........."
+    },
+    {
+     "en": "Well done!\nNow you're a magical girl master too!"
+    },
+    {
+     "en": "Now, together with me......"
+    },
+    {
+     "en": "Noooo~!"
+    }
+   ],
+   "notes": "Developer gag test text: transformation/spell phrases from Minky Momo, Majokko Megu-chan, Sailor Moon (Make Up), Cutey Honey (Honey Flash) and Inazuman (Chouriki Shourai) -- kept romanized as famous catchphrases. Seg 2 is 5 short lines in Japanese, merged to 3 lines to fit the page. Seg 2 has no speaker header: probably Kyo demonstrating ('Watch closely'), unclear; the English has no speaker-dependent wording. Seg 4 'Magical Girl Meg' = [jp] (Majokko Megu-chan). | [editorial 1] nani wo iu ka is a rebuke; 'What are you saying!' was literal (accuracy flag)",
+   "status": "proofread"
+  }
+ ]
+}

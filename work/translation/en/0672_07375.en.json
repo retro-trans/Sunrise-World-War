@@ -1,0 +1,2726 @@
+{
+ "table": "0672_07375",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "The vast Sea of Clouds..."
+    },
+    {
+     "en": "A realm where life, matter...\nall things are denied existence."
+    },
+    {
+     "en": "On the continents dotting the\nSea of Clouds, advanced\ncivilizations had flourished."
+    },
+    {
+     "en": "Cut off by the vast Sea of Clouds,\nthose civilizations had each\ndeveloped in their own way."
+    },
+    {
+     "en": "But..."
+    },
+    {
+     "en": "the balance was shattered by a\npillar of light that suddenly\nappeared beyond the Sea of Clouds..."
+    },
+    {
+     "en": "From the light emerged a mysterious\narmy able to cross the Sea of Clouds,\nonce thought utterly inviolable."
+    },
+    {
+     "en": "Every continent was\ndrawn into the fighting,"
+    },
+    {
+     "en": "and the whole world was engulfed\nin the chaotic fires of war."
+    },
+    {
+     "en": "The Claudia Continent, struck by\na surprise attack from\nthe Sea of Clouds,"
+    },
+    {
+     "en": "was helplessly occupied\nby the mysterious army."
+    },
+    {
+     "en": "But the Claudians\nentrusted their hopes\nto a single ship..."
+    },
+    {
+     "en": "and sent the Sea of Clouds survey\nship \"Astante\" out as an envoy\nto the other civilizations."
+    },
+    {
+     "en": "The young crew of the \"Astante\"\nmet many people as they journeyed\non, calling for world peace."
+    },
+    {
+     "en": "Answering that call,\nmany heroes rose up,"
+    },
+    {
+     "en": "and the heroes of every continent\ncame together as one."
+    },
+    {
+     "en": "Then they challenged the invaders\nwho had caused the war\nto a final battle."
+    },
+    {
+     "en": "After a fierce struggle,\nthe heroes were victorious,"
+    },
+    {
+     "en": "and the pillar of light that\nlinked the worlds was sealed away."
+    },
+    {
+     "en": "And so one heroic tale\ncame to an end,"
+    },
+    {
+     "en": "and the world once again\nmarked the endless flow of time..."
+    }
+   ],
+   "notes": "Test-pack recap of the previous game. [jp] 'pillar of light' as elsewhere in the corpus. Seg 4->5 kept as one sentence across pages ('But...' / 'the balance was shattered...'). | [editorial 9] line break split 'Sea / of Clouds'; reflowed",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Enemy ship acquired,\nat 11 o'clock."
+    },
+    {
+     "en": "Distance: 44,000."
+    },
+    {
+     "en": "Confirm the ship type, please."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Ship type confirmed:\nNorstan Kai-class,\nthe \"Aryuz.\""
+    },
+    {
+     "en": "Here they come...\nSo the commander is the\nveteran, Ms. Tail..."
+    },
+    {
+     "en": "Enemy units!\nThey're crossing the alert line!"
+    },
+    {
+     "en": "Captain Rie!\nThere's been a hacking attack on our\nsystem, apparently from the enemy ship!"
+    },
+    {
+     "en": "System firewall activated!\nIntrusion level: Rank E."
+    },
+    {
+     "en": "Support system!\nSwitch to Protect Mode!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Greeting us right\noff the bat, huh..."
+    },
+    {
+     "en": "Even if it's just an exercise,\nI can't let my guard down..."
+    },
+    {
+     "en": "Oh... Captain Rie,\nwhat about our onboard mechs?"
+    },
+    {
+     "en": "Don't you need to\ntell your brother?"
+    },
+    {
+     "en": "Oh, right!\nBig Bro--!"
+    },
+    {
+     "en": "...K-Kanji-- Squad Leader Kanji\nreported that the FT maintenance\nwas done, didn't he?"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "I haven't heard anything......"
+    },
+    {
+     "en": "Ugh, honestly!\nThat airhead~!"
+    },
+    {
+     "en": "Oh... so it was no good\nafter all.\nI'm sorry..."
+    },
+    {
+     "en": "It's not your fault, Lun!\nReporting is the squad leader's job!"
+    },
+    {
+     "en": "Is it?"
+    },
+    {
+     "en": "Anyway!\nCheck on the situation, please."
+    },
+    {
+     "en": "Um...\nLooks like he's in the cockpit.\nI'll go ask him."
+    },
+    {
+     "en": "Don't hold back! You've gotta\ngive that guy a real piece\nof your mind!"
+    },
+    {
+     "en": "Ro~ger!"
+    },
+    {
+     "en": "Whew...\nFinally done."
+    },
+    {
+     "en": "Hey, you~\nKanji~!"
+    },
+    {
+     "en": "Oh! Lun!"
+    },
+    {
+     "en": "Good timing.\nI just finished the adjustments."
+    },
+    {
+     "en": "Thanks for all your hard work!"
+    },
+    {
+     "en": "But I'm sorry... you were\nsupposed to report in\na little sooner..."
+    },
+    {
+     "en": "I didn't pass that on to you,\nKanji, so...\nI'm really sorry."
+    },
+    {
+     "en": "Hey now, tuning my machine\nis my job. It's nothing\nyou need to worry about, Lun."
+    },
+    {
+     "en": "Huh?\nBut......"
+    },
+    {
+     "en": "Loosen up a little more.\nWe're not at war now."
+    },
+    {
+     "en": "Yeah... you're right."
+    },
+    {
+     "en": "But I'm fine, really!"
+    },
+    {
+     "en": "Hahaha! You've always had\nway more guts than me\nanyway, Lun."
+    },
+    {
+     "en": "If Rie starts whining about\nanything, you let her have it!"
+    },
+    {
+     "en": "A... Aha...\nAhahaha... haha..."
+    },
+    {
+     "en": "\"Let her have it,\" my foot!!\nWhy, you...! You lazy\nslacker of a squad leader!!"
+    },
+    {
+     "en": "Gwah!!"
+    },
+    {
+     "en": "You were supposed to have\nmaintenance finished\ntwo hours ago!!"
+    },
+    {
+     "en": "And why should Lun\nhave to apologize anyway?!"
+    },
+    {
+     "en": "You're the one who's\nsupposed to report, Big Bro!!"
+    },
+    {
+     "en": "Ahahaha......"
+    },
+    {
+     "en": "Well, don't get\nso worked up!"
+    },
+    {
+     "en": "Grrrr~~~!"
+    },
+    {
+     "en": "Why, Big Bro, are you always,\nalways, always...\nALWAYS like this~!!"
+    },
+    {
+     "en": "Now listen~!"
+    },
+    {
+     "en": "It's about time you quit\nwith that \"Big Bro\" stuff.\nIt's embarrassing!"
+    },
+    {
+     "en": "Oh?\nWhat's wrong with it...?\nIt's more natural on this ship."
+    },
+    {
+     "en": "No, it undermines her\nauthority as captain..."
+    },
+    {
+     "en": "Big Br...!\nY-You're the last person\nI want to hear that from!!"
+    },
+    {
+     "en": "Now, now...\nLet's save the debriefing\nfor later, okay?"
+    },
+    {
+     "en": "More importantly, Captain Rie,\nit's almost time to enter\nphase 3 of the exercise."
+    },
+    {
+     "en": "Oh, I'm sorry.\nLet's begin the transition."
+    },
+    {
+     "en": "Honestly, getting dragged along\nby Big Bro throws me\ncompletely off my pace!"
+    },
+    {
+     "en": "Yeah, that's right.\nQuit fussing over me and\nhurry up and do your job!"
+    },
+    {
+     "en": "I'm busy all year round!\nDon't go causing trouble!!"
+    },
+    {
+     "en": "Couldn't Rie stand to\nloosen up a little?"
+    },
+    {
+     "en": "Now then... I think I'll\ntake it easy until the\nsortie order comes."
+    },
+    {
+     "en": "I've been with this machine\nfor a long time now..."
+    },
+    {
+     "en": "The battle to seal the pillar of light..."
+    },
+    {
+     "en": "I traveled the vast Sea of Clouds\nin this machine."
+    },
+    {
+     "en": "And I'm still\nriding it..."
+    },
+    {
+     "en": "Even though the world...\nwas supposed to be at peace now......"
+    },
+    {
+     "en": "Kanji!\nIs Kanji here?"
+    },
+    {
+     "en": "Oh, Professor Rondo!"
+    },
+    {
+     "en": "(This is Professor Rondo...)"
+    },
+    {
+     "en": "(He's a superb pilot, and also the\n scientist who developed a groundbreaking\n Sea of Clouds navigation system...)"
+    },
+    {
+     "en": "(The professor's also the one\n who designed the FT I pilot.)"
+    },
+    {
+     "en": "(If it weren't for him...)"
+    },
+    {
+     "en": "(we'd never have been able\n to put up a real fight...)"
+    },
+    {
+     "en": "Are the FT adjustments done?"
+    },
+    {
+     "en": "Yep!\nThis thing's been in\na good mood lately."
+    },
+    {
+     "en": "Heh... Impressive.\nI suppose there's no need for\nme to maintain it anymore."
+    },
+    {
+     "en": "Oh, no~ I'm not quite\nthere yet..."
+    },
+    {
+     "en": "Come now...\nDon't go thinking I'll be\non this ship forever."
+    },
+    {
+     "en": "This machine\nis yours now."
+    },
+    {
+     "en": "I'm counting on you,\nSquad Leader Kanji!!"
+    },
+    {
+     "en": "Yes, sir!!"
+    },
+    {
+     "en": "We will now begin\nthe combat drill."
+    },
+    {
+     "en": "The aim of this combat drill is\nto get used to operating\nthe new system."
+    },
+    {
+     "en": "Regardless of skill level, all\npersonnel will follow the basic\ndrill program."
+    },
+    {
+     "en": "Onboard mech pilots, step away\nfrom your cockpits and stand by\nuntil further orders."
+    },
+    {
+     "en": "That is all!"
+    },
+    {
+     "en": "She's sure fired up,\nthat Rie..."
+    },
+    {
+     "en": "Hey! Kanji,\nshe is the captain, after all."
+    },
+    {
+     "en": "Haha!\nI know, I know!"
+    },
+    {
+     "en": "Drill program has\nentered phase 3.\nCrossing the F Line."
+    },
+    {
+     "en": "3, 2, 1...\nPhase 3 of the drill begins!"
+    },
+    {
+     "en": "All ri~ght...\nI've gotta do my best!"
+    },
+    {
+     "en": "Attention, all hands!\nEveryone to your\nbattle stations!"
+    }
+   ],
+   "notes": "Prototype sequel scene: Rie is the ship's captain ([jp] -> 'Captain Rie'), Kanji the squad leader ([jp] -> 'Squad Leader Kanji') to keep the two apart. [jp] (Rie) -> 'Miss Lun'; [jp] -> 'Ms. Tail'. [jp] = UI 'Combat Drill'. Seg 16: Rie corrects herself from [jp] to [jp]. Seg 20: Lun's apology implies she was supposed to relay the report request (confirmed by segs 32-33). Seg 32 subject restored as 'you' (Kanji) from seg 33. Seg 54: 'her' = Rie (captain). Seg 72: [jp] -> 'cloud-sea nav system' (compressed to fit). Seg 82 'Squad Leader Kanji' from Prof. Rondo. | [accuracy 21] late decision: Rie's [jp] = plain 'Lun' | [accuracy 45] late decision: Rie's [jp] = plain 'Lun' | [accuracy 72] project term [jp] = Sea of Clouds (was 'cloud-sea nav system') | [editorial 7] unnatural 'We've had a hack on our system' | [editorial 45] style sheet: '?!' not '!?' | [editorial 55] doubled punctuation '--...'; cut-off kept",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "The mock battle\nwill now begin."
+    },
+    {
+     "en": "Send the drill program to every\nunit scheduled to sortie!"
+    },
+    {
+     "en": "Sending the program now."
+    },
+    {
+     "en": "Oh, here it comes."
+    },
+    {
+     "en": "So far, so good!\nYou're doing great,\nLun!"
+    },
+    {
+     "en": "Oh, Kanji...\nDid it get to you all right?"
+    },
+    {
+     "en": "Yeah!\nIt came through perfectly!"
+    },
+    {
+     "en": "Um... Kanji?"
+    },
+    {
+     "en": "What?"
+    },
+    {
+     "en": "I went to the trouble of sending it,\nso read it properly, okay?"
+    },
+    {
+     "en": "Hahaha...\nI know."
+    },
+    {
+     "en": "Okay then...\nGuess I'll start up the program\nLun sent me."
+    },
+    {
+     "en": "So it starts with the basic controls?\nWhat a pain~"
+    },
+    {
+     "en": "But it's Lun asking me,\nnot just anyone.\nGuess I'll just have to grin and bear it..."
+    },
+    {
+     "en": "A simple explanation of the\ncontrols will now be given."
+    },
+    {
+     "en": "Please follow the guide\nas you play."
+    },
+    {
+     "en": "Heh heh...! I'll take a good\nlook at how much those\nkids have grown..."
+    },
+    {
+     "en": "We'll be in attack range shortly!\nAll units, prepare to sortie!"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "It's almost time..."
+    },
+    {
+     "en": "Nelfea! You probably know already,\nbut the enemy leader\nis Kanji Akatsuki."
+    },
+    {
+     "en": "His machine is the FT\n\"Cloud Saber.\""
+    },
+    {
+     "en": "If he flies at high altitude,\nshooting him down with a ground-combat GT\nis next to impossible."
+    },
+    {
+     "en": "I'll try provoking him anyway.\nIf he's the cocky type,\nhe might come down."
+    },
+    {
+     "en": "I wish I could've gotten you\nan FT too, instead of a GT..."
+    },
+    {
+     "en": "I don't mind.\nI'm used to this machine."
+    },
+    {
+     "en": "Against Kanji, it's just\nthe right handicap."
+    },
+    {
+     "en": "Honestly...\nwhat a girl you are..."
+    },
+    {
+     "en": "Auntie Tail!"
+    },
+    {
+     "en": "Don't treat me like a child\nwhile I'm carrying out a mission...!"
+    },
+    {
+     "en": "Haha...\nI'm sorry."
+    },
+    {
+     "en": "But don't get the wrong idea.\nI just thought you seemed\nreliable, that's all."
+    },
+    {
+     "en": "Heh... Thanks."
+    },
+    {
+     "en": "Now... let's go!\nMy GT-K!"
+    },
+    {
+     "en": "Launching!!"
+    },
+    {
+     "en": "Don't get cocky just because\nyou've got air superiority."
+    },
+    {
+     "en": "I'll show you what this\nmachine can really do!"
+    },
+    {
+     "en": "We'll buy time with the GT-O\nagainst attacks from the air!"
+    },
+    {
+     "en": "Meanwhile, Nelfea,\ncharge in from the ground."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "We're ready.\nHere we go!"
+    },
+    {
+     "en": "Listen,\nBig Bro."
+    },
+    {
+     "en": "In battle, whoever sinks the other\nside's mothership first wins."
+    },
+    {
+     "en": "No matter how many units you\nhave left, if your mothership\ngoes down, you lose."
+    },
+    {
+     "en": "Roger. So I just have to hit\nthe enemy mothership fast."
+    },
+    {
+     "en": "Also, the enemy mothership\nhas no units that are good\nat aerial combat."
+    },
+    {
+     "en": "So you should take your\nCloud Saber and attack\nfrom the air, Big Bro."
+    },
+    {
+     "en": "I know something that basic\nwithout you spelling\nit out every time."
+    },
+    {
+     "en": "Well, of course you do.\nYou ARE the \"combat leader.\""
+    },
+    {
+     "en": "Okay, I'm counting on you!"
+    },
+    {
+     "en": "All right!\nHere I go!!"
+    },
+    {
+     "en": "That concludes mech-to-mech combat."
+    },
+    {
+     "en": "Please remember the order:\n\"Sortie\" -> \"Move\" -> \"Attack.\""
+    },
+    {
+     "en": "You've gotten better,\nKanji!"
+    },
+    {
+     "en": "But now\nit's our turn."
+    },
+    {
+     "en": "Nelfea's unit has broken\nthrough the defense line!"
+    },
+    {
+     "en": "That leaves our\nmothership wide open!"
+    },
+    {
+     "en": "We have to launch\ninterceptors right away!"
+    }
+   ],
+   "notes": "Tutorial battle. [jp] -> 'combat leader' (as used elsewhere). Seg 22: [jp] 'ground GT'. Seg 27 [jp] -> 'you're such a kid' to set up Nelfea's reply. [jp] -> 'Sortie' (UI string for [jp] is still blank in elf_strings; 'Move' matches UI). Seg 40 soldier's line kept generic. | [editorial 4] 'Going smoothly, smoothly!' unnatural for [jp] | [editorial 27] sets up Nelfea's 'Don't treat me like a child' (translator's intent per row note); 'what a girl you are' lost the link",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Well, that's how it's done."
+    },
+    {
+     "en": "That went well,\nKanji!"
+    },
+    {
+     "en": "Yeah, thanks to\nyour support, Lun."
+    },
+    {
+     "en": "Hehe, thanks!"
+    },
+    {
+     "en": "Whew~!\nWorking up a sweat made me hungry."
+    },
+    {
+     "en": "Okay, okay!\nI'll have something to eat\nready and waiting."
+    },
+    {
+     "en": "That's my Lun!\nAlways so thoughtful."
+    },
+    {
+     "en": "Um~\nSquad Leader Kanji?"
+    },
+    {
+     "en": "The bridge is about to get\nbusy preparing to dock."
+    },
+    {
+     "en": "Don't be such a killjoy.\nYou can handle docking\nby yourself, right?"
+    },
+    {
+     "en": "Ah, ah~!\nI take back what I said!"
+    },
+    {
+     "en": "I still have work to do!\nI'll take my break after we dock!"
+    },
+    {
+     "en": "Good for you,\nLun!"
+    },
+    {
+     "en": "So that's how it is.\nGot that, Squad Leader Kanji?"
+    },
+    {
+     "en": "Tch!\nFine."
+    },
+    {
+     "en": "Hehe~\nToo ba~d for you~"
+    },
+    {
+     "en": "Dammit!\nWhat a bratty\nlittle sister!"
+    },
+    {
+     "en": "Of all people,\nshe has to be my superior..."
+    },
+    {
+     "en": "Isn't this assignment some\nplot by Dad and Rie? No,\nit's definitely a plot!"
+    },
+    {
+     "en": "Lun,\nbe careful."
+    },
+    {
+     "en": "That guy sweet-talks people and\nthen bosses them around for\nhis own selfish ends."
+    },
+    {
+     "en": "Don't let him talk you\ninto things like just now!"
+    },
+    {
+     "en": "Sorry~\nI'm kind of spacey..."
+    },
+    {
+     "en": "Aha... haha..."
+    },
+    {
+     "en": "We lost after all,\nhuh..."
+    },
+    {
+     "en": "Even with that lineup, it seems\nthey can at least do the\nbare minimum."
+    },
+    {
+     "en": "Next time, I'll take them on\nat a slightly higher level."
+    },
+    {
+     "en": "They look like they'll make\ngood sparring partners."
+    },
+    {
+     "en": "Hmph...\nI suppose it can't be helped..."
+    },
+    {
+     "en": "There's no one else worth\nfighting at the moment..."
+    },
+    {
+     "en": "Come on, we're\ndocking too."
+    }
+   ],
+   "notes": "Win version of the drill aftermath. [jp] -> 'dock'. | [accuracy 0] [jp] after a win = satisfied 'that's about what you'd expect', not 'that's all' | [accuracy 12] late decision: Rie's [jp] = plain 'Lun' | [accuracy 19] late decision: Rie's [jp] = plain 'Lun' | [editorial 13] [jp] is 'understood?' -- 'Got it, ...!' read as Rie saying she understood | [editorial 18] 'has to be a plot... No, it's definitely' didn't work; restores the question -> self-answer shape of [jp]",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Dammit...\nWe lost...?"
+    },
+    {
+     "en": "Your skills are all\nbeyond reproach."
+    },
+    {
+     "en": "I believe the cause of this\ndefeat was our failure to keep\nthe squad in step."
+    },
+    {
+     "en": "As captain, this defeat\nis my responsibility..."
+    },
+    {
+     "en": "Captain Rie..."
+    },
+    {
+     "en": "Rie..."
+    },
+    {
+     "en": "Also, we will hold a debriefing\nimmediately after landing at base."
+    },
+    {
+     "en": "The combat leader will compile\na report on this battle and\nattend the debriefing."
+    },
+    {
+     "en": "What a dra~g.\nLet's do some more realistic\ntraining instead~"
+    },
+    {
+     "en": "Kanji!\nThat's enough out of you!"
+    },
+    {
+     "en": "Yes, ma'am!"
+    },
+    {
+     "en": "Pathetic as ever."
+    },
+    {
+     "en": "Losing to us, when we're clearly\nthe weaker force..."
+    },
+    {
+     "en": "Captain Rie, you still don't\nseem used to the new system."
+    },
+    {
+     "en": "I have no excuse,\nMs. Tail."
+    },
+    {
+     "en": "Heh heh heh...\nYou're going to get chewed\nout once you're back at base~"
+    },
+    {
+     "en": "Hahaha..."
+    },
+    {
+     "en": "Captain Rie,\nwe have a transmission from HQ."
+    },
+    {
+     "en": "Sigh...\nPut it through."
+    },
+    {
+     "en": "What was that?!\nThat battle just now!!\nYou're getting slack!"
+    },
+    {
+     "en": "Yes, sir..."
+    },
+    {
+     "en": "What?\nYou look dissatisfied, Rie."
+    },
+    {
+     "en": "...Not at all, sir."
+    },
+    {
+     "en": "Hmph!\nI can tell exactly\nwhat you're thinking."
+    },
+    {
+     "en": "Listen, Rie! Keeping Kanji in\nline is your job, as the one in\ncharge of the whole unit."
+    },
+    {
+     "en": "Yes, sir!\nI'm terribly sorry!!"
+    },
+    {
+     "en": "Everyone needs remedial training.\nI'll whip you all back into shape!"
+    },
+    {
+     "en": "Thank you, sir!"
+    },
+    {
+     "en": "Good!\nAfter the debriefing, Captain Rie\nwill report to HQ!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Sigh..."
+    },
+    {
+     "en": "Your father's strict, isn't he?\nEven though he's usually so kind."
+    },
+    {
+     "en": "We're family, so he doesn't\nhold back. Especially on duty..."
+    },
+    {
+     "en": "But it's because he's\nthinking of us."
+    },
+    {
+     "en": "I guess so..."
+    },
+    {
+     "en": "(Being able to see your father\n that way...\n I'm a little jealous...)"
+    },
+    {
+     "en": "(I only realized it after\n I couldn't see him anymore...)"
+    }
+   ],
+   "notes": "Loss version. [jp] (Lun) -> 'Rie' (honorific dropped). [jp] -> 'debriefing'. Seg 10 'Yes, ma'am!' = Kanji answering Lun's scolding. Seg 36: 'him' = Lun's father ([jp], seg 35). | [editorial 13] direction: [jp] is vocative (Rie answers 'I have no excuse, Ms. Tail'); third-person phrasing read as an aside | [editorial 19] style sheet: '?!' not '!?'",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "...All right, that concludes\nthe debriefing."
+    },
+    {
+     "en": "Everyone, keep in mind the\npoints written in the report."
+    },
+    {
+     "en": "Dismissed!"
+    },
+    {
+     "en": "Whew~!\nDone and done!"
+    },
+    {
+     "en": "Lun!\nLet's go."
+    },
+    {
+     "en": "Oh... not yet.\nThe bridge crew still has\nsome follow-up work."
+    },
+    {
+     "en": "Oh, right...\nThen I'll be waiting\nat the usual place."
+    },
+    {
+     "en": "Okay!"
+    },
+    {
+     "en": "Big Bro,\nwait a sec!\nIf you're going to the hangar..."
+    },
+    {
+     "en": "I know.\nBack up the combat data\nso far, right?"
+    },
+    {
+     "en": "Seriously, don't forget."
+    },
+    {
+     "en": "You got it!"
+    },
+    {
+     "en": "Now then~ I'd better\nrecord our progress so far."
+    }
+   ],
+   "notes": "Save-prompt lead-in (backup of battle data = save).",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "All set!"
+    },
+    {
+     "en": "Now I just have to\nwait for Lun to show up."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "She's late......\nWhat's Lun doing..."
+    },
+    {
+     "en": "Kanji! Sorry I'm late!"
+    },
+    {
+     "en": "I got tired of waiting."
+    },
+    {
+     "en": "Ehehe... Sorry~\nI'm still not used\nto the work yet."
+    },
+    {
+     "en": "You were helping Rie out even\nbefore you joined the military."
+    },
+    {
+     "en": "Bridge work isn't\nnew to you, is it?"
+    },
+    {
+     "en": "It's different when it's\nyour actual job, you know..."
+    },
+    {
+     "en": "Plus the bridge systems were\ncompletely overhauled...\nIt's tough."
+    },
+    {
+     "en": "Oh, that's right..."
+    },
+    {
+     "en": "........."
+    },
+    {
+     "en": "Hm?\nWhat's wrong?\nDid something happen?"
+    },
+    {
+     "en": "Hey, um..."
+    },
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "Look... I really do want\nyou to leave the ship, Lun."
+    },
+    {
+     "en": "Huh... Why?"
+    },
+    {
+     "en": "'Cause... you wanting to join\nthe military, Lun... It's just\nnot right!"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "Let's not talk about that..."
+    },
+    {
+     "en": "But Lun... you're..."
+    },
+    {
+     "en": "That's right...\nMe, in the military...!"
+    },
+    {
+     "en": "Lun..."
+    },
+    {
+     "en": "You don't like\nthe military either,\ndo you, Kanji?"
+    },
+    {
+     "en": "Well, no..."
+    },
+    {
+     "en": "Then, Kanji...\nquit the military."
+    },
+    {
+     "en": "If you did, I'd..."
+    },
+    {
+     "en": "Ridding the world of weapons\nis going to take a lot longer."
+    },
+    {
+     "en": "Until then... I think\nprotecting the peace we\nhave now is my job."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "Hey... Do you remember?"
+    },
+    {
+     "en": "Something I asked you,\nKanji, a long time ago..."
+    },
+    {
+     "en": "Hey, Kanji, why did you\ndecide to become\nan FT pilot?"
+    },
+    {
+     "en": "Let's see..."
+    },
+    {
+     "en": "Because of Dad, maybe?\nDad was a pilot too."
+    },
+    {
+     "en": "But... maybe it really\njust happened that way..."
+    },
+    {
+     "en": "I grew up in a time without war,\nso it wasn't like I wanted to\nprotect Claudia or anything."
+    },
+    {
+     "en": "Yeah, that's how it was..."
+    },
+    {
+     "en": "My reason for becoming a pilot...\nit was really no more than that."
+    },
+    {
+     "en": "But... I changed\nonce I'd been through battle."
+    },
+    {
+     "en": "There are still lots of people\nin this world who want\nto threaten the peace..."
+    },
+    {
+     "en": "And I... came to know that."
+    },
+    {
+     "en": "I know...\nNow that you're involved, you\ncan't look the other way, right?"
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "That's why I volunteered.\nBecause I want\nto follow you..."
+    },
+    {
+     "en": "Lun..."
+    },
+    {
+     "en": "Do you have some kind\nof dream for the future, Lun?"
+    },
+    {
+     "en": "Let's see..."
+    },
+    {
+     "en": "Living together with\nsomeone precious to me,\nand growing old slowly..."
+    },
+    {
+     "en": "A life like that...\nis my dream, I guess?"
+    },
+    {
+     "en": "Just kidding!\nAhahaha!"
+    },
+    {
+     "en": "Heeey,\nwait up, Lun!"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "(Lun hasn't changed\n all that much since then.)"
+    },
+    {
+     "en": "(Maybe...\n the one who's changed\n is me...)"
+    },
+    {
+     "en": "(Did Lun... understand that\n about me... and volunteer for\n the military on purpose?)"
+    },
+    {
+     "en": "Argh!\nThis is no time for this.\nI've gotta go after Lun!"
+    }
+   ],
+   "notes": "Segs 34-38 and 48-53 read as a flashback to an earlier conversation (Lun's question, Kanji's answer); seg 39 is Kanji in the present. Seg 23 [jp] kept elliptical ('Me, in the military...!'): she concedes the army is not for her. Seg 40 takes 'my reason' (his own), reading [jp] as Kanji reflecting on his answer.",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Hm?\nIs that...?"
+    },
+    {
+     "en": "Heeey!"
+    },
+    {
+     "en": "Oh, Kanji."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "What's wrong?\nYou seem down."
+    },
+    {
+     "en": "Um... look...\nI'm sorry... about earlier."
+    },
+    {
+     "en": "We already talked about you joining\nthe military before... and I went\nand dragged it up again."
+    },
+    {
+     "en": "No,\nI should be apologizing too."
+    },
+    {
+     "en": "Why's that?"
+    },
+    {
+     "en": "Ehehe... because I knew\nyou'd come looking for me!"
+    },
+    {
+     "en": "Why, you~"
+    },
+    {
+     "en": "Come on, let's\ngo for a walk."
+    },
+    {
+     "en": "It's been a while since\nI got off the ship."
+    },
+    {
+     "en": "Hahaha... You really\ndo love walks, Lun."
+    },
+    {
+     "en": "Yep!"
+    },
+    {
+     "en": "(Whew...\n Looks like she's back\n to her usual cheerful self.)"
+    },
+    {
+     "en": "(Then again...\n Lun's always looking\n out for me...)"
+    },
+    {
+     "en": "Kanji~!\nOver here! Over here!"
+    },
+    {
+     "en": "Coming!!"
+    }
+   ],
+   "notes": "Seg 10: Lun apologizes because she ran off expecting him to come find her (reason implied, kept as in source).",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Oh!\nIf it isn't Rie.\nWhat are you doing?"
+    },
+    {
+     "en": "What does it look like...\nI'm on my way back from\nreporting to HQ."
+    },
+    {
+     "en": "What's up?\nYou're not snapping at\nme like usual."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "That must've been rough...\nThey said all kinds of\nthings to you at HQ, huh?"
+    },
+    {
+     "en": "Oh... no, not really."
+    },
+    {
+     "en": "You must be tired.\nWhy don't we go have\ntea somewhere?"
+    },
+    {
+     "en": "Hehe.\nMy treat!"
+    },
+    {
+     "en": "Reeeally?!\nThen I know a great place!"
+    },
+    {
+     "en": "I wanna eat their\nJumbo Strawberry Parfait!"
+    },
+    {
+     "en": "Hehe.\nSure, whatever you like."
+    },
+    {
+     "en": "Yay!"
+    },
+    {
+     "en": "Hey... Rie,\nI can't eat that much\nsweet stuff."
+    },
+    {
+     "en": "Then you can just order\nsomething else, Big Bro."
+    },
+    {
+     "en": "You... can eat one of\nthose by yourself?"
+    },
+    {
+     "en": "Huh?\nAren't you supposed to eat\nit by yourself?"
+    },
+    {
+     "en": "Hey... are you serious?\nWhere in that tiny body\nwould it even go..."
+    },
+    {
+     "en": "Ehe, when it comes to sweets,\nI've always got room!"
+    },
+    {
+     "en": "Hehe,\nsounds like fun.\nLet's go!"
+    },
+    {
+     "en": "Fine, fine.\nLet's go watch Rie\nturn into a monster."
+    },
+    {
+     "en": "Well, it's a bit of\na walk from here, but\nwe'll be back by evening."
+    },
+    {
+     "en": "Right, by evening..."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "By... evening......"
+    },
+    {
+     "en": "...?"
+    },
+    {
+     "en": "What's wrong,\nRie?"
+    },
+    {
+     "en": "Uuugh~\nI still have work to do."
+    },
+    {
+     "en": "Lun, I'm sorry.\nAsk me again next ti~me!"
+    },
+    {
+     "en": "Aw, a little while\nwon't hurt, will it?"
+    },
+    {
+     "en": "Let's do the work tonight.\nIf there's anything I can\nhelp with, I'll do it."
+    },
+    {
+     "en": "Thank you...\nBut I can't do that~"
+    },
+    {
+     "en": "Oh... Rie...?"
+    },
+    {
+     "en": "Hey, this is the only free time\nwe've got. Can't you put\nwork off for once?"
+    },
+    {
+     "en": "Oh... don't worry about it.\nI'll take a bunch of\ntime off later!"
+    },
+    {
+     "en": "Big Bro!\nMake sure you take Lun\nto that shop, okay!"
+    },
+    {
+     "en": "Like I said, we can't\nfinish one of those!"
+    },
+    {
+     "en": "Ah...\nShe's gone."
+    },
+    {
+     "en": "She really looked like\nshe wanted to eat it, too."
+    },
+    {
+     "en": "Rie...\nShe hasn't taken any time off\nthe whole exercise period..."
+    },
+    {
+     "en": "She takes on every job,\neven ones she doesn't need to."
+    },
+    {
+     "en": "Looking after people has\nbecome a habit for her."
+    },
+    {
+     "en": "Aren't you the one she looks\nafter most, dear Big Brother\nKanji?"
+    },
+    {
+     "en": "Huh?\nAhahahaha..."
+    },
+    {
+     "en": "I'm worried...\nI think I'll go help\nher after all."
+    },
+    {
+     "en": "Yeah, good idea..."
+    },
+    {
+     "en": "Well, guess I'll head\nback to the ship."
+    }
+   ],
+   "notes": "[jp] (Lun) -> 'Rie'. Seg 41 [jp] = Lun teasing Kanji -> 'dear Big Brother Kanji'. Seg 35 [jp] -> 'we' (Kanji and Lun). | [accuracy 27] late decision: Rie's [jp] = plain 'Lun' | [accuracy 34] late decision: Rie's [jp] = plain 'Lun' | [editorial 8] style sheet: '?!' not '!?' | [editorial 40] 'people's turned' parsed as a possessive; clarity",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Hey! Kanji! So there you are."
+    },
+    {
+     "en": "Ugh... That's my dad's voice."
+    },
+    {
+     "en": "I've got a job for you, Kanji. We need the\nsupplies on this list, and fast!"
+    },
+    {
+     "en": "There's no time. Take your FT and go pick\nthem up!"
+    },
+    {
+     "en": "Sorry, Dad... but I'm busy."
+    },
+    {
+     "en": "The place is Zaxel Pass, North Gate 23.\nGot that? And here are the papers you'll\nneed to sign for the shipment."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Hey! Don't rush off! You forgot the papers!"
+    },
+    {
+     "en": "I didn't forget! I was just casually\nwalking away."
+    },
+    {
+     "en": "Never mind that, just take them!"
+    },
+    {
+     "en": "H-Hey...!"
+    },
+    {
+     "en": "Hey! I'm not in your unit, Dad!"
+    },
+    {
+     "en": "How many times have I told you not to call\nme Dad while on duty!"
+    },
+    {
+     "en": "Listen! You will complete this mission\nwithin 60 minutes."
+    },
+    {
+     "en": "On the double!!"
+    },
+    {
+     "en": "Dammiiit!!"
+    },
+    {
+     "en": "Okay, Gate 23 should be somewhere around\nhere..."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Was there ever a reception desk out\nhere...?"
+    },
+    {
+     "en": "Kanji!"
+    },
+    {
+     "en": "...Huh?!"
+    },
+    {
+     "en": "There's no one in the office right now, so\nI, Tail Kinui, will be handling reception\nin their place."
+    },
+    {
+     "en": "Oh... Ms. Tail! Thanks for covering!"
+    },
+    {
+     "en": "You sure are quick. It didn't even take you\nfive minutes to get here from the port,\ndid it?"
+    },
+    {
+     "en": "Well, that's only natural for an FT!"
+    },
+    {
+     "en": "Heh... You certainly talk big."
+    },
+    {
+     "en": "By the way, did you bring the papers?"
+    },
+    {
+     "en": "Ah, yes."
+    },
+    {
+     "en": "Very good! Now, come over here."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "I want you to carry this container to the\nport."
+    },
+    {
+     "en": "It might be a little big, but an FT's\nthrust can handle it, right?"
+    },
+    {
+     "en": "Yes, it'll be fine as long as I don't lose\nmy balance."
+    },
+    {
+     "en": "Well, I'm sure that's no trouble for you."
+    },
+    {
+     "en": "Take the cargo to the place written on this\nmemo."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Hm...? I'm not taking it to my dad's ship?"
+    },
+    {
+     "en": "That paper... would you read it properly?"
+    },
+    {
+     "en": "Oh, right!"
+    },
+    {
+     "en": "...Oh, there's something written at the\nbottom. Let's see..."
+    },
+    {
+     "en": "(Listen, Kanji. Keep quiet and load this\n container onto the \"Astante II\"!)"
+    },
+    {
+     "en": "(Not a word about this to anyone.\n          -- Kyo Akatsuki)"
+    },
+    {
+     "en": "Dad, huh... What the heck is this all\nabout?!"
+    },
+    {
+     "en": "Well then, I'm counting on you."
+    },
+    {
+     "en": "Understood!"
+    },
+    {
+     "en": "(It's lighter than I expected...)"
+    },
+    {
+     "en": "(It doesn't seem to be packed full...)"
+    },
+    {
+     "en": "Still... I wonder what's inside."
+    },
+    {
+     "en": "Are you curious, Big Bro?"
+    },
+    {
+     "en": "Whoa! Don't just pop up out of nowhere!"
+    },
+    {
+     "en": "And anyway...! Weren't you supposed to be\nbusy? You'd better have finished your\nwork!"
+    },
+    {
+     "en": "This is part of my work!"
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "Don't tell me... You're in cahoots with Dad\nagain?"
+    },
+    {
+     "en": "Heh heh... You're dying to know, aren't\nyou?"
+    },
+    {
+     "en": "Of course I am!"
+    },
+    {
+     "en": "Let's see... What should I do?"
+    },
+    {
+     "en": "Hey! Rie! Quit fooling around!!"
+    },
+    {
+     "en": "Aw, I'm only joking. Nobody's around right\nnow, so you can go ahead and open it."
+    },
+    {
+     "en": "Right, then let's open it up."
+    },
+    {
+     "en": "Th-This is...!"
+    },
+    {
+     "en": "No doubt about it... It's the FT I used\nbefore I started flying the\n\"Cloud Saber\"..."
+    },
+    {
+     "en": "The FT-ZX7... It's the very \"Impulse 7\"\nyou used to fly, Big Bro."
+    },
+    {
+     "en": "Well? Does it bring back memories?"
+    },
+    {
+     "en": "Yeah... But what on earth is going on here?"
+    },
+    {
+     "en": "So this thing has to be brought aboard\nin secret?"
+    },
+    {
+     "en": "I don't know the reason either. But knowing\nDad, he must have something in mind."
+    },
+    {
+     "en": "It'll probably all turn out to be needless\nworry... That's what Dad told me..."
+    },
+    {
+     "en": "We can't use it in the drills either, so\nmaybe it'll just sit here and never move\nat all..."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Rie! Get us a good stock of spare parts for\nthis thing and the \"Cloud Saber.\""
+    },
+    {
+     "en": "And don't forget to put in a request for\nammo. Make up some excuse for it!"
+    },
+    {
+     "en": "Um... Sure, but what's wrong?"
+    },
+    {
+     "en": "Nothing's wrong. I'm going to start tuning\nmy machine. I'm counting on you for the\nrest!"
+    },
+    {
+     "en": "What's gotten into him all of a sudden...\nBig Bro..."
+    },
+    {
+     "en": "Maybe Dad put on an act so Big Bro would\ntake the drills seriously...?"
+    },
+    {
+     "en": "These machines have been deployed:\nFT-ZX7 \"Impulse 7\" x1\nGT-O \"Overhead\" x1"
+    },
+    {
+     "en": "The ship's equipment has been reinforced."
+    },
+    {
+     "en": "Phew... That should about do it..."
+    },
+    {
+     "en": "Oh no! I'd better get back to the bridge!"
+    },
+    {
+     "en": "Oh, welcome back, Captain Rie!"
+    },
+    {
+     "en": "I'm ba~ack!"
+    },
+    {
+     "en": "Three hours until departure. Let's\ndouble-check the system adjustments."
+    },
+    {
+     "en": "Um, Rie?"
+    },
+    {
+     "en": "Hm? What is it?"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "...Kanji's acting strange. It's as if he's\nabout to go into battle..."
+    },
+    {
+     "en": "Oh, that?"
+    },
+    {
+     "en": "Don't worry. Dad just gave him a kick in\nthe pants, that's all!"
+    },
+    {
+     "en": "But... I... somehow I've got this strange,\nuneasy feeling."
+    },
+    {
+     "en": "Whaaat?! When you say something like that,\nLun, it makes me really worried!"
+    },
+    {
+     "en": "...Oh... Does it?"
+    },
+    {
+     "en": "Ah, sorry for saying something weird."
+    },
+    {
+     "en": "It's just been bothering me a little,\nthat's all."
+    },
+    {
+     "en": "Even Lun... What's gotten into her...?"
+    },
+    {
+     "en": "...Oh well. A little tension like this is\njust right."
+    },
+    {
+     "en": "Okay, everyone, let's begin the final\ncheck!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "(I don't know why, but I've got a bad\n feeling about this...)"
+    },
+    {
+     "en": "(I'd better be ready to fight at any\n moment...)"
+    }
+   ],
+   "notes": "[1] Kanji recognizes his father's voice offscreen. [5] [jp] = papers to take receipt of the supplies. [40]-[41] Kyo's written note: kept in parentheses as in the JP; signature indented with spaces and '--'. [70] [jp] read as 'stock up on spare parts' for both machines. [76] system message: kept the source's list layout (no standard UI string found for [jp]). | [accuracy 90] Rie's honorific for Lun -> plain 'Lun' (late decision 2026-11-01: they are peers) | [accuracy 94] Rie's honorific for Lun -> plain 'Lun' (late decision 2026-11-01: they are peers) | [editorial 22] natural greeting: gokurousama to someone covering reception (k21); 'Thanks for your hard work' read as translationese | [editorial 38] 'Ah, yes!' read as recalling something; Kanji is responding to being told to read the paper | [editorial 42] question punctuation (?!) | [editorial 65] surprised confirmation as in JP (accuracy flag k65), not a 'why' question | [editorial 94] 'What's gotten into Lun, too...' was awkward; Lun is female | [proofread 61] line break no longer splits the quoted name \"Cloud Saber\" | [proofread 70] punctuation inside the closing quote (unit/corpus convention, as in _00 \"Aryuz.\")",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Departure preparations complete."
+    },
+    {
+     "en": "Good work. Now we just wait for\ninstructions from the control tower."
+    },
+    {
+     "en": "...?"
+    },
+    {
+     "en": "Huh? What's this transmission...?"
+    },
+    {
+     "en": "Lun, what's wrong?"
+    },
+    {
+     "en": "I've picked up a strange broadcast. It's\ncutting into the whole nationwide network\nat top priority..."
+    },
+    {
+     "en": "We've picked it up here too. With that\npriority... it must be some kind of\ngovernment emergency broadcast..."
+    },
+    {
+     "en": "Can you put it on the main monitor?"
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "They say it's a special broadcast!"
+    },
+    {
+     "en": "I wonder what's going on..."
+    },
+    {
+     "en": "Anyway, let's go check it out!"
+    },
+    {
+     "en": "Through repeated great wars, mankind has\nturned most of Claudia into barren land."
+    },
+    {
+     "en": "We who survived surely have a duty to do\neverything in our power to bring that land\nback to life!"
+    },
+    {
+     "en": "And yet!!"
+    },
+    {
+     "en": "Twenty years have passed since Claudia was\nunited under the Unified Government...\nHas the situation improved?"
+    },
+    {
+     "en": "The answer is NO!"
+    },
+    {
+     "en": "Certainly, the great cities around the\nworld have recovered beyond anything seen\nbefore..."
+    },
+    {
+     "en": "But that is nothing more than a vain facade\ncreated by economic activity that pursues\nprofit alone!"
+    },
+    {
+     "en": "Reckless development to extract our\ndwindling resources is steadily destroying\nClaudia's nature!!"
+    },
+    {
+     "en": "So long as mankind refuses to let\ncivilization regress, Claudia is doomed..."
+    },
+    {
+     "en": "Various new technologies have extended its\nlife somewhat, but they will not save it in\ntime!"
+    },
+    {
+     "en": "Mankind's growth can no longer be contained\nwithin the Claudia Continent."
+    },
+    {
+     "en": "And yet the current Unified Government\nforbids anyone to fly out into the Sea of\nClouds..."
+    },
+    {
+     "en": "Worse still, the government has kept all\ninformation about the new continents beyond\nthe Sea of Clouds hidden!"
+    },
+    {
+     "en": "And why is that?!!"
+    },
+    {
+     "en": "Because certain factions in the government\nand the military have been secretly trading\nwith other continents!"
+    },
+    {
+     "en": "They monopolize the enormous profits from\nthat trade and keep them for themselves!"
+    },
+    {
+     "en": "To break this deadlock, we have left the\nUnified Forces and formed a new army!"
+    },
+    {
+     "en": "We will cross the Sea of Clouds and become\nthe foundation that lets all people meet\nand interact with the new world."
+    },
+    {
+     "en": "It is lamentable that we have had to take\nup arms to achieve this ideal."
+    },
+    {
+     "en": "However!"
+    },
+    {
+     "en": "Unless we overthrow the Unified Forces, who\nrule Claudia with their overwhelming\nmilitary might,"
+    },
+    {
+     "en": "we can never take flight into the future!"
+    },
+    {
+     "en": "As of this moment, our army declares war on\nthe Unified Government!!"
+    },
+    {
+     "en": "Wh-What is this..."
+    },
+    {
+     "en": "He's got it all completely backwards!"
+    },
+    {
+     "en": "Is it... going to turn into a war again?"
+    },
+    {
+     "en": "I have a feeling it's going to be a really\nbig one..."
+    },
+    {
+     "en": "We don't know the enemy's strength, so I\ncan't say anything for now..."
+    },
+    {
+     "en": "This is Nelfea. I'm landing on the Astante\nII!"
+    },
+    {
+     "en": "Hey, wait a second, Nelfea!"
+    },
+    {
+     "en": "Hangar crew, clear the deck now!!"
+    }
+   ],
+   "notes": "[6] the NCO speaks with feminine sentence endings; gender left unstated in English. [12]-[34] Binzvanker's speech: [jp] 'Unified Government', [jp] 'Unified Forces'. [36] [jp] read as Rie saying his accusations reverse the truth. | [accuracy 4] Rie's honorific for Lun -> plain 'Lun' (late decision 2026-11-01: they are peers) | [editorial 25] rhetorical question punctuation (?!!)",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "...?!"
+    },
+    {
+     "en": "That Nelfea...! She forced a landing on\nour ship!!"
+    },
+    {
+     "en": "Wh-What's going on?!"
+    },
+    {
+     "en": "If we stay on the ground, we'll get hit by\na first strike! Take off right now!!"
+    },
+    {
+     "en": "Rie! I've tuned the system. We can go at\nmaximum battle speed!!"
+    },
+    {
+     "en": "Y-Yes, sir!"
+    },
+    {
+     "en": "Astante II, emergency launch!!"
+    },
+    {
+     "en": "Level 1 alert!! Seal the bulkheads in every\nblock!!"
+    },
+    {
+     "en": "Multiple missiles incoming!!"
+    },
+    {
+     "en": "Rapid ascent!!"
+    },
+    {
+     "en": "Near miss! Damage is light!!"
+    },
+    {
+     "en": "I've located the ship that seems to have\nfired the missiles!"
+    },
+    {
+     "en": "It's a brand-new \"Balket-class\"\nbattleship!"
+    },
+    {
+     "en": "Its name?"
+    },
+    {
+     "en": "The jamming's too heavy! I can't tell!"
+    },
+    {
+     "en": "So that's the famous \"Astante II\"...\nWhat incredible reaction speed..."
+    },
+    {
+     "en": "Captain, our strategic objective has been\nachieved."
+    },
+    {
+     "en": "Don't engage that ship. Full retreat!"
+    },
+    {
+     "en": "Hard about! We're withdrawing to Cecibel\nBase!"
+    },
+    {
+     "en": "The enemy ship is retreating!"
+    },
+    {
+     "en": "Retreating?! What's going on...?"
+    },
+    {
+     "en": "Transmission from the base. Putting it\nthrough now."
+    },
+    {
+     "en": "Rie, what's your status?"
+    },
+    {
+     "en": "This ship is undamaged."
+    },
+    {
+     "en": "Good! Then hurry to where the enemy fleet\nis gathering."
+    },
+    {
+     "en": "You know where the enemy is?"
+    },
+    {
+     "en": "The enemy's main force is around Cecibel\nBase."
+    },
+    {
+     "en": "The garrison fleets stationed in each\nregion are apparently gathering there one\nafter another, too..."
+    },
+    {
+     "en": "How big is the enemy fleet?"
+    },
+    {
+     "en": "Its full size is unknown, but it's\ncertainly large enough to take control of\nall of Claudia."
+    },
+    {
+     "en": "No way...! Couldn't they be dummies?"
+    },
+    {
+     "en": "Unidentified vessels have been sighted.\nI don't know where they got them from,\nbut..."
+    },
+    {
+     "en": "No..."
+    },
+    {
+     "en": "Commander Tsuragi's main fleet is already\non the move."
+    },
+    {
+     "en": "I want all of you to reach the area ahead\nof the main fleet and keep watch on the\nenemy's movements."
+    },
+    {
+     "en": "I'll gather the forces from the nearby\nbases and follow you!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "The Astante will now head for Cecibel Base\nat full speed."
+    },
+    {
+     "en": "Listen! Even if fighting breaks out, buy\ntime until the main force arrives."
+    },
+    {
+     "en": "Whatever you do, don't push yourselves too\nhard."
+    },
+    {
+     "en": "I understand."
+    },
+    {
+     "en": "Come on! Kanji, you're in the way! Move!!"
+    },
+    {
+     "en": "Hey! Nelfea! What's the big idea?!"
+    },
+    {
+     "en": "This isn't your unit, is it?"
+    },
+    {
+     "en": "You need reinforcements, don't you?"
+    },
+    {
+     "en": "Instead of asking stupid questions, adapt\nto the situation!"
+    },
+    {
+     "en": "Grr......!"
+    },
+    {
+     "en": "Nelfea has joined the unit."
+    },
+    {
+     "en": "One GT-K has been deployed."
+    },
+    {
+     "en": "(Professor Rondo's niece...\n Nelfea Northrock...)"
+    },
+    {
+     "en": "(I'd like to call her a reliable ally,\n but she's such a brat...)"
+    },
+    {
+     "en": "Sorry, Kanji. She may be a cheeky girl, but\nput her to good use."
+    },
+    {
+     "en": "Well... I kinda feel like I'm the one who's\ngonna get used..."
+    },
+    {
+     "en": "Hahahahaha! Well, that's just her way of\nsaying she acknowledges you."
+    },
+    {
+     "en": "I'm going out too! I'll be borrowing the\n\"Impulse 7.\""
+    },
+    {
+     "en": "What, you too, Professor? But that machine\nstill needs maintenance...!"
+    },
+    {
+     "en": "Who do you think I am?! Let's start\nchecking every machine aboard!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Uncle! I'm finished over here. I'll help\nyou!"
+    },
+    {
+     "en": "Thanks..."
+    },
+    {
+     "en": "Kanji, that's enough here. Take care of the\nother machines."
+    },
+    {
+     "en": "Got it!"
+    },
+    {
+     "en": "Dammit! So it's war!!"
+    },
+    {
+     "en": "This ship will now head for Cecibel Base."
+    },
+    {
+     "en": "Lun, please display the marker on the\nnavigation map."
+    },
+    {
+     "en": "Yes, putting it on the monitor."
+    },
+    {
+     "en": "Okay, Lun, I'll leave the helm to you\nfrom here on."
+    },
+    {
+     "en": "Whaaat? I can't do that yet! This isn't a\ndrill anymore!"
+    },
+    {
+     "en": "There's no time for practice. You'll learn\nto steer the ship by doing it!"
+    },
+    {
+     "en": "Oh... Understood, Captain! I'll give it a\ntry!"
+    }
+   ],
+   "notes": "[22] [jp] rendered as a status request. [33] [jp] not in glossary: romanized 'Commander Tsuragi'. [44] Nelfea (normally with another unit, cf. Tail's ship in the previous slice) boards to reinforce. [49] [jp] = niece; Nelfea calls Rondo [jp] -> 'Uncle' [58]. | [accuracy 64] Rie's honorific for Lun -> plain 'Lun' (late decision 2026-11-01: they are peers); headerless page, Rie continuing from [63] | [accuracy 66] Rie's honorific for Lun -> plain 'Lun' (late decision 2026-11-01: they are peers) | [editorial 48] system line: no sentence-initial numeral; '<X> has been deployed.' form | [editorial 56] question punctuation (?!) | [proofread 54] punctuation inside the closing quote (unit/corpus convention, as in _00 \"Aryuz.\")",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "We've drifted off course from the target.\nCorrecting our heading."
+    },
+    {
+     "en": "Oh, I'm sorry..."
+    }
+   ],
+   "notes": "Rie corrects the course while Lun is at the helm (cf. row 11 [66]-[69]).",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "We're approaching the airspace over\nCecibel Base."
+    },
+    {
+     "en": "Phew... Looks like we somehow made it..."
+    },
+    {
+     "en": "Nice work."
+    },
+    {
+     "en": "That's only because you backed me up,\nCaptain."
+    },
+    {
+     "en": "We're about to enter the combat zone, so\nI'll take over the helm now."
+    },
+    {
+     "en": "Oh, right."
+    },
+    {
+     "en": "With this, history will accelerate..."
+    },
+    {
+     "en": "Rochina, a battle between Claudian fleets\nis about to take place."
+    },
+    {
+     "en": "I want you to judge whether our army can\nstand on equal terms with other military\npowers."
+    },
+    {
+     "en": "I believe I already understand this fleet's\ncapabilities quite well."
+    },
+    {
+     "en": "This one battle will show every officer and\nsoldier in our army that the plan can be\nrealized."
+    },
+    {
+     "en": "Indeed...!"
+    },
+    {
+     "en": "The ships that were headed for Astante\nFortress have returned."
+    },
+    {
+     "en": "Omega's unit, eh... It seems the\n\"provocation\" succeeded."
+    }
+   ],
+   "notes": "[7] [jp] -> 'Rochina' (honorific dropped).",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "Kanji Akatsuki... So he's the Cloud Saber's\npilot..."
+    },
+    {
+     "en": "It'll be interesting to see how the Astante\ncrew deals with this situation..."
+    },
+    {
+     "en": "...What is it? Fine, come in!"
+    },
+    {
+     "en": "Excuse me!"
+    },
+    {
+     "en": "As of today, I have been assigned to serve\nas your secretary, Lord Omega."
+    },
+    {
+     "en": "You're the woman from Binzvanker's personal\nsecretariat, aren't you?"
+    },
+    {
+     "en": "I'm honored. I never thought you would\nremember me."
+    },
+    {
+     "en": "Don't get the wrong idea. I've been trained\nto remember such things."
+    },
+    {
+     "en": "But I don't recall asking for a secretary."
+    },
+    {
+     "en": "I have orders from Commander Binzvanker...\nto keep watch on you, Lord Omega."
+    },
+    {
+     "en": "Heh heh heh... How honest of you...\nBut it's pointless."
+    },
+    {
+     "en": "No one can keep track of my movements."
+    },
+    {
+     "en": "I am well aware of that."
+    },
+    {
+     "en": "In fact, it was I who proposed this\nassignment to the Commander."
+    },
+    {
+     "en": "What did you say? Hoh... What is it you\nwant?"
+    },
+    {
+     "en": "Ten years from now...... your power\nwill set this world in motion."
+    },
+    {
+     "en": "In my own small way... I would like to help\nyou with that."
+    },
+    {
+     "en": "Fuhahahahahahahaha! Don't get the wrong\nidea. I'm just a capricious man."
+    },
+    {
+     "en": "I'm not thinking about anything years down\nthe road."
+    },
+    {
+     "en": "Then I shall guide you."
+    },
+    {
+     "en": "Heh! Heh-hahahahaha!!"
+    }
+   ],
+   "notes": "[7] [jp]: read as Omega being trained to remember faces/people, i.e. his remembering her means nothing personal. [9] [jp] -> 'Commander Binzvanker'. | [editorial 15] 'begin to move by your power' was stiff; same meaning",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "The enemy's right in front of us... What's\nRie dawdling for?"
+    },
+    {
+     "en": "True. Waiting for the main force to arrive\nwould be the standard move,"
+    },
+    {
+     "en": "but this time, your instincts are right."
+    },
+    {
+     "en": "...Huh?"
+    },
+    {
+     "en": "We're going to the bridge!"
+    },
+    {
+     "en": "Whoa! Hey! D-Don't pull me!"
+    },
+    {
+     "en": "Hurry! Follow me!"
+    },
+    {
+     "en": "Yeah, yeah!"
+    },
+    {
+     "en": "Yo! How's it looking? What's the enemy\ndoing?"
+    },
+    {
+     "en": "Ah, Big Bro!"
+    },
+    {
+     "en": "You know better than that, Big Brother.\nYou're supposed to stay in the hangar."
+    },
+    {
+     "en": "Ah... well, there's a reason for this..."
+    },
+    {
+     "en": "Lun! Let me see the footage of the enemy\nfleet."
+    },
+    {
+     "en": "Ah! Don't touch that without asking!"
+    },
+    {
+     "en": "You're so slow I can't stand watching!"
+    },
+    {
+     "en": "Ugh..."
+    },
+    {
+     "en": "Those are all enemy ships... There sure are\na lot of 'em."
+    },
+    {
+     "en": "Once the main force arrives, it'll turn\ninto a melee. Before that, we should probe\nthat fleet in force as much as we can."
+    },
+    {
+     "en": "We'd learn the enemy's strength, and if all\ngoes well, we can hit their flagship."
+    },
+    {
+     "en": "So we cut in with a single ship and throw\nthe enemy formation into disarray."
+    },
+    {
+     "en": "That way, the main force coming after us\ncan deploy with the advantage."
+    },
+    {
+     "en": "You seem to understand. So why aren't you\ncharging in?"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Until just a little while ago... they were\nour allies."
+    },
+    {
+     "en": "We might still be able to settle this...\nthrough negotiation..."
+    },
+    {
+     "en": "You heard that speech. It was full of\nlies, wasn't it?"
+    },
+    {
+     "en": "And you still think they're people you can\nnegotiate with?"
+    },
+    {
+     "en": "It's true, it was awful..."
+    },
+    {
+     "en": "Everything we've done for peace got twisted\ninto something evil..."
+    },
+    {
+     "en": "Yeah... We got no chance to argue back.\nHe just said whatever he wanted about us."
+    },
+    {
+     "en": "But for that many ships to gather..."
+    },
+    {
+     "en": "It means lots of people believe that\nspeech, doesn't it...?"
+    },
+    {
+     "en": "That's why we've got to take down the\nringleader, Binzvanker, ourselves."
+    },
+    {
+     "en": "With just one ship?"
+    },
+    {
+     "en": "Yes... Strike at the enemy's core, sharp as\na needle... Isn't that the way to keep the\ncasualties as low as possible?"
+    },
+    {
+     "en": "That's no different from settling things\nby force! I don't think we should fight!"
+    },
+    {
+     "en": "Lun! This is a warship! You're a nuisance\nif that's all the resolve you have!"
+    },
+    {
+     "en": "Even so, I...!"
+    },
+    {
+     "en": "Stop it, both of you!"
+    },
+    {
+     "en": "Fine... There's no time to argue. Let's\nleave it to the captain."
+    },
+    {
+     "en": "Do we keep waiting here, or do we charge\nin? Make a clear decision, one way or the\nother!"
+    },
+    {
+     "en": "Mmm......"
+    },
+    {
+     "en": "...We'll go with Nelfea's plan."
+    },
+    {
+     "en": "Rie..."
+    }
+   ],
+   "notes": "[10] Lun's teasing [jp] to Kanji -> 'Big Brother' (vs Rie's 'Big Bro'). [17] [jp] = reconnaissance in force ('probe in force'). [25] [jp] split as 'You heard that speech. It was full of lies'. [43] [jp] -> 'Rie'. | [editorial 42] 'I'm adopting Nelfea's plan' stiff for a spoken captain's decision",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "We will now attempt to close in on the\nenemy fleet!"
+    },
+    {
+     "en": "All hands, take your battle stations at\nonce!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Report from a picket ship! One enemy\nbattleship is approaching!"
+    },
+    {
+     "en": "Just one? Isn't it one of ours?"
+    },
+    {
+     "en": "The enemy is the battleship \"Astante II\"!"
+    },
+    {
+     "en": "What?! The \"Astante II,\" you say?!"
+    },
+    {
+     "en": "Don't let them get close!! All picket\nships, stop the enemy from breaking\nthrough with everything you've got!"
+    },
+    {
+     "en": "Enemy cruiser closing fast! It's the\n\"Norstan Kai-class\" \"Renown\"!"
+    },
+    {
+     "en": "Lun, open a channel to the \"Renown\"!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Can you hear me? This is Rie Akatsuki,\ncaptain of the Astante!"
+    },
+    {
+     "en": "It's pointless for us to fight each other."
+    },
+    {
+     "en": "Even if it's only your ship, please, cease\nfire!"
+    },
+    {
+     "en": "Captain Rie... I never wanted to fight\nyou..."
+    },
+    {
+     "en": "But... we have risen up for the future of\nClaudia!"
+    },
+    {
+     "en": "Please don't give up hope. We should talk\nthis out!"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "They... cut the transmission..."
+    },
+    {
+     "en": "It's no use, Rie! They're soldiers!"
+    },
+    {
+     "en": "Ngh...!"
+    },
+    {
+     "en": "Target, the cruiser Renown! Commence\nattack!!"
+    }
+   ],
+   "notes": "[8] [jp] -> 'Renown' (not in glossary; the English ship name). [4] [jp] read as the Redros officer asking if the lone ship is a defector joining them. [11] Rie says 'Astante' though the ship is the Astante II; kept as written. | [accuracy 9] Rie's honorific for Lun -> plain 'Lun' (late decision 2026-11-01: they are peers) | [proofread 6] punctuation inside the closing quote (unit/corpus convention, as in _00 \"Aryuz.\")",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "Renown disabled... It's falling out of the\nsquadron!"
+    },
+    {
+     "en": "You didn't sink it?! You went easy on them,\nRie! That's held up our advance!!"
+    },
+    {
+     "en": "Ngh...!"
+    },
+    {
+     "en": "All hands, charge!!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "It's too late...... At this rate...!"
+    },
+    {
+     "en": "Following the \"Renown,\" the \"Grillsen\"\nhas also left the line!"
+    },
+    {
+     "en": "The \"Astante II\" is still charging\ntoward us!"
+    },
+    {
+     "en": "Heh... Impressive."
+    },
+    {
+     "en": "Enemy main fleet confirmed behind the\n\"Astante II\"!!"
+    },
+    {
+     "en": "So they've finally come..."
+    },
+    {
+     "en": "The main body will engage the enemy main\nforce. Picket ships, withdraw from the\ncombat area!"
+    },
+    {
+     "en": "Commander... Shall we use that thing?"
+    },
+    {
+     "en": "Yes... First, we'll use the \"CS Cannon\" to\nshatter the enemy fleet's formation in one\nblow!"
+    },
+    {
+     "en": "Then I'll have the fleets in the line of\nfire pull back."
+    },
+    {
+     "en": "I leave it to you."
+    },
+    {
+     "en": "The operation is entering its second phase!"
+    },
+    {
+     "en": "The special attack unit will launch in five\nminutes!"
+    },
+    {
+     "en": "Lord Omega, you have sortie orders."
+    },
+    {
+     "en": "The target?"
+    },
+    {
+     "en": "The battleship Astante. Your orders are to\npin the target ship down in its current\nairspace."
+    },
+    {
+     "en": "Heh... I see."
+    },
+    {
+     "en": "Omega Fokurosu! Launching!!"
+    },
+    {
+     "en": "All ships, ready guns and torpedoes!!"
+    },
+    {
+     "en": "Target, the enemy main fleet! Open fire!!"
+    }
+   ],
+   "notes": "[6] [jp] not in glossary: romanized 'Grillsen'. [13] [jp] -> 'CS Cannon' (cf. glossary [jp] Micro CS Cannon). [3] [jp] on a single ship -> 'All hands'. [5] Nelfea's 'too late' presumably refers to the delay before the enemy main body engages. | [proofread 6] punctuation inside the closing quote (unit/corpus convention, as in _00 \"Aryuz.\")",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Our ship will push forward and hold the\n\"Astante II\" in check!!"
+    },
+    {
+     "en": "Captain... let's go over the operation."
+    },
+    {
+     "en": "Our mission is to stall the \"Astante II.\"\nWe only need to block its path."
+    },
+    {
+     "en": "I know that!"
+    },
+    {
+     "en": "This ship is a valuable asset. We can't\nafford to lose it."
+    },
+    {
+     "en": "Obviously!"
+    },
+    {
+     "en": "Zarkful, advance!!"
+    },
+    {
+     "en": "Here they come!"
+    },
+    {
+     "en": "It's the battleship \"Zarkful,\" an\n\"Astante II Kai-class\"!"
+    },
+    {
+     "en": "A brand-new battleship! It's gonna be\ntougher than the last one."
+    },
+    {
+     "en": "We've entered engagement range of the\nenemy ship!"
+    },
+    {
+     "en": "As soon as we've checked the surroundings,\nwe'll launch our machines!"
+    },
+    {
+     "en": "Lun! Anything unusual?"
+    },
+    {
+     "en": "The enemy main force is spreading out while\nslowly pulling back."
+    },
+    {
+     "en": "And on the ground... the energy at Cecibel\nBase keeps rising...!"
+    },
+    {
+     "en": "Rie! We've picked it up here too!!"
+    },
+    {
+     "en": "Cecibel Base's CS Cannon is active!!"
+    },
+    {
+     "en": "But wasn't that completely abandoned after\nthe Third Claudian War?!"
+    },
+    {
+     "en": "This energy coefficient is the real thing!\nHurry and warn the main force!!"
+    },
+    {
+     "en": "(The CS Cannon... the fortress gun at\n Cecibel Base used in the last great war...)"
+    },
+    {
+     "en": "(So they set up here to use that\n thing...!)"
+    },
+    {
+     "en": "Lun! Contact the main fleet, quickly!"
+    },
+    {
+     "en": "Ah, yes!"
+    },
+    {
+     "en": "Rie! What are you doing? Get the Astante\nout of there too!"
+    },
+    {
+     "en": "There's an enemy battleship right in front\nof us! We can't turn around until we drive\nit off!!"
+    },
+    {
+     "en": "Got it! I'll take it down fast!!"
+    },
+    {
+     "en": "Let's go, Nelfea!!"
+    },
+    {
+     "en": "Roger!"
+    }
+   ],
+   "notes": "[6]/[8] [jp] not in glossary: romanized 'Zarkful'. [17] [jp] 'Third Claudian War' (majority form in existing drafts). [23] Kanji is in the hangar/cockpit, so 'out of there'. | [accuracy 12] Rie's honorific for Lun -> plain 'Lun' (late decision 2026-11-01: they are peers); headerless page, Rie continuing from [11] | [accuracy 21] Rie's honorific for Lun -> plain 'Lun' (late decision 2026-11-01: they are peers) | [editorial 26] address comma; matches row 20 k85 fix in _02 | [proofread 2] punctuation inside the closing quote (unit/corpus convention, as in _00 \"Aryuz.\") | [proofread 8] punctuation inside the closing quote (unit/corpus convention, as in _00 \"Aryuz.\")",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "This blow will raise the curtain on a new\nera!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "This blow will raise the curtain on a new\nera!"
+    },
+    {
+     "en": "Damn you! Binzvanker!!"
+    },
+    {
+     "en": "All ships, emergency evasion! Hurry!!"
+    },
+    {
+     "en": "We're falling into the Sea of Clouds!!\nUse every bit of energy we've got and\nclimb!"
+    },
+    {
+     "en": "Power's dropping!! We can't maintain\naltitude!!"
+    },
+    {
+     "en": "The Cloud Stream is rising!! It's eating\nthrough our armor!!"
+    },
+    {
+     "en": "We can't escape!! Captaaain!!"
+    },
+    {
+     "en": "Aaah! It's over!!"
+    },
+    {
+     "en": "Full reverse!! Damage reports from all\nsections!!"
+    },
+    {
+     "en": "Ugh... Damage is... heavy... but we can...\nstill fly."
+    },
+    {
+     "en": "Kyaaah!!"
+    },
+    {
+     "en": "Rie! Rie!!"
+    },
+    {
+     "en": "Ugh... ungh... L... Lun........."
+    },
+    {
+     "en": "Captain Rie! Hang in there!!"
+    },
+    {
+     "en": "...Lun...... take... the helm...\nplease......"
+    },
+    {
+     "en": "No...... I'm not ready for that yet...!"
+    },
+    {
+     "en": "Rie! Pull yourself together!"
+    },
+    {
+     "en": "...Please......... hurry......"
+    },
+    {
+     "en": "Rie!!"
+    },
+    {
+     "en": "Miss Lun!! I can't leave my station\neither...! Please!!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "All right..."
+    },
+    {
+     "en": "Professor Rondo!! How's the engine room?"
+    },
+    {
+     "en": "Run it at full power! I'll make sure it\nholds!!"
+    },
+    {
+     "en": "Just get us to the cliffs somehow!!"
+    },
+    {
+     "en": "Yes! I'll do it!!"
+    },
+    {
+     "en": "Captain Rie has been injured. As this is an\nemergency, I am taking command of the ship."
+    },
+    {
+     "en": "The Astante will now make an emergency\nlanding."
+    },
+    {
+     "en": "We're lightening the ship! Jettison all\nGTs and supplies into the Sea of Clouds!"
+    },
+    {
+     "en": "Lun!! Keep the ship flying, no matter\nwhat!"
+    },
+    {
+     "en": "Cloud Saber! Launching!!"
+    },
+    {
+     "en": "What are you talking about? At a time like\nthis!!"
+    },
+    {
+     "en": "I'm going to end it! This fight...\nright now!!"
+    },
+    {
+     "en": "Kanji! Stop it!!"
+    },
+    {
+     "en": "The ship'll be lighter by the weight of the\nFT and me!"
+    },
+    {
+     "en": "Nooo!! Kanjiii!!"
+    },
+    {
+     "en": "There's still hope... I'm not giving up!"
+    },
+    {
+     "en": "Lun... watch me..."
+    },
+    {
+     "en": "I'll fight this through to the end..."
+    },
+    {
+     "en": "I'm counting on you... partner...!"
+    },
+    {
+     "en": "The operation was a success. Our army's\nvictory is now assured."
+    },
+    {
+     "en": "This is only the first phase. Things will\nget busy from here."
+    },
+    {
+     "en": "That composure is exactly what the great\nundertaking ahead of us requires."
+    },
+    {
+     "en": "No one but you could ever accomplish it."
+    },
+    {
+     "en": "Spare me the flattery..."
+    },
+    {
+     "en": "Once we leave Claudia, you and I will go\nseparate ways, but proceed as arranged."
+    },
+    {
+     "en": "For unofficial operations, feel free to\nkeep using Omega."
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "Your skill is a precious asset to our army.\nForgive me, but I'll be relying on your\nhelp."
+    },
+    {
+     "en": "Commander! All ships are in position."
+    },
+    {
+     "en": "Good. We move the operation to the next\nphase. Open the Sea of Clouds!"
+    },
+    {
+     "en": "Seal the bulkheads!! All ships, Cloud\nSystem output to maximum!!"
+    },
+    {
+     "en": "What is it?!"
+    },
+    {
+     "en": "A machine approaching from above!!"
+    },
+    {
+     "en": "What? Isn't it Omega?!"
+    },
+    {
+     "en": "Binzvanker!"
+    },
+    {
+     "en": "Your ambitions end right here and now!!"
+    },
+    {
+     "en": "With this one blow!!"
+    },
+    {
+     "en": "I-It's the Cloud Saber!"
+    },
+    {
+     "en": "Anti-aircraft fire!! Put up a barrage!!"
+    },
+    {
+     "en": "It's pointless! All ships, put everything\ninto opening the Sea of Clouds!!"
+    },
+    {
+     "en": "But sir!"
+    },
+    {
+     "en": "Don't panic!! Battle is a matter of\nfortune. Steel yourselves!"
+    },
+    {
+     "en": "Not good enough, Kanji Akatsuki!"
+    },
+    {
+     "en": "This reaction speed... Who are you?!"
+    },
+    {
+     "en": "My name is Omega Fokurosu."
+    },
+    {
+     "en": "Kanji Akatsuki, if you're a pilot with any\nconvictions, come with us!"
+    },
+    {
+     "en": "What the hell are you people trying to\ndo?!!"
+    },
+    {
+     "en": "Heh heh heh heh... Just watch."
+    },
+    {
+     "en": "Omega's machine has stopped the Cloud Saber!!\nThey're still fighting!!"
+    },
+    {
+     "en": "Ah, Lord Omega..."
+    },
+    {
+     "en": "The Cloud System has reached saturation!\nThe Sea of Clouds is opening!!"
+    },
+    {
+     "en": "Splendid..."
+    },
+    {
+     "en": "History is accepting us... That's all\nthere is to it."
+    },
+    {
+     "en": "What is that...!! There's a space beneath\nthe Sea of Clouds?!"
+    },
+    {
+     "en": "What the hell... is going on?!"
+    },
+    {
+     "en": "The times are changing! And all the while,\nyou people were drunk on a false peace!!"
+    },
+    {
+     "en": "A false peace?!"
+    },
+    {
+     "en": "Peace is something people build\nthemselves! Whatever form it takes...\nit's not false!!"
+    },
+    {
+     "en": "Heh... If you truly want to talk about\npeace, throw away your weapons first!"
+    },
+    {
+     "en": "Don't say things you don't mean!! You think\npeace can be kept with a simple-minded idea\nlike that?!!"
+    },
+    {
+     "en": "Hahahahaha! On that, I agree with you."
+    },
+    {
+     "en": "Then you should be able to understand us!"
+    },
+    {
+     "en": "What'll it be? Will you come with us?\nIt's not too late yet."
+    },
+    {
+     "en": "No way! If people like you hadn't shown up,\nClaudia would still be at peace!!"
+    },
+    {
+     "en": "Here I come, Omega!!"
+    },
+    {
+     "en": "Heh heh heh..."
+    },
+    {
+     "en": "Where are you aiming?!"
+    },
+    {
+     "en": "I can't lose... I can't lose in a place\nlike this! Not me!"
+    },
+    {
+     "en": "You've got plenty of fighting spirit, at\nleast."
+    },
+    {
+     "en": "But... you will never return to Claudia.\nNot ever!!"
+    },
+    {
+     "en": "Feelings alone won't win a fight..."
+    },
+    {
+     "en": "Lord Omega, I'm so glad you're safe."
+    },
+    {
+     "en": "He gave me a bit of trouble. Returning now!"
+    },
+    {
+     "en": "Ugh... damage report..."
+    },
+    {
+     "en": "Well done, Lun. Excellent work."
+    },
+    {
+     "en": "The enemy's coming! Give the order to\nretreat!!"
+    },
+    {
+     "en": "Right..."
+    },
+    {
+     "en": "Attention, everyone aboard! The Astante can\nno longer fly. All hands, abandon ship!"
+    },
+    {
+     "en": "Everyone, get out, quick! As far away as\nyou can!!"
+    },
+    {
+     "en": "Ugh... Big Bro..."
+    },
+    {
+     "en": "It's all right... Kanji's alive.\nI'm sure of it..."
+    },
+    {
+     "en": "Once we fix the ship, we'll go after him.\nOkay...!"
+    },
+    {
+     "en": "Ugh... uuugh..."
+    },
+    {
+     "en": "Kanji......"
+    },
+    {
+     "en": "Kanji... You're okay, aren't you..."
+    },
+    {
+     "en": "We'll meet again... We'll definitely meet\nagain, won't we..."
+    }
+   ],
+   "notes": "[3] speaker is a Claudian Unified Forces officer on another ship. [14] Rie drops the [jp] ('...Lun......') -- kept. [19] NCO addresses [jp] -> 'Miss Lun'. [24] [jp] -> 'the cliffs' (a continent's rock face above the Sea of Clouds). [53] [jp] -> 'A machine' (unidentified). [93] [jp] -> 'He gave me a bit of trouble'. [9]/[98] [jp] -> 'fly' (the ship flies over the Sea of Clouds). | [accuracy 12] Rie's honorific for Lun -> plain 'Lun' (late decision 2026-11-01: they are peers); stutter kept on the name | [editorial 15] 'I still can't do it' -> 'not ready yet' (Lun has not learned the helm yet, cf. _01 row 11 k67); accuracy flag k15 | [editorial 42] 'That very composure... now beginning requires' was stiff | [editorial 63] amai na as Omega intercepts the attack: 'Too naive' read oddly in combat (accuracy flag k63) | [editorial 64] question punctuation (?!) | [editorial 67] question punctuation (?!!) | [editorial 75] question punctuation (?!) | [editorial 80] question punctuation (?!!) | [editorial 85] address comma | [editorial 87] question punctuation (?!) | [editorial 89] 'Your fighting spirit, at least, is strong' was stiff for a taunt",
+   "status": "proofread"
+  }
+ ]
+}

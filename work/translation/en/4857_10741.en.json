@@ -1,0 +1,504 @@
+{
+ "table": "4857_10741",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "Mission Mode will now begin."
+    },
+    {
+     "en": "Enemy forces are standing by in the areas\nmarked on the map."
+    },
+    {
+     "en": "Repel the enemy forces and\nliberate those areas."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Now, don't be hasty."
+    },
+    {
+     "en": "The enemies guarding those strongholds are overwhelmingly strong."
+    },
+    {
+     "en": "First, you'd do better to fight the enemy units you run into in normal airspace and gain some experience."
+    },
+    {
+     "en": "Understood."
+    }
+   ],
+   "notes": "[editorial 1] aligned with 4857_10742: same system briefing ('enemy forces', 'marked on the map') | [editorial 2] [jp] = 'Repel' (UI term, as in 4857_10742)",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Mission Mode will now begin."
+    },
+    {
+     "en": "Enemy forces are standing by in the areas\nmarked on the map."
+    },
+    {
+     "en": "Repel the enemy forces and\nliberate those areas."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Listen. The enemies guarding those strongholds are overwhelmingly strong."
+    },
+    {
+     "en": "First, you'd do better to fight the enemy units you run into in normal airspace and gain plenty of experience."
+    },
+    {
+     "en": "Yeah, got it."
+    }
+   ],
+   "notes": "[editorial 1] aligned with 4857_10742: same system briefing ('enemy forces', 'marked on the map') | [editorial 2] [jp] = 'Repel' (UI term, as in 4857_10742)",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "You are approaching the target area."
+    },
+    {
+     "en": "<Target Confirmed>\nEnemy: Mech Squad x1\nAttack?"
+    },
+    {
+     "en": "Yes\nNo"
+    },
+    {
+     "en": "Commencing attack on the target."
+    },
+    {
+     "en": "Holding off on the attack."
+    }
+   ],
+   "notes": "[jp] -> 'Mech Squad' (UI term); [jp] 'Destroy' (UI uses 'Repel' only for [jp]). | [editorial 0] subject restored; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "[editorial 0] system-line standard 'The battle will now begin.'",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Enemy forces are deploying."
+    },
+    {
+     "en": "<Mission Orders>\nDestroy the enemy mothership\nwithin the time limit!"
+    }
+   ],
+   "notes": "[editorial 0] verb restored; aligned with the other Mission-mode unit (4857_10741/10742 system wording) | [editorial 1] order given its exclamation and line break; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Win Condition achieved."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Enemy territory captured."
+    },
+    {
+     "en": "Numerous machines were obtained\nas spoils of war."
+    },
+    {
+     "en": "Spoils registered.\nDeployment complete."
+    },
+    {
+     "en": "Proceed to your next\nmission objective."
+    }
+   ],
+   "notes": "[editorial 0] aligned with the other Mission-mode unit (4857_10741/10742 system wording) | [editorial 1] aligned with the other Mission-mode unit (4857_10741/10742 system wording) | [editorial 3] [jp] = 'mission objective'; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "You are approaching the target area."
+    },
+    {
+     "en": "<Target Confirmed>\nEnemy: Infantry Squad x1\nAttack?"
+    },
+    {
+     "en": "Yes\nNo"
+    },
+    {
+     "en": "Commencing attack on the target."
+    },
+    {
+     "en": "Holding off on the attack."
+    }
+   ],
+   "notes": "[jp] -> 'Infantry Squad' (UI term). | [editorial 0] subject restored; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "[editorial 0] system-line standard 'The battle will now begin.'",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Enemy forces are deploying."
+    },
+    {
+     "en": "<Mission Orders>\nDestroy Arago's Castle\nwithin the time limit!"
+    }
+   ],
+   "notes": "[editorial 0] verb restored; aligned with the other Mission-mode unit (4857_10741/10742 system wording) | [editorial 1] order given its exclamation and line break; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Win Condition achieved."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Enemy territory captured."
+    },
+    {
+     "en": "Obtained 75000 funds."
+    },
+    {
+     "en": "Proceed to your next\nmission objective."
+    }
+   ],
+   "notes": "[editorial 0] aligned with the other Mission-mode unit (4857_10741/10742 system wording) | [editorial 2] [jp] = 'mission objective'; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "The final target,\nthe \"Mediator,\"\nhas appeared."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "You are approaching the target area."
+    },
+    {
+     "en": "<Target Confirmed>\nMediator x1\nAttack?"
+    },
+    {
+     "en": "Yes\nNo"
+    },
+    {
+     "en": "Commencing attack on the target."
+    },
+    {
+     "en": "Holding off on the attack."
+    }
+   ],
+   "notes": "[editorial 0] subject restored; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "[editorial 0] system-line standard 'The battle will now begin.'",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Enemy forces are deploying."
+    },
+    {
+     "en": "<Mission Orders>\nDestroy the enemy mothership\nwithin the time limit!"
+    }
+   ],
+   "notes": "[editorial 0] verb restored; aligned with the other Mission-mode unit (4857_10741/10742 system wording) | [editorial 1] order given its exclamation and line break; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "Win Condition achieved."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "All missions cleared."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "You are approaching the target area."
+    },
+    {
+     "en": "<Target Confirmed>\nEnemy: Mech Squad x1\nAttack?"
+    },
+    {
+     "en": "Yes\nNo"
+    },
+    {
+     "en": "Commencing attack on the target."
+    },
+    {
+     "en": "Holding off on the attack."
+    }
+   ],
+   "notes": "[jp] -> 'Mech Squad' (UI term); [jp] 'Destroy' (UI uses 'Repel' only for [jp]).",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "[editorial 0] system-line standard 'The battle will now begin.'",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "Enemy forces are deploying."
+    },
+    {
+     "en": "<Mission Orders>\nDestroy the enemy mothership\nwithin the time limit!"
+    }
+   ],
+   "notes": "[editorial 0] verb restored; aligned with the other Mission-mode unit (4857_10741/10742 system wording) | [editorial 1] order given its exclamation and line break; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "Win Condition achieved."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "Enemy territory captured."
+    },
+    {
+     "en": "Numerous machines were obtained\nas spoils of war."
+    },
+    {
+     "en": "Spoils registered.\nDeployment complete."
+    },
+    {
+     "en": "Proceed to your next\nmission objective."
+    }
+   ],
+   "notes": "[editorial 0] aligned with the other Mission-mode unit (4857_10741/10742 system wording) | [editorial 1] aligned with the other Mission-mode unit (4857_10741/10742 system wording) | [editorial 3] [jp] = 'mission objective'; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "You are approaching the target area."
+    },
+    {
+     "en": "<Target Confirmed>\nEnemy: Infantry Squad x1\nAttack?"
+    },
+    {
+     "en": "Yes\nNo"
+    },
+    {
+     "en": "Commencing attack on the target."
+    },
+    {
+     "en": "Holding off on the attack."
+    }
+   ],
+   "notes": "[jp] -> 'Infantry Squad' (UI term).",
+   "status": "proofread"
+  },
+  {
+   "id": 24,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "[editorial 0] system-line standard 'The battle will now begin.'",
+   "status": "proofread"
+  },
+  {
+   "id": 25,
+   "segments": [
+    {
+     "en": "Enemy forces are deploying."
+    },
+    {
+     "en": "<Mission Orders>\nDestroy the enemy mothership\nwithin the time limit!"
+    }
+   ],
+   "notes": "[editorial 0] verb restored; aligned with the other Mission-mode unit (4857_10741/10742 system wording) | [editorial 1] order given its exclamation and line break; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 26,
+   "segments": [
+    {
+     "en": "Win Condition achieved."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 27,
+   "segments": [
+    {
+     "en": "Enemy territory captured."
+    },
+    {
+     "en": "Obtained 75000 funds."
+    },
+    {
+     "en": "Proceed to your next\nmission objective."
+    }
+   ],
+   "notes": "[editorial 0] aligned with the other Mission-mode unit (4857_10741/10742 system wording) | [editorial 2] [jp] = 'mission objective'; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 28,
+   "segments": [
+    {
+     "en": "The final target,\nthe \"Mediator,\"\nhas appeared."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 29,
+   "segments": [
+    {
+     "en": "You are approaching the target area."
+    },
+    {
+     "en": "<Target Confirmed>\nMediator x1\nAttack?"
+    },
+    {
+     "en": "Yes\nNo"
+    },
+    {
+     "en": "Commencing attack on the target."
+    },
+    {
+     "en": "Holding off on the attack."
+    }
+   ],
+   "notes": "[editorial 0] subject restored; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 30,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "[editorial 0] system-line standard 'The battle will now begin.'",
+   "status": "proofread"
+  },
+  {
+   "id": 31,
+   "segments": [
+    {
+     "en": "Enemy forces are deploying."
+    },
+    {
+     "en": "<Mission Orders>\nDestroy the enemy mothership\nwithin the time limit!"
+    }
+   ],
+   "notes": "[editorial 0] verb restored; aligned with the other Mission-mode unit (4857_10741/10742 system wording) | [editorial 1] order given its exclamation and line break; aligned with the other Mission-mode unit (4857_10741/10742 system wording)",
+   "status": "proofread"
+  },
+  {
+   "id": 32,
+   "segments": [
+    {
+     "en": "Win Condition achieved."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 33,
+   "segments": [
+    {
+     "en": "All missions cleared."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

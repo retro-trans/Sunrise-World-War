@@ -1,0 +1,2634 @@
+{
+ "table": "4822_10736",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "We've entered Astragius."
+    },
+    {
+     "en": "Incoming transmission from the regular\nGilgamesh Army."
+    },
+    {
+     "en": "We've been cleared to dock at the port\nof Gilgamesh."
+    },
+    {
+     "en": "Display the marker.\nWe're heading for Gilgamesh."
+    }
+   ],
+   "notes": "Seg 2 has no header; read as the NCO continuing the report.",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "We've entered Astragius airspace."
+    },
+    {
+     "en": "Rochina, this is where you come from,\nisn't it?"
+    },
+    {
+     "en": "Yes, sir. Leave the rest to me."
+    },
+    {
+     "en": "The arrangements for the alliance are\nalready in place."
+    },
+    {
+     "en": "Good. Then let us be on our way."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Hey, this place is the capital of a\ncountry called Gilgamesh, right?"
+    },
+    {
+     "en": "Probably. Looks like the Gilgamesh Army\nhas its headquarters here too..."
+    },
+    {
+     "en": "Some military people are waiting outside."
+    },
+    {
+     "en": "Oh? Then we'd better go say hello."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Halt!"
+    },
+    {
+     "en": "Where is the person in charge of this fleet?"
+    },
+    {
+     "en": "Yes, that would be me."
+    },
+    {
+     "en": "You are? Er, pardon me..."
+    },
+    {
+     "en": "I am the liaison officer for the regular\nGilgamesh Army."
+    },
+    {
+     "en": "I'm here to inform you of the decisions\nconcerning your forces' future conduct."
+    },
+    {
+     "en": "Your forces are granted freedom of movement\nwithin our territory. However, this comes\nwith conditions."
+    },
+    {
+     "en": "What conditions would those be?"
+    },
+    {
+     "en": "First, even if units bearing our army's\nname should engage your forces,"
+    },
+    {
+     "en": "we ask that you acknowledge that the\nregular Gilgamesh Army has nothing to do\nwith it."
+    },
+    {
+     "en": "And second, that you accept an escort of\nsoldiers recommended by our army."
+    },
+    {
+     "en": "Understood.\nThank you for your consideration."
+    },
+    {
+     "en": "That is all!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Hey, what was that all about?"
+    },
+    {
+     "en": "They'll give us free run of Gilgamesh,\nbut they're putting a watchdog on us."
+    },
+    {
+     "en": "And even if a fight breaks out, the\nregular army has nothing to do with it."
+    },
+    {
+     "en": "Even if it's the Gilgamesh Army we're\nfighting?"
+    },
+    {
+     "en": "It seems to be a huge military... Maybe\nits chain of command doesn't reach\neverywhere."
+    },
+    {
+     "en": "If we make one wrong move, they can erase\nus with no loose ends... That's what\nthe watchdog is for, right?"
+    },
+    {
+     "en": "Looks like this continent's got all kinds\nof trouble of its own..."
+    }
+   ],
+   "notes": "Segs 1, 4-6, 9-10 have no header: the Gilgamesh Officer continuing. Seg 16 no header: Nelfea continuing. | [editorial 19] 'without leaving a mess' -> idiomatic 'with no loose ends' ([jp])",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Yo!"
+    },
+    {
+     "en": "Hm? Who are you?"
+    },
+    {
+     "en": "I've just been assigned here."
+    },
+    {
+     "en": "Could you put me through to whoever's\nin charge of the fleet?"
+    },
+    {
+     "en": "Yeah, we heard you were coming.\nHang on a sec."
+    },
+    {
+     "en": "....................."
+    },
+    {
+     "en": "Keek... Are you sure about this?\nI mean, me..."
+    },
+    {
+     "en": "Don't worry about it!\nI've already taken care of everything."
+    },
+    {
+     "en": "Come on, just leave it to me!"
+    },
+    {
+     "en": "Captain Rie, looks like our guests\nare here."
+    },
+    {
+     "en": "All right. Then let's have them come\nup to the bridge."
+    },
+    {
+     "en": "Name's Keek Caradine.\nThanks for having me."
+    },
+    {
+     "en": "And this guy here is..."
+    },
+    {
+     "en": "Mellowlink Arity...\nGood to meet you."
+    },
+    {
+     "en": "I'm Rie Akatsuki, the fleet commander.\nIt's a pleasure to meet you."
+    },
+    {
+     "en": "Still, there sure are a lot of young\nfaces on this ship..."
+    },
+    {
+     "en": "Um, the roster only lists you, Keek...\nWhat about Mellowlink...?"
+    },
+    {
+     "en": "Oh, uh, sorry.\nHere are the orders."
+    },
+    {
+     "en": "See, I begged the higher-ups at the last\nminute. Didn't feel too sure going in\nalone."
+    },
+    {
+     "en": "Besides, this guy's useful in real combat.\nUse him however you like."
+    },
+    {
+     "en": "O-Okay..."
+    },
+    {
+     "en": "Sorry...\nLooks like I've caused you some trouble."
+    },
+    {
+     "en": "No, it's fine, really."
+    },
+    {
+     "en": "Our fleet never turns anyone away!"
+    },
+    {
+     "en": "Heh... Appreciate it."
+    },
+    {
+     "en": "Mellow and Keek have joined the unit."
+    }
+   ],
+   "notes": "Seg 6: Mellowlink's '[jp]...' trails off; read as worry about his own unlisted assignment. Lun's [jp]/[jp] rendered with bare names (Keek's gender is unrecorded, so no Mr./Ms.). Segs 8, 12, 18-19 no header: Keek continuing. | [editorial 20] style sheet: stutter repeats the capital | [editorial 24] 'That's a help' stiff; Keek's casual [jp]",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "We're approaching Balarant-controlled\nterritory."
+    },
+    {
+     "en": "Emergency transmission from the\nBalarant Army!"
+    },
+    {
+     "en": "This is a warning!"
+    },
+    {
+     "en": "Our nation is currently in a state of\ntension with the Gilgamesh Army."
+    },
+    {
+     "en": "Should your forces enter our territory,\nwe will regard you as hostile and attack."
+    },
+    {
+     "en": "Looks like getting into Balarant is still\ntoo hard for now..."
+    },
+    {
+     "en": "We'll need some organization to mediate\nand smooth the way for us first."
+    },
+    {
+     "en": "Change course!\nWe're leaving Balarant airspace."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Looks like getting into Balarant is still\ntoo hard for now..."
+    },
+    {
+     "en": "Changing course!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "We've entered Balarant-controlled\nterritory."
+    },
+    {
+     "en": "Emergency transmission from the\nBalarant Army!"
+    },
+    {
+     "en": "We have received word from GAIL."
+    },
+    {
+     "en": "Your forces are granted permission to\ndock at \"Balarant\" and \"GAIL Town.\""
+    },
+    {
+     "en": "Rod Balboa here. So we're free to carry\nout our survey in Austral airspace?"
+    },
+    {
+     "en": "Of course.\nDo as you please."
+    },
+    {
+     "en": "However, our nation remains in a state\nof tension with Gilgamesh."
+    },
+    {
+     "en": "Therefore, should any unit mistake your\nforces for the enemy, our army will not\nacknowledge it."
+    },
+    {
+     "en": "Is that acceptable?"
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "Then, that is all!"
+    },
+    {
+     "en": "You can now enter Balarant."
+    }
+   ],
+   "notes": "[jp] not in glossary: 'GAIL Town' (GAIL as the company is spelled elsewhere).",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "We're getting a transmission from the\nDeloyer government."
+    },
+    {
+     "en": "Can you put it through?"
+    },
+    {
+     "en": "Yes!"
+    },
+    {
+     "en": "This city is administered by the\nDeloyer Autonomous State."
+    },
+    {
+     "en": "I'm sorry, but I must ask you to refrain\nfrom docking."
+    },
+    {
+     "en": "We have permission from the regular\nGilgamesh Army."
+    },
+    {
+     "en": "Couldn't we at least resupply?"
+    },
+    {
+     "en": "Not at present, I'm afraid."
+    },
+    {
+     "en": "The truth is, guerrillas demanding\nDeloyer's independence keep appearing,\nso we have declared martial law."
+    },
+    {
+     "en": "Hence, I must ask you not to dock."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "It's quite embarrassing..."
+    },
+    {
+     "en": "Once things have settled down, I would\nbe delighted to invite you all."
+    },
+    {
+     "en": "Understood. We'll put in at another\ncity instead."
+    },
+    {
+     "en": "I wish you a safe voyage.\nFarewell."
+    },
+    {
+     "en": "Rie... that man..."
+    },
+    {
+     "en": "What is it, Lun?"
+    },
+    {
+     "en": "That Lecoque fellow... He seems to be\nhiding something..."
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "He might have some connection to the\nRedros Army..."
+    },
+    {
+     "en": "Deloyer, huh... Isn't there some way we\ncould sneak in..."
+    },
+    {
+     "en": "Looks like they slammed the door in\nyour face."
+    },
+    {
+     "en": "We've got the Gilgamesh Army's seal of\napproval and everything... No dice."
+    },
+    {
+     "en": "Hahahaha!\nWell, don't be like that."
+    },
+    {
+     "en": "That place has had all kinds of trouble\nwith the independence uproar..."
+    },
+    {
+     "en": "Word is Lecoque, who was sent from the\ncapital, set up some political deals."
+    },
+    {
+     "en": "So we can't get in for a while?"
+    },
+    {
+     "en": "Isn't cutting your way in exactly what\nyou people do?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "That Redros Army you're after has ties\nto the regular Gilgamesh Army too."
+    },
+    {
+     "en": "Though, same as with you lot, the\nofficial answer is NO."
+    },
+    {
+     "en": "What did you say?"
+    },
+    {
+     "en": "Easy. You don't want to sour things with\nGilgamesh, do you?"
+    },
+    {
+     "en": "More importantly, have you heard that\nthe Deloyer 8th Army is attacking the\nBrave Continent?"
+    },
+    {
+     "en": "The Deloyer 8th Army...?"
+    },
+    {
+     "en": "The Gilgamesh Army's still locked in a\nstandoff with the Balarant Army."
+    },
+    {
+     "en": "So in the middle of all this, they tried\nto use the Deloyer forces to expand their\nreach."
+    },
+    {
+     "en": "So that's why the 8th Army made its\nmove..."
+    },
+    {
+     "en": "But the Brave Continent fought back\nharder than expected."
+    },
+    {
+     "en": "So the Deloyer forces started cutting\nback-room deals with the Redros Army."
+    },
+    {
+     "en": "Once that happens, the regular Gilgamesh\nArmy can't just look the other way."
+    },
+    {
+     "en": "Got to stop the kid from rebelling\nagainst the parent before it happens."
+    },
+    {
+     "en": "So that's why Gilgamesh wanted ties\nwith our fleet?"
+    },
+    {
+     "en": "Yeah, something like that."
+    },
+    {
+     "en": "Anyway, something stinks about what\nDeloyer's up to right now."
+    },
+    {
+     "en": "If you go to Brave, you might just dig\nup something on them."
+    },
+    {
+     "en": "I see. Thanks."
+    },
+    {
+     "en": "Nah.\nIt's all part of the job."
+    }
+   ],
+   "notes": "Seg 25 [jp] rendered 'the capital' (central government). Seg 36: subject left as 'they' -- read as Gilgamesh using the Deloyer forces (Kanji's reply and seg 41's parent/child image support it). Seg 37 source typo [jp] read as [jp]. [jp] -> Brave Continent (as in existing place-name strings). Segs 4, 8-9, 12 no header: Lecoque continuing. | [accuracy 16] Rie says [jp]; project decision: 'Miss Lun' from those who use the honorific (Rie uses 'Miss Lun' in most other units) | [editorial 44] 'Deloyer's moves stink' awkward; natural idiom for [jp] (suspicious) | [editorial 45] accuracy flag: [jp] = find some evidence; 'catch them by the tail' lost the 'something/evidence' sense",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "We haven't been granted permission to\ndock at Deloyer."
+    },
+    {
+     "en": "Please change course."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Hey, Crinn.\nHow's the Dougram doing?"
+    },
+    {
+     "en": "Good. I just finished the maintenance."
+    },
+    {
+     "en": "You were out somewhere, J. Locke.\nWhere'd you go?"
+    },
+    {
+     "en": "Oh, here and there."
+    },
+    {
+     "en": "But this time I came back with something.\nI've found out what became of Dr. Samarin."
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "The doctor is being held prisoner, but\nis safe, at any rate."
+    },
+    {
+     "en": "So? Where's the doctor now?"
+    },
+    {
+     "en": "At the Deloyer Army's home base."
+    },
+    {
+     "en": "Then, in Deloyer's capital?"
+    },
+    {
+     "en": "That's right.\nWe'll have to go in fully prepared."
+    },
+    {
+     "en": "Heh...\nThis is it, then."
+    },
+    {
+     "en": "I'm going to the bridge. I need them to\nadd Deloyer to the fleet's list of\ntargets."
+    },
+    {
+     "en": "...And that's the situation."
+    },
+    {
+     "en": "Dr. Samarin is the source of the Deloyer\nLiberation Front's cause, and is deeply\ntrusted by the people."
+    },
+    {
+     "en": "If we can rescue the doctor, we'll win\nthe support not only of Deloyer, but of\nmany other people as well."
+    },
+    {
+     "en": "I'd very much like you to put this\noperation into action."
+    },
+    {
+     "en": "Understood. I'll set Deloyer as one of\nthe fleet's capture targets."
+    },
+    {
+     "en": "Lun!"
+    },
+    {
+     "en": "Roger!\nDisplaying a marker on Deloyer."
+    },
+    {
+     "en": "The Deloyer capture operation has\nbegun."
+    }
+   ],
+   "notes": "Seg 3 '[jp]' is labelled Crinn Cashim in the data but is clearly J. Locke answering Crinn's question; translated as J. Locke. Dr. Samarin's gender is blank in speakers.tsv, so 'the doctor' is used instead of he/she. Seg 14: [jp] read as a typo for [jp] (trust/esteem). [jp] rendered literally as 'Deloyer Liberation Front' (not in glossary). | [accuracy 18] Rie's [jp] -> 'Miss Lun' per project decision | [editorial 18] late decision: Rie's [jp] = plain 'Lun' (page has no header but is Rie continuing; a speaker-based script would miss it)",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "We'll reach Deloyer soon."
+    },
+    {
+     "en": "We must settle things with Von Stein,\nand with Lecoque."
+    },
+    {
+     "en": "Man, it's amazing we've fought our\nway this far."
+    },
+    {
+     "en": "All right, let's do this!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "Impossible! My 8th Army..."
+    },
+    {
+     "en": "I'm no general from 200 years ago, but\nallow me to say it anyway:\n\"I shall return!\""
+    }
+   ],
+   "notes": "Lecoque quotes MacArthur's 'I shall return' (written in katakana English in the source).",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "The Deloyer 8th Army has withdrawn from\nthe city."
+    },
+    {
+     "en": "Message from the Infantry Squad."
+    },
+    {
+     "en": "Enemy resistance was extremely light.\nNo losses on our side."
+    },
+    {
+     "en": "Dr. Samarin has also been rescued\nsafely."
+    },
+    {
+     "en": "Set alert status to Level C."
+    },
+    {
+     "en": "We're docking at Deloyer."
+    }
+   ],
+   "notes": "[accuracy 4] 'Lower' was an added detail; source only says 'alert status to Level C' | [editorial 1] UI term: [jp] = 'Infantry Squad' (capitalised, as in the rest of the corpus) | [editorial 5] project term: [jp] = 'dock'",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Hello there.\nYou're looking well."
+    },
+    {
+     "en": "Doctor!\nIt's been so long!!"
+    },
+    {
+     "en": "You've grown into a fine young man,\nCrinn."
+    },
+    {
+     "en": "Word of the Fang of the Sun reached us\neven here."
+    },
+    {
+     "en": "Heheh!\nGuess we're kind of famous now."
+    },
+    {
+     "en": "Doctor, I apologize for taking so long\nto rescue you."
+    },
+    {
+     "en": "Thank you, J. Locke."
+    },
+    {
+     "en": "If you hadn't held the unit together,\nour movement would have collapsed."
+    },
+    {
+     "en": "But the fighting is far from over."
+    },
+    {
+     "en": "Yes...\nUnfortunately, it seems that way."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "I'm worried this battle might hurt our\nrelationship with the Gilgamesh Army."
+    },
+    {
+     "en": "Deloyer was one of Gilgamesh's\nautonomous states, after all..."
+    },
+    {
+     "en": "Yeah. In the end, it looks like we took\nDeloyer by force. No way the Gilgamesh\nArmy won't be wary of us."
+    },
+    {
+     "en": "You needn't worry about that."
+    },
+    {
+     "en": "The Gilgamesh military is enormous.\nIt was broad-minded enough to welcome\nyour fleet into its capital..."
+    },
+    {
+     "en": "That's true...\nHonestly, it surprised me."
+    },
+    {
+     "en": "Keek, you're there, aren't you? I imagine\nyou know the situation well?"
+    },
+    {
+     "en": "Ha ha, you got me.\nYou see right through everything."
+    },
+    {
+     "en": "That's right. To the Gilgamesh Army, the\nDeloyer forces hardly matter."
+    },
+    {
+     "en": "But once the Redros Army and the 8th Army\nteamed up on their own, they had to be\nkept in check."
+    },
+    {
+     "en": "Well, it got a little rough, but it looks\nlike the Gilgamesh Army will turn a blind\neye to this one."
+    },
+    {
+     "en": "Ugh, spare me... Political games, huh...\nI'm sure they've got all kinds of\nreasons, though."
+    },
+    {
+     "en": "Now, let's get to the point.\nIt was about the Redros Army, yes?"
+    },
+    {
+     "en": "Yes. Do you have any information?"
+    },
+    {
+     "en": "Hmm. At first glance, it may seem we're\nfree to move as we like in this country."
+    },
+    {
+     "en": "But the same goes for the Redros Army."
+    },
+    {
+     "en": "In other words, the Redros Army's moves\nare being camouflaged."
+    },
+    {
+     "en": "Exactly."
+    },
+    {
+     "en": "I was locked up, so I haven't gotten\nhold of any concrete information myself."
+    },
+    {
+     "en": "But while I was being held, a young man\nnamed Chirico came to see me."
+    },
+    {
+     "en": "I feel I glimpsed the Redros Army's\nshadow behind whatever he's chasing."
+    },
+    {
+     "en": "Then if we go after this Chirico..."
+    },
+    {
+     "en": "Chirico is most likely in \"Uoodo.\""
+    },
+    {
+     "en": "If you can make contact with him, you may\nlearn something."
+    },
+    {
+     "en": "And I'm sure he will cooperate with us."
+    },
+    {
+     "en": "Then let's hurry.\nTo Uoodo!"
+    }
+   ],
+   "notes": "[jp] -> 'Uoodo' (spelling already used in the character library entries; not in glossary). | [accuracy 23] object restored: [jp] = make contact with him (Chirico)",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "Displaying a marker on \"Uoodo.\""
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "We've arrived at Uoodo."
+    },
+    {
+     "en": "So Chirico's here..."
+    },
+    {
+     "en": "If it's a search, leave it to my unit."
+    },
+    {
+     "en": "Right.\nWe're counting on you."
+    },
+    {
+     "en": "A Gilgamesh Army battleship is\napproaching!"
+    },
+    {
+     "en": "Hm?\nThat's odd..."
+    },
+    {
+     "en": "Its formation's different from the\nregular army units deployed in this area."
+    },
+    {
+     "en": "All ships!\nGo on alert!"
+    },
+    {
+     "en": "Is that our target this time?"
+    },
+    {
+     "en": "Looks like it."
+    },
+    {
+     "en": "Let's show them what the Red Shoulders\ncan really do -- a souvenir to take to\nthe grave."
+    },
+    {
+     "en": "Roger that!"
+    }
+   ],
+   "notes": "[editorial 10] tacked-on fragment 'Something to take with them to the grave' smoothed; keeps the [jp] image",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "Heh... They've walked into the net."
+    },
+    {
+     "en": "All right!\nDon't let a single one get away!"
+    },
+    {
+     "en": "A new unit has entered the combat zone!"
+    },
+    {
+     "en": "Lock on to the target! Link tactical\ndata to the combat squads!"
+    },
+    {
+     "en": "Wait!\nThat's not an enemy!"
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "I'm Chirico Cuvie.\nI need to talk to you."
+    },
+    {
+     "en": "So you're Chirico. That saves us the\ntrouble of looking for you."
+    },
+    {
+     "en": "But talk can wait! Right now we deal\nwith the enemy in front of us!"
+    },
+    {
+     "en": "Understood...\nI'll lend a hand..."
+    }
+   ],
+   "notes": "[editorial 0] 'They're in the net' flat; natural trap phrasing ([jp]) | [editorial 8] 'talking comes later' stiff",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "Mellow...!\nThose guys are Red Shoulders!"
+    },
+    {
+     "en": "I heard that unit was disbanded after\nthe Battle of Sunsa..."
+    },
+    {
+     "en": "Looks like their old boss gathered the\nsurvivors and is up to something.\nDon't get in too deep."
+    },
+    {
+     "en": "I can't do that..."
+    },
+    {
+     "en": "Whoa, hey, you're seriously going to\ntake those guys on?"
+    },
+    {
+     "en": "I'll survive this..."
+    },
+    {
+     "en": "I still have something I have to do."
+    },
+    {
+     "en": "Heh...\nThen I'll be looking forward to it."
+    },
+    {
+     "en": "............"
+    }
+   ],
+   "notes": "[jp] -> 'the Battle of Sunsa' (Sunsa as in the library entries).",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "Impossible! We're supposed to be the\nstrongest soldiers there are!"
+    },
+    {
+     "en": "His Excellency's plan can't fail!"
+    },
+    {
+     "en": "Don't you get it?"
+    },
+    {
+     "en": "You've all been...\nabandoned by Pailsen!"
+    },
+    {
+     "en": "Th-That's a lie!"
+    },
+    {
+     "en": "Surrender. This fight is already\ndecided."
+    },
+    {
+     "en": "Ngh..."
+    },
+    {
+     "en": "Gwaaaaah!!"
+    },
+    {
+     "en": "............!!"
+    },
+    {
+     "en": "Did that one do it?!"
+    },
+    {
+     "en": "You bastard!\nWhat are you doing!!"
+    },
+    {
+     "en": "Die..."
+    },
+    {
+     "en": "Waaaaah!!"
+    },
+    {
+     "en": "Those reflexes...!"
+    },
+    {
+     "en": "That machine!\nIt attacked its own men?!"
+    },
+    {
+     "en": "Not even letting us take prisoners...\nThat's ruthlessly thorough..."
+    },
+    {
+     "en": "............"
+    }
+   ],
+   "notes": "Seg 9 [jp]: Chirico does not yet know who the pilot is, so 'that one'. Seg 13 [jp] rendered 'reflexes' (reaction speed). Seg 1 [jp] = Pailsen ('His Excellency'). | [editorial 4] style sheet: stutter repeats the capital",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "Enemy unit...\nwiped out..."
+    },
+    {
+     "en": "Wiped out... Damn it all..."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "We're docking at Uoodo..."
+    }
+   ],
+   "notes": "[editorial 3] project term: [jp] = 'dock'",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "\"Operations Room\""
+    },
+    {
+     "en": "That blue AT...\nThose were no ordinary moves."
+    },
+    {
+     "en": "Wasn't that one the real Red Shoulder?"
+    },
+    {
+     "en": "No...\nThat was a PS."
+    },
+    {
+     "en": "A PS?"
+    },
+    {
+     "en": "A Perfect Soldier."
+    },
+    {
+     "en": "The perfect soldier dreamed up by\nPailsen, founder of the Red Shoulders."
+    },
+    {
+     "en": "Didn't think they were still pushing\nthat research..."
+    },
+    {
+     "en": "The Redros Army was among their\nsources of funding."
+    },
+    {
+     "en": "The enemy you're after should be there\ntoo."
+    },
+    {
+     "en": "You know where Pailsen is?"
+    },
+    {
+     "en": "I have a rough idea."
+    },
+    {
+     "en": "But first, go to \"Kummen.\"\nAn old comrade of mine is there."
+    },
+    {
+     "en": "Oh? Didn't think you had comrades..."
+    },
+    {
+     "en": "...They're ex-Red Shoulders.\nI'd like to bring them along if I can."
+    },
+    {
+     "en": "I don't mind, but why?"
+    },
+    {
+     "en": "They're tracking Pailsen too."
+    },
+    {
+     "en": "Combined with the leads I have, we\nshould be able to pin down where the\nbase is."
+    },
+    {
+     "en": "I see.\nThen our course is set."
+    },
+    {
+     "en": "Chirico has joined the unit."
+    },
+    {
+     "en": "Chirico's Scopedog has been deployed."
+    },
+    {
+     "en": "Lun, we've decided our next destination.\nPlease add \"Kummen\" to our objectives."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Displaying a marker on \"Kummen.\""
+    }
+   ],
+   "notes": "[jp] / [jp] -> 'PS' (Perfect Soldier). Seg 12 [jp] kept singular per the Japanese; seg 14 reveals they are several. | [accuracy 21] Rie's [jp] -> 'Miss Lun' per project decision | [accuracy 14] subject/verb restored: Chirico is answering Keek about his comrades | [editorial 1] accuracy flag: 'moved like no ordinary pilot' mixed machine and pilot; [jp] is about the movement",
+   "status": "proofread"
+  },
+  {
+   "id": 24,
+   "segments": [
+    {
+     "en": "We're almost at Kummen, right...?"
+    },
+    {
+     "en": "Multiple moving targets confirmed!"
+    },
+    {
+     "en": "Units are deploying!\nIncoming fire!!"
+    },
+    {
+     "en": "Halt! We cannot let you pass beyond\nthis point."
+    },
+    {
+     "en": "Heh heh! Orders from above.\nNo hard feelings!"
+    },
+    {
+     "en": "Chirico, what's going on here?"
+    },
+    {
+     "en": "That's the enemy.\nWe'll drive them off!"
+    },
+    {
+     "en": "That's not what I meant...!"
+    },
+    {
+     "en": "This is a mercenary base. It gets used\na lot for off-the-books operations."
+    },
+    {
+     "en": "Means Pailsen's got a lot of pull\ninside the military..."
+    },
+    {
+     "en": "Looks like someone pulled strings\nahead of us."
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "We're taking the base!\nLet's go!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 25,
+   "segments": [
+    {
+     "en": "Hehhehheh!\nI'll crush you!"
+    },
+    {
+     "en": "First wave!\nAdvance!!"
+    },
+    {
+     "en": "Here they come!!"
+    },
+    {
+     "en": "Kanji,\ngive me a moment."
+    },
+    {
+     "en": "Gregore, can you hear me?"
+    },
+    {
+     "en": "Well, well!\nIf it isn't Chirico!"
+    },
+    {
+     "en": "Chirico?!\nYou're alive?!"
+    },
+    {
+     "en": "I heard you'd all be gathering here..."
+    },
+    {
+     "en": "Heh... There's no way you'd die.\nI figured you'd show up."
+    },
+    {
+     "en": "Still, you brought quite a crowd with\nyou."
+    },
+    {
+     "en": "Who cares? Anyway, now the whole gang's\nhere."
+    },
+    {
+     "en": "We're done with this place."
+    },
+    {
+     "en": "Shall we?"
+    },
+    {
+     "en": "Heh! Our first party in ages!\nLet's make it a big one!!"
+    },
+    {
+     "en": "Y-You bastards!\nTraitors get shot!!"
+    },
+    {
+     "en": "Heh...!\nLike we care!"
+    }
+   ],
+   "notes": "[editorial 14] style sheet: stutter repeats the capital",
+   "status": "proofread"
+  },
+  {
+   "id": 26,
+   "segments": [
+    {
+     "en": "Grrrr!!\nThose bastards!!"
+    },
+    {
+     "en": "We're at a disadvantage like this.\nFall back for now!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 27,
+   "segments": [
+    {
+     "en": "Enemy units are retreating."
+    },
+    {
+     "en": "No threats in the vicinity."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 28,
+   "segments": [
+    {
+     "en": "Chirico, you're saying we team up with\nthis fleet?"
+    },
+    {
+     "en": "Right now, this unit is short on AT\npilots."
+    },
+    {
+     "en": "To form an AT squad, we need skilled\ninstructors."
+    },
+    {
+     "en": "So you want to hire us ex-Red Shoulders,\nhuh?"
+    },
+    {
+     "en": "But that'd throw off the plan we've been\nputting together."
+    },
+    {
+     "en": "If you're after Pailsen, this is the\nright place to be."
+    },
+    {
+     "en": "The organization backing him worries\nme... It's more than we can handle on\nour own."
+    },
+    {
+     "en": "I see.\nSo that's how it is."
+    },
+    {
+     "en": "I'm fine with it."
+    },
+    {
+     "en": "If it means I get to kill him, I'd shake\nhands with the devil himself."
+    },
+    {
+     "en": "Byman...\nWhat about you?"
+    },
+    {
+     "en": "Heh...\nChirico's vouching for it. I'm in."
+    },
+    {
+     "en": "Heh!\nThen it's settled!"
+    },
+    {
+     "en": "Chirico, we're counting on you for the\nrest!"
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "Gregore and the others have joined the\nunit, and an AT training squad has been\nformed."
+    },
+    {
+     "en": "You can now train AT pilots."
+    }
+   ],
+   "notes": "Seg 5 source typo [jp] [jp] read as [jp]. Seg 6 [jp] read as [jp].",
+   "status": "proofread"
+  },
+  {
+   "id": 29,
+   "segments": [
+    {
+     "en": "Chirico, have you pinpointed the enemy\nbase?"
+    },
+    {
+     "en": "Yeah...\nEnter these coordinates."
+    },
+    {
+     "en": "Got it.\nMarking those coordinates now."
+    },
+    {
+     "en": "It's closer than I thought..."
+    },
+    {
+     "en": "This will probably be a fierce battle.\nMake sure you're fully prepared."
+    },
+    {
+     "en": "Got it."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 30,
+   "segments": [
+    {
+     "en": "Enemy unit spotted!"
+    },
+    {
+     "en": "All ships, battle stations!!"
+    },
+    {
+     "en": "So you've sniffed us out...\nChirico..."
+    },
+    {
+     "en": "Proto One, Epsilon.\nYou know what to do?"
+    },
+    {
+     "en": "Eliminate Chirico.\nThat's all."
+    },
+    {
+     "en": "Good."
+    },
+    {
+     "en": "It's time.\nI'm heading out!"
+    },
+    {
+     "en": "Ah, Epsilon...!"
+    },
+    {
+     "en": "Proto One! In this battle, you will cut\naway the illusions you hold about\nChirico."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "What are you doing! Without our\nprotection, you don't even have a\nreason to exist!"
+    },
+    {
+     "en": "Go, and carry out your duty!"
+    },
+    {
+     "en": "...Understood."
+    },
+    {
+     "en": "It seems Proto One is incomplete."
+    },
+    {
+     "en": "Yes... She came into contact with\nChirico before she awakened."
+    },
+    {
+     "en": "But it's had a good effect on Epsilon's\ndevelopment."
+    },
+    {
+     "en": "Stoking his rivalry with Chirico to\nspeed up his completion as a PS,\nI take it."
+    },
+    {
+     "en": "However, as the data shows, Chirico's\nlatent ability is immeasurable."
+    },
+    {
+     "en": "Can Epsilon, as he is now, really stand\nup to him, I wonder?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "It's time I returned to the fleet.\nI'll be taking my leave."
+    },
+    {
+     "en": "Oh, and one more thing. This base will\nhave to be abandoned. Hurry the\nwithdrawal along."
+    },
+    {
+     "en": "Naturally. That was my intention."
+    },
+    {
+     "en": "Then the rest goes as arranged."
+    },
+    {
+     "en": "Epsilon can't beat Chirico...?"
+    },
+    {
+     "en": "How much does he know about Chirico's\nsecret...?"
+    },
+    {
+     "en": "Chirico Cuvie...\nThat man is a dangerous being."
+    }
+   ],
+   "notes": "Seg 25 [jp] = Rochina (Pailsen musing after Rochina leaves). Seg 14 'She' = Proto One (Fyana, female per glossary). | [editorial 26] accuracy flag: 'a dangerous existence' stiff; 'being' keeps [jp]",
+   "status": "proofread"
+  },
+  {
+   "id": 32,
+   "segments": [
+    {
+     "en": "Your Excellency! It's too dangerous to\nstay any longer! We must withdraw!!"
+    },
+    {
+     "en": "Hurry and recover Epsilon!\nWhat happened to Proto One?!"
+    },
+    {
+     "en": "Epsilon has returned to the ship.\nBut Proto One's whereabouts are unknown!"
+    },
+    {
+     "en": "Mmh..."
+    },
+    {
+     "en": "It can't be helped...\nWe're abandoning Proto One!"
+    },
+    {
+     "en": "Withdrawing!!"
+    }
+   ],
+   "notes": "Seg 0 [jp] rendered 'Your Excellency' (name dropped to fit natural address). Seg 4 [jp] read as [jp]. | [editorial 4] 'We abandon Proto One' stilted as a spoken order",
+   "status": "proofread"
+  },
+  {
+   "id": 33,
+   "segments": [
+    {
+     "en": "The enemy fleet is retreating."
+    },
+    {
+     "en": "We'll investigate the base.\nPrepare to dock."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 34,
+   "segments": [
+    {
+     "en": "We'll begin investigating the base.\nSurvey staff, proceed as instructed."
+    },
+    {
+     "en": "I know, chief!"
+    },
+    {
+     "en": "Maybe I'll go take a look too..."
+    }
+   ],
+   "notes": "Seg 0 [jp] read as [jp].",
+   "status": "proofread"
+  },
+  {
+   "id": 35,
+   "segments": [
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "That thing over there...\nIsn't that an AT?!"
+    },
+    {
+     "en": "Well, well... This one still looks\nusable."
+    },
+    {
+     "en": "Let's haul it in!"
+    },
+    {
+     "en": "Right!"
+    },
+    {
+     "en": "Kanji, leave this one to us."
+    },
+    {
+     "en": "Yeah, I'm counting on you."
+    },
+    {
+     "en": "Machine recovered:\nBlood Sucker"
+    }
+   ],
+   "notes": "System line [jp] uses 'Machine recovered:' (modelled on the 'Machine added:' format; [jp] = recovered). | [editorial 6] 'thanks a lot' can read sarcastic; [jp]",
+   "status": "proofread"
+  },
+  {
+   "id": 36,
+   "segments": [
+    {
+     "en": "Hm? There's an AT over there...!"
+    },
+    {
+     "en": "This one's usable."
+    },
+    {
+     "en": "Let's haul it out of here, quick!"
+    },
+    {
+     "en": "Kanji, leave the rest to us."
+    },
+    {
+     "en": "Yeah, you're right.\nI'll leave it to you."
+    },
+    {
+     "en": "Machine recovered:\nScopedog RSC"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 37,
+   "segments": [
+    {
+     "en": "Fyana! It's me!\nWake up!"
+    },
+    {
+     "en": "Ah... Chirico..."
+    },
+    {
+     "en": "I..."
+    },
+    {
+     "en": "Let's go... You're not Pailsen's\npuppet anymore."
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "Chirico, what's wrong?\nWho's that?"
+    },
+    {
+     "en": "It's Fyana..."
+    },
+    {
+     "en": "...She looks really weak.\nLet's get her to sickbay, quick."
+    },
+    {
+     "en": "Sorry..."
+    },
+    {
+     "en": "Knock it off!\nIt's the least we could do."
+    },
+    {
+     "en": "Come on, let's go!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 38,
+   "segments": [
+    {
+     "en": "Sickbay's this way."
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "Are you all right,\nFyana?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Let's hurry..."
+    },
+    {
+     "en": "Right."
+    },
+    {
+     "en": "\"Sickbay\""
+    },
+    {
+     "en": "So what else do we need to do?"
+    },
+    {
+     "en": "We need Jijirium."
+    },
+    {
+     "en": "Jijirium, huh... I can arrange it, but...\nthis much is gonna cost a fortune."
+    },
+    {
+     "en": "I have money I've saved up all this time.\nUse all of it."
+    },
+    {
+     "en": "And you can put every bit of the pay\nI get from this fleet toward it, too."
+    },
+    {
+     "en": "Whoa, whoa. You don't have to shoulder\nthat on your own."
+    },
+    {
+     "en": "Fyana is a PS. A prototype PS\ncreated by Pailsen..."
+    },
+    {
+     "en": "Huh?\nShe is?"
+    },
+    {
+     "en": "Keeping a PS's body alive takes a huge\namount of Jijirium... So that's it..."
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "And? Once she's revived,\nwhat are you going to do with her?"
+    },
+    {
+     "en": "I want you to keep her here\nuntil this fight is settled..."
+    },
+    {
+     "en": "I know it's a lot to ask. But I'll work\nhard enough to make up for it."
+    },
+    {
+     "en": "Don't worry about that."
+    },
+    {
+     "en": "This ship can take Fyana in.\nYou just carry on like you have been.\nIt'll be fine."
+    },
+    {
+     "en": "I see... Thank you."
+    },
+    {
+     "en": "Fyana has joined the unit."
+    },
+    {
+     "en": "Brutishdog has been deployed."
+    },
+    {
+     "en": "An alarm?!"
+    },
+    {
+     "en": "Sounds like something's happened\noutside..."
+    },
+    {
+     "en": "I'm going to the bridge!!"
+    },
+    {
+     "en": "What's going on?!\nWhat happened?!"
+    },
+    {
+     "en": "Word is the Balarant Army has launched\nmilitary action at Sunsa."
+    },
+    {
+     "en": "They broke the ceasefire agreement?"
+    },
+    {
+     "en": "Looks like it..."
+    },
+    {
+     "en": "I don't know what set it off,\nthough..."
+    },
+    {
+     "en": "A fleet, probably hostile, is deploying!!\nIt'll be over this base any moment!"
+    },
+    {
+     "en": "Prepare for launch!!\nHurry!!"
+    },
+    {
+     "en": "If we \"Depart,\" there'll be a battle.\nWe need to get ready with that in mind."
+    },
+    {
+     "en": "Yes, I know!"
+    }
+   ],
+   "notes": "Jijirium ([jp]) is not in the glossary: romanized 'Jijirium'. Seg 22 [jp] rendered 'Thank you' (gratitude for taking Fyana in). Seg 24 [jp] = glossary Brutishdog. Seg 21 [jp] read as 'no need to pay or change anything; carry on as before'.",
+   "status": "proofread"
+  },
+  {
+   "id": 39,
+   "segments": [
+    {
+     "en": "(Balarant's fleet attacking a Gilgamesh\nbase... The wider the fires of war\nspread, the better.)"
+    },
+    {
+     "en": "Attention, all forces! We will wipe the\nGilgamesh base off the map!\nBattle stations!"
+    },
+    {
+     "en": "Charge!\nDrive off the enemy defense fleet!!"
+    }
+   ],
+   "notes": "Seg 1 has no header; taken as Rochina (now commanding the Balarant attack). [jp] rendered as the fires of war spreading wide.",
+   "status": "proofread"
+  },
+  {
+   "id": 41,
+   "segments": [
+    {
+     "en": "Heh...\nThis is as far as it goes."
+    },
+    {
+     "en": "But the strategic objective\nhas been achieved."
+    },
+    {
+     "en": "Commander Rochina!\nYou must escape!!"
+    },
+    {
+     "en": "I'm coming!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 42,
+   "segments": [
+    {
+     "en": "The remaining enemy fleet is retreating!"
+    },
+    {
+     "en": "But now this continent is going\nto be plunged into war..."
+    },
+    {
+     "en": "As usual, it looks like Rochina\nwas pulling the strings..."
+    },
+    {
+     "en": "Damn it! So in the end it all went\nthe way the Redros Army wanted!"
+    },
+    {
+     "en": "The Hundred Years' War, huh...\nIt was only ever a short ceasefire\nafter all..."
+    },
+    {
+     "en": "This war couldn't have been stopped.\nIt just started a little sooner,\nthat's all."
+    },
+    {
+     "en": "Unless we cut it off at the root,\nthe fighting will never end."
+    },
+    {
+     "en": "Yeah, that's right..."
+    },
+    {
+     "en": "So where all that Jijirium ended up,\nthere was PS research waiting."
+    },
+    {
+     "en": "The platoon I was in\nwas sacrificed for it."
+    },
+    {
+     "en": "But that battle is still erased\nfrom the military's records."
+    },
+    {
+     "en": "To give priority to shipping a huge load\nof Jijirium stolen from Balarant,"
+    },
+    {
+     "en": "the top brass abandoned a certain\nplatoon on the front line."
+    },
+    {
+     "en": "And that was your platoon,\nthe Schweps Platoon..."
+    },
+    {
+     "en": "The whole platoon was wiped out--\nall except me."
+    },
+    {
+     "en": "But you know, it'd be wrong\nto hold it against Chirico or Fyana."
+    },
+    {
+     "en": "I know that.\nThe enemy I have to bring down\nis somebody else."
+    },
+    {
+     "en": "I heard everything. I'll lend you\na hand, Mellow!"
+    },
+    {
+     "en": "Heh... I lost my arm, and this guy\neven had his family taken from him.\nAll for the sake of that project."
+    },
+    {
+     "en": "Stick with this fleet, and we might get\nto finish them all off in one go."
+    },
+    {
+     "en": "The PS project... and the bastards\nwho started this idiotic war!"
+    },
+    {
+     "en": "Hey, Mellow, how about forming\na platoon with us?"
+    },
+    {
+     "en": "Do that, and the Schweps Platoon\nmight rest a little easier."
+    },
+    {
+     "en": "Gregore..."
+    },
+    {
+     "en": "That deal... Mind if I get\na piece of it too?"
+    },
+    {
+     "en": "Heh... The intelligence man, huh?\nGuess you'd be Carson's replacement."
+    },
+    {
+     "en": "Heh!\nAin't that the truth!"
+    },
+    {
+     "en": "Carson?"
+    },
+    {
+     "en": "Yeah, an old buddy of ours."
+    },
+    {
+     "en": "Anyway, let's all get along!"
+    },
+    {
+     "en": "The Bottoms Platoon has been formed."
+    },
+    {
+     "en": "Members' AT levels have risen by 5."
+    }
+   ],
+   "notes": "Seg 18 [jp] (whose family was taken) is not named; kept as 'this guy' (probably Murza, beside Byman). Seg 20 continues Gregore's [jp]... sentence; [jp] rendered 'the bastards' to carry Mellowlink's anger -- could be the neutral 'the ones'. Seg 30 [jp] -> 'Bottoms Platoon' (library uses 'Bottoms' for the slang); not in glossary. Carson per glossary (Virgil Carson, intelligence spy in the Red Shoulders). | [accuracy 1] tense: [jp] is about to happen (the enemy fleet has only just retreated), not already done | [accuracy 4] subject restored and [jp] (it was only ever) carried | [editorial 31] plural agreement / natural system line",
+   "status": "proofread"
+  },
+  {
+   "id": 43,
+   "segments": [
+    {
+     "en": "Austral Island is Balarant-controlled\nterritory. We can't enter it right now."
+    },
+    {
+     "en": "Changing course!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 44,
+   "segments": [
+    {
+     "en": "GAIL Town is on the shore\nacross from Austral Island."
+    },
+    {
+     "en": "That's one big dome..."
+    },
+    {
+     "en": "It's a fortress city GAIL built to\nsurvey Austral. And they made me chief\nof the branch there."
+    },
+    {
+     "en": "Things'll be more flexible for us there.\nHead for the town first."
+    }
+   ],
+   "notes": "[editorial 2] 'I got made chief' awkward | [editorial 3] accuracy flag: 'bend the rules' added a rule-breaking nuance; [jp] = accommodating/flexible",
+   "status": "proofread"
+  },
+  {
+   "id": 45,
+   "segments": [
+    {
+     "en": "Before we go into Austral,\nstop by GAIL Town."
+    },
+    {
+     "en": "Changing course."
+    }
+   ],
+   "notes": "[editorial 0] 'Before... first' redundant",
+   "status": "proofread"
+  },
+  {
+   "id": 46,
+   "segments": [
+    {
+     "en": "Transmission from GAIL Town!\nIt's for you, Rod."
+    },
+    {
+     "en": "Can you put it through right away?"
+    },
+    {
+     "en": "Sure."
+    },
+    {
+     "en": "Chief!\nWe've got trouble!!"
+    },
+    {
+     "en": "What's this all of a sudden?!\nWe're getting ready to dock.\nMake it quick."
+    },
+    {
+     "en": "This can't wait! A huge army of\nhumanoids is closing in from the\ncenter of the island!!"
+    },
+    {
+     "en": "What are you panicking for!\nWhat about the tank corps?!"
+    },
+    {
+     "en": "We hit them with concentrated fire,\nbut they didn't even flinch!!"
+    },
+    {
+     "en": "The Horse's Saddle defense line\nhas been broken!!"
+    },
+    {
+     "en": "...What?"
+    },
+    {
+     "en": "I'm on my way!\nHold out until I get there!!"
+    },
+    {
+     "en": "R-Roger!!"
+    },
+    {
+     "en": "GAIL Town is still standing.\nDock there and regroup."
+    },
+    {
+     "en": "Understood.\nWe'll put in at GAIL Town!"
+    }
+   ],
+   "notes": "Speaker header 'HOLD Trooper' is a reused portrait; the caller is a GAIL Town trooper addressing Rod as [jp] ('Chief', branch chief). [jp] not in glossary: 'Horse's Saddle' (place name, literal). | [editorial 11] style sheet: stutter repeats the capital",
+   "status": "proofread"
+  },
+  {
+   "id": 47,
+   "segments": [
+    {
+     "en": "Kanji..."
+    },
+    {
+     "en": "What's wrong, Lun?"
+    },
+    {
+     "en": "I feel... a terrible... chill...\nThe feel of this enemy...\nI've felt it once before..."
+    },
+    {
+     "en": "No way...\nThe Mediator?"
+    },
+    {
+     "en": "I don't know... But...\nwhat's beyond Austral's gate...\nis probably close to it..."
+    },
+    {
+     "en": "So we're finally closing in\non the core, huh?"
+    },
+    {
+     "en": "Kanji, be careful..."
+    },
+    {
+     "en": "Don't be fooled by\nhow they look..."
+    },
+    {
+     "en": "Got it.\nThanks, Lun."
+    },
+    {
+     "en": "If you depart, a battle will begin."
+    }
+   ],
+   "notes": "Seg 3 [jp] per glossary (Mediator, kind: ship).",
+   "status": "proofread"
+  },
+  {
+   "id": 48,
+   "segments": [
+    {
+     "en": "The enemy's right on top of us!!"
+    },
+    {
+     "en": "GAIL's private army is in trouble!!"
+    },
+    {
+     "en": "We're going into battle immediately!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 49,
+   "segments": [
+    {
+     "en": "The defense line is still holding.\nCan we push them back from here?"
+    },
+    {
+     "en": "Let's do our best."
+    },
+    {
+     "en": "Guardians, rain the lightning of\njudgment down upon these\nfoolish humans."
+    },
+    {
+     "en": "What's that blue machine...!"
+    },
+    {
+     "en": "Don't shoot!\nThat one's on our side...!"
+    },
+    {
+     "en": "She's right... Looks like that\nblue one's been holding\nthe defense line..."
+    },
+    {
+     "en": "That's...!\nYuu's Gorg!!"
+    },
+    {
+     "en": "Yuu, were you protecting this place\nwith Gorg?"
+    },
+    {
+     "en": "...You've got some nerve!\nYou're unbelievable...!"
+    },
+    {
+     "en": "After all the hell you put me and Gorg\nthrough, now you want to rely on us...\nThat's way too convenient!"
+    },
+    {
+     "en": "Sorry...\nI had no other choice."
+    },
+    {
+     "en": "You're a terrible person!\nYou opened the gate\nwith your dirty dealings!"
+    },
+    {
+     "en": "And because of that, something\nterrible is about to happen!!"
+    },
+    {
+     "en": "Kid! I don't know a thing\nabout the gate!!"
+    },
+    {
+     "en": "That was something\nmy old man started!"
+    },
+    {
+     "en": "It's all the same!\nYou people are all the same!"
+    },
+    {
+     "en": "Is it because I'm here\nthat you won't help us, Yuu...?"
+    },
+    {
+     "en": "...I'll fight."
+    },
+    {
+     "en": "But I'm not fighting for you!\nDon't you ever forget that!"
+    },
+    {
+     "en": "Yuu and Gorg have joined the unit."
+    }
+   ],
+   "notes": "Seg 5 'She's right' refers to Lun (female). Seg 6 [jp] reading gloss dropped. Seg 14 [jp] kept as 'my old man' as written (Rod's library entry names his grandfather as GAIL chairman). | [editorial 8] accuracy flag: [jp] is exasperation, not a comparison ('of all people') | [editorial 11] style sheet: 'gate' lowercase (common noun) | [editorial 13] style sheet: 'gate' lowercase (common noun)",
+   "status": "proofread"
+  },
+  {
+   "id": 50,
+   "segments": [
+    {
+     "en": "Insolent humans..."
+    },
+    {
+     "en": "One day you will come to know\nthe greatness of Galfa."
+    },
+    {
+     "en": "That wasn't the end of it...\nThat was nothing...!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 51,
+   "segments": [
+    {
+     "en": "The remaining enemies are falling back\ninto the mountains."
+    },
+    {
+     "en": "No enemies in the air! We can approach\nthe area around the gate!"
+    },
+    {
+     "en": "Are we charging straight into the gate?\nThere's space on the other side."
+    },
+    {
+     "en": "Space, huh... Then I'd better\nadjust our squad setup..."
+    }
+   ],
+   "notes": "Seg 3 [jp] is not in quotes here, so written as plain 'squad setup' (UI 'Squad Setup'). | [editorial 1] style sheet: 'gate' lowercase (common noun) | [editorial 2] style sheet: 'gate' lowercase (common noun)",
+   "status": "proofread"
+  },
+  {
+   "id": 52,
+   "segments": [
+    {
+     "en": "Infantry Squad spotted on the ground!"
+    },
+    {
+     "en": "Enemies, in a place like this?"
+    },
+    {
+     "en": "Maybe they're guarding something..."
+    }
+   ],
+   "notes": "[editorial 0] UI term: [jp] = 'Infantry Squad' (capitalised, as in the rest of the corpus)",
+   "status": "proofread"
+  },
+  {
+   "id": 55,
+   "segments": [
+    {
+     "en": "Enemy forces repelled."
+    },
+    {
+     "en": "Docking at Sai Village."
+    }
+   ],
+   "notes": "[jp] not in glossary: romanized 'Sai Village'.",
+   "status": "proofread"
+  },
+  {
+   "id": 56,
+   "segments": [
+    {
+     "en": "This place must be some kind\nof ruins, I guess..."
+    },
+    {
+     "en": "Yeah... This is the entrance\nto the ruins of Manon's people."
+    },
+    {
+     "en": "It's all blocked off now,\nthough..."
+    },
+    {
+     "en": "Who's Manon?"
+    },
+    {
+     "en": "The leader of the people who\nbuilt the Guardians."
+    },
+    {
+     "en": "They had way more advanced science\nthan us."
+    },
+    {
+     "en": "Manon and the others came to Austral\ntens of thousands of years ago, and\nthey've been asleep ever since."
+    },
+    {
+     "en": "Until GAIL came and tore up\nthis island, anyway..."
+    },
+    {
+     "en": "Then that huge army of Guardians\nwas Manon's doing?"
+    },
+    {
+     "en": "No, that wasn't them."
+    },
+    {
+     "en": "Manon's not here\nanymore..."
+    },
+    {
+     "en": "Some other aliens took over\nthe Guardians."
+    },
+    {
+     "en": "So that's how it was..."
+    },
+    {
+     "en": "(Other aliens, huh...\n Maybe... the Mediator...)"
+    },
+    {
+     "en": "Ah!\nThat's...!"
+    },
+    {
+     "en": "Whoa! Isn't that\na Guardian?!"
+    },
+    {
+     "en": "It's okay. Looks like it\ncan't move right now."
+    },
+    {
+     "en": "I'll have Gorg carry it\nto the ship."
+    },
+    {
+     "en": "I see.\nThen I'll leave it to you!"
+    },
+    {
+     "en": "Guardian recovered."
+    }
+   ],
+   "notes": "[jp] not in glossary: romanized 'Manon'; gender unknown, so no pronouns used for Manon. Seg 5 'than us' added to complete the comparison ([jp]). | [accuracy 1] [jp] restored: the ruins belong to Manon's group, not Manon alone (sets up 'leader' in k4)",
+   "status": "proofread"
+  },
+  {
+   "id": 57,
+   "segments": [
+    {
+     "en": "We're closing in on the pillar of light."
+    },
+    {
+     "en": "Space at last."
+    },
+    {
+     "en": "Huh?\nWhat is this?!"
+    },
+    {
+     "en": "What's wrong?"
+    },
+    {
+     "en": "Something huge is coming out!!"
+    },
+    {
+     "en": "What the heck is that?!"
+    },
+    {
+     "en": "This is far too conspicuous.\nIsn't it still too early?"
+    },
+    {
+     "en": "Those people cannot be\nallowed through."
+    },
+    {
+     "en": "That is the only reason I summoned\nthe Spiral Castle."
+    },
+    {
+     "en": "Kanji, can you hear me!"
+    },
+    {
+     "en": "As you are now, you're no match for it.\nGo back and try again!"
+    },
+    {
+     "en": "Omega! So you're mixed up\nin this after all!"
+    },
+    {
+     "en": "Big Bro...\nIs our squad setup okay?"
+    },
+    {
+     "en": "Not really..."
+    },
+    {
+     "en": "That fortress doesn't seem inclined\nto move from there..."
+    },
+    {
+     "en": "The only way through the gate is to\ndestroy it, but there's no need to rush."
+    },
+    {
+     "en": "Let's work out a solid plan\nbefore we attack."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "The Spiral Castle is blocking the gate."
+    },
+    {
+     "en": "Approaching it will start a battle,\nso get ready before you go in."
+    }
+   ],
+   "notes": "Seg 10 [jp] is used in its common (inverted) sense: 'you're no match for it'. Seg 13 [jp] rendered 'Not really...' (Kanji admitting the setup isn't ready). | [editorial 0] 'We've approached' stiff | [editorial 15] style sheet: 'gate' lowercase (common noun) | [editorial 18] style sheet: 'gate' lowercase (common noun)",
+   "status": "proofread"
+  },
+  {
+   "id": 58,
+   "segments": [
+    {
+     "en": "Approaching the Spiral Castle!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 61,
+   "segments": [
+    {
+     "en": "Spiral Castle destroyed."
+    },
+    {
+     "en": "You can now pass through the gate."
+    }
+   ],
+   "notes": "[editorial 1] style sheet: 'gate' lowercase (common noun); passive smoothed to match 'You can now enter Balarant.'",
+   "status": "proofread"
+  },
+  {
+   "id": 62,
+   "segments": [
+    {
+     "en": "We're approaching Deloyer."
+    },
+    {
+     "en": "This is the capital of the Deloyer\nAutonomous State. Preparations for\nthe alliance are complete."
+    },
+    {
+     "en": "Good!\nTake us in."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 63,
+   "segments": [
+    {
+     "en": "We've been expecting you,\nCommander Rochina."
+    },
+    {
+     "en": "I am also an officer\nof Gilgamesh."
+    },
+    {
+     "en": "Support for Deloyer, as our province,\nwill only grow stronger."
+    },
+    {
+     "en": "But Gilgamesh headquarters says it\ncan't spare any forces. Are you sure\nthis will be all right?"
+    },
+    {
+     "en": "I imagine it would say that..."
+    },
+    {
+     "en": "The ceasefire treaty with Balarant may\nstill be in effect, but tension between\nthe two nations is rising."
+    },
+    {
+     "en": "However, there's no need\nfor concern."
+    },
+    {
+     "en": "The Redros Army's forces alone should\ntake the Brave Continent with ease."
+    },
+    {
+     "en": "I'm relieved to hear it. The Deloyer\ngovernment will spare no effort\nin cooperating with you."
+    },
+    {
+     "en": "We have secured solid connections with\nthe multinational corporation GAIL."
+    },
+    {
+     "en": "Thanks to that, supplies to the\nexpeditionary force are flowing\nwithout delay."
+    },
+    {
+     "en": "GAIL also has strong influence\nover Brave's media."
+    },
+    {
+     "en": "It will come in handy for steering\npublic opinion once the Brave\nContinent is ours."
+    },
+    {
+     "en": "Heh... With you in charge, it seems\neverything will go smoothly."
+    },
+    {
+     "en": "Leave it to me."
+    },
+    {
+     "en": "Alliance formed with the Deloyer Army."
+    }
+   ],
+   "notes": "Seg 2 [jp]: 'as our province' (Rochina speaking as a Gilgamesh officer).",
+   "status": "proofread"
+  },
+  {
+   "id": 64,
+   "segments": [
+    {
+     "en": "This is Odon Base. Pailsen and his Red\nShoulder unit are hiding out here."
+    },
+    {
+     "en": "Very well.\nI leave the rest to you."
+    },
+    {
+     "en": "Understood."
+    }
+   ],
+   "notes": "[jp] not in glossary: romanized 'Odon Base'.",
+   "status": "proofread"
+  },
+  {
+   "id": 65,
+   "segments": [
+    {
+     "en": "You seem to have settled nicely into\nyour work with the Redros Army."
+    },
+    {
+     "en": "The Jijirium arrangements have all\ngone through without a hitch."
+    },
+    {
+     "en": "Please use it as Your Excellency\nsees fit."
+    },
+    {
+     "en": "What's going on?"
+    },
+    {
+     "en": "Commander!!\nAn unidentified AT unit is approaching!"
+    },
+    {
+     "en": "It seems they've sniffed out\nthe base's location."
+    },
+    {
+     "en": "Wipe them all out, and the matter\nis settled!"
+    },
+    {
+     "en": "Someone may be behind them. As a\nprecaution, wouldn't it be wise to move\nyour facilities to the fleet?"
+    },
+    {
+     "en": "I've already prepared\nreplacement facilities."
+    },
+    {
+     "en": "Impressive.\nThen I'll take you up on it."
+    },
+    {
+     "en": "But first, allow me to show you\nthe power of the PS I raised."
+    },
+    {
+     "en": "Pailsen's organization has joined up."
+    },
+    {
+     "en": "Epsilon and Fyana have joined the unit."
+    },
+    {
+     "en": "If you \"Depart,\" a battle will begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 66,
+   "segments": [
+    {
+     "en": "Enemy unit spotted!\nWe are now entering combat!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 69,
+   "segments": [
+    {
+     "en": "Enemy unit destroyed!"
+    },
+    {
+     "en": "Hmph!\nNot even worth our time."
+    },
+    {
+     "en": "A new proposal has come in\nfrom the operations unit."
+    },
+    {
+     "en": "We have successfully made contact with\nYoran Pailsen, founder of the Red\nShoulder unit."
+    },
+    {
+     "en": "From now on, our army can train\nAT (Armored Trooper) pilots."
+    },
+    {
+     "en": "Well done."
+    },
+    {
+     "en": "Training pilots is the very foundation\nof an army."
+    },
+    {
+     "en": "Keep doing your utmost to expand\nour army's strength."
+    },
+    {
+     "en": "Sir!"
+    },
+    {
+     "en": "An AT training squad has been formed."
+    },
+    {
+     "en": "You can now train AT pilots."
+    }
+   ],
+   "notes": "[editorial 6] 'work that forms the very core' wordy",
+   "status": "proofread"
+  },
+  {
+   "id": 70,
+   "segments": [
+    {
+     "en": "Arrived at Kummen."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 71,
+   "segments": [
+    {
+     "en": "Commander Rochina, what business\nbrings you here this time?"
+    },
+    {
+     "en": "I want soldiers. I'll buy them--along\nwith everything this base can do."
+    },
+    {
+     "en": "Straight to the point, I see."
+    },
+    {
+     "en": "The date of the operation is drawing\nnear. I expect swift arrangements."
+    },
+    {
+     "en": "Leave it to me.\nI'll have them prepared at once."
+    },
+    {
+     "en": "The EX-10 mercenaries have joined\nthe unit."
+    }
+   ],
+   "notes": "Seg 5: EX-10 = Assemble EX-10 (glossary position text). | [editorial 3] [jp] is the operation date, not a 'deadline'; smoother",
+   "status": "proofread"
+  },
+  {
+   "id": 72,
+   "segments": [
+    {
+     "en": "Negotiations with the Balarant\ngovernment are already complete."
+    },
+    {
+     "en": "We will launch a joint operation\nwith the Balarant Army."
+    },
+    {
+     "en": "Allying with Balarant... What's the\nCommander trying to do..."
+    },
+    {
+     "en": "You don't get it?"
+    },
+    {
+     "en": "The Astragius Continent is ruled by two\nmighty nations, Gilgamesh and Balarant."
+    },
+    {
+     "en": "Until just recently, the two were at\nwar for 100 years, but right now\nthey're in a ceasefire."
+    },
+    {
+     "en": "So?"
+    },
+    {
+     "en": "We're going to have these two great\npowers fight each other. That's all."
+    },
+    {
+     "en": "The Balarant Army has launched an\nattack on Sunsa. Our army will join\nthe campaign."
+    }
+   ],
+   "notes": "Seg 2 [jp] = Rochina (he holds the title Commander), addressed by role.",
+   "status": "proofread"
+  },
+  {
+   "id": 73,
+   "segments": [
+    {
+     "en": "Enemy fleet approaching! Our fleet\nwill be in engagement range soon too!"
+    },
+    {
+     "en": "This fight is just a favor\nto Balarant."
+    },
+    {
+     "en": "Don't push yourself, Kanji."
+    },
+    {
+     "en": "Roger!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 76,
+   "segments": [
+    {
+     "en": "Sunsa has been taken.\nVictory goes to the Balarant Army."
+    },
+    {
+     "en": "With this, the war between the two\nnations is back to square one."
+    },
+    {
+     "en": "Mm, splendid."
+    },
+    {
+     "en": "On to the next operation."
+    },
+    {
+     "en": "Sir!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 77,
+   "segments": [
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "What is it? Is there something\nout here in this backwater?"
+    },
+    {
+     "en": "Zero has found something\ninteresting."
+    },
+    {
+     "en": "Zero of Galfa, eh..."
+    },
+    {
+     "en": "You called for me,\nLord Redros?"
+    },
+    {
+     "en": "So what is it that's out here?"
+    },
+    {
+     "en": "The ones who opened the gate in this\nland tens of thousands of years ago...\nI have obtained their legacy."
+    },
+    {
+     "en": "Oh...\nHow very interesting."
+    },
+    {
+     "en": "Allow me to show you. If it pleases\nyou, I would ask you to accompany me."
+    },
+    {
+     "en": "Very well."
+    }
+   ],
+   "notes": "Seg 4 [jp] -> 'Lord Redros' (Zero's formal address to Redros Binzvanker). | [editorial 5] 'What is here, then?' awkward | [editorial 6] style sheet: 'gate' lowercase (common noun)",
+   "status": "proofread"
+  },
+  {
+   "id": 78,
+   "segments": [
+    {
+     "en": "Behold. A weapon such as this\nlay sleeping here."
+    },
+    {
+     "en": "Hm... This is..."
+    },
+    {
+     "en": "A Rubble Guardian."
+    },
+    {
+     "en": "It may prove useful\nin the battles to come."
+    },
+    {
+     "en": "This material... It's well worth\ninvestigating."
+    },
+    {
+     "en": "I'll have it carried to the ship\nat once."
+    },
+    {
+     "en": "Rubble Guardians can now be deployed."
+    },
+    {
+     "en": "I have received permission\nfrom Emperor Galfa."
+    },
+    {
+     "en": "From now on, I too shall\naccompany you."
+    },
+    {
+     "en": "You'll be joining us?\nNow that's reassuring."
+    },
+    {
+     "en": "The mighty warrior Zero\nhas joined the unit."
+    }
+   ],
+   "notes": "[accuracy 5] direction: [jp] is Redros deciding to have it carried, not an order to Zero",
+   "status": "proofread"
+  },
+  {
+   "id": 79,
+   "segments": [
+    {
+     "en": "Enemy fleet approaching GAIL Town!\nThey appear to have occupied the town!"
+    },
+    {
+     "en": "So the enemy's target is the gate\nafter all..."
+    },
+    {
+     "en": "No matter. Our work on this continent\nhas just about wrapped up anyway."
+    },
+    {
+     "en": "Take them on to your heart's\ncontent!"
+    }
+   ],
+   "notes": "[editorial 1] style sheet: 'gate' lowercase (common noun); 'after the Gate after all' doubled 'after'",
+   "status": "proofread"
+  },
+  {
+   "id": 80,
+   "segments": [
+    {
+     "en": "Approaching GAIL Town.\nThe battle will now begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 81,
+   "segments": [
+    {
+     "en": "The enemy mobile force is a mixed unit.\nStay sharp!"
+    },
+    {
+     "en": "I always am!"
+    },
+    {
+     "en": "Let's go!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 83,
+   "segments": [
+    {
+     "en": "Enemy mobile force destroyed!"
+    },
+    {
+     "en": "However, the enemy's Infantry Squad\nseems to be putting up\nstubborn resistance."
+    },
+    {
+     "en": "What shall we do?\nShall we press on and take it?"
+    },
+    {
+     "en": "The enemy's infantry is strong...\nI'd rather not suffer needless losses."
+    },
+    {
+     "en": "We'll get the Infantry Squad ready to\ngo in, then make our move."
+    },
+    {
+     "en": "We'll take it in one fell swoop!\nSend in the Infantry Squad!"
+    },
+    {
+     "en": "We hold air superiority.\nWe'll take our time cooking them."
+    }
+   ],
+   "notes": "Segs 4-6 look like branch outcomes (prepare first vs. attack now); seg 4 has no header and may be a choice line -- kept as Binzvanker's speech that also reads as an option. | [editorial 1] UI term: [jp] = 'Infantry Squad' (capitalised, as in the rest of the corpus) | [editorial 4] UI term: [jp] = 'Infantry Squad' (capitalised, as in the rest of the corpus) | [editorial 5] UI term: [jp] = 'Infantry Squad' (capitalised, as in the rest of the corpus)",
+   "status": "proofread"
+  },
+  {
+   "id": 84,
+   "segments": [
+    {
+     "en": "We will now send the Infantry Squad\ninto GAIL Town."
+    },
+    {
+     "en": "A cornered rat will bite the cat,\nas they say! Show no mercy!"
+    }
+   ],
+   "notes": "[editorial 0] UI term: [jp] = 'Infantry Squad' (capitalised, as in the rest of the corpus)",
+   "status": "proofread"
+  },
+  {
+   "id": 85,
+   "segments": [
+    {
+     "en": "<Win Condition>\nDestroy all enemy units"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 86,
+   "segments": [
+    {
+     "en": "All enemy units destroyed.\nEnding the battle."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 87,
+   "segments": [
+    {
+     "en": "The enemy offensive is over."
+    },
+    {
+     "en": "That concludes our operations\non this continent."
+    },
+    {
+     "en": "On to the other continents!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

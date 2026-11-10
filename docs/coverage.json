@@ -1,0 +1,362 @@
+{
+ "tables": [
+  {
+   "table": "0002_09386",
+   "pack": "sysdata.pac",
+   "rows": 15,
+   "rows_translated": 15,
+   "jp_chars": 239,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "0002_10344",
+   "pack": "sysdata.pac",
+   "rows": 22,
+   "rows_translated": 22,
+   "jp_chars": 1365,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "0093_00349",
+   "pack": "test_mes.pac",
+   "rows": 2,
+   "rows_translated": 2,
+   "jp_chars": 132,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "0672_01506",
+   "pack": "test2_mes.pac",
+   "rows": 9,
+   "rows_translated": 8,
+   "jp_chars": 470,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "0672_07375",
+   "pack": "test2_mes.pac",
+   "rows": 21,
+   "rows_translated": 21,
+   "jp_chars": 13243,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "1270_02108",
+   "pack": "test_mes2.pac",
+   "rows": 3,
+   "rows_translated": 3,
+   "jp_chars": 253,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "1271_02471",
+   "pack": "deckmenu.pac",
+   "rows": 345,
+   "rows_translated": 344,
+   "jp_chars": 64866,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "1271_10345",
+   "pack": "deckmenu.pac",
+   "rows": 456,
+   "rows_translated": 456,
+   "jp_chars": 68985,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "2270_08344",
+   "pack": "battle_pac.pac",
+   "rows": 1,
+   "rows_translated": 1,
+   "jp_chars": 807,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "2271_06810",
+   "pack": "staff_pac.pac",
+   "rows": 1,
+   "rows_translated": 1,
+   "jp_chars": 3251,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "2364_07303",
+   "pack": "batlmes.pac",
+   "rows": 8163,
+   "rows_translated": 7967,
+   "jp_chars": 80424,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "2364_10331",
+   "pack": "batlmes.pac",
+   "rows": 23,
+   "rows_translated": 22,
+   "jp_chars": 253,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "2364_10351",
+   "pack": "batlmes.pac",
+   "rows": 60,
+   "rows_translated": 0,
+   "jp_chars": 0,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "2368_07367",
+   "pack": "dksys_bg03.pac",
+   "rows": 26,
+   "rows_translated": 14,
+   "jp_chars": 108,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "3960_09379",
+   "pack": "txt_act1.pac",
+   "rows": 47,
+   "rows_translated": 44,
+   "jp_chars": 17521,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "3960_09434",
+   "pack": "txt_act1.pac",
+   "rows": 25,
+   "rows_translated": 24,
+   "jp_chars": 14783,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "3982_09436",
+   "pack": "txt_act3.pac",
+   "rows": 25,
+   "rows_translated": 22,
+   "jp_chars": 6074,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "3983_09437",
+   "pack": "txt_act4.pac",
+   "rows": 8,
+   "rows_translated": 8,
+   "jp_chars": 5318,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "3983_09438",
+   "pack": "txt_act4.pac",
+   "rows": 21,
+   "rows_translated": 21,
+   "jp_chars": 10588,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "3986_09447",
+   "pack": "txt_act5.pac",
+   "rows": 25,
+   "rows_translated": 24,
+   "jp_chars": 6685,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "3987_09448",
+   "pack": "txt_act6.pac",
+   "rows": 37,
+   "rows_translated": 37,
+   "jp_chars": 15368,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4012_09500",
+   "pack": "txt_act7.pac",
+   "rows": 40,
+   "rows_translated": 39,
+   "jp_chars": 18164,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4013_09501",
+   "pack": "txt_act8.pac",
+   "rows": 34,
+   "rows_translated": 33,
+   "jp_chars": 13533,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4014_09502",
+   "pack": "txt_act9.pac",
+   "rows": 42,
+   "rows_translated": 41,
+   "jp_chars": 16617,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4015_09503",
+   "pack": "txt_act10.pac",
+   "rows": 22,
+   "rows_translated": 22,
+   "jp_chars": 6032,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4817_10305",
+   "pack": "txt_act11.pac",
+   "rows": 25,
+   "rows_translated": 25,
+   "jp_chars": 5422,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4818_10306",
+   "pack": "txt_act12.pac",
+   "rows": 24,
+   "rows_translated": 23,
+   "jp_chars": 7594,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4819_10307",
+   "pack": "txt_act13.pac",
+   "rows": 35,
+   "rows_translated": 34,
+   "jp_chars": 9504,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4821_10346",
+   "pack": "txt_act13ep.pac",
+   "rows": 32,
+   "rows_translated": 32,
+   "jp_chars": 11127,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4822_10347",
+   "pack": "txt27_all.pac",
+   "rows": 4,
+   "rows_translated": 4,
+   "jp_chars": 2811,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4822_10348",
+   "pack": "txt27_all.pac",
+   "rows": 11,
+   "rows_translated": 7,
+   "jp_chars": 492,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4822_10349",
+   "pack": "txt27_all.pac",
+   "rows": 17,
+   "rows_translated": 13,
+   "jp_chars": 891,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4822_10350",
+   "pack": "txt27_all.pac",
+   "rows": 29,
+   "rows_translated": 19,
+   "jp_chars": 1715,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4822_10352",
+   "pack": "txt27_all.pac",
+   "rows": 12,
+   "rows_translated": 9,
+   "jp_chars": 261,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4822_10353",
+   "pack": "txt27_all.pac",
+   "rows": 24,
+   "rows_translated": 19,
+   "jp_chars": 1943,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4822_10354",
+   "pack": "txt27_all.pac",
+   "rows": 32,
+   "rows_translated": 26,
+   "jp_chars": 2677,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4822_10355",
+   "pack": "txt27_all.pac",
+   "rows": 24,
+   "rows_translated": 19,
+   "jp_chars": 1527,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4822_10356",
+   "pack": "txt27_all.pac",
+   "rows": 36,
+   "rows_translated": 29,
+   "jp_chars": 3266,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4822_10363",
+   "pack": "txt27_all.pac",
+   "rows": 81,
+   "rows_translated": 71,
+   "jp_chars": 12150,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4822_10736",
+   "pack": "txt27_all.pac",
+   "rows": 88,
+   "rows_translated": 76,
+   "jp_chars": 10879,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4857_10740",
+   "pack": "txt_skp_all.pac",
+   "rows": 3,
+   "rows_translated": 3,
+   "jp_chars": 3072,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4857_10741",
+   "pack": "txt_skp_all.pac",
+   "rows": 34,
+   "rows_translated": 34,
+   "jp_chars": 1153,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4857_10742",
+   "pack": "txt_skp_all.pac",
+   "rows": 24,
+   "rows_translated": 24,
+   "jp_chars": 774,
+   "jp_chars_left": 0
+  },
+  {
+   "table": "4859_10756",
+   "pack": "title_01_mes.pac",
+   "rows": 157,
+   "rows_translated": 157,
+   "jp_chars": 2203,
+   "jp_chars_left": 0
+  }
+ ],
+ "total_jp": 444540,
+ "left_jp": 0,
+ "elf": {
+  "rows": 2868,
+  "translated": 2480
+ }
+}

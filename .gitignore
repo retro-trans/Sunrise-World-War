@@ -1,0 +1,21 @@
+# Original disc and anything extracted from it (Japanese script, binaries)
+*.iso
+work/source/
+work/output/
+work/emulator/
+work/repository.git/
+work/ui/
+incoming/
+.codex/
+NVIDIA Corporation/
+docs/review_*.md
+work/glossary/research_*.json
+work/glossary/_brief.md
+work/translation/review/
+work/translation/slices/
+# Translation working files keep Japanese; only *.en.json copies are committed
+work/translation/**/*.json
+!work/translation/**/*.en.json
+work/glossary/_input/
+__pycache__/
+*.xdelta

@@ -1,0 +1,1371 @@
+{
+ "table": "4015_09503",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "Thank you for coming, Roger Smith."
+    },
+    {
+     "en": "...What sort of request is it this time?"
+    },
+    {
+     "en": "Are you aware that Grados has begun to move?"
+    },
+    {
+     "en": "You mean that the Grados fleet is headed for this city?"
+    },
+    {
+     "en": "Yes. Grados is finally coming to attack."
+    },
+    {
+     "en": "It seems they no longer have any need for our company's power."
+    },
+    {
+     "en": "Even so, I intend to keep the good citizens from being placed under tyranny, whatever it takes."
+    },
+    {
+     "en": "Are you saying you want me to mediate negotiations with the Resistance?"
+    },
+    {
+     "en": "I knew that sooner or later, this day would come."
+    },
+    {
+     "en": "That is precisely why I have accommodated your requests until now."
+    },
+    {
+     "en": "...Understood. I'll do everything I can."
+    },
+    {
+     "en": "I'm expecting good work from you, Roger Smith."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "This is where it all begins."
+    }
+   ],
+   "notes": "[editorial 6] 'stop the good citizens from' could read as stopping the citizens | [editorial 11] 'counting on your work' stiff | [editorial 13] accuracy flag: 'only the beginning' added a more-to-come nuance; hajimari = the beginning",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Now, what should I do?"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "GEAR HQ Command Center"
+    },
+    {
+     "en": "Huh? What's this?"
+    },
+    {
+     "en": "An unidentified flying object is approaching Hoshimi Town at high speed!"
+    },
+    {
+     "en": "An enemy scout plane?!"
+    },
+    {
+     "en": "Can you hear me? You're picking this up, right, \"GEAR\" HQ?"
+    },
+    {
+     "en": "Who are you?!"
+    },
+    {
+     "en": "Just a hired delivery man."
+    },
+    {
+     "en": "It's express mail, so I'm landing straight on the Iron Gear!"
+    },
+    {
+     "en": "Hey! Stop right there!"
+    },
+    {
+     "en": "Whew~! He forced his way down. That's some serious flying."
+    },
+    {
+     "en": "...Wait, this is no time to be impressed! Who the heck is this guy?!"
+    },
+    {
+     "en": "Yo!"
+    },
+    {
+     "en": "Huh? Hey, are you..."
+    },
+    {
+     "en": "I'm Spike. The bounty hunter who caught you guys before."
+    },
+    {
+     "en": "Sorry about that time."
+    },
+    {
+     "en": "Right now I'm here as Roger's messenger."
+    },
+    {
+     "en": "Roger Smith? Did something happen in Paradigm City?"
+    },
+    {
+     "en": "The Grados Army's on the move. Looks like they're finally gonna crush Paradigm..."
+    },
+    {
+     "en": "So we could use your help."
+    },
+    {
+     "en": "Roger said that?"
+    },
+    {
+     "en": "Seems the head of Paradigm himself asked him to..."
+    },
+    {
+     "en": "That's odd. We should have heard from the Resistance."
+    },
+    {
+     "en": "That'd be way too late. The enemy would be here by then."
+    },
+    {
+     "en": "Besides, I didn't come here on Alex's orders."
+    },
+    {
+     "en": "Roger and I just don't like the idea of staying under Grados's thumb like this."
+    },
+    {
+     "en": "Then, Spike, why don't you fight alongside us?"
+    },
+    {
+     "en": "With your skills, you'd fit right in."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Fine..."
+    },
+    {
+     "en": "But I'm not about to be tied down by your grand cause. I'll do things my own way."
+    },
+    {
+     "en": "Spike has joined the unit."
+    },
+    {
+     "en": "Machine added:\nSwordfish II"
+    },
+    {
+     "en": "You must be tired after flying all the way here in that plane. I'll have a room prepared for you."
+    },
+    {
+     "en": "Appreciate it..."
+    },
+    {
+     "en": "Someone show Spike to his room."
+    },
+    {
+     "en": "Oh, then I'll..."
+    },
+    {
+     "en": "Lead the way, young lady."
+    },
+    {
+     "en": "Oh, y-yes..."
+    }
+   ],
+   "notes": "Seg 2 has no header; read as Elise continuing her report. [jp] (Dendoh's home town) is not in the glossary: rendered \"Hoshimi\". Seg 4: Spike's [jp] kept with the quoted name: \"GEAR\" HQ. | [editorial 2] term: Hoshimi Town, as in 4014_09502_02 captions and 4822_10353 | [editorial 18] accuracy flag: 'borrow your help' stiff; Spike's casual voice",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Um... this will be your room."
+    },
+    {
+     "en": "Thanks..."
+    },
+    {
+     "en": "Huh, not a bad room at all."
+    },
+    {
+     "en": "Um, Spike... do you know anything about the Resistance?"
+    },
+    {
+     "en": "Ah, so that's what you wanted to ask."
+    },
+    {
+     "en": "Um... I... the Resistance..."
+    },
+    {
+     "en": "I know, Anna."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "You fought alongside Eiji and the others in the final battle three years ago, right? That story's pretty famous..."
+    },
+    {
+     "en": "Then... do you know anything about Eiji?"
+    },
+    {
+     "en": "Don't worry. If there were any talk of him being dead, Grados would be gleefully spreading it around."
+    },
+    {
+     "en": "Plus, I've heard word that the Resistance has started moving on this."
+    },
+    {
+     "en": "You might get to see him soon."
+    },
+    {
+     "en": "Okay. I won't give up hope."
+    }
+   ],
+   "notes": "[accuracy 5] added detail removed: JP trails off (watashi, rejisutansu ni...) without saying she was in it; keep the fragment, Spike's reply fills it in",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Is the enemy really coming?"
+    },
+    {
+     "en": "Probably... I can definitely feel the pressure from Grados."
+    },
+    {
+     "en": "I don't like leaving this town, but if the enemy takes Paradigm, we'll lose contact with the Resistance."
+    },
+    {
+     "en": "Master Asia should understand that too."
+    },
+    {
+     "en": "Then will the Resistance come to Paradigm City too?"
+    },
+    {
+     "en": "Most likely... With luck, we can link up with the Resistance."
+    },
+    {
+     "en": "We've gotten approval from Commander Shibuya."
+    },
+    {
+     "en": "Please have the Iron Gear depart as soon as it's ready."
+    },
+    {
+     "en": "Got it."
+    }
+   ],
+   "notes": "Seg 3: [jp] is Master Asia (the Resistance commander, per 3987_09448/4012_09500); no glossary entry for this title, rendered \"Commander Master Asia\". | [editorial 7] shukkou: 'depart' points at the UI Depart command (accuracy flag); 'set out' was vague",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Hokuto's House"
+    },
+    {
+     "en": "The next battle... the black Dendoh might show up too."
+    },
+    {
+     "en": "I've got to be ready for it..."
+    },
+    {
+     "en": "Hokuto?"
+    },
+    {
+     "en": "Waah! Wh-What is it, Mom?"
+    },
+    {
+     "en": "I baked some cookies. Share them with everyone."
+    },
+    {
+     "en": "Wow! Thanks!"
+    },
+    {
+     "en": "But you told me all of a sudden that you'd be staying over,"
+    },
+    {
+     "en": "so all I could make was something simple."
+    },
+    {
+     "en": "But they're nice and warm, and they look delicious! Ahahaha... (sweat)"
+    },
+    {
+     "en": "Really...?"
+    },
+    {
+     "en": "Be careful out there. You know... cars and... things can be dangerous."
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Um, Mom..."
+    },
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "N-Never mind! It's nothing!"
+    },
+    {
+     "en": "Well, I'm off!"
+    },
+    {
+     "en": "Take care..."
+    },
+    {
+     "en": "Hokuto..."
+    }
+   ],
+   "notes": "[jp] rendered \"the black Dendoh\" (Hokuto doesn't know its name yet). [jp] kept as \"(sweat)\". | [editorial 7] 'so suddenly that... that' clunky across the page break | [editorial 8] continuation of 5.7",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Okay, maybe I'll go over the Squad Setup..."
+    },
+    {
+     "en": "Oh, Kanji, wait a moment."
+    },
+    {
+     "en": "What is it?"
+    },
+    {
+     "en": "I'll be staying here to command the defense force."
+    },
+    {
+     "en": "I'm leaving Dendoh's command to you."
+    },
+    {
+     "en": "I see. Understood."
+    },
+    {
+     "en": "Hokuto, Ginga, hold your own even without me around."
+    },
+    {
+     "en": "Yes! I'll do my best!!"
+    },
+    {
+     "en": "All right! Guess we just gotta do it, huh!"
+    },
+    {
+     "en": "That's the spirit! Let's drive Grados back with our own hands!"
+    },
+    {
+     "en": "Vega has left the unit."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Set course for Paradigm City!"
+    },
+    {
+     "en": "We have to get there before the Grados Army!"
+    },
+    {
+     "en": "Aye aye!"
+    }
+   ],
+   "notes": "Seg 2 [jp] rendered \"Aye aye!\" rather than \"Roger!\" to avoid confusion with Roger Smith.",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Looks like we've arrived."
+    },
+    {
+     "en": "Yeah. Usually this is where they slam the door in our faces, though."
+    },
+    {
+     "en": "Oh! They're already calling us."
+    },
+    {
+     "en": "The Iron Gear, eh? The airport has been cleared."
+    },
+    {
+     "en": "Come in from wherever you like."
+    },
+    {
+     "en": "Ho~, that's a different welcome from usual."
+    },
+    {
+     "en": "Never mind that! Just dock already!"
+    },
+    {
+     "en": "Yeah, yeah!"
+    }
+   ],
+   "notes": "[accuracy 6] project decision: nyuukou = 'dock' (UI 'Dock')",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "I'm surprised your ship managed to get here ahead of Grados."
+    },
+    {
+     "en": "It's thanks to Spike. He told us about Grados before the Resistance's network could."
+    },
+    {
+     "en": "I see. Asking him really was the right call."
+    },
+    {
+     "en": "Roger. The appointed time is approaching."
+    },
+    {
+     "en": "So it is."
+    },
+    {
+     "en": "I've been asked to act as intermediary between you and the Paradigm Corporation."
+    },
+    {
+     "en": "I'll introduce you to the company's president, Alex Rosewater."
+    },
+    {
+     "en": "I'll take you to the dome right away. Follow me."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Ah, welcome. Thank you for coming."
+    },
+    {
+     "en": "I'm the captain, Elchi Cargo. Nice to meet you!"
+    },
+    {
+     "en": "I've heard about you. Your destruction of that Grados supply base in particular was deeply satisfying."
+    },
+    {
+     "en": "I'll get straight to it. There's actually something I'd like you to accept."
+    },
+    {
+     "en": "Machines added:\nDugger x1\nPromeus x1"
+    },
+    {
+     "en": "Equipment obtained:\nEN Booster Lv2 x1\nEN Pack Lv2 x1"
+    },
+    {
+     "en": "A gift from the Paradigm Corporation."
+    },
+    {
+     "en": "They pale next to your machines, but they're still frontline-class. I thought they might be of some use."
+    },
+    {
+     "en": "Are you sure? You'll be openly ignoring your friendly relations with Grados."
+    },
+    {
+     "en": "Those relations exist in name only now."
+    },
+    {
+     "en": "Until now, I've dealt flexibly with Grados for the citizens' sake, but..."
+    },
+    {
+     "en": "I can no longer slip past Grados's watchful eyes."
+    },
+    {
+     "en": "So I've made up my mind. From now on, I'll be cooperating with the Resistance."
+    },
+    {
+     "en": "So, when will the enemy get here?"
+    },
+    {
+     "en": "I can't say exactly, but it shouldn't take more than a few days."
+    },
+    {
+     "en": "Until then, I'd like you to do everything you can. We will spare no effort to help, of course."
+    },
+    {
+     "en": "All right."
+    },
+    {
+     "en": "We'll take that mission on!"
+    },
+    {
+     "en": "Thank you. I'm truly grateful for your cooperation."
+    },
+    {
+     "en": "...How very reliable. Wouldn't you agree, Roger, my boy...?"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "I'm grateful to you as well. It's thanks to you that our talks with them went so smoothly."
+    },
+    {
+     "en": "I'll be counting on you from here on, too."
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "What's wrong, Roger? You seem to be in a bad mood."
+    },
+    {
+     "en": "I hate men who do things that way."
+    },
+    {
+     "en": "..............."
+    }
+   ],
+   "notes": "Seg 19 [jp]: condescending [jp] rendered \"Roger, my boy\".",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Elchi... that man, Alex... you'd better not get too involved with him."
+    },
+    {
+     "en": "I know. But we need to stay on good terms with him for now, don't we?"
+    },
+    {
+     "en": "I see... Then that's fine."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "Oh, Kanji! Have you seen Quess?"
+    },
+    {
+     "en": "Quess...? No... I haven't seen her..."
+    },
+    {
+     "en": "I'm going to examine the Psycho-Frame, and I want her to help me. She's a Newtype, you know?"
+    },
+    {
+     "en": "Can't Amuro do it?"
+    },
+    {
+     "en": "I want to try a different pattern too."
+    },
+    {
+     "en": "What's everybody gathered here for? Something up?"
+    },
+    {
+     "en": "Chan's looking for Quess."
+    },
+    {
+     "en": "...? Quess? I saw her a little while ago."
+    },
+    {
+     "en": "Really?"
+    },
+    {
+     "en": "I think she was walking off that way..."
+    },
+    {
+     "en": "Was anyone with her?"
+    },
+    {
+     "en": "Hmm... I think she was probably alone..."
+    },
+    {
+     "en": "I'm worried... A girl walking around alone..."
+    },
+    {
+     "en": "But... I've got machines to service, so I really need to get back soon..."
+    },
+    {
+     "en": "Knowing her, I'm sure she's fine, but..."
+    },
+    {
+     "en": "We'll look for her too, so you head back to the ship, Chan."
+    },
+    {
+     "en": "She might've gone back to the ship anyway."
+    },
+    {
+     "en": "I see... Then I'll leave it to you."
+    },
+    {
+     "en": "Jiron! You walk Chan back, okay?"
+    },
+    {
+     "en": "Huh? Why?"
+    },
+    {
+     "en": "You're gonna let Chan go back alone?"
+    },
+    {
+     "en": "Oh, right."
+    },
+    {
+     "en": "Oh, it's fine. You don't have to worry about me."
+    },
+    {
+     "en": "Chan, this town is pretty dangerous. So let's go back together."
+    },
+    {
+     "en": "All right. Thanks, Jiron."
+    },
+    {
+     "en": "Geez, Quess... she's such a handful..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "Man, with a city this big, finding her is tough..."
+    },
+    {
+     "en": "And if we can't use the police either, we're stuck."
+    },
+    {
+     "en": "There's no point searching blindly like this. Let's head back to the ship for now."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "Quess... where did she go?"
+    },
+    {
+     "en": "Are you sure about leaving the Iron Gear crew?"
+    },
+    {
+     "en": "This time the one you're fighting isn't Amuro, right?"
+    },
+    {
+     "en": "Or would I just be in your way?"
+    },
+    {
+     "en": "No..."
+    },
+    {
+     "en": "Ehe! Sorry, that was mean of me."
+    },
+    {
+     "en": "I know. I won't get in your way like before, Colonel."
+    },
+    {
+     "en": "Besides, the info I have should be really valuable to you."
+    },
+    {
+     "en": "If you're going up against the Redros Army, that is!"
+    },
+    {
+     "en": "Quess! Don't use that name so carelessly."
+    },
+    {
+     "en": "Hehe! Well? Feel like taking me with you now?"
+    },
+    {
+     "en": "Heh... You win..."
+    },
+    {
+     "en": "Ehehe! Then let's go!"
+    }
+   ],
+   "notes": "Seg 8: [jp] rendered \"Redros Army\" (glossary family [jp] etc.).",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Is this it? The Sazabi's cockpit!"
+    },
+    {
+     "en": "Can you use it?"
+    },
+    {
+     "en": "Of course!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "There's hardly any energy left in it..."
+    },
+    {
+     "en": "Will just the cartridges here be enough?"
+    },
+    {
+     "en": "It'll be fine... Lend me your strength too, Colonel."
+    },
+    {
+     "en": "Concentrate. Think it: \"I want to go back to space.\""
+    },
+    {
+     "en": "Back to space..."
+    },
+    {
+     "en": "Kanji! Come here a sec!"
+    },
+    {
+     "en": "What's wrong? Why the rush?"
+    },
+    {
+     "en": "Just come on up here!"
+    },
+    {
+     "en": "You're here too, Kanji."
+    },
+    {
+     "en": "What's going on?"
+    },
+    {
+     "en": "Abnormal energy is coming from the Nu Gundam's cockpit."
+    },
+    {
+     "en": "Chan! Show him the frame."
+    },
+    {
+     "en": "The frame...?"
+    },
+    {
+     "en": "Look! The Psycho-Frame is resonating!"
+    },
+    {
+     "en": "Whoa! It's glowing again!"
+    },
+    {
+     "en": "Someone is trying to open a gate to space..."
+    },
+    {
+     "en": "A gate...? No way...!"
+    },
+    {
+     "en": "...!!"
+    },
+    {
+     "en": "Hm... This feeling... It's the space we came from."
+    },
+    {
+     "en": "What?! Char?!"
+    },
+    {
+     "en": "Amuro...?!"
+    },
+    {
+     "en": "....................."
+    },
+    {
+     "en": "Hey! Something's weird with the sky!"
+    },
+    {
+     "en": "...?!"
+    },
+    {
+     "en": "Just come and look!"
+    },
+    {
+     "en": "What? What is it?"
+    },
+    {
+     "en": "Let's get outside too!"
+    },
+    {
+     "en": "Wh... what is that...!"
+    },
+    {
+     "en": "The sky right above the city... it's connected to space!"
+    },
+    {
+     "en": "Just as I thought... It's a door that's been opened once, so it opens more easily now..."
+    },
+    {
+     "en": "Is this the result of the Psycho-Frame's resonance?"
+    },
+    {
+     "en": "Colonel! Here we go!!"
+    },
+    {
+     "en": "Right!"
+    },
+    {
+     "en": "A pillar of light?!"
+    },
+    {
+     "en": "Looks like Quess and Char have gone up into space."
+    },
+    {
+     "en": "Then that pillar of light... Quess did that?"
+    },
+    {
+     "en": "Probably..."
+    },
+    {
+     "en": "Anyway, let's go check it out!"
+    },
+    {
+     "en": "Amuro! Will you come with me?"
+    },
+    {
+     "en": "Got it!"
+    },
+    {
+     "en": "Quess has left the unit."
+    }
+   ],
+   "notes": "Seg 22 has no header; read as Amuro continuing (he sensed it in seg 21 and names Char in seg 23). [jp] rendered \"space\". | [editorial 7] accuracy flag: 'Wish that you want to go back' clumsy",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "It's around here..."
+    },
+    {
+     "en": "You can tell?"
+    },
+    {
+     "en": "Over there!"
+    },
+    {
+     "en": "This is the center of the pillar of light."
+    },
+    {
+     "en": "A pile of scrap...?"
+    },
+    {
+     "en": "I see... So they used the Sazabi's cockpit."
+    },
+    {
+     "en": "What do you mean?"
+    },
+    {
+     "en": "The Sazabi's cockpit uses a Psycho-Frame."
+    },
+    {
+     "en": "They must have used it to open the gate..."
+    },
+    {
+     "en": "So the Psycho-Frame is the key to opening the gate...?"
+    },
+    {
+     "en": "That's the only explanation... Though I don't know how they did it..."
+    },
+    {
+     "en": "That's how it was when I came to Terra, too..."
+    },
+    {
+     "en": "When Axis was about to fall to Earth..."
+    },
+    {
+     "en": "people's minds gathered in the Psycho-Frame, and it overloaded..."
+    },
+    {
+     "en": "That's right... That's how Axis was kept from falling to Earth."
+    },
+    {
+     "en": "It's still a mystery... what that was..."
+    },
+    {
+     "en": "That must have been when the gate to another world opened..."
+    },
+    {
+     "en": "After that, Char and I came down to the world of Terra."
+    },
+    {
+     "en": "By the time I came to, Char's pod was gone."
+    },
+    {
+     "en": "And I was lucky enough to be picked up by the Iron Gear."
+    },
+    {
+     "en": "So that's what happened..."
+    },
+    {
+     "en": "(Come to think of it, Lun had the power to control the pillars of light too...)"
+    },
+    {
+     "en": "(Was that the power of people's minds, their will, or whatever you call it...?)"
+    },
+    {
+     "en": "(If the Psycho-Frame is what amplifies that kind of thing...)"
+    },
+    {
+     "en": "(then creating gates artificially becomes possible, too...)"
+    },
+    {
+     "en": "I don't know how to handle the Psycho-Frame..."
+    },
+    {
+     "en": "Quess pulled off something we couldn't."
+    },
+    {
+     "en": "But still, to think people's minds have that kind of power..."
+    },
+    {
+     "en": "Hm? Who's there?!"
+    },
+    {
+     "en": "I didn't mean to eavesdrop, but..."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Are you interested in that light too?"
+    },
+    {
+     "en": "Something like that... Has that phenomenon happened many times before?"
+    },
+    {
+     "en": "I've seen it before... though I don't know what it is."
+    },
+    {
+     "en": "The people of this city usually show no interest in it."
+    },
+    {
+     "en": "But lately, the Military Police have been frantically investigating it..."
+    },
+    {
+     "en": "In any case, it'd be best to leave this place..."
+    },
+    {
+     "en": "Let's do that..."
+    },
+    {
+     "en": "I'll give you a ride. I'm on my way to the Iron Gear myself."
+    },
+    {
+     "en": "That'd help. Please do."
+    },
+    {
+     "en": "Then let's go. My car is parked nearby."
+    },
+    {
+     "en": "Still, this area is a far cry from inside the domes."
+    },
+    {
+     "en": "...Looks like nobody's kept it up at all."
+    },
+    {
+     "en": "A new city is built on the foundations of the old one."
+    },
+    {
+     "en": "And the abandoned city rots away like this..."
+    },
+    {
+     "en": "Look who's talking. Haven't you been reaping plenty of the benefits?"
+    },
+    {
+     "en": "Wha...! Who's there?!!"
+    },
+    {
+     "en": "Long time no see, Negotiator!"
+    },
+    {
+     "en": "......!!"
+    },
+    {
+     "en": "Beck! What do you think you're doing?!"
+    },
+    {
+     "en": "Heh! This is what I'm doing!!"
+    },
+    {
+     "en": "Terminator Police!!"
+    },
+    {
+     "en": "Grados's unmanned weapons!!"
+    },
+    {
+     "en": "Beck! What is the meaning of this!!"
+    },
+    {
+     "en": "Don't make a fuss, Negotiator."
+    },
+    {
+     "en": "It's a simple deal. Hand over the Iron Gear's crew!"
+    },
+    {
+     "en": "What do you intend to do with them?!"
+    },
+    {
+     "en": "I'll hand them over to Grados. Relax, I won't take their lives."
+    },
+    {
+     "en": "You're telling us to surrender to Grados?!"
+    },
+    {
+     "en": "Like hell we will!"
+    },
+    {
+     "en": "Don't move, I said!! You that eager to die?"
+    },
+    {
+     "en": "Well? How about it, Negotiator?"
+    },
+    {
+     "en": "This is far too... unfair!"
+    },
+    {
+     "en": "Not really. Take a look!"
+    },
+    {
+     "en": "How about it? This money's yours. Not a bad deal, is it?"
+    },
+    {
+     "en": "This isn't a smart way to do business. As if I could accept money like this!"
+    },
+    {
+     "en": "I'm just doing what my client told me to. You get it..."
+    },
+    {
+     "en": "Letting you live is just my sense of fair play."
+    },
+    {
+     "en": "I'm a professional negotiator!"
+    },
+    {
+     "en": "Even a child would see that such an unfair deal is a losing one!"
+    },
+    {
+     "en": "It ain't unfair. You come out ahead."
+    },
+    {
+     "en": "Most people would choose to take the money..."
+    },
+    {
+     "en": "Roger! This is beyond a negotiator's domain..."
+    },
+    {
+     "en": "But..."
+    },
+    {
+     "en": "Yeah... What we're doing is war."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "I'm sorry..."
+    },
+    {
+     "en": "Heh... Then it's a deal...!"
+    },
+    {
+     "en": "Amuro, was it? As of now, you're hostages!"
+    },
+    {
+     "en": "Now we're going to disarm the Iron Gear. Lead the way!!"
+    },
+    {
+     "en": "Got it..."
+    },
+    {
+     "en": "So long, Negotiator!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Hey, Beck! Looks like you pulled it off."
+    },
+    {
+     "en": "I don't slip up."
+    },
+    {
+     "en": "Kid Horla!!"
+    },
+    {
+     "en": "So this was your doing too!"
+    },
+    {
+     "en": "Yeah, that's right!"
+    },
+    {
+     "en": "This time I'll capture the Iron Gear for sure!"
+    },
+    {
+     "en": "Why side with Grados?! You were born on Terra too, weren't you?"
+    },
+    {
+     "en": "Siding with the client who pays best is only natural."
+    },
+    {
+     "en": "The Resistance and Grados are like night and day!"
+    },
+    {
+     "en": "And who the hell are you people anyway!"
+    },
+    {
+     "en": "If you hadn't shown up, Elchi wouldn't have become a wanted woman!!"
+    },
+    {
+     "en": "What?! Don't give me that crap!"
+    },
+    {
+     "en": "Heh... Whatever. I'll get that out of you later! Come with me!!"
+    }
+   ],
+   "notes": "Seg 14: Kanji's [jp] kept as recalling the Axis incident. Seg 92: [jp] rendered as Horla turning the question back on them. | [accuracy 57] subject restored: Beck himself is handing the crew over (answers Roger's 'what will you do with them') | [editorial 50] accuracy flag: 'This is what!!' odd; answers Roger's 'what do you think you're doing' | [editorial 81] vocative split by '!' read oddly | [editorial 83] vocative split by '!' read oddly | [proofread 46] punctuation: question marked with '!!' only; '?!!' (as Amuro's 'Who's there?!' at 16.28) | [proofread 56] punctuation: direct question (Beck answers); '?!' per editorial flag",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "Outskirts of Paradigm City"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Horla!! Taking hostages... how low can you get!"
+    },
+    {
+     "en": "The Grados main force is here! There's no way the Iron Gear can win!"
+    },
+    {
+     "en": "I'm telling you I'll save you before that happens!!"
+    },
+    {
+     "en": "So you're running away just because you can't beat them?!"
+    },
+    {
+     "en": "That's right! You won't know until you try!"
+    },
+    {
+     "en": "Anyway, we've got the hostages. Hurry up and decide what you're gonna do!"
+    },
+    {
+     "en": "Grr...!"
+    },
+    {
+     "en": "Well, I suppose it's about time..."
+    },
+    {
+     "en": "Big O! Showtime!!"
+    },
+    {
+     "en": "Don't tell me... he's going to take them on?"
+    },
+    {
+     "en": "Go! Get 'em!"
+    },
+    {
+     "en": "That's pouring oil on the fire..."
+    },
+    {
+     "en": "Boss! Some weird thing's coming our way!"
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "It's a Megadeus! It showed up again!"
+    },
+    {
+     "en": "Is it one of theirs?!"
+    },
+    {
+     "en": "No... it's not with them! But it's no friend of ours either!"
+    },
+    {
+     "en": "Waaaaaah!!"
+    },
+    {
+     "en": "Damn it! Counterattack!!"
+    },
+    {
+     "en": "Perfect! Now we can slide right into a fight!"
+    },
+    {
+     "en": "All right! Let's go too!!"
+    },
+    {
+     "en": "Make it as flashy as you can!"
+    },
+    {
+     "en": "Meanwhile, someone get to the enemy ship and rescue Amuro and Kanji!"
+    },
+    {
+     "en": "Leave that to us."
+    },
+    {
+     "en": "Well then, we'll just pop over there!"
+    },
+    {
+     "en": "Iron Gear! Commencing battle!!"
+    },
+    {
+     "en": "Yeah! Let's do this!"
+    },
+    {
+     "en": "Since Kanji and Amuro are absent, this battle will be fought with a special squad."
+    },
+    {
+     "en": "Handle it with the squad you've been given."
+    }
+   ],
+   "notes": "Seg 12 [jp] (Geraba to Horla) rendered \"Boss\". Seg 24: Sai Saici speaks for himself and George; rendered with \"we\".",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "This is bad, Boss!"
+    },
+    {
+     "en": "Don't panic! We've got a trump card. They won't be able to finish us off!"
+    },
+    {
+     "en": "Right. More importantly, watch out for intruders."
+    },
+    {
+     "en": "They've probably sent in an infantry squad anyway."
+    },
+    {
+     "en": "But you've realized that far too late."
+    },
+    {
+     "en": "What!"
+    },
+    {
+     "en": "Heh heh! We got here ages ago!"
+    },
+    {
+     "en": "Kanji, Amuro, I'm so glad you're safe."
+    },
+    {
+     "en": "I was sure you'd come for us."
+    },
+    {
+     "en": "Besides, watching these guys fight was pretty fun."
+    },
+    {
+     "en": "What'd you say?!"
+    },
+    {
+     "en": "You've got some nerve!"
+    },
+    {
+     "en": "Military Police! You're completely surrounded! Come quietly!"
+    },
+    {
+     "en": "Heh! Even the Military Police showed up? You Paradigm Corporation dogs!"
+    },
+    {
+     "en": "Say what you like!"
+    },
+    {
+     "en": "The Military Police will deal with these guys! Iron Gear crew, hurry back!"
+    },
+    {
+     "en": "Thanks, Mr. Dastun!"
+    },
+    {
+     "en": "Let's go. The enemy's main force is getting close."
+    }
+   ],
+   "notes": "[editorial 8] 'I believed you'd come' stiff for Kanji | [editorial 13] insult reads as a fragment without 'You'",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "I'm glad to see everyone safe."
+    },
+    {
+     "en": "It's thanks to the Megadeus."
+    },
+    {
+     "en": "Megadeus? You mean that machine from before?"
+    },
+    {
+     "en": "That's what the Military Police guy said. It shows up out of nowhere, and when the fight's over, it disappears underground."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "Did I do the right thing...?"
+    },
+    {
+     "en": "You mean using Big O."
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "Standing against Grados means taking part in the war."
+    },
+    {
+     "en": "Perhaps I was a little rash..."
+    },
+    {
+     "en": "Do you regret it?"
+    },
+    {
+     "en": "...I'd rather not think so."
+    },
+    {
+     "en": "Roger, you would have had to fight one way or another."
+    },
+    {
+     "en": "And sooner or later, you'll be leaving this city."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "It's your job, Roger Smith."
+    },
+    {
+     "en": ".................."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

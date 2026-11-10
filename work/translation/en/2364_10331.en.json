@@ -1,0 +1,225 @@
+{
+ "table": "2364_10331",
+ "rows": [
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "It's dangerous for civilians here.\nClear out, now."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "We'll take care of\nthings from here..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Please!\nGet up,\nMaitooo!!"
+    }
+   ],
+   "notes": "[jp]: -san dropped (Sally says plain 'Maito' elsewhere).",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "This hand of mine is burning red!\nIts loud roar tells me to grasp victory!!"
+    }
+   ],
+   "notes": "God Finger chant per project decision.",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Undefeated of the East School's\nfinal secret technique!\nSekiha Tenkyokeeen!!"
+    }
+   ],
+   "notes": "[jp] = glossary 'Undefeated of the East School'; Sekiha Tenkyoken per library.",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Rei, activate V-MAX!"
+    }
+   ],
+   "notes": "Matches existing 'Activate V-MAX' line.",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Activate V-MAX!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Goldion Hammerrr!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Goldion Hammerrr!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Chrome Buster!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Missile Party!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "Nuoooooooooh!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "All right!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "We won't lose!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Kiba Drive,\ninstall!"
+    }
+   ],
+   "notes": "[jp] not in glossary: romanized 'Kiba Drive'. 'X, install!' pattern follows existing Viper Whip line.",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "Leo Circle,\ninstall!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "Unicorn Drill,\ninstall!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Viper Whip,\ninstall!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "Viper Whip,\ninstall!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "I'm counting on you, Maggie!"
+    }
+   ],
+   "notes": "[jp]: -chan dropped as in other Light lines.",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "Kaaaaaaah!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "Take this fist of mine!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

@@ -1,0 +1,534 @@
+{
+ "table": "4822_10353",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "I've caught a message."
+    },
+    {
+     "en": "An organization called GEAR\nis asking for an alliance."
+    },
+    {
+     "en": "Do you know where\nwe should go?"
+    },
+    {
+     "en": "Um...\nProbably here..."
+    },
+    {
+     "en": "I'll put up a marker now."
+    }
+   ],
+   "notes": "[jp] (katakana) -> GEAR per project decision.",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Here on the Asia Continent,\nLord Arthea has been dispatched\nby the Galfa Empire."
+    },
+    {
+     "en": "Join up with Lord Arthea's unit\nat once and conquer the\nAsia Continent."
+    },
+    {
+     "en": "Lord Arthea's fleet is currently\nusing a Grados Army base as\nits home port."
+    },
+    {
+     "en": "If we go to the Grados Supply Base,\nwe should be able to make contact."
+    },
+    {
+     "en": "Showing the marker."
+    }
+   ],
+   "notes": "[jp]/[jp] -> Lord Arthea (as in other slices).",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "We've arrived at the\ndesignated spot."
+    },
+    {
+     "en": "Lun...\nThis is the right place, isn't it?"
+    },
+    {
+     "en": "I've caught a transmission."
+    },
+    {
+     "en": "Patching it through now."
+    },
+    {
+     "en": "This is GEAR Headquarters."
+    },
+    {
+     "en": "We'll guide you in,\nso please land."
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "Beginning our landing\napproach now."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Welcome to GEAR Headquarters!"
+    },
+    {
+     "en": "I am Commander Shibuya."
+    },
+    {
+     "en": "Thank you for so readily\naccepting our alliance."
+    },
+    {
+     "en": "From now on, let's join\nforces and fight together!"
+    },
+    {
+     "en": "The pleasure is ours.\nWe look forward to working\nwith you!"
+    },
+    {
+     "en": "Alliance formed with GEAR."
+    },
+    {
+     "en": "The unit \"Dendoh\" is now\navailable."
+    },
+    {
+     "en": "The battleship \"Meteor\" is now\navailable."
+    },
+    {
+     "en": "The warrior \"Vega\" has been\nassigned to you."
+    },
+    {
+     "en": "The five \"Samurai Troopers\"\nhave been assigned to you."
+    },
+    {
+     "en": "I'm Vega, the vice commander."
+    },
+    {
+     "en": "I'll now explain the operation."
+    },
+    {
+     "en": "The operation area is the northern\nAsia Continent:\nthe \"Grados Supply Base.\""
+    },
+    {
+     "en": "Take this base, and the\nAsia Continent will be liberated."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "So, what about our forces?"
+    },
+    {
+     "en": "GEAR intends to commit \"Dendoh\"\nto the operation."
+    },
+    {
+     "en": "We also have collaborators\nin Paradigm City."
+    },
+    {
+     "en": "If you want to strengthen your\nforces, join up with them."
+    },
+    {
+     "en": "The target is the \"Grados Supply\nBase,\" and going via Paradigm City\nwill get us reinforcements, right?"
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "We'll do our very best."
+    },
+    {
+     "en": "<Operation Launched>\nGrados Supply Base Assault"
+    }
+   ],
+   "notes": "[jp] -> Samurai Troopers (form used in other slices). [jp] -> <Operation Launched>, bracket style as <Win Condition>. | [editorial 5] system-message template unified",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Joined up with the collaborators\nin Paradigm City."
+    },
+    {
+     "en": "The ship \"Bebop\" is now\navailable."
+    },
+    {
+     "en": "The units \"Swordfish\" and\n\"Red Tail\" are now available."
+    },
+    {
+     "en": "The unit \"Big O\" is now\navailable."
+    }
+   ],
+   "notes": "[jp] kept as 'Swordfish' as written (the unit is Swordfish II in the glossary).",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Yo!\nSo you're this Omega guy?"
+    },
+    {
+     "en": "Ah, no...\nIt's not me..."
+    },
+    {
+     "en": "Figured as much..."
+    },
+    {
+     "en": "So you're the one who's\nsupposed to be useful?"
+    },
+    {
+     "en": "Long as you set me up with\nfair pay and a machine\nI can actually use."
+    },
+    {
+     "en": "Very well. You can show me\nwhat you're worth in real combat."
+    },
+    {
+     "en": "All right!\nWe've got ourselves a deal!"
+    },
+    {
+     "en": "Beck has been hired."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "We have been awaiting you,\nLord Redros."
+    },
+    {
+     "en": "All is ready for you to dock."
+    },
+    {
+     "en": "At last the Galfa Empire and the\nRedros Army will form a true\nunited front."
+    },
+    {
+     "en": "To begin, let us conquer the\nAsia Continent and offer it\nto Emperor Galfa as a gift."
+    },
+    {
+     "en": "As you command!"
+    },
+    {
+     "en": "Are preparations for the\noperation in order?"
+    },
+    {
+     "en": "Yes."
+    },
+    {
+     "en": "The enemy's stronghold\nis already laid bare..."
+    },
+    {
+     "en": "We can launch the assault\nat a moment's notice."
+    },
+    {
+     "en": "Joined up with Black Knight Arthea."
+    },
+    {
+     "en": "The Ouga joins your forces."
+    },
+    {
+     "en": "<Operation Launched>\nGEAR HQ Assault"
+    }
+   ],
+   "notes": "[jp] -> Emperor Galfa (glossary). [jp]: reading dropped, Ouga per glossary. | [editorial 9] stray slash from the source; name as in the speaker header",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Entering combat with the\nGEAR main force."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Air superiority over\nGEAR HQ secured."
+    },
+    {
+     "en": "An infantry squad must be sent in\nto take the ground."
+    },
+    {
+     "en": "Send in the Infantry Squad?"
+    },
+    {
+     "en": "Attack now\nAttack later"
+    },
+    {
+     "en": "Sending in the Infantry Squad."
+    },
+    {
+     "en": "The ground assault will be\ncarried out later."
+    }
+   ],
+   "notes": "[editorial 5] 'The ground will be taken later' was unclear",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Commencing the infantry assault."
+    }
+   ],
+   "notes": "Source [jp] is ungrammatical (squad + 'begin'); rendered as the evident meaning.",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "The ground has been secured."
+    },
+    {
+     "en": "You can now dock at\nHoshimi Town."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "[editorial 0] brief template for battle-start messages",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Air superiority over the\nGrados Supply Base secured."
+    },
+    {
+     "en": "An infantry squad must be sent in\nto take the ground."
+    },
+    {
+     "en": "Send in the Infantry Squad?"
+    },
+    {
+     "en": "Attack now\nAttack later"
+    },
+    {
+     "en": "Sending in the Infantry Squad."
+    },
+    {
+     "en": "The ground assault will be\ncarried out later."
+    }
+   ],
+   "notes": "[editorial 5] same message as 9.5",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "Sending in the Infantry Squad."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "The ground has been secured."
+    },
+    {
+     "en": "You can now dock at the base."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "...?!"
+    },
+    {
+     "en": "An emergency transmission?"
+    },
+    {
+     "en": "It's from GEAR Headquarters!"
+    },
+    {
+     "en": "An enemy fleet made a surprise\nattack on Paradigm City! It looks\nlike they've taken the city!"
+    },
+    {
+     "en": "I'm sending the data.\nLun, please analyze it."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Why would they go for Paradigm\nCity and not GEAR HQ...?"
+    },
+    {
+     "en": "'Cause there's a gate leading to\nspace near that city..."
+    },
+    {
+     "en": "Then...\nthe enemy is the Redros Army?"
+    },
+    {
+     "en": "Analysis complete."
+    },
+    {
+     "en": "The enemy appears to be a mixed\nforce of the Redros Army and\nthe Grados Army."
+    },
+    {
+     "en": "I knew it!"
+    },
+    {
+     "en": "At this rate..."
+    },
+    {
+     "en": "We're retaking Paradigm City!\nHurry and prepare to depart!"
+    },
+    {
+     "en": "<Operation Launched>\nParadigm City Recapture"
+    }
+   ],
+   "notes": "Seg 12: Vega's line is cut off by Rie; kept unfinished. | [editorial 7] line answers Rie's 'why'; the causal link was lost",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "[accuracy 0] project decision: [jp] = 'The battle will now begin.' (66 uses corpus-wide)",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "The enemy fleet is withdrawing."
+    },
+    {
+     "en": "All ships, cease fire."
+    },
+    {
+     "en": "Do not pursue. Switch over\nto resupply operations."
+    },
+    {
+     "en": "Transmission from the\nParadigm Corporation."
+    },
+    {
+     "en": "Probably the Paradigm Corporation's\npresident, Alex Rosewater..."
+    },
+    {
+     "en": "Connecting now."
+    },
+    {
+     "en": "I am Alex Rosewater of the\nParadigm Corporation."
+    },
+    {
+     "en": "I am deeply impressed by\nyour forces' work."
+    },
+    {
+     "en": "On behalf of Paradigm City,\nI thank you from the\nbottom of my heart."
+    },
+    {
+     "en": "From now on, Paradigm City wishes\nto establish friendly relations\nwith your forces."
+    },
+    {
+     "en": "The Paradigm Corporation will\nalso support you with all\nits might."
+    },
+    {
+     "en": "Thank you very much."
+    },
+    {
+     "en": "If we may, could you let us dock\nto resupply right away?"
+    },
+    {
+     "en": "Ha ha!\nBy all means!"
+    },
+    {
+     "en": "The airport will always be\nopen for you."
+    },
+    {
+     "en": "What... was that..."
+    },
+    {
+     "en": "They've barely lifted a finger\nto help GEAR until now..."
+    },
+    {
+     "en": "They saw we had the upper hand\nand switched sides just like that."
+    },
+    {
+     "en": "...Somehow,\nthat doesn't sit right with me..."
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "Paradigm City has been retaken."
+    },
+    {
+     "en": "You can now dock at\nParadigm City."
+    }
+   ],
+   "notes": "Seg 16: dropped subject restored as 'They' (the Paradigm Corporation / Rosewater's side). [jp] -> president (glossary position). | [editorial 13] 'You're most welcome' read as a reply to thanks; daikangei answers the docking request | [editorial 17] tense agreement",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "I'm Major Dan Dastun of\nthe Military Police."
+    },
+    {
+     "en": "On orders from above, I'll be\naccompanying this fleet."
+    },
+    {
+     "en": "We've been informed."
+    },
+    {
+     "en": "We look forward to working\nwith you."
+    },
+    {
+     "en": "Nice to meet ya,\nold man!"
+    },
+    {
+     "en": "Ha!\nSame to you, kid!"
+    },
+    {
+     "en": "Paradigm Corporation president\nAlex Rosewater has once again\nexpressed his gratitude."
+    },
+    {
+     "en": "From now on, you'll have the\ncooperation of Paradigm City's\nMilitary Police."
+    },
+    {
+     "en": "The vehicle \"Military Police\nArmored Car\" is now available."
+    }
+   ],
+   "notes": "Seg 5: [jp] rendered 'Ha!' as a hearty reply.",
+   "status": "proofread"
+  }
+ ]
+}

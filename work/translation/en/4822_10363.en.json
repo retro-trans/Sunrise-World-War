@@ -1,0 +1,3097 @@
+{
+ "table": "4822_10363",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "We've entered the Earth Realm's\nBrave Continent."
+    },
+    {
+     "en": "GGG (\"Three G\") in \"Tokio\"\nis offering to cooperate."
+    },
+    {
+     "en": "Displaying the marker."
+    },
+    {
+     "en": "Changing course.\nHeading for Tokio."
+    }
+   ],
+   "notes": "[jp] Tokio (sibling Sunrise Eiyuutan glossary spelling); [jp] -> GGG (\"Three G\") as in the library.",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "GGG Command Center"
+    },
+    {
+     "en": "Welcome to\nGGG Headquarters."
+    },
+    {
+     "en": "I'm Taiga,\nthe commander."
+    },
+    {
+     "en": "I'm glad to be able to\nfight alongside you!"
+    },
+    {
+     "en": "The pleasure is ours. We look\nforward to working with you."
+    },
+    {
+     "en": "Straight to business, Commander Taiga:\ncould you fill us in on the situation\non the Brave Continent?"
+    },
+    {
+     "en": "Let's see..."
+    },
+    {
+     "en": "Mikoto!\nWould you explain?"
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "Several years ago, the Brave\nContinent was invaded by\nGilgamesh and Deloyer."
+    },
+    {
+     "en": "And that war is still\ngoing on today."
+    },
+    {
+     "en": "That's because each city on the\nBrave Continent has organized its own\ndefense force and kept on resisting."
+    },
+    {
+     "en": "Now those defense forces work together;\nthey've grown into the Brave Alliance."
+    },
+    {
+     "en": "GGG is one organization within\nthe Brave Alliance, you see."
+    },
+    {
+     "en": "So basically, the people of the\ncontinent, scattered at first,\nare now working together."
+    },
+    {
+     "en": "Well, that's about the size of it."
+    },
+    {
+     "en": "But... all we've managed to protect\nis a small area around each city."
+    },
+    {
+     "en": "The enemy has cut the cities off from\neach other; the truth is we can't even\nstay in proper contact."
+    },
+    {
+     "en": "Is that right..."
+    },
+    {
+     "en": "Until now, holding the line\nwas the best we could manage."
+    },
+    {
+     "en": "But with your fleet joining us,\nthe situation has changed."
+    },
+    {
+     "en": "Because now we, too, can form a mobile\nforce and go on the counterattack."
+    },
+    {
+     "en": "In other words, your fleet\nis the key to victory!"
+    },
+    {
+     "en": "Oh, Guy!\nWelcome back!"
+    },
+    {
+     "en": "I'm back, Mikoto!"
+    },
+    {
+     "en": "Good work out there."
+    },
+    {
+     "en": "Just a Deloyer recon unit.\nWe didn't even need to go out..."
+    },
+    {
+     "en": "It's a stalemate, after all...\nThey can't afford to commit\ntheir forces either."
+    },
+    {
+     "en": "But it never hurts\nto be careful."
+    },
+    {
+     "en": "Oh, that's right!\nLet me introduce you."
+    },
+    {
+     "en": "\"Guy Shishioh,\" and\n\"Renais Cardiff Shishioh.\""
+    },
+    {
+     "en": "Both of them are GGG's\ntop agents."
+    },
+    {
+     "en": "Good to meet you!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Yeah,\ngood to meet you!"
+    },
+    {
+     "en": "Now, back to the matter at hand."
+    },
+    {
+     "en": "As I said earlier, the enemy has\nsurrounded every city on the\nBrave Continent."
+    },
+    {
+     "en": "Sweep these enemies away and join up\nwith each city's defense force."
+    },
+    {
+     "en": "If you can join up with them all, we\nshould in time drive every last enemy\noff the Brave Continent."
+    },
+    {
+     "en": "Commander Taiga!\nLet me go too!"
+    },
+    {
+     "en": "Of course. That was\nmy intention."
+    },
+    {
+     "en": "Guy, Renais, I want you two to\nrepresent GGG and form the core\nof the force."
+    },
+    {
+     "en": "The Mechanoid units will devote\neverything to defending Tokio."
+    },
+    {
+     "en": "You two go out there and\ncut loose all you want!"
+    },
+    {
+     "en": "That's what I was waiting to hear!"
+    },
+    {
+     "en": "Right.\nLet's get moving."
+    },
+    {
+     "en": "GGG's staff representatives have\njoined the unit."
+    },
+    {
+     "en": "Machine added:\nGaoFighGar x1"
+    },
+    {
+     "en": "The following ships have joined the fleet:\nIzanami\nTsukuyomi"
+    },
+    {
+     "en": "Well, guess I'll set up the squads."
+    },
+    {
+     "en": "Hold it right there."
+    },
+    {
+     "en": "Oh, you're...\nRenais, right?"
+    },
+    {
+     "en": "The enemies surrounding the cities\ninclude some strong infantry squads."
+    },
+    {
+     "en": "Mech Squads alone won't be enough\nto take back the cities."
+    },
+    {
+     "en": "Yeah, I know."
+    }
+   ],
+   "notes": "Taiga's [jp] / [jp]: honorific dropped. Izanami (ship) not in the glossary. [50] Renais's [jp] rendered gruff ('Hold it right there.'). [51] [jp] -> 'Renais'. | [editorial 47] system line aligned to 'Machine added:\\n<name>' (as rows 11/17 in this unit) | [proofread 53] capitalisation: the player's squad type is 'Mech Squad' (UI term; corpus majority)",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "This is...!"
+    },
+    {
+     "en": "What's wrong?!"
+    },
+    {
+     "en": "A distress call!\nPutting it through!!"
+    },
+    {
+     "en": "It's an emergency!"
+    },
+    {
+     "en": "GGG's Kyoto branch is\nunder enemy attack!!"
+    },
+    {
+     "en": "So the enemy moved faster than we did..."
+    },
+    {
+     "en": "They must have read our moves\nand acted on it."
+    },
+    {
+     "en": "Maybe that recon unit from earlier\nreported in."
+    },
+    {
+     "en": "This is Taiga at HQ!"
+    },
+    {
+     "en": "Head for Kyoto\nat once!"
+    },
+    {
+     "en": "Roger!!"
+    },
+    {
+     "en": "Set course for Kyoto!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Displaying the marker!!"
+    }
+   ],
+   "notes": "Swan's foreign accent ([jp] / [jp]) not reproduced in English. [jp] Kyoto (not in the glossary).",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Made contact with the enemy\nforces surrounding Kyoto."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "You came for us!\nBig Bro Guy!"
+    },
+    {
+     "en": "Of course I did!"
+    },
+    {
+     "en": "Come on, Mamoru!\nLet's fight together!!"
+    },
+    {
+     "en": "Yeah!!"
+    }
+   ],
+   "notes": "[jp] -> 'Big Bro Guy' (cf. the Rie 'Big Bro' decision).",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Enemy fleet repelled."
+    },
+    {
+     "en": "Air superiority over Kyoto\nsecured."
+    },
+    {
+     "en": "This is the Kyoto branch!"
+    },
+    {
+     "en": "Enemy infantry squads are still\nall over the city!"
+    },
+    {
+     "en": "Shall we send in our\nInfantry Squads?"
+    },
+    {
+     "en": "Attack now\nAttack later"
+    },
+    {
+     "en": "Sending in the Infantry Squads now."
+    },
+    {
+     "en": "We'll take the ground once\nwe've regrouped."
+    },
+    {
+     "en": "This ship will withdraw from\nthe front for now."
+    }
+   ],
+   "notes": "[proofread 4] capitalisation: own squad type 'Infantry Squad' (UI term; as in dlg_4822_10353_00 and dlg_4822_10363_01) | [proofread 6] capitalisation: own squad type 'Infantry Squad' (UI term)",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Commencing infantry combat."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Damn you..."
+    },
+    {
+     "en": "Heh...\nTo think the Earthside had\na fighter this skilled."
+    },
+    {
+     "en": "We're pulling back!"
+    },
+    {
+     "en": "Wait!!"
+    },
+    {
+     "en": "Stop!\nChasing them too far is dangerous!"
+    },
+    {
+     "en": "Let go of me!"
+    },
+    {
+     "en": "Toya!"
+    },
+    {
+     "en": "If we don't do it now,\nthen when?!"
+    },
+    {
+     "en": "Now, hold on!"
+    },
+    {
+     "en": "The enemy still has\nstrength to spare."
+    },
+    {
+     "en": "If we let them get away now, it'll be\nthe same thing all over again!"
+    },
+    {
+     "en": "Quit acting like\na spoiled brat!"
+    },
+    {
+     "en": "That fight just now...\nYou didn't win it\nall on your own, did you!"
+    },
+    {
+     "en": "Ngh...!"
+    },
+    {
+     "en": "Tch!\nDon't make so much trouble for us."
+    },
+    {
+     "en": "In any case, our first priority now\nis to join up with our allies."
+    },
+    {
+     "en": "Let us go!"
+    },
+    {
+     "en": "Let's go, Toya."
+    },
+    {
+     "en": "............"
+    }
+   ],
+   "notes": "[1] [jp] 'the Earthside' (not in the glossary). [5] [jp]: Garriel is presumably holding Toya back. [4] Garriel -- speaker header; gender per speakers.tsv.",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Kyoto successfully liberated."
+    },
+    {
+     "en": "You can now dock at Kyoto."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Oh, Kanji.\nA message from the captain."
+    },
+    {
+     "en": "Yeah, what is it?"
+    },
+    {
+     "en": "More new forces are joining,\nshe says."
+    },
+    {
+     "en": "So she wants you to go pick them\nup at the \"GGG branch.\""
+    },
+    {
+     "en": "Roger!\nI'll be off, then."
+    }
+   ],
+   "notes": "[jp] = Rie (captain of Kanji's ship), hence 'she'.",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "GGG Kyoto Branch"
+    },
+    {
+     "en": "I'm sorry, Mamoru..."
+    },
+    {
+     "en": "Because I wasn't strong enough,\nI made you go through this."
+    },
+    {
+     "en": "What are you talking about?\nThat's not like you,\nBig Bro Guy!"
+    },
+    {
+     "en": "I'm a GGG member too!"
+    },
+    {
+     "en": "Let's keep working together\nfrom now on!"
+    },
+    {
+     "en": "Yeah, Mamoru...\nYou're right."
+    },
+    {
+     "en": "There you are, Kanji."
+    },
+    {
+     "en": "Sorry to keep you waiting!"
+    },
+    {
+     "en": "Oh, Kanji!"
+    },
+    {
+     "en": "Um, I'm\nMamoru Amami."
+    },
+    {
+     "en": "I'm GaoGaiGar's pilot!"
+    },
+    {
+     "en": "I see. So you're the one\nwho's been piloting GaoGaiGar."
+    },
+    {
+     "en": "Yes.\nI'm looking forward to working with you."
+    },
+    {
+     "en": "Yeah, same here!\nMamoru!"
+    },
+    {
+     "en": "Joined up with the members\nof GGG's Kyoto branch."
+    },
+    {
+     "en": "Machine added:\nGaoGaiGar x1"
+    }
+   ],
+   "notes": "[2] [jp] unspecified -- 'go through this' (presumably Mamoru piloting/fighting). [9] [jp] / [14] [jp]: honorifics dropped. | [editorial 6] 'You're right... It's just like you say' said the same thing twice | [editorial 12] 'who was moving GaoGaiGar' literal (accuracy flag)",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "Ah!\nPlease wait a moment."
+    },
+    {
+     "en": "Hm?\nWhat is it?"
+    },
+    {
+     "en": "In that fight earlier,\nit was you who helped us,\nwasn't it?"
+    },
+    {
+     "en": "Oh, I guess you could\nsay that."
+    },
+    {
+     "en": "Right now, we're officially\na GGG detached unit."
+    },
+    {
+     "en": "From here on, we'll be\njoining up with you guys."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "It should have been settled\nwith GGG already..."
+    },
+    {
+     "en": "Oh, so that's it.\nI'll show you to the ship."
+    },
+    {
+     "en": "We're in your hands!"
+    },
+    {
+     "en": "The Animanoids, Toya, and Kira\nhave joined the unit."
+    }
+   ],
+   "notes": "[accuracy 3] Kira asks whether it was Kanji's group that helped them; [jp] is a hedged yes ('I guess that would be us'), not 'that's how it turned out' | [accuracy 4] [jp] = it has been arranged / they are formally counted as one; 'supposed to be' read as if they are not really one | [editorial 10] system line aligned; serial comma so Toya and Kira don't read as the Animanoids' names",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "Enemy forces spotted!"
+    },
+    {
+     "en": "They're surrounding\nNouvelle Tokio!"
+    },
+    {
+     "en": "All hands, battle stations!!"
+    },
+    {
+     "en": "We'll wipe out the enemy forces!"
+    },
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "[jp] Nouvelle Tokio (Might Gaine city; not in the glossary).",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "The enemy forces have withdrawn."
+    },
+    {
+     "en": "You can now dock at\nNouvelle Tokio."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "So this is Nouvelle Tokio..."
+    },
+    {
+     "en": "It's a big city..."
+    },
+    {
+     "en": "Yeah...\nThis is the city protected by\nthe Brave Express Team."
+    },
+    {
+     "en": "Could you go meet them\nright away?"
+    },
+    {
+     "en": "Sure.\nSo where should I go?"
+    },
+    {
+     "en": "The Senpuuji residence.\nI'll take you there now."
+    },
+    {
+     "en": "Come on, Guy,\nyou're coming too!"
+    },
+    {
+     "en": "I'm going too?"
+    },
+    {
+     "en": "I've still got patrol duty,\nthough."
+    },
+    {
+     "en": "I already told the commander."
+    },
+    {
+     "en": "Come on, let's go!"
+    },
+    {
+     "en": "Whoa!"
+    },
+    {
+     "en": "Mikoto sure looks happy."
+    },
+    {
+     "en": "It must have been a while since\nthe two of them went out together."
+    },
+    {
+     "en": "While each city was cut off, I bet\nthey never got... to do this."
+    },
+    {
+     "en": "Suggest a detour\nGo straight to the Senpuuji home"
+    },
+    {
+     "en": "Hey!\nSince we're out anyway, why don't\nwe take a little detour?"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "I'm all for it!"
+    },
+    {
+     "en": "Hey!\nKanji, not you too!\nWhat are you saying?"
+    },
+    {
+     "en": "Ha ha!\nWhat's the harm?\nYou've got a little time, right?"
+    },
+    {
+     "en": "Guy... please..."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Oh, all right..."
+    },
+    {
+     "en": "Yaaay!"
+    },
+    {
+     "en": "Mikoto's Command level went up."
+    },
+    {
+     "en": "Guy's Warrior level went up."
+    },
+    {
+     "en": "Whoops!"
+    },
+    {
+     "en": "If I space out, they'll\nleave me behind!"
+    },
+    {
+     "en": "Kanji's Command level went up."
+    }
+   ],
+   "notes": "[5] source [jp] read as [jp] (typo). [15] choice page. [jp]/[jp] -> Command/Warrior level (no UI string found for the stat names; unverified). | [accuracy 2] duplicated word: 'Team' appeared twice ('Brave Express Team / Team protects') | [editorial 2] line break left 'protects.' stranded; reordered | [editorial 19] [jp]: Kanji siding with Mikoto ('Now you're saying it too' implied she said it first; accuracy flag)",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "The Senpuuji residence..."
+    },
+    {
+     "en": "Long time no see,\nMaito!"
+    },
+    {
+     "en": "Guy!"
+    },
+    {
+     "en": "Sorry for making you\ncome all the way out here."
+    },
+    {
+     "en": "Mikoto filled me in."
+    },
+    {
+     "en": "You'll be coming on behalf of\nthe Brave Express Team, right?"
+    },
+    {
+     "en": "Yes!"
+    },
+    {
+     "en": "We'll be representing the\nwhole Brave Continent.\nI'm counting on you, Maito!"
+    },
+    {
+     "en": "Protecting everyone's happiness\nis the mission we've been given."
+    },
+    {
+     "en": "We'll see it through,\nno matter what!"
+    },
+    {
+     "en": "Joined up with Maito Senpuuji."
+    },
+    {
+     "en": "Machine added:\nMight Gaine x1"
+    }
+   ],
+   "notes": "[7] [jp] rendered 'here for the whole Brave Continent' (lit. 'representatives of the Brave Continent'). | [editorial 7] 'We're here for the whole Brave Continent' unclear; [jp] = representing",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Enemy forces spotted!"
+    },
+    {
+     "en": "They're surrounding\nYosho Town!"
+    },
+    {
+     "en": "All hands, battle stations!!"
+    },
+    {
+     "en": "We'll wipe out the enemy forces!"
+    },
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "[jp] Yosho Town (library has Yosho Academy).",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "The enemy forces have withdrawn."
+    },
+    {
+     "en": "You can now dock at\nYosho Town."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "Big Bro!"
+    },
+    {
+     "en": "Hm?\nWhat is it, Rie?"
+    },
+    {
+     "en": "New machines and staff\nhave arrived, so I'll leave\nthe rest to you!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Oh, so this is the machine."
+    },
+    {
+     "en": "Raijin-Oh.\nThis town's guardian deity."
+    },
+    {
+     "en": "Huh..."
+    },
+    {
+     "en": "Oh!\nLooks like the one in charge is here."
+    },
+    {
+     "en": "Hello!"
+    },
+    {
+     "en": "I'm Maria Shiratori,\nthe class representative."
+    },
+    {
+     "en": "Starting today, we'll be\nin your care!"
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "You're Raijin-Oh's\npilot?"
+    },
+    {
+     "en": "Oh, no, I'm not.\nThe pilots are..."
+    },
+    {
+     "en": "I'm Jin!\nNice to meet ya, mister!"
+    },
+    {
+     "en": "I'm Asuka.\nNice to meet you!"
+    },
+    {
+     "en": "I-I'm Koji...\nPleased to meet you..."
+    },
+    {
+     "en": "So, these three\nare the pilots."
+    },
+    {
+     "en": "Uh, r-right...\nI see..."
+    },
+    {
+     "en": "The rest of the class and I control\nRaijin-Oh from the operations\ncommand room."
+    },
+    {
+     "en": "So the commander of the Earth Defense\nClass is... you, the class rep...?"
+    },
+    {
+     "en": "Yes, that's right."
+    },
+    {
+     "en": "We're counting on you!"
+    },
+    {
+     "en": "The Earth Defense Class\nhas joined the unit."
+    },
+    {
+     "en": "Raijin-Oh has been deployed."
+    }
+   ],
+   "notes": "[14] Jin's [jp] to Kanji -> 'mister' (a kid addressing an older stranger). | [editorial 19] 'Me and the rest of the class' off-voice for the prim class rep",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "Enemy forces spotted!"
+    },
+    {
+     "en": "They're surrounding\nAozora Town!"
+    },
+    {
+     "en": "All hands, battle stations!!"
+    },
+    {
+     "en": "We'll wipe out the enemy forces!"
+    },
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "[jp] Aozora Town (library has Aozora Elementary School).",
+   "status": "proofread"
+  },
+  {
+   "id": 24,
+   "segments": [
+    {
+     "en": "The enemy forces have withdrawn."
+    },
+    {
+     "en": "You can now dock at\nAozora Town."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 25,
+   "segments": [
+    {
+     "en": "Big Bro!"
+    },
+    {
+     "en": "Hm?\nWhat?"
+    },
+    {
+     "en": "New machines and staff\nare here!\nI'll leave the rest to you!"
+    },
+    {
+     "en": "Roger."
+    },
+    {
+     "en": "So this is Gambaruger."
+    },
+    {
+     "en": "Heh heh,\npretty cool, huh?"
+    },
+    {
+     "en": "Yeah, it looks\npretty tough."
+    },
+    {
+     "en": "...Wait, are you\nby any chance..."
+    },
+    {
+     "en": "Gambaruger's pilot,\nKotaro the Yellow Ganbar!"
+    },
+    {
+     "en": "Same here,\nI'm Yosuke, the Blue Ganbar."
+    },
+    {
+     "en": "I'm Rikiya, the Red Ganbar.\nPleased to meet you."
+    },
+    {
+     "en": "Yeah, good to meet you all."
+    },
+    {
+     "en": "The Ganbar Team has joined\nthe unit."
+    },
+    {
+     "en": "Gambaruger has been deployed."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 26,
+   "segments": [
+    {
+     "en": "Enemy forces spotted!"
+    },
+    {
+     "en": "They're surrounding the city!"
+    },
+    {
+     "en": "All hands, battle stations!!"
+    },
+    {
+     "en": "We'll wipe out the enemy forces!"
+    },
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 28,
+   "segments": [
+    {
+     "en": "Enemy fleet repelled!\nAir superiority secured."
+    },
+    {
+     "en": "Message from the city!"
+    },
+    {
+     "en": "Hey there!\nThe city's still under attack!\nDo somethin' about it!"
+    },
+    {
+     "en": "Looks like the enemy infantry\nsquads haven't pulled out yet..."
+    },
+    {
+     "en": "Shall we send in our own\nInfantry Squads?"
+    },
+    {
+     "en": "Attack now\nAttack later"
+    },
+    {
+     "en": "Sending in the Infantry Squads now."
+    },
+    {
+     "en": "We'll take the ground once\nwe've regrouped."
+    },
+    {
+     "en": "This ship will withdraw from\nthe front for now."
+    }
+   ],
+   "notes": "[proofread 4] capitalisation: own squad type 'Infantry Squad' (UI term) | [proofread 6] capitalisation: own squad type 'Infantry Squad' (UI term)",
+   "status": "proofread"
+  },
+  {
+   "id": 29,
+   "segments": [
+    {
+     "en": "Commencing infantry combat."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 32,
+   "segments": [
+    {
+     "en": "Sankai City successfully liberated."
+    },
+    {
+     "en": "You can now dock at Sankai City."
+    }
+   ],
+   "notes": "[jp] Sankai City (library has Sankai High School).",
+   "status": "proofread"
+  },
+  {
+   "id": 33,
+   "segments": [
+    {
+     "en": "Hey!\nKanji!"
+    },
+    {
+     "en": "Oh, Guy.\nWhat's up?"
+    },
+    {
+     "en": "More new forces are joining\nus from this city."
+    },
+    {
+     "en": "I need you to head to the\n\"Amano Lab\" right away."
+    },
+    {
+     "en": "That's where you're set\nto meet up with them."
+    },
+    {
+     "en": "The \"Amano Lab,\" right?"
+    },
+    {
+     "en": "Got it.\nI'll be off."
+    }
+   ],
+   "notes": "[editorial 3] term: [jp] 'the Amano Lab' (project decision) | [editorial 5] term: [jp] 'the Amano Lab' (project decision)",
+   "status": "proofread"
+  },
+  {
+   "id": 34,
+   "segments": [
+    {
+     "en": "Amano Peace Science Laboratory"
+    },
+    {
+     "en": "Huff... huff... phew...\nSo this is the lab..."
+    },
+    {
+     "en": "Never thought a lab would be...\non top of a hill like this..."
+    },
+    {
+     "en": "Oh!\nGlad you made it."
+    },
+    {
+     "en": "Hm?\nDid you walk all the way up?"
+    },
+    {
+     "en": "I took a taxi as far as\nthe foot of the hill."
+    },
+    {
+     "en": "I'm military, so I figured it'd be\nbetter if nobody noticed me\ncoming and going here..."
+    },
+    {
+     "en": "How admirable, for a young\nfella these days."
+    },
+    {
+     "en": "Still, that's a relief."
+    },
+    {
+     "en": "After all, we'll be in your care\naboard your ship from now on."
+    },
+    {
+     "en": "Thank you for your cooperation!"
+    },
+    {
+     "en": "Now, now, don't be so stiff.\nIt doesn't suit you."
+    },
+    {
+     "en": "Ha ha ha!\nGuess it doesn't."
+    },
+    {
+     "en": "Well then, let me introduce\nthe lab staff."
+    },
+    {
+     "en": "I'm Yutaro Katori,\nDr. Amano's assistant."
+    },
+    {
+     "en": "Ah, Yutaro,\nthere's no need to hide\nanything from Kanji."
+    },
+    {
+     "en": "Oh, is that so?"
+    },
+    {
+     "en": "Yutaro Katori is my name!\nPilot of Fighbird am I!"
+    },
+    {
+     "en": "Well met!\nBrother Kanji!"
+    },
+    {
+     "en": "Uh, y-yeah...\nnice to meet you..."
+    },
+    {
+     "en": "Big Bro Katori's really into\nsamurai dramas right now."
+    },
+    {
+     "en": "Oh... I see.\nHa ha... You surprised me there\nfor a second."
+    },
+    {
+     "en": "I'm Kenta Amano."
+    },
+    {
+     "en": "I ride the Fire Jet\nwith Big Bro Katori."
+    },
+    {
+     "en": "Huh?\nYou ride in it too?"
+    },
+    {
+     "en": "Heh heh!"
+    },
+    {
+     "en": "And this here is\nmy granddaughter..."
+    },
+    {
+     "en": "I'm Haruka Amano."
+    },
+    {
+     "en": "I'm in charge of this\nhousehold's finances."
+    },
+    {
+     "en": "Pleased to meet you!"
+    },
+    {
+     "en": "Oh!\nPlease thank Captain Rie for me\nabout the electric bill."
+    },
+    {
+     "en": "Hm?\nIs that the kind of deal\nyou've worked out?"
+    },
+    {
+     "en": "Yes. Before you came, Kanji, I talked\nall sorts of things over with her\non the phone."
+    },
+    {
+     "en": "Wow...\nYou're really on top of things."
+    },
+    {
+     "en": "Ain't she?\nShe's a granddaughter I can\nrely on."
+    },
+    {
+     "en": "Seems like it."
+    },
+    {
+     "en": "But... you run a machine like that\nwith just this handful of staff?"
+    },
+    {
+     "en": "That's right."
+    },
+    {
+     "en": "To begin with, we don't have\nany spare money to hire folks."
+    },
+    {
+     "en": "But you've been protecting\nthis city, right?"
+    },
+    {
+     "en": "My lab runs on the goodwill\nof people who want peace."
+    },
+    {
+     "en": "Protecting this city is just how\nit turned out. That's all."
+    },
+    {
+     "en": "I see."
+    },
+    {
+     "en": "Well then, look after us."
+    },
+    {
+     "en": "Joined up with the main staff of the\nAmano Peace Science Laboratory."
+    },
+    {
+     "en": "Fighbird has been deployed."
+    }
+   ],
+   "notes": "[17]-[18] Katori's period-drama speech (see [20] and his library profile) rendered with archaic flavor; [jp] -> 'Brother Kanji'. [jp] -> 'Big Bro Katori'. [20] [jp] -> 'samurai dramas'. [24] [jp] read as 'you ride in it too'. Dr. Amano's dialect ([jp]/[jp]) given a folksy tone.",
+   "status": "proofread"
+  },
+  {
+   "id": 35,
+   "segments": [
+    {
+     "en": "Big Bro!"
+    },
+    {
+     "en": "What?"
+    },
+    {
+     "en": "Sorry, you just got back!\nMore new staff are joining.\nCould you go to \"Sankai High School\"?"
+    },
+    {
+     "en": "Yeah, sure, but..."
+    },
+    {
+     "en": "Is it really okay to poach\nthis many people?"
+    },
+    {
+     "en": "I am a little worried..."
+    },
+    {
+     "en": "Hey, hey!"
+    },
+    {
+     "en": "Just kidding!\nThat's not how it is."
+    },
+    {
+     "en": "Everyone said they couldn't just look\nthe other way... so they're\nhelping us out."
+    },
+    {
+     "en": "Besides, having people from\neach region join us"
+    },
+    {
+     "en": "means more people will understand\nwhat we're doing, right?"
+    },
+    {
+     "en": "Well, sure, but..."
+    },
+    {
+     "en": "Oh, sorry,\nBig Bro."
+    },
+    {
+     "en": "I've still got\nwork to do."
+    },
+    {
+     "en": "Ah, right.\nSorry for holding you up."
+    },
+    {
+     "en": "Well, I'm off.\n\"Sankai High School,\" right?"
+    },
+    {
+     "en": "Yep!\nI'm counting on you!"
+    },
+    {
+     "en": "Roger."
+    }
+   ],
+   "notes": "[9]-[10] one sentence split across two pages in the source; cut at the matching point. | [editorial 16] 'Thanks a lot!' can read sarcastic; [jp] is Rie's request (accuracy flag)",
+   "status": "proofread"
+  },
+  {
+   "id": 36,
+   "segments": [
+    {
+     "en": "Sankai High School"
+    },
+    {
+     "en": "We've been expecting you.\nI'm Kai, head of the\ndisciplinary committee."
+    },
+    {
+     "en": "Hearing that we may accompany the\nfleet, I am filled with a solemn\nsense of duty."
+    },
+    {
+     "en": "At last, the time to strike back\nhas come. I will work myself\nto the bone!"
+    },
+    {
+     "en": "For the sake of world peace,\nlet us fight together!"
+    },
+    {
+     "en": "Yeah!"
+    },
+    {
+     "en": "Man, this is way too stiff."
+    },
+    {
+     "en": "Not for me, man.\nA battleship? Ugh."
+    },
+    {
+     "en": "You think so?"
+    },
+    {
+     "en": "It's like the pinnacle of science.\nI'm kind of interested."
+    },
+    {
+     "en": "You idiots!!\nThink about how great a mission\nthe people are asking of us!"
+    },
+    {
+     "en": "Ow ow ow ow!!\nWhy only me?!"
+    },
+    {
+     "en": "Ahem...!"
+    },
+    {
+     "en": "Pardon me. I expect my fellow\nstudents will cause you a great deal\nof trouble, but..."
+    },
+    {
+     "en": "I will keep them in line myself,\nso I must ask your forbearance."
+    },
+    {
+     "en": "Ha ha... There's no need\nto be so stiff."
+    },
+    {
+     "en": "No!\nIn all things, the beginning\nis what matters most."
+    },
+    {
+     "en": "Leave discipline aboard ship\nto me!"
+    },
+    {
+     "en": "Uh, r-right...\nI'm counting on you, then."
+    },
+    {
+     "en": "Joined up with the members\nof Dagwon."
+    }
+   ],
+   "notes": "[4] speaker header Rai Utsumi (glossary short name Rai). [11] En complains he alone got punished (Kai presumably hits/grabs him). [13] [jp] -> 'my fellow students' (Kai is a student, not a teacher).",
+   "status": "proofread"
+  },
+  {
+   "id": 37,
+   "segments": [
+    {
+     "en": "This is Capital City.\nIt's a neutral zone, so we can dock."
+    },
+    {
+     "en": "GAIL and several other companies\nhave come to sell their goods."
+    },
+    {
+     "en": "Looks like we can resupply\nhere too..."
+    },
+    {
+     "en": "There was a place like this\non the Brave Continent?"
+    },
+    {
+     "en": "Means they struck a good deal\nwith the enemy."
+    },
+    {
+     "en": "From what I've found, this city is\nhome to the headquarters of a giant\ncorporation called \"GAIL.\""
+    },
+    {
+     "en": "Apparently they sell weapons\nacross continents..."
+    },
+    {
+     "en": "So basically, it's a supply\npoint for the enemy, too."
+    },
+    {
+     "en": "It seems they have branches all\nacross the Earth Realm."
+    },
+    {
+     "en": "They appear to have more than\na few ties to the Redros Army, too."
+    }
+   ],
+   "notes": "[jp] -> GAIL, as in the library machine entries ([jp]). [jp] Capital City (not in the glossary).",
+   "status": "proofread"
+  },
+  {
+   "id": 38,
+   "segments": [
+    {
+     "en": "Emergency transmission!"
+    },
+    {
+     "en": "Enemies are massing at\nCapital City!!"
+    },
+    {
+     "en": "Looks like they still\nwant to fight."
+    },
+    {
+     "en": "They don't even care that\nit's a neutral zone...!"
+    },
+    {
+     "en": "This is the final push to\nliberate the Brave Continent!"
+    },
+    {
+     "en": "All forces, launch for\nCapital City!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 39,
+   "segments": [
+    {
+     "en": "Enemy forces detected."
+    },
+    {
+     "en": "Commencing battle!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 42,
+   "segments": [
+    {
+     "en": "Enemy forces repelled!"
+    },
+    {
+     "en": "Capital City\nis liberated!"
+    }
+   ],
+   "notes": "Swan's [jp] accent not reproduced (also row 39).",
+   "status": "proofread"
+  },
+  {
+   "id": 43,
+   "segments": [
+    {
+     "en": "Oh, Rie."
+    },
+    {
+     "en": "There's a man named Rod\nfrom GAIL here to see you."
+    },
+    {
+     "en": "I see...\nThen please show him to the lounge."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "First off, I owe you my thanks."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "Thanks to you chasing off the Redros and\nDeloyer armies, GAIL's top brass is in\nan uproar."
+    },
+    {
+     "en": "Now that those sly old badgers have proven\nuseless, my word carries more weight.\nThat's the long and short of it."
+    },
+    {
+     "en": "I see.\nSo, what did you want to discuss?"
+    },
+    {
+     "en": "From now on, as far as my authority allows,\nGAIL promises to provide your forces with\nsupplies and information."
+    },
+    {
+     "en": "A bit late for that!\nWeren't you helping the Redros Army\nall this time?"
+    },
+    {
+     "en": "The winds have changed.\nWe need your strength, that's all."
+    },
+    {
+     "en": "Besides, GAIL's a business. When an army\ndemands goods, we can't exactly refuse to\nsell, can we?"
+    },
+    {
+     "en": "I understand that..."
+    },
+    {
+     "en": "But people don't have a good impression\nof your company. Not at all."
+    },
+    {
+     "en": "That stings...\nWell, trading's a free choice.\nI won't force you."
+    },
+    {
+     "en": "But I'm headed to Austral after this.\nThis is your only chance."
+    },
+    {
+     "en": "To Austral?"
+    },
+    {
+     "en": "Austral lies at the edge of the Astragius\nContinent. It's inside Balarant's sphere\nof influence."
+    },
+    {
+     "en": "Unless you're willing to cross swords with\nBalarant, there's no getting in."
+    },
+    {
+     "en": "So what about it?"
+    },
+    {
+     "en": "There's a gate on Austral..."
+    },
+    {
+     "en": "Most likely a gate that leads to\nthe Redros Army's home base."
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Even I don't know what's on the other side.\nBelieve it or not, that's up to you."
+    },
+    {
+     "en": "But with GAIL as go-between, you could\nenter Balarant territory too."
+    },
+    {
+     "en": "That alone isn't a bad deal, is it?"
+    },
+    {
+     "en": "That's true, but..."
+    },
+    {
+     "en": "Don't get the wrong idea.\nI couldn't care less about the\ncompany's reputation."
+    },
+    {
+     "en": "I don't want to sell weapons like my\nold man. I just want to expose those\nguys' schemes."
+    },
+    {
+     "en": "And to do that...\nI need to team up with you."
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "Please lend us your strength."
+    },
+    {
+     "en": "It goes both ways.\nWell then, I'm counting on you."
+    },
+    {
+     "en": "Gained the cooperation of\nGAIL's Rod faction."
+    },
+    {
+     "en": "Rod has joined the unit."
+    }
+   ],
+   "notes": "Seg 7: [jp] rendered 'sly old badgers' (GAIL's old executives). Seg 21-22: [jp] kept lowercase 'gate' (Rod is describing one; capitalised elsewhere for the dimensional Gates -- reviewer may unify). Seg 30: [jp] = 'my old man' (Rod's relation per library is grandson of chairman Roy; kept the source's word). Seg 22 'those guys' = [jp], referent unstated (Redros side presumably). | [editorial 23] [jp]: 'What did you say?' read as not hearing; matches other 'What!?' renderings | [editorial 31] 'join hands' stiff for Rod's casual voice",
+   "status": "proofread"
+  },
+  {
+   "id": 44,
+   "segments": [
+    {
+     "en": "With this, the enemy can no longer\nmount organized resistance on the\nBrave Continent."
+    },
+    {
+     "en": "Now it's time for us in the Brave\nAlliance to help you."
+    },
+    {
+     "en": "All right!\nLet's head out for a new continent!"
+    }
+   ],
+   "notes": "[jp] = 'Brave Alliance' (not in glossary; check slice _00's rendering). | [editorial 1] 'Now it's our turn, the Brave Alliance, to help you' awkward apposition",
+   "status": "proofread"
+  },
+  {
+   "id": 45,
+   "segments": [
+    {
+     "en": "We have entered the Brave Continent."
+    },
+    {
+     "en": "Picked up a guidance signal from\nCapital City! Displaying marker!"
+    },
+    {
+     "en": "Your Excellency, preparations to conclude\nalliances with the various factions\nare complete."
+    },
+    {
+     "en": "For the time being, please stop by\nCapital City."
+    },
+    {
+     "en": "Very well."
+    }
+   ],
+   "notes": "Seg 1: [jp] read as typo for [jp].",
+   "status": "proofread"
+  },
+  {
+   "id": 46,
+   "segments": [
+    {
+     "en": "Multinational conglomerate\nGAIL Headquarters Building"
+    },
+    {
+     "en": "His Excellency won't be taking part\nin the negotiations?"
+    },
+    {
+     "en": "These alliance talks are being held far\nand wide across the Earth Realm. As such,\nthere are plenty of small fry."
+    },
+    {
+     "en": "There's no need for His Excellency\nto deal with the likes of them."
+    },
+    {
+     "en": "It also serves to make them understand\nwhere they really stand."
+    },
+    {
+     "en": "We've made contact with the Deloyer\n8th Army, which is invading Brave."
+    },
+    {
+     "en": "From now on, they can take part in\noperations on the Brave Continent."
+    },
+    {
+     "en": "With this, it is now possible to seize\neach of the strongholds."
+    },
+    {
+     "en": "Please seize all strongholds on the\nBrave Continent without delay."
+    },
+    {
+     "en": "Good!"
+    },
+    {
+     "en": "When to launch the operation,\nI leave to the front-line units."
+    },
+    {
+     "en": "I'm counting on you, Omega, Kanji!"
+    },
+    {
+     "en": "Roger."
+    },
+    {
+     "en": "Understood, sir!"
+    },
+    {
+     "en": "Okay then...\nTime to set up the squads!"
+    },
+    {
+     "en": "Lieutenant Kanji, please wait.\nCommander Rochina is asking for you."
+    },
+    {
+     "en": "Huh?\nMe?"
+    },
+    {
+     "en": "It's a meeting about the operation's\nstrategy."
+    },
+    {
+     "en": "I believe it would be best to attend\nbefore setting up your squads."
+    },
+    {
+     "en": "Oh, right."
+    },
+    {
+     "en": "Lord Omega has already gone.\nPlease hurry as well, Lieutenant Kanji."
+    },
+    {
+     "en": "Okay, okay."
+    },
+    {
+     "en": "(Something's different from usual...\n this atmosphere...)"
+    },
+    {
+     "en": "(Well, maybe it's the Astante's atmosphere\n that's the weird one.)"
+    },
+    {
+     "en": "?"
+    },
+    {
+     "en": "Is something the matter?"
+    },
+    {
+     "en": "No, it's nothing."
+    },
+    {
+     "en": "Most of the Brave Continent is held by\nthe Deloyer 8th Army -- in other words,\nby friendly forces."
+    },
+    {
+     "en": "Therefore, the chance of contact with\nthe enemy while under way is low."
+    },
+    {
+     "en": "However, a troublesome enemy still holds\nthe areas around the major cities."
+    },
+    {
+     "en": "Troublesome enemy?"
+    },
+    {
+     "en": "Each city has an independent so-called\ndefense organization, but their forces\nthemselves are nothing much."
+    },
+    {
+     "en": "However, the few powerful machines each\nof those organizations operates are\nhampering the invasion."
+    },
+    {
+     "en": "According to our investigation, the\n8th Army's advance has stalled these\npast few months."
+    },
+    {
+     "en": "Just a few machines did that...?"
+    },
+    {
+     "en": "Initially, they apparently planned the\ninvasion with the Deloyer 8th Army alone,"
+    },
+    {
+     "en": "but lately they reportedly can't even\nhold the front without reinforcements\nfrom the Gilgamesh regular army."
+    },
+    {
+     "en": "Which is exactly why there's value\nin our intervening."
+    },
+    {
+     "en": "Deloyer is nothing more than\na province of Gilgamesh."
+    },
+    {
+     "en": "An expedition across continents...\nThis operation was overreaching\nfrom the start."
+    },
+    {
+     "en": "Gilgamesh's top brass merely jumped on\nDeloyer's bid to score points."
+    },
+    {
+     "en": "Heh...!\nStrange words, coming from a man\nborn in Gilgamesh..."
+    },
+    {
+     "en": "To me, the future of Gilgamesh is\nof no great importance."
+    },
+    {
+     "en": "Oh...?"
+    },
+    {
+     "en": "Listen. Conquering Brave will put\nGilgamesh deeply in our debt."
+    },
+    {
+     "en": "I want you both to recognize anew\nhow important this operation is."
+    },
+    {
+     "en": "Understood.\nLet's work out the best plan."
+    },
+    {
+     "en": "Agreed."
+    },
+    {
+     "en": "Then I'm counting on you."
+    },
+    {
+     "en": "Lieutenant Kanji!\nPlease wait!"
+    },
+    {
+     "en": "Is there something else?"
+    },
+    {
+     "en": "The power of the large machines that form\nthe core of the enemy forces defending\nthe cities is greater than you imagine."
+    },
+    {
+     "en": "But if you can just deal with those,\nthe rest are small fry."
+    },
+    {
+     "en": "I see."
+    },
+    {
+     "en": "And one more thing."
+    },
+    {
+     "en": "We've received reports of a powerful\nspecial forces unit among the enemy's\ninfantry as well."
+    },
+    {
+     "en": "Our investigation of them hasn't\nprogressed, so their strength is\nan unknown quantity."
+    },
+    {
+     "en": "Got it.\nI'll beef up the Infantry Squad too."
+    },
+    {
+     "en": "Thanks for going to the trouble."
+    },
+    {
+     "en": "Forgive me, but I thought you might\nnot read the reports very closely."
+    },
+    {
+     "en": "Gulp!"
+    },
+    {
+     "en": "How'd you know?"
+    },
+    {
+     "en": "Please don't let it trouble you."
+    },
+    {
+     "en": "I hear many pilots suited to real combat\nare like that."
+    },
+    {
+     "en": "I believe people like you, Lieutenant Kanji,\nare also needed in the military."
+    },
+    {
+     "en": "Let me see...\nI'd say you have qualities\nLord Omega lacks."
+    },
+    {
+     "en": "Oh, right.\nYou're Omega's personal secretary,\naren't you?"
+    },
+    {
+     "en": "I ask that you continue to support\nLord Omega, as always."
+    },
+    {
+     "en": "Yeah, I'll give it everything I've got!"
+    }
+   ],
+   "notes": "Aria's [jp] -> 'Captain Kanji' (Kanji is [jp] on the Redros route; 'Lord Omega' kept as in earlier slices). Seg 2-4: speaker header is Rochina answering Omega; seg 5 onward is a new beat (Rochina reporting to Redros). Seg 7: Aria's line acts as the system/operator voice. Seg 45 [jp] read as Omega and Kanji ('you both'). Seg 59: [jp] object unstated; supplied 'the reports' (the briefing material) from context. | [editorial 33] [jp] 'survey' unidiomatic here",
+   "status": "proofread"
+  },
+  {
+   "id": 47,
+   "segments": [
+    {
+     "en": "Launching the operation."
+    },
+    {
+     "en": "Wipe out the enemy forces defending\nthe key strongholds of the Brave\nContinent."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 48,
+   "segments": [
+    {
+     "en": "We are approaching the outskirts of Tokio."
+    },
+    {
+     "en": "Enemy forces sighted!"
+    },
+    {
+     "en": "Good!\nAll units, charge in!"
+    }
+   ],
+   "notes": "[jp] = 'Tokio' (GaoGaiGar city spelling, not in glossary). [jp] read as [jp].",
+   "status": "proofread"
+  },
+  {
+   "id": 49,
+   "segments": [
+    {
+     "en": "It seems the enemy is keeping its regular\nforces in the rear while sending GGG's\nships to the front."
+    },
+    {
+     "en": "Mm..."
+    },
+    {
+     "en": "Units of the Deloyer 8th Army\nhave arrived!"
+    },
+    {
+     "en": "I suppose they can't stand the thought of\nus stealing their glory."
+    },
+    {
+     "en": "That army's failed to take this city all\nthis time. They're not to be relied on."
+    },
+    {
+     "en": "So they've come...\nThat's the Redros Army\nwe've heard about."
+    },
+    {
+     "en": "Ready, Guy?!"
+    },
+    {
+     "en": "Yeah!!\nI'm good to go anytime!!"
+    },
+    {
+     "en": "All right!"
+    },
+    {
+     "en": "Final Fusion!"
+    },
+    {
+     "en": "Activation approved!!"
+    },
+    {
+     "en": "Program... drive!!"
+    },
+    {
+     "en": "There it is!!\nIt's GaoFighGar!!"
+    },
+    {
+     "en": "As I thought..."
+    },
+    {
+     "en": "Their tactics are precarious...\nThey rely entirely on the strength\nof a few."
+    },
+    {
+     "en": "We'll take them in one fell swoop!\nCommence attack!!"
+    }
+   ],
+   "notes": "[accuracy 10] [jp] dropped: Taiga approves the activation of Final Fusion",
+   "status": "proofread"
+  },
+  {
+   "id": 50,
+   "segments": [
+    {
+     "en": "Damn!\nI didn't think the Redros Army\nwould be this strong!"
+    },
+    {
+     "en": "I-It's hopeless...!"
+    },
+    {
+     "en": "Don't give up!"
+    },
+    {
+     "en": "GGG hasn't been taken yet!"
+    },
+    {
+     "en": "You're right."
+    },
+    {
+     "en": "All GGG staff, abandon headquarters\nand withdraw!"
+    },
+    {
+     "en": "Everyone, hurry!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 51,
+   "segments": [
+    {
+     "en": "We've secured air superiority."
+    },
+    {
+     "en": "All that's left is to seize GGG\nheadquarters with the Infantry Squad."
+    },
+    {
+     "en": "Good!"
+    },
+    {
+     "en": "Now, what's our next move?"
+    },
+    {
+     "en": "Choose whether to go straight\ninto infantry combat."
+    },
+    {
+     "en": "Attack now\nPrepare first"
+    },
+    {
+     "en": "The outcome is already decided.\nSend in the Infantry Squad!!"
+    },
+    {
+     "en": "We're still short on strength."
+    },
+    {
+     "en": "Keep the city surrounded!\nHold off on the infantry assault\nfor now!"
+    }
+   ],
+   "notes": "Seg 5 is a two-option choice page.",
+   "status": "proofread"
+  },
+  {
+   "id": 52,
+   "segments": [
+    {
+     "en": "Enemy infantry has broken\ninto GGG!!"
+    },
+    {
+     "en": "Here they come...!"
+    },
+    {
+     "en": "Let's go, Guy!"
+    },
+    {
+     "en": "Right!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 53,
+   "segments": [
+    {
+     "en": "This is GGG's own operation.\nWe can't get support from anyone else."
+    },
+    {
+     "en": "In this situation, we're better off\nwithout it."
+    },
+    {
+     "en": "Listen, all you have to do is buy time\nfor the staff to escape."
+    },
+    {
+     "en": "I know, Commander."
+    },
+    {
+     "en": "I'm counting on you!"
+    },
+    {
+     "en": "So you've shown up, small fry!"
+    },
+    {
+     "en": "Here I come!!"
+    },
+    {
+     "en": "Hm?\nYou're...!!"
+    },
+    {
+     "en": "Heh! Guy!\nWe're here to back you up!!"
+    },
+    {
+     "en": "Guy! Renais!!"
+    },
+    {
+     "en": "There's no way you two can\nhandle this alone!!"
+    },
+    {
+     "en": "The city has already surrendered."
+    },
+    {
+     "en": "This fight is GGG's own fight.\nWe can't accept your help!"
+    },
+    {
+     "en": "Huh?\nWhat's that supposed to mean?"
+    },
+    {
+     "en": "Anyway, you need to get away\nfrom here."
+    },
+    {
+     "en": "Then we'll join GGG right now.\nThat makes it okay, right?"
+    },
+    {
+     "en": "Hey, hey..."
+    },
+    {
+     "en": "Heh!\nWhy not?"
+    },
+    {
+     "en": "I doubt these kids would slow us down."
+    },
+    {
+     "en": "True enough..."
+    },
+    {
+     "en": "All right then,\nI'm counting on you!"
+    },
+    {
+     "en": "Yeah!!"
+    },
+    {
+     "en": "Toya, it looks like it's settled."
+    },
+    {
+     "en": "Yeah!"
+    },
+    {
+     "en": "So the stage is all set, huh?"
+    },
+    {
+     "en": "Then let me at 'em!"
+    },
+    {
+     "en": "If we all work together, none of us\nwill have to push ourselves too hard."
+    },
+    {
+     "en": "Now, let us go!"
+    },
+    {
+     "en": "You lot are as roundabout as ever."
+    },
+    {
+     "en": "I'm doing things my way from here on!"
+    }
+   ],
+   "notes": "Seg 26: [jp] read as typo for [jp]. Seg 7 'You're...' -- Guy recognises Toya (who answers next). | [accuracy 18] hedge [jp] restored (Renais's guess, not a certainty) | [editorial 28] verb restored (accuracy flag); 'Roundabout as ever, you lot' fragmentary",
+   "status": "proofread"
+  },
+  {
+   "id": 55,
+   "segments": [
+    {
+     "en": "We won the battle, but most of GGG's\nmembers got away."
+    },
+    {
+     "en": "Hmph...\nSo they intend a rematch."
+    },
+    {
+     "en": "Well, no matter. It doesn't change the\nfact that Tokio has fallen."
+    },
+    {
+     "en": "Tokio has been conquered."
+    },
+    {
+     "en": "Proceed to the next target."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 56,
+   "segments": [
+    {
+     "en": "We are approaching the outskirts of\nNouvelle Tokio."
+    },
+    {
+     "en": "Enemy forces sighted!"
+    },
+    {
+     "en": "Good!\nAll units, charge in!"
+    }
+   ],
+   "notes": "[jp] = 'Nouvelle Tokio' (Might Gaine city, not in glossary).",
+   "status": "proofread"
+  },
+  {
+   "id": 57,
+   "segments": [
+    {
+     "en": "Master Maito!\nEnemy forces have reached the\nsecond defense line!!"
+    },
+    {
+     "en": "Right! It's our turn!"
+    },
+    {
+     "en": "Let's go!\nMight Gaine!"
+    },
+    {
+     "en": "Carrying hope on silver wings,\nlight up the green signal of peace!"
+    },
+    {
+     "en": "Brave Express Might Gaine,\narriving right on schedule!"
+    },
+    {
+     "en": "Now feel it in your own flesh -- payback\nfor all the suffering you've caused!"
+    },
+    {
+     "en": "I'll settle this in one go!"
+    },
+    {
+     "en": "Damn that Redros Army...\nIf those guys win,\nwe'll be out of business."
+    },
+    {
+     "en": "But what do we do?\nThe operation's already started!"
+    },
+    {
+     "en": "The \"Fang of the Sun.\"\nIf we nab them ourselves,\nthere's money in it."
+    },
+    {
+     "en": "And on top of that, the Redros Army\nwill owe us one."
+    },
+    {
+     "en": "If we get on their good side,\nwe can stay in business."
+    },
+    {
+     "en": "But this is the Brave Continent.\nThe \"Fang of the Sun\" on this front?"
+    },
+    {
+     "en": "They're here!\nI guarantee it!!"
+    },
+    {
+     "en": "Here they come!!\nDeploy the units!!"
+    },
+    {
+     "en": "No!\nMr. Locke!\nYou're too far ahead!"
+    },
+    {
+     "en": "Leave the front-line fighting\nto Might Gaine!"
+    },
+    {
+     "en": "This enemy won't be like the ones before.\nWe have to give it our all too!"
+    },
+    {
+     "en": "But...!"
+    },
+    {
+     "en": "Don't worry,\nI have a plan of sorts."
+    },
+    {
+     "en": "Crinn!\nAre you ready!!"
+    },
+    {
+     "en": "Yes!\nDougram, moving out!!"
+    },
+    {
+     "en": "See!\nJust like I figured."
+    },
+    {
+     "en": "Whoa!\nIt's the Dougram!!\nThe \"Fang of the Sun,\" here of all places...!"
+    },
+    {
+     "en": "Listen, don't let anyone\nbeat you to them!!"
+    },
+    {
+     "en": "Right!"
+    },
+    {
+     "en": "For the sake of this city,\nwhich took us in..."
+    },
+    {
+     "en": "...we can't back down here!"
+    },
+    {
+     "en": "Everyone!\nThis isn't the final battle.\nMake sure you survive!"
+    },
+    {
+     "en": "Maito's right."
+    },
+    {
+     "en": "Let's each do our best!"
+    },
+    {
+     "en": "As expected, Might Gaine\nhas come out."
+    },
+    {
+     "en": "Mm..."
+    },
+    {
+     "en": "But aren't the units deployed around it\nDeloyer weapons?"
+    },
+    {
+     "en": "Yes, that is the\n\"Deloyer Liberation Front.\""
+    },
+    {
+     "en": "Most likely people who escaped from\nthe state of Deloyer..."
+    },
+    {
+     "en": "Looks like some confusing guys\njust showed up."
+    },
+    {
+     "en": "The Deloyer Liberation Front, huh..."
+    },
+    {
+     "en": "Pretty bold for a bunch of guerrillas."
+    },
+    {
+     "en": "That suits me fine."
+    },
+    {
+     "en": "Looks like we won't have to fight\nin the streets."
+    },
+    {
+     "en": "They're only guests here. They can't go\nas far as turning the city to ash."
+    },
+    {
+     "en": "Lord Omega!\nSortie orders!"
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "Let's go!\nKanji!!"
+    },
+    {
+     "en": "Right!!"
+    }
+   ],
+   "notes": "Izumi's [jp] -> 'Master Maito' (and [jp] in row 58 -> 'Mr. Maito'). Seg 3-4 Might Gaine arrival call and seg 5 Maito's line translated for meaning (no glossary form). Seg 15 [jp] -> 'Mr. Locke'. [jp] -> 'Deloyer Liberation Front' (library uses 'Deloyer Liberation Army' for J. Locke's affiliation; the source here says [jp] -- reviewer may unify). Garcia's gender unknown: no pronouns used. Seg 36 [jp]: they look like Deloyer (allied) forces but are enemies -- 'confusing'. | [accuracy 1] verb restored ([jp] = it's our turn)",
+   "status": "proofread"
+  },
+  {
+   "id": 58,
+   "segments": [
+    {
+     "en": "Ngh...!\nWhat is with these guys?!"
+    },
+    {
+     "en": "We can still fight!\nDon't give up!"
+    },
+    {
+     "en": "Yeah!\nThe fight's only just begun!"
+    },
+    {
+     "en": "Wait!\nThis is the time to pull back."
+    },
+    {
+     "en": "We can still fight!"
+    },
+    {
+     "en": "Pushing ourselves now won't win us\na complete victory."
+    },
+    {
+     "en": "Don't worry. I planned for this.\nOur withdrawal is already arranged."
+    },
+    {
+     "en": "But what about everyone at HQ?!"
+    },
+    {
+     "en": "It's fine, Maito.\nHQ is all packed up and ready to move."
+    },
+    {
+     "en": "Mr. Maito!\nPlease fall back!"
+    },
+    {
+     "en": "But...\nabandoning Nouvelle Tokio..."
+    },
+    {
+     "en": "No!\nI can't do it!"
+    },
+    {
+     "en": "Think calmly, Maito."
+    },
+    {
+     "en": "If we keep fighting,\nthe city will be damaged..."
+    },
+    {
+     "en": "But if we pull back, the city will\nbe spared any fatal harm."
+    },
+    {
+     "en": "Will it really...?"
+    },
+    {
+     "en": "I hear the Redros Army places great\nweight on military discipline. They're\nunlikely to loot without reason."
+    },
+    {
+     "en": "They should have gotten the message that\nwe're willing to fight. That's enough\nfor now."
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "Maito, let's fall back!"
+    },
+    {
+     "en": "Roger..."
+    },
+    {
+     "en": "All right!\nAll forces, withdraw!!"
+    }
+   ],
+   "notes": "Seg 14: source [jp] is garbled ('fatal unharmed'); rendered as 'spared any fatal harm' (likely intent: [jp]).",
+   "status": "proofread"
+  },
+  {
+   "id": 59,
+   "segments": [
+    {
+     "en": "The mayor has declared surrender.\nWe can dock there as well."
+    },
+    {
+     "en": "Good. Well done, everyone!"
+    },
+    {
+     "en": "We'll prepare for the next operation.\nOnce resupplied, we head for the\nnext target."
+    }
+   ],
+   "notes": "[editorial 0] [jp] = 'dock' (project decision; UI 'Dock') | [editorial 2] 'We prepare for the next operation' unnatural as Redros's order",
+   "status": "proofread"
+  },
+  {
+   "id": 60,
+   "segments": [
+    {
+     "en": "Hey!\nYou there, youngster."
+    },
+    {
+     "en": "Mind putting me through to your\nfleet commander?"
+    },
+    {
+     "en": "Oh, sure.\nGot it."
+    },
+    {
+     "en": "His Excellency Redros, the fleet's\nsupreme commander, is busy."
+    },
+    {
+     "en": "I'll hear what you have to say instead."
+    },
+    {
+     "en": "Heh!\nCommander Rochina, huh...\nYou sure wormed your way in nicely."
+    },
+    {
+     "en": "I merely let myself be carried\nby the tide of history."
+    },
+    {
+     "en": "And what about you?\nWill you remain Lecoque's pawn?"
+    },
+    {
+     "en": "Hmph!\nNever had any intention of that\nto begin with."
+    },
+    {
+     "en": "I've got no principles or causes.\nMoney's everything in this world."
+    },
+    {
+     "en": "So long as you pay what's owed,\nI'll do anything."
+    },
+    {
+     "en": "Very well.\nWe'll decide what to do with you."
+    },
+    {
+     "en": "Then we have a deal."
+    },
+    {
+     "en": "Let's keep our business smart,\nboth of us."
+    },
+    {
+     "en": "The Garcia Squad has come under\nyour command."
+    },
+    {
+     "en": "Machines added:\nTequila Gunner\nSoltic"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 61,
+   "segments": [
+    {
+     "en": "We are approaching Kyoto."
+    },
+    {
+     "en": "Enemy forces sighted!!"
+    },
+    {
+     "en": "Good!\nAll units, charge in!"
+    }
+   ],
+   "notes": "[jp] (katakana in source) -> 'Kyoto'.",
+   "status": "proofread"
+  },
+  {
+   "id": 62,
+   "segments": [
+    {
+     "en": "A troublesome one's shown up\non our flank..."
+    },
+    {
+     "en": "A lone unit that rushed in\nwon't hold out for long."
+    },
+    {
+     "en": "Keep our distance and let it\nburn through its energy."
+    },
+    {
+     "en": "Lord Omega!\nSortie orders!"
+    },
+    {
+     "en": "Let's go!\nKanji!!"
+    },
+    {
+     "en": "Right!!"
+    }
+   ],
+   "notes": "Seg 0-2: the flanking lone unit is unnamed here (GaoGaiGar per row 63).",
+   "status": "proofread"
+  },
+  {
+   "id": 63,
+   "segments": [
+    {
+     "en": "No way...\nGaoGaiGar lost..."
+    },
+    {
+     "en": "It's galling... but we can't keep\nfighting here any longer."
+    },
+    {
+     "en": "Big Bro Guy..."
+    },
+    {
+     "en": "This is GGG\nKyoto Branch~!"
+    },
+    {
+     "en": "Withdrawal preparations\nare complete~!"
+    },
+    {
+     "en": "I won't give up. I'll take back\nthe Brave Continent, no matter what!"
+    },
+    {
+     "en": "You'll come with me, won't you?\nMamoru!"
+    },
+    {
+     "en": "Yeah!!"
+    },
+    {
+     "en": "All right! Let's move out!!"
+    }
+   ],
+   "notes": "Mamoru's [jp] -> 'Big Bro Guy' (cf. Rie's 'Big Bro'). Swan's [jp] accent shown only with '~'.",
+   "status": "proofread"
+  },
+  {
+   "id": 64,
+   "segments": [
+    {
+     "en": "The mayor of Tokio has declared\nsurrender."
+    },
+    {
+     "en": "We can now dock at Tokio."
+    },
+    {
+     "en": "Good. Well done, everyone!"
+    },
+    {
+     "en": "We'll prepare for the next operation.\nOnce resupplied, we head for the\nnext target."
+    }
+   ],
+   "notes": "Source says [jp] although this follows the Kyoto battle (rows 61-63); likely a source slip -- kept 'Tokio' as written. | [editorial 1] [jp] = 'dock' (project decision) | [editorial 3] 'We prepare for...' unnatural; same line as row 59",
+   "status": "proofread"
+  },
+  {
+   "id": 65,
+   "segments": [
+    {
+     "en": "We are approaching Yosho Town."
+    },
+    {
+     "en": "Enemy forces sighted!!"
+    },
+    {
+     "en": "Good!\nAll units, charge in!"
+    }
+   ],
+   "notes": "[jp] -> 'Yosho Town' (matches 'Yosho Academy' in the library).",
+   "status": "proofread"
+  },
+  {
+   "id": 66,
+   "segments": [
+    {
+     "en": "We adults need to get it together!"
+    },
+    {
+     "en": "Don't fall behind Raijin-Oh! Show them\nwhat the Defense Force is made of!!"
+    },
+    {
+     "en": "Everyone, are you ready?"
+    },
+    {
+     "en": "Radar, no problems."
+    },
+    {
+     "en": "Totally OK!"
+    },
+    {
+     "en": "Combining functions, no problems."
+    },
+    {
+     "en": "All systems appear to be fine."
+    },
+    {
+     "en": "The enemy's right in front of us!\nWe're combining Raijin-Oh."
+    },
+    {
+     "en": "Jin, sorry to keep you waiting!\nThe command room is up and running!\nReady to combine!"
+    },
+    {
+     "en": "Yeah!\nLet's do this!!"
+    },
+    {
+     "en": "Koji, Asuka, let's combine!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "All riiight, let's do it!!"
+    },
+    {
+     "en": "Raijin-Oh!\nInvincible Combination!"
+    },
+    {
+     "en": "Absolutely Invincible!\nRaaaijin-Ohhh!!"
+    },
+    {
+     "en": "Let's go! Kanji!!"
+    },
+    {
+     "en": "Roger!!"
+    }
+   ],
+   "notes": "Commander Takeda's gender unknown; no pronouns. Raijin-Oh combination call translated for meaning (no glossary form). Seg 4 [jp]: playful [jp]. | [proofread 12] style sheet 'All right' (not 'Alright'); stretched vowel kept",
+   "status": "proofread"
+  },
+  {
+   "id": 67,
+   "segments": [
+    {
+     "en": "Dammit!\nThose guys are strong!!"
+    },
+    {
+     "en": "Jin!\nThe Defense Force is withdrawing!\nRaijin-Oh, follow us!!"
+    },
+    {
+     "en": "What!\nYou're saying we run away?!"
+    },
+    {
+     "en": "Just fighting blindly won't cut it!\nThey aren't like the Evil Beasts!"
+    },
+    {
+     "en": "Jin, we can't fight anymore."
+    },
+    {
+     "en": "Daaamn it!!"
+    }
+   ],
+   "notes": "[jp] -> 'Evil Beasts' (Raijin-Oh's monsters; not in glossary).",
+   "status": "proofread"
+  },
+  {
+   "id": 68,
+   "segments": [
+    {
+     "en": "Yosho Town has declared surrender."
+    },
+    {
+     "en": "We can now dock at Yosho Town."
+    },
+    {
+     "en": "Well done, everyone!"
+    },
+    {
+     "en": "We'll prepare for the next operation.\nOnce resupplied, we head for the\nnext target."
+    }
+   ],
+   "notes": "[editorial 1] [jp] = 'dock' (project decision) | [editorial 3] 'We prepare for...' unnatural; same line as row 59",
+   "status": "proofread"
+  },
+  {
+   "id": 69,
+   "segments": [
+    {
+     "en": "We are approaching Aozora Town."
+    },
+    {
+     "en": "Enemy forces sighted!!"
+    },
+    {
+     "en": "Good!\nAll units, charge in!"
+    }
+   ],
+   "notes": "[jp] -> 'Aozora Town' (library: Aozora Elementary School).",
+   "status": "proofread"
+  },
+  {
+   "id": 70,
+   "segments": [
+    {
+     "en": "We adults need to get it together!"
+    },
+    {
+     "en": "Don't fall behind Gambaruger! Show them\nwhat the Defense Force is made of!!"
+    },
+    {
+     "en": "By Colonel von Stein's orders, I have\ncome to support your forces."
+    },
+    {
+     "en": "Just what I'd expect of Major Zaltsev.\nRight on time."
+    },
+    {
+     "en": "And your deployment is exactly as\nwe arranged beforehand."
+    },
+    {
+     "en": "Naturally, sir!"
+    },
+    {
+     "en": "I now hand command of my unit\nover to you."
+    },
+    {
+     "en": "You're sure about this?"
+    },
+    {
+     "en": "This operation will succeed!"
+    },
+    {
+     "en": "It's precisely because I'm sure of it\nthat I entrust command to you."
+    },
+    {
+     "en": "Then I must also do my utmost to draw\nout your abilities to the fullest."
+    },
+    {
+     "en": "Thank you, sir!"
+    },
+    {
+     "en": "Come and get us if you dare!"
+    },
+    {
+     "en": "We're not scared of any enemy!"
+    },
+    {
+     "en": "Blue Ganbar,\ngiving it my all!!"
+    },
+    {
+     "en": "All right, here we go!\nGambaruger, Miracle Combination!!"
+    },
+    {
+     "en": "Bursting with energy!\nGambaruger!!"
+    },
+    {
+     "en": "Let's go! Kanji!!"
+    },
+    {
+     "en": "Roger!!"
+    }
+   ],
+   "notes": "[jp] -> 'Colonel von Stein' (glossary [jp] Von Stein; 8th Army commander). Zaltsev's gender unknown: no pronouns. Seg 14 [jp] puns on Ganbar. Gambaruger calls translated for meaning. | [editorial 9] 'convinced of that that' clumsy",
+   "status": "proofread"
+  },
+  {
+   "id": 71,
+   "segments": [
+    {
+     "en": "Dammit!\nThose guys are strong!!"
+    },
+    {
+     "en": "Jin!\nThe Defense Force is withdrawing!\nRaijin-Oh, follow us!!"
+    },
+    {
+     "en": "What!\nYou're saying we run away?!"
+    },
+    {
+     "en": "Just fighting blindly won't cut it!\nThey aren't like the Evil Beasts!"
+    },
+    {
+     "en": "Jin, we can't fight anymore."
+    },
+    {
+     "en": "Daaamn it!!"
+    }
+   ],
+   "notes": "[jp] -> 'Evil Beasts' (Raijin-Oh's monsters; not in glossary).",
+   "status": "proofread"
+  },
+  {
+   "id": 72,
+   "segments": [
+    {
+     "en": "If you'll allow it, I would like\npermission to stay on with your forces."
+    },
+    {
+     "en": "I don't mind, but you'll be leaving\nthe 8th Army."
+    },
+    {
+     "en": "I've already received permission from\nColonel von Stein."
+    },
+    {
+     "en": "You work fast.\nVery well, permission granted."
+    },
+    {
+     "en": "Sir!"
+    },
+    {
+     "en": "The Zaltsev Squad has joined the unit."
+    },
+    {
+     "en": "Machines added:\nSoltic, Crab Gunner\nInstead, Duey"
+    },
+    {
+     "en": "Supreme Commander Redros,\nAozora Town has just declared\nsurrender."
+    },
+    {
+     "en": "We can dock immediately."
+    },
+    {
+     "en": "We'll prepare for the next operation.\nOnce resupplied, we head for the\nnext target."
+    }
+   ],
+   "notes": "[editorial 8] [jp] = 'dock' (project decision) | [editorial 9] 'We prepare for...' unnatural; same line as row 59 | [proofread 6] system-message format: names without quotes, as 'Machines added:' in row 60 k15",
+   "status": "proofread"
+  },
+  {
+   "id": 73,
+   "segments": [
+    {
+     "en": "We are approaching Sankai City."
+    },
+    {
+     "en": "There are reports of an infantry unit in\nthis city that specializes in surprise\nattacks."
+    },
+    {
+     "en": "The Deloyer 8th Army also came under\ntheir surprise attacks and was forced\nto withdraw."
+    },
+    {
+     "en": "We must not underestimate them."
+    },
+    {
+     "en": "Are you saying they'll board us right\nthrough the fleet's tight security?"
+    },
+    {
+     "en": "Yes, sir!\nThere appear to have been actual\ncases of it."
+    },
+    {
+     "en": "So our only option is to counter them\nwith an \"Infantry Squad.\""
+    },
+    {
+     "en": "Is your \"Infantry Squad\" ready?"
+    },
+    {
+     "en": "It's ready\nNot ready yet"
+    },
+    {
+     "en": "Our \"Infantry Squad\" is at full\nstrength."
+    },
+    {
+     "en": "We should have no trouble attacking\nas we are."
+    },
+    {
+     "en": "No sense rushing.\nWe'll come back another time."
+    },
+    {
+     "en": "Then we'll change course."
+    }
+   ],
+   "notes": "Seg 8 is a two-option choice page. [jp] -> 'Sankai City' (library: Sankai High School). | [accuracy 12] subject: Rochina relays the fleet's course change, not his own",
+   "status": "proofread"
+  },
+  {
+   "id": 74,
+   "segments": [
+    {
+     "en": "The enemy's come callin'!"
+    },
+    {
+     "en": "Big Bro Katori!!"
+    },
+    {
+     "en": "All right!\nHere we go!!"
+    },
+    {
+     "en": "As long as Fighbird is here, I won't let\nanyone disturb the peace of the universe!"
+    },
+    {
+     "en": "Looks like I made it in time."
+    },
+    {
+     "en": "Maito!!"
+    },
+    {
+     "en": "Well I'll be!\nYou rushed all the way here\nfrom Nouvelle Tokio?"
+    },
+    {
+     "en": "If the Amano Lab is in danger, I'll come\nrunning anytime. I'm one of its investors,\nafter all!"
+    },
+    {
+     "en": "Bwahahah!!\nWell, ain't you somethin'!"
+    },
+    {
+     "en": "Katori!\nLet me lend you a hand!"
+    },
+    {
+     "en": "You got it!\nLet's do this together,\nMaito!"
+    },
+    {
+     "en": "So that's Fighbird."
+    },
+    {
+     "en": "And Might Gaine as well...\nThat's somewhat unexpected."
+    },
+    {
+     "en": "They must have caught wind of our army's\nmovements... Their intelligence network\nis not to be underestimated either."
+    },
+    {
+     "en": "Yes, sir..."
+    },
+    {
+     "en": "Unidentified unit detected!\nExtremely close!!"
+    },
+    {
+     "en": "What!!"
+    },
+    {
+     "en": "Redros Army!\nI'm warning you!"
+    },
+    {
+     "en": "Might Gaine is my prey.\nKeep your hands off!"
+    },
+    {
+     "en": "That, I cannot promise."
+    },
+    {
+     "en": "Then I'll shoot anyone who comes near\nme, without mercy!"
+    },
+    {
+     "en": "Keep that in mind."
+    },
+    {
+     "en": "Understood,\nAce Joe."
+    },
+    {
+     "en": "Heh...\nThen that's what I'll do!"
+    },
+    {
+     "en": "There you are!\nMight Gaine!!"
+    },
+    {
+     "en": "Ace Joe!!"
+    },
+    {
+     "en": "Maito Senpuuji!"
+    },
+    {
+     "en": "Now's the time\nI settle things with you!"
+    },
+    {
+     "en": "Stop it!\nI'm fighting the Redros Army!"
+    },
+    {
+     "en": "Butt out!\nI ain't got time to play with you!"
+    },
+    {
+     "en": "What!!"
+    },
+    {
+     "en": "This is a fight to see justice through\nto the end!\nStand back!"
+    },
+    {
+     "en": "Hmph!\nThis thing called justice\nis worthless!"
+    },
+    {
+     "en": "The strong win.\nThat's all there is to it!!"
+    },
+    {
+     "en": "Here I come!\nMaito Senpuuji!!"
+    },
+    {
+     "en": "Ngh!!"
+    },
+    {
+     "en": "Tch!\nThis guy won't listen\nto reason!"
+    },
+    {
+     "en": "Let's go! Kanji!!"
+    },
+    {
+     "en": "Roger!!"
+    }
+   ],
+   "notes": "Joe's [jp] (typo for [jp]) -> 'Maito Senpuuji'. Joe Rival's gender is blank in speakers.tsv: no pronouns used. Kenta's [jp] -> 'Big Bro Katori'. Katori's rough jidaigeki-style lines (seg 29, 36) kept rough. Seg 3 Fighbird intro translated for meaning (no glossary form). Seg 12-13: Redros (seg 11/13) and Rochina (seg 12/14) per headers. | [editorial 7] 'I am an investor' read as stressed/stiff; natural phrasing of [jp] | [editorial 20] passive 'will be shot' replaced: Joe is the one shooting ([jp]...[jp]), punchier threat | [editorial 32] 'There's no value in something called justice' was stilted; keeps the dismissive [jp]",
+   "status": "proofread"
+  },
+  {
+   "id": 75,
+   "segments": [
+    {
+     "en": "Dang it!\nIs this the end...?!"
+    },
+    {
+     "en": "The Redros Army...\nWhat a fearsome foe..."
+    },
+    {
+     "en": "We can't lose!\nAre we just gonna leave them be?!"
+    },
+    {
+     "en": "Easy, Katori!\nWe've still got a card to play!"
+    },
+    {
+     "en": "Huh?\nGrandpa, you've still\ngot something?"
+    },
+    {
+     "en": "Mm... somethin' like that."
+    },
+    {
+     "en": "For now, we skedaddle!"
+    },
+    {
+     "en": "Whaaat?!"
+    },
+    {
+     "en": "You got it!"
+    },
+    {
+     "en": "Wha--!\nWait!!"
+    },
+    {
+     "en": "Are we just going to let them\ndo as they please?"
+    },
+    {
+     "en": "That's why!\nFor now, we live to fight another day!"
+    },
+    {
+     "en": "But...!"
+    },
+    {
+     "en": "Leave for now!\nMaito Senpuuji."
+    },
+    {
+     "en": "However lucky you may be,\nthere's nothing you can do\nin this situation."
+    },
+    {
+     "en": "I'll settle our score\nsomeday."
+    },
+    {
+     "en": "I won't allow you to die\na pointless death here!"
+    },
+    {
+     "en": "Ngh...!"
+    },
+    {
+     "en": "Gaine!\nWe're pulling out!!"
+    },
+    {
+     "en": "Roger!"
+    }
+   ],
+   "notes": "Seg 13: [jp] typo -> Maito Senpuuji. Seg 8 [jp] (Katori's period-drama speech) -> 'You got it!'. | [proofread 9] dash style '--' for the cut-off word (corpus form 'Wha--!')",
+   "status": "proofread"
+  },
+  {
+   "id": 76,
+   "segments": [
+    {
+     "en": "Hm!\nWhat's going on?!"
+    },
+    {
+     "en": "Enemy soldiers have infiltrated\nthe ship!!"
+    },
+    {
+     "en": "I see, so that's their game."
+    },
+    {
+     "en": "But we've already prepared for this.\nHave the Infantry Squad wipe them out!"
+    },
+    {
+     "en": "Enemy soldiers have infiltrated\nthe ship!!"
+    },
+    {
+     "en": "Enemy soldiers heading\nfor Block E02!"
+    },
+    {
+     "en": "Infantry Squad, proceed to the\nscene at once!"
+    },
+    {
+     "en": "Huh?\nWhere's Block E02...?"
+    },
+    {
+     "en": "They're coming here!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 77,
+   "segments": [
+    {
+     "en": "Dagwon has arrived!!"
+    },
+    {
+     "en": "Getting in was easier\nthan I thought."
+    },
+    {
+     "en": "Yeah."
+    },
+    {
+     "en": "But now that we're aboard...\nare we sure this is the right ship?"
+    },
+    {
+     "en": "Yes!\nThis is the enemy flagship!"
+    },
+    {
+     "en": "If this goes well, we could even\nturn the tables!"
+    },
+    {
+     "en": "Now that's awesome!"
+    },
+    {
+     "en": "Don't get ahead of yourselves! Our goal is\nto buy time for the Amano Lab to get\nclear to safety."
+    },
+    {
+     "en": "Is this any time to fret over\nthe little things?!"
+    },
+    {
+     "en": "All we gotta do is smash\neverything to bits!!"
+    },
+    {
+     "en": "Hell yeah!!"
+    },
+    {
+     "en": "Well, all right! Let's do it!"
+    },
+    {
+     "en": "Blast it!\nYou bunch of idiots!"
+    },
+    {
+     "en": "Wait.\nThe enemy is here."
+    },
+    {
+     "en": "Be careful.\nThey're not like anyone we've faced."
+    },
+    {
+     "en": "Heh!\nThis'll be fun!\nBring it on!"
+    }
+   ],
+   "notes": "Geki's dialect ([jp]/[jp]) rendered as rough speech. [jp] -> 'the Amano Lab'. | [editorial 9] 'We just smash everything' read as a statement; Geki's rough 'that's all it takes' ([jp])",
+   "status": "proofread"
+  },
+  {
+   "id": 78,
+   "segments": [
+    {
+     "en": "To think they're this skilled..."
+    },
+    {
+     "en": "We can't hold out much longer..."
+    },
+    {
+     "en": "Good news!\nLooks like the Amano Lab has finished\nrelocating its facilities!"
+    },
+    {
+     "en": "Right!\nWe're pulling out!"
+    },
+    {
+     "en": "Hold on! Hey!\nWe can still fight!!"
+    },
+    {
+     "en": "Damn right!\nNow's the time to show 'em\nour Dagwon spirit!"
+    },
+    {
+     "en": "Our objective is already achieved.\nDon't waste your strength."
+    },
+    {
+     "en": "Even getting off this ship\nis going to be tough, you know."
+    },
+    {
+     "en": "Do you really have enough strength\nleft for that?"
+    },
+    {
+     "en": "Argh, fine!\nI get it already!"
+    }
+   ],
+   "notes": "[accuracy 2] hedge [jp] restored",
+   "status": "proofread"
+  },
+  {
+   "id": 79,
+   "segments": [
+    {
+     "en": "Supreme Commander Redros,\nAozora Town has just announced\nits surrender."
+    },
+    {
+     "en": "We can dock immediately."
+    },
+    {
+     "en": "We'll prepare for the next operation.\nOnce resupplied, we head for the\nnext target."
+    }
+   ],
+   "notes": "Source names [jp] although this follows the Sankai City battle (rows 73-78); identical wording to row 72's ending, likely a source slip -- kept 'Aozora Town' as written. | [editorial 0] 'declared surrender' unidiomatic | [editorial 1] project term: [jp] = 'dock' | [proofread 2] same line as dlg_4822_10363_01 rows 59/64/68/72, which editorial changed from 'We prepare'; brought into line",
+   "status": "proofread"
+  },
+  {
+   "id": 80,
+   "segments": [
+    {
+     "en": "Reporting!\nThe Deloyer 8th Army reports it has\nfinished securing its assigned sector."
+    },
+    {
+     "en": "Your Excellency, with this the conquest\nof the Brave Continent is complete,\nfor the time being."
+    },
+    {
+     "en": "The Brave Alliance...\nA rabble, but I'd say they put up\na good fight."
+    },
+    {
+     "en": "And no small number of their forces\nseem to have slipped through our net."
+    },
+    {
+     "en": "We are pursuing them as we speak."
+    },
+    {
+     "en": "But the enemy's main force is no longer\non this continent..."
+    },
+    {
+     "en": "Perhaps they're lying low in\nanother world?"
+    },
+    {
+     "en": "I think so as well. Most likely the\nsurviving units of the Claudian Unified\nForces are involved..."
+    },
+    {
+     "en": "Something like that, I'd wager."
+    },
+    {
+     "en": "Well, that is also what I'm after."
+    },
+    {
+     "en": "So it is."
+    },
+    {
+     "en": "Even left alone, the times move on.\nWe shall press forward!"
+    },
+    {
+     "en": "We head for the next continent!\nAll hands, begin preparations!"
+    }
+   ],
+   "notes": "Seg 9: [jp] -- Redros's aim left unexplained, as in the source. | [accuracy 0] hearsay [jp] restored (the soldier is relaying the 8th Army's word)",
+   "status": "proofread"
+  }
+ ]
+}

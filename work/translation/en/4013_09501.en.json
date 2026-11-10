@@ -1,0 +1,2960 @@
+{
+ "table": "4013_09501",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "My brother and the others...\nI hope they're all right."
+    },
+    {
+     "en": "Don't worry.\nEiji and Rain are\nwith them, after all."
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "(Eiji... I'm sure we'll\nmeet again, won't we?)"
+    }
+   ],
+   "notes": "[jp]: Fred's brother (Roddy) and the others.",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Whoa!\nIt's really windy out here."
+    },
+    {
+     "en": "...?"
+    },
+    {
+     "en": "Hyaaaaaaaah!"
+    },
+    {
+     "en": "Whoa!\nHold on a sec!"
+    },
+    {
+     "en": "Hah!!"
+    },
+    {
+     "en": "Phew~ that scared me!\nAre you guys training?"
+    },
+    {
+     "en": "Yes. Out here, we can\nkeep watch at the same time."
+    },
+    {
+     "en": "Man... without Bro around,\nit really feels like\nwe've lost some muscle."
+    },
+    {
+     "en": "In the Resistance as it stands,\nlosing even one person is\nenough to shake the whole group."
+    },
+    {
+     "en": "That's exactly why we must\nset out on a journey to find\nnew people who understand us."
+    },
+    {
+     "en": "I know that.\nBro left that job to us."
+    },
+    {
+     "en": "I'm counting on you,\nGeorge, Sai Saici."
+    },
+    {
+     "en": "We ourselves must fill\nthe hole Domon left."
+    },
+    {
+     "en": "Now, let's get back\nto training!"
+    },
+    {
+     "en": "All right!\nHere I come!!"
+    },
+    {
+     "en": "Raaaaaaaaagh!!"
+    },
+    {
+     "en": "Haaaaaah!"
+    },
+    {
+     "en": "Those two are as\nincredible as ever..."
+    }
+   ],
+   "notes": "Sai Saici's [jp] (Domon) rendered \"Bro\". | [accuracy 5] verb restored: Kanji is asking George and Sai Saici a question | [editorial 12] word order: 'ourselves' dangled at the end of the sentence",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Hm? A few people are\ngathered over there.\nI'll go check it out."
+    },
+    {
+     "en": "Hey, Kanji.\nAre you done with your maintenance?"
+    },
+    {
+     "en": "Yeah... Anyway, what's\neveryone gathered here\ntalking about?"
+    },
+    {
+     "en": "Oh, about the Gundam."
+    },
+    {
+     "en": "...?"
+    },
+    {
+     "en": "What about\nthe Gundam?"
+    },
+    {
+     "en": "Domon's Gundam!\nYou saw it too, didn't you, Kanji?"
+    },
+    {
+     "en": "Oh, that one..."
+    },
+    {
+     "en": "I heard all the Gundams built\nin Asia had been sealed away,"
+    },
+    {
+     "en": "but who'd have guessed one\nwas left in a place like that."
+    },
+    {
+     "en": "I wonder what that\nGundam's called?"
+    },
+    {
+     "en": "Don't ask me,\nI don't know that stuff.\nAnybody here know?"
+    },
+    {
+     "en": "Now that you mention it,\nRain said..."
+    },
+    {
+     "en": "Chan, do you\nknow something?"
+    },
+    {
+     "en": "Well..."
+    },
+    {
+     "en": "Rain used to be\nthe mechanic for\nthe God Gundam..."
+    },
+    {
+     "en": "At least, that's what I've heard."
+    },
+    {
+     "en": "So that thing's\nthe God Gundam?"
+    },
+    {
+     "en": "Probably..."
+    },
+    {
+     "en": "Maybe she built it\nout of spare parts?"
+    },
+    {
+     "en": "Would a machine like that\neven have spare parts?\nIsn't it the real thing?"
+    },
+    {
+     "en": "Either way,\nits fighting power is real."
+    },
+    {
+     "en": "That's true..."
+    },
+    {
+     "en": "I never thought\nthere'd be a Gundam\nhere on Terra."
+    },
+    {
+     "en": "I knew you'd be\ninterested, Amuro!"
+    },
+    {
+     "en": "You are too,\naren't you?"
+    },
+    {
+     "en": "Yes, of course!"
+    },
+    {
+     "en": "Domon's Gundam, huh...\nI knew it. That guy was\nno ordinary martial artist."
+    }
+   ],
+   "notes": "seg19: subject restored as Rain (she), the person Chan just named. [jp] -> Terra (not in glossary; form used elsewhere). | [editorial 25] reply to 'I knew you'd be interested' -- 'So are you, right?' mismatched the tense/aux",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Dragonar Team here.\nWe've finished scouting the area!"
+    },
+    {
+     "en": "Let's hear your report."
+    },
+    {
+     "en": "We're well clear of the enemy\nbehind us. Looks like no\npursuers for a while."
+    },
+    {
+     "en": "I wish the enemy'd\njust give up after this..."
+    },
+    {
+     "en": "Well, fat chance\nof that..."
+    },
+    {
+     "en": "Thanks for scouting!\nWe're heading to Paradigm City\nbefore the pursuers get here."
+    },
+    {
+     "en": "You got it!"
+    },
+    {
+     "en": "Head for Paradigm City"
+    }
+   ],
+   "notes": "[accuracy 3] subject restored: Tapp is voicing his own hope",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "All ri~ght...\nThey're in the net."
+    },
+    {
+     "en": "The Iron Gear?"
+    },
+    {
+     "en": "Yeah, no mistake..."
+    },
+    {
+     "en": "Just so we're clear,\nwe're bounty hunters.\nNot hit men."
+    },
+    {
+     "en": "I know that.\nThis bounty's a special one.\nWe just sink or capture the ship."
+    },
+    {
+     "en": "Says dead or alive for the crew,\nbut the pay's a whole lot\nbetter if they're breathing."
+    },
+    {
+     "en": "In other words!\nIf we catch the whole lot,\nwe strike it rich, right?"
+    },
+    {
+     "en": "But can we really pull it off?\nThat's a battleship."
+    },
+    {
+     "en": "Isn't that the ship that's been\ngoing toe-to-toe with Grados?"
+    },
+    {
+     "en": "The plan's just like I told you.\nStick to it and it'll work!"
+    },
+    {
+     "en": "Ed!\nIs the setup ready?"
+    },
+    {
+     "en": "Hmmm~\nWaaait a sec~"
+    },
+    {
+     "en": "Ed!\nIf they get away,\nit's all for nothing!"
+    },
+    {
+     "en": "No proble~m"
+    },
+    {
+     "en": "Lookie, lookie~ Mr. Horla~!\nAccessing the Iron Gear~"
+    },
+    {
+     "en": "A Breaker's\nLand Ship, huh...\nLet's wait and see for now."
+    },
+    {
+     "en": "Hey!!\nThere's a Land Ship nearby!"
+    },
+    {
+     "en": "We're close to the city.\nIt's no surprise if a hauler's\nship is around."
+    },
+    {
+     "en": "...!!"
+    },
+    {
+     "en": "That's Horla's ship!!"
+    },
+    {
+     "en": "What did you say?!"
+    },
+    {
+     "en": "Persistent bastard..."
+    },
+    {
+     "en": "He's been wagging his tail\nfor Grados. Probably wants\nto score some points, huh?"
+    },
+    {
+     "en": "But...\nif Horla means to keep\nworking as a hauler,"
+    },
+    {
+     "en": "he won't want to cause\ntrouble near Paradigm City."
+    },
+    {
+     "en": "Keep moving forward!\nDon't you dare open fire!"
+    },
+    {
+     "en": "Tch!\nJust strolling right along\nlike they own the place..."
+    },
+    {
+     "en": "They'd be a lot cuter\nif they got a little rattled."
+    },
+    {
+     "en": "Hey, could it be they're\nnot takin' us seriously...?"
+    },
+    {
+     "en": "They know they've got us\nover a barrel. If they'd just\npanic and make a move..."
+    },
+    {
+     "en": "This is so frustratin', boss!"
+    },
+    {
+     "en": "Why don't we just\nshell 'em and sink 'em~!"
+    },
+    {
+     "en": "Shut up,\nGeraba!!"
+    },
+    {
+     "en": "Mess with that city and\nwe're in deep trouble!!\nCan't you figure that out?!"
+    },
+    {
+     "en": "So you're backin' off?"
+    },
+    {
+     "en": "Like hell I am!\nBut... let's work out\na better plan first."
+    },
+    {
+     "en": "So you're runnin' away after all!"
+    },
+    {
+     "en": "Why, you!\nI'm the one in charge here!!"
+    },
+    {
+     "en": "Take this!!"
+    },
+    {
+     "en": "Gwah!!"
+    },
+    {
+     "en": "Why you..."
+    },
+    {
+     "en": "Raise a hand to me and you're fired!\nThat what you want?!"
+    },
+    {
+     "en": "Gweh!!"
+    },
+    {
+     "en": "Hmph! We're heading\ninto Paradigm City too!"
+    },
+    {
+     "en": "Believe it or not, I've got\npull in the City.\nI'll handle this just fine...!"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Still no fireworks,\nhuh..."
+    },
+    {
+     "en": "Just staring each other down..."
+    },
+    {
+     "en": "Yaaawn...\nHow long are we gonna sit here?\nIf we're doing this, let's go."
+    },
+    {
+     "en": "Sorry for the wait~!\nAll set to go!"
+    },
+    {
+     "en": "Good job, Ed.\nGo ahead and start."
+    },
+    {
+     "en": "Oka~y!"
+    },
+    {
+     "en": "Hm?\nSomething's coming!"
+    },
+    {
+     "en": "Grados?!\nLight!\nWhat do the D-3's sensors show?!"
+    },
+    {
+     "en": "Wh-What the hell is this?!"
+    },
+    {
+     "en": "What is it?!"
+    },
+    {
+     "en": "No way?!\nWe're being hacked!!"
+    },
+    {
+     "en": "Whoa!\nMine too!!"
+    },
+    {
+     "en": "It can't be..."
+    },
+    {
+     "en": "......?!"
+    },
+    {
+     "en": "Impossible!\nThe Gundam won't move!!"
+    },
+    {
+     "en": "This is bad!!\nA hacker's gotten into\nall our systems!"
+    },
+    {
+     "en": "Almost none of our\ncomputer-controlled machines\nwork anymore!!"
+    },
+    {
+     "en": "Unbelievable...!\nWe can't move our machines!"
+    }
+   ],
+   "notes": "seg14: Ed puns [jp] (\"look\") on [jp] (Horla); unclear whether Ed is greeting Horla or saying the access goes via Horla's ship -- kept as a playful aside. seg30: Geraba's [jp] (to Horla) rendered \"boss\". | [editorial 53] ungrammatical 'What's the D-3's sensor show' | [proofread 0] style sheet: 'All right' (not 'Alright'); matches 7.14 'All ri~ght!'",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "The machines don't work?\nWhat's going on?!"
+    },
+    {
+     "en": "Then we'll just have to\ntrack it by eye!"
+    },
+    {
+     "en": "Here it comes!\nIt's flying super low!!"
+    },
+    {
+     "en": "It looks to be about\nthe size of a fighter plane."
+    },
+    {
+     "en": "Aim by sight and shoot it down!"
+    },
+    {
+     "en": "...No good!\nThe turrets won't turn either!"
+    },
+    {
+     "en": "The Walker Machines\nhave machine guns, don't they!"
+    },
+    {
+     "en": "I don't care what it is!\nUse anything that fires\nbullets and bring it down!"
+    },
+    {
+     "en": "Screw it, here goes nothing!\nFire! Fiiire!!"
+    },
+    {
+     "en": "I'm not gonna kill you.\nThat'd blow the bounty."
+    },
+    {
+     "en": "Kyaaaah!!"
+    },
+    {
+     "en": "All right!\nDon't move."
+    },
+    {
+     "en": "Try anything funny and I'll put\none of those right into\nyour bridge."
+    },
+    {
+     "en": "Ugh......"
+    },
+    {
+     "en": "Tch! The red one's\nright on top of us..."
+    },
+    {
+     "en": "Faye!\nHurry up and take the bridge."
+    },
+    {
+     "en": "I know!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "It's Ed~!\nNice to meetcha~!"
+    },
+    {
+     "en": "What the heck\nis this kid... (sweat)"
+    },
+    {
+     "en": "What a filthy bridge."
+    },
+    {
+     "en": "Mind your own business!"
+    },
+    {
+     "en": "Besides, you people aren't\nwith Grados, are you?!"
+    },
+    {
+     "en": "What do you think you'll\nget out of doing this?"
+    },
+    {
+     "en": "Heh..."
+    },
+    {
+     "en": "I get it!\nYou're bounty hunters!"
+    },
+    {
+     "en": "So?\nWhat about it?"
+    },
+    {
+     "en": "Okay, okay,\nbe good and come quietly."
+    },
+    {
+     "en": "We're taking you to the\nParadigm Military Police."
+    },
+    {
+     "en": "You seriously think a handful\nof people like you can\ntake this ship?"
+    },
+    {
+     "en": "Eheheh!"
+    },
+    {
+     "en": "Ed and the Iron Gear\nare frie~nds!"
+    },
+    {
+     "en": "Iron Gear,\ntransfoooorm~!"
+    },
+    {
+     "en": "Wh-Whoa...\nWhat the--?"
+    },
+    {
+     "en": "Ed!\nDon't do anything extra!\nStop it right now!"
+    },
+    {
+     "en": "Oka~y!"
+    },
+    {
+     "en": "Phew~ I can hardly\nbelieve it myself, but"
+    },
+    {
+     "en": "Ed here can control every\nship and machine you've got."
+    },
+    {
+     "en": "Fact is, you can't\nlift a finger, can you?"
+    },
+    {
+     "en": "Grrr..."
+    },
+    {
+     "en": "The ship's started moving...!"
+    },
+    {
+     "en": "Is this okay?\nThe bridge has been taken over!"
+    },
+    {
+     "en": "Course it's not okay...\nTime for a recapture op!"
+    },
+    {
+     "en": "Not now.\nAt any rate, this way\nwe can get into the city."
+    },
+    {
+     "en": "It's all right.\nI don't get a bad feeling."
+    },
+    {
+     "en": "Is that your\nNewtype intuition talking?"
+    },
+    {
+     "en": "Come to think of it,\nwhere's Light?"
+    },
+    {
+     "en": "Oh, he went into his\ncockpit looking all gloomy."
+    },
+    {
+     "en": "Having the D-3's security\ncracked must've been\na real shock to him."
+    },
+    {
+     "en": "Things'll get busy from here.\nLet's do what we can now."
+    },
+    {
+     "en": "You're right."
+    }
+   ],
+   "notes": "seg1: [jp] (Ed) -> \"this kid\", no gender. | [editorial 30] 'protection' unclear for [jp] (system security), per accuracy flag",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Looks like we can walk\naround the ship freely,"
+    },
+    {
+     "en": "but the bridge is the one\nplace we can't get into, huh..."
+    },
+    {
+     "en": "Hm?\nThere's a notice posted\nat the bridge entrance."
+    },
+    {
+     "en": "What does it say?"
+    },
+    {
+     "en": "Knock on the door and I'll\nflip the Iron Gear over! <Ed>"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "What should I do...\nGo into the bridge,\nor..."
+    },
+    {
+     "en": "Walk away\nKnock on the door"
+    },
+    {
+     "en": "No... Without anything to go on,\nI'd better not do\nanything rash..."
+    },
+    {
+     "en": "Kanji,\nwhat are you doing?"
+    },
+    {
+     "en": "Whoa! Amuro!"
+    },
+    {
+     "en": "Right now, it doesn't matter how.\nAll that counts is getting\ninto port at Paradigm City."
+    },
+    {
+     "en": "You're right."
+    },
+    {
+     "en": "A sign like this?\nIt's a bluff."
+    },
+    {
+     "en": "All ri~ght!"
+    },
+    {
+     "en": "Kanji, what are you doing?!"
+    },
+    {
+     "en": "Don't go getting\nany bright ideas."
+    },
+    {
+     "en": "Y-Yeah..."
+    },
+    {
+     "en": "Inside the bridge..."
+    },
+    {
+     "en": "Elchi, I did a little\nchecking up on you."
+    },
+    {
+     "en": "Your father was pretty\nwell known as a hauler."
+    },
+    {
+     "en": "And I hear you're\ngood at throwing knives..."
+    },
+    {
+     "en": "...!"
+    },
+    {
+     "en": "Heh..."
+    },
+    {
+     "en": "But I'm not too shabby\nat a quick draw myself."
+    },
+    {
+     "en": "Got it? Then drop\nyour weapons on the floor!"
+    },
+    {
+     "en": "Ooh, scary...\nGuess it's hands up for us."
+    },
+    {
+     "en": "Grr...\nThis is so humiliating~!!"
+    },
+    {
+     "en": "There, good girl."
+    }
+   ],
+   "notes": "seg7 is a two-option choice (one option per line). seg8-12 follow \"Walk away\", seg13-17 follow \"Knock\". seg4: [jp] signature kept as <Ed>. | [proofread 15] punctuation: question ends '?!' (editorial flag; matches 10.53)",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Hm?\nQuess, what are you doing?"
+    },
+    {
+     "en": "Heh heh!\nI found something good."
+    },
+    {
+     "en": "With this, we can\ntalk to the bridge."
+    },
+    {
+     "en": "Captai~n! Can you hear me~?"
+    },
+    {
+     "en": "What?\nWhere's that coming from?"
+    },
+    {
+     "en": "Ah, I knew it~!\nThe bridge has been taken over~!"
+    },
+    {
+     "en": "Quess?\nWhere are you..."
+    },
+    {
+     "en": "I get it, the speaking tube!\nThat doesn't use electricity."
+    },
+    {
+     "en": "That's right!\nI'm in the hangar!"
+    },
+    {
+     "en": "Heh~\nA speaking tube? How classic."
+    },
+    {
+     "en": "This ship even\nhas stuff like that?"
+    },
+    {
+     "en": "So what if it does! Jeez!"
+    },
+    {
+     "en": "Listen,\nElchi~!"
+    },
+    {
+     "en": "If you just do what\nthose people say, you'll at\nleast get into the city~!"
+    },
+    {
+     "en": "After that it's the police, so\nleave it to that negotiator~!"
+    },
+    {
+     "en": "Right...\nLet's trust that he can\nfigure something out."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Who's this negotiator?"
+    },
+    {
+     "en": "Roger Smith..."
+    },
+    {
+     "en": "Roger Smith?"
+    },
+    {
+     "en": "Oh? You don't know him?\nHe's the best negotiator\nin Paradigm City."
+    },
+    {
+     "en": "A negotiator?\nOh... that guy..."
+    },
+    {
+     "en": "Hey, you know that\nnegotiator, Roger,\nright?"
+    },
+    {
+     "en": "Yeah...\nWhat about him?"
+    },
+    {
+     "en": "Seems these people\nhired Roger for something."
+    },
+    {
+     "en": "Seriously...?"
+    },
+    {
+     "en": "That's got me curious...\nLet me talk to the captain."
+    },
+    {
+     "en": "Fine.\nBut don't let your guard down."
+    },
+    {
+     "en": "I know."
+    },
+    {
+     "en": "Ed! Bring the Iron Gear\ninto port at Paradigm City."
+    },
+    {
+     "en": "Aye aye~!"
+    }
+   ],
+   "notes": "seg22-28: Faye talking to Spike over comms. [jp] -> speaking tube. | [proofread 30] style sheet: 'Aye aye' (no hyphen)",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Pa, pa, para, para,\nParadigm City~ ♪"
+    },
+    {
+     "en": "Pa, pa, para, para,\nfull speed ahea~d!!"
+    },
+    {
+     "en": "Vrooooom!\nWhoooooosh!"
+    },
+    {
+     "en": "Waaaagh!"
+    },
+    {
+     "en": "Noooo~!\nThe ship's gonna break!"
+    },
+    {
+     "en": "Ed!\nHandle it a little more gently!"
+    },
+    {
+     "en": "This is the Bebop.\nWe've caught a bounty.\nRequesting permission to dock."
+    },
+    {
+     "en": "Hey!\nLong time no see, brother."
+    },
+    {
+     "en": "I hear you caught\nyourself a big one?"
+    },
+    {
+     "en": "Big haul this time.\nClear out as much of the\nairport as you can for us."
+    },
+    {
+     "en": "Sure, we'll give you\na grand welcome."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Paradigm City"
+    },
+    {
+     "en": "This is Roger Smith.\nWould you mind showing\nyourself, Ms. Vega?"
+    },
+    {
+     "en": "The Iron Gear's on schedule."
+    },
+    {
+     "en": "But at this rate, it'll\nfall under the Military\nPolice's jurisdiction."
+    },
+    {
+     "en": "Don't worry.\nThe Iron Gear will be\nreleased soon enough."
+    },
+    {
+     "en": "How?"
+    },
+    {
+     "en": "By negotiating with the\nMilitary Police's employer."
+    },
+    {
+     "en": "More importantly, have you\ngot the money to pay\nthe cowboys ready?"
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "It's all here..."
+    },
+    {
+     "en": "Necessary expenses,\nI suppose..."
+    },
+    {
+     "en": "Exactly."
+    },
+    {
+     "en": "Then I'm counting on you."
+    },
+    {
+     "en": "Heh...\nAn unusual client."
+    },
+    {
+     "en": "Whoa...\nIt's packed with weird cars out there."
+    },
+    {
+     "en": "The second we arrive, we get\none hell of a welcome."
+    },
+    {
+     "en": "What now?\nDoesn't look like we can slip out."
+    },
+    {
+     "en": "Nothing we can do with security\nlike this... And we can't\nmove our machines anyway."
+    },
+    {
+     "en": "Hey!\nOne of them's coming aboard!"
+    },
+    {
+     "en": "I'm Major Dan Dastun\nof the Military Police.\nWho's in charge here?!"
+    },
+    {
+     "en": "That would be me.\nI'm the captain, Elchi Cargo."
+    },
+    {
+     "en": "You're Carrying Cargo's daughter?"
+    },
+    {
+     "en": "Yes.\nSo you know my father."
+    },
+    {
+     "en": "How could I not?\nEvery hauler passes\nthrough this city."
+    },
+    {
+     "en": "But right now,\nyou people aren't haulers..."
+    },
+    {
+     "en": "We'll have to deal\nwith you accordingly."
+    },
+    {
+     "en": "We didn't fight\nbecause we wanted to!"
+    },
+    {
+     "en": "Grados just went and\nbranded us \"wanted\"!"
+    },
+    {
+     "en": "I'll hear your side later.\nAs of now, the Iron Gear is under\nMilitary Police jurisdiction."
+    },
+    {
+     "en": "A few of your representatives\nwill come with us to the station."
+    },
+    {
+     "en": "Fine..."
+    },
+    {
+     "en": "Um...\nI represent the non-combatants.\nMy name is Anna Stephanie."
+    },
+    {
+     "en": "There are many refugees\naboard this ship.\nWill they be protected...?"
+    },
+    {
+     "en": "After questioning, we'll\ndecide what's to be done\nwith the Iron Gear."
+    },
+    {
+     "en": "Until then, stay aboard the ship!\nAnd don't you dare try\nanything suspicious."
+    },
+    {
+     "en": "Yes, sir."
+    },
+    {
+     "en": "Kanji, Amuro, let's go."
+    },
+    {
+     "en": "Right..."
+    },
+    {
+     "en": "Want me to come too?"
+    },
+    {
+     "en": "I'm coming too!"
+    },
+    {
+     "en": "Not you two.\nWho knows what kind of\nblunder you'd make!"
+    },
+    {
+     "en": "What's that supposed to mean!"
+    },
+    {
+     "en": "We're not dealing\nwith Breakers here."
+    },
+    {
+     "en": "Come back when you've picked\nup a little more culture."
+    },
+    {
+     "en": "Come on, let's go!"
+    },
+    {
+     "en": "O-Okay!"
+    },
+    {
+     "en": "Hmph!\nLook at her, all stuck-up!"
+    },
+    {
+     "en": "Aww...\nI wanted to go\ninto the city too~"
+    },
+    {
+     "en": "Don't be so down.\nKeep the Iron Gear safe for us."
+    },
+    {
+     "en": "Will do!"
+    },
+    {
+     "en": "So this is Military\nPolice headquarters..."
+    },
+    {
+     "en": "Elchi, drag out the\nnegotiations as long as you can."
+    },
+    {
+     "en": "I know!\nLet's pray the negotiator can\ndo something in the meantime."
+    },
+    {
+     "en": "What are you doing?!\nGet in here."
+    },
+    {
+     "en": "Oh, yes, yes!"
+    },
+    {
+     "en": "...and that's how it went.\nGrados kept attacking us,\nit's been a real ordeal."
+    },
+    {
+     "en": "I see...\nI more or less understand\nthe situation."
+    },
+    {
+     "en": "But however it came about,\nthe fact is you've ended up\njoining the Resistance."
+    },
+    {
+     "en": "Anyone who aids the Resistance\nmust be cracked down on.\nThat is the law of this city."
+    },
+    {
+     "en": "So what happens\nto us?"
+    },
+    {
+     "en": "Once you're disarmed, the whole\ncrew goes into a detention camp.\nSomething along those lines."
+    },
+    {
+     "en": "You won't hand us\nover to Grados?"
+    },
+    {
+     "en": "Frankly...\nI'd rather not..."
+    },
+    {
+     "en": "But the final call on you\nis made by those above me.\nI simply follow their orders."
+    },
+    {
+     "en": "We're fighting\nthe invaders!\nAnd yet you--!"
+    },
+    {
+     "en": "Stop it... Kanji."
+    },
+    {
+     "en": "I can understand\nhow you feel..."
+    },
+    {
+     "en": "But I'll say this much:\nit's because you're strong\nthat you invite conflict."
+    },
+    {
+     "en": "Our strength\ninvites battle?"
+    },
+    {
+     "en": "Yes. If you didn't have such\npowerful weapons, couldn't you\nhave stayed haulers?"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Even in times like these,\nordinary people are\nstruggling desperately to live."
+    },
+    {
+     "en": "To them, war is nothing\nbut one ego clashing\nagainst another..."
+    },
+    {
+     "en": "If you're allowed\nto stay in this city..."
+    },
+    {
+     "en": "and you intend to live quietly\nhere as ordinary citizens,\nI'll do what I can for you."
+    },
+    {
+     "en": "But if you still aid the\nResistance, I'll send you\nstraight to a detention camp."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Major Dastun!"
+    },
+    {
+     "en": "What is it!"
+    },
+    {
+     "en": "Urgent message, sir!!"
+    },
+    {
+     "en": "Understood!\nI'll be right there."
+    },
+    {
+     "en": "That Dastun guy doesn't\nseem like a bad person."
+    },
+    {
+     "en": "Felt like I got a lecture\nfrom my old man."
+    },
+    {
+     "en": "He said urgent message...\nHas Roger Smith made his move?"
+    },
+    {
+     "en": "I sure hope so..."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Um, Major Dastun?"
+    },
+    {
+     "en": "You're free.\nYou may go."
+    },
+    {
+     "en": "Huh?\nReally?"
+    },
+    {
+     "en": "At least while you're in this city,\nyou're no longer wanted."
+    },
+    {
+     "en": "But why?\nWhat happened?"
+    },
+    {
+     "en": "It's a decision from above.\nEven I don't know why."
+    },
+    {
+     "en": "We're done here.\nWe're busy too, you know.\nNow get out of here."
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "We'll do just that."
+    }
+   ],
+   "notes": "[jp] -> Major (Dastun). [jp] -> Carrying Cargo (not in glossary; form used in library entries). seg7 [jp] -> \"cowboys\" (bounty hunters). seg9 [jp]: Roger confirming the money.",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Well, whatever happened,\nwe're in the clear."
+    },
+    {
+     "en": "Don't let your guard down.\nDon't forget this city is\nallied with Grados."
+    },
+    {
+     "en": "But why'd they suddenly\nset us free?"
+    },
+    {
+     "en": "The negotiator must have\nmade some kind of move."
+    },
+    {
+     "en": "I'm sure that's it!\nLet's go see\nRoger Smith right away."
+    },
+    {
+     "en": "We've got to\nthank him, right?"
+    },
+    {
+     "en": "Yeah..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Hey... Elchi?\nDon't tell me you don't\nknow where Roger lives..."
+    },
+    {
+     "en": "Hahaha!\nHe's famous, so if we ask\nsomeone around, they'll know."
+    },
+    {
+     "en": "That's dangerous.\nWe should keep as low\na profile as we can."
+    },
+    {
+     "en": "...I know that!\nBack on the ship, I've got\nthe map Rain gave me."
+    },
+    {
+     "en": "Then let's hurry\nand go get it."
+    },
+    {
+     "en": "Aw, wait a minute.\nIt's been ages since\nI've been to a city."
+    },
+    {
+     "en": "Wouldn't it be okay to make\na little detour first?"
+    },
+    {
+     "en": "Go see the city\nHead straight back to the ship"
+    },
+    {
+     "en": "Eh, why not.\nLet's buy some souvenirs\nto take back."
+    },
+    {
+     "en": "Hey, not you too, Kanji!\nWe're not here to sightsee."
+    },
+    {
+     "en": "We've been wound tight\nthis whole time, haven't we?"
+    },
+    {
+     "en": "Why not let Elchi do\nwhat she wants for now?"
+    },
+    {
+     "en": "But...\n..................\nNo... you're right..."
+    },
+    {
+     "en": "We don't know what\nwill happen after this."
+    },
+    {
+     "en": "Scouting the city while\nwe have the chance\nwouldn't be a bad idea."
+    },
+    {
+     "en": "It's decided~!\nCome on, let's hurry!"
+    },
+    {
+     "en": "No way!\nEveryone's waiting on the ship."
+    },
+    {
+     "en": "Right.\nWe're not here to\nhave fun."
+    },
+    {
+     "en": "Aww~\nYou're both so mea~n!"
+    }
+   ],
+   "notes": "seg8 is a two-option choice; seg9-16 follow \"Go see the city\", seg17-19 follow \"Head back\".",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "Hey! Elchi and the others\nare back!"
+    },
+    {
+     "en": "Everyone, we're baaack!"
+    },
+    {
+     "en": "Welcome back.\nSo, how did it go?"
+    },
+    {
+     "en": "Perfect! They said we're not wanted\ncriminals in this city anymore!"
+    },
+    {
+     "en": "Then we can go shopping\nfor supplies, right?"
+    },
+    {
+     "en": "Once we've done what needs doing!"
+    },
+    {
+     "en": "Whaaat?!"
+    },
+    {
+     "en": "The guards outside suddenly thinned out,\nso the negotiations must have gone well."
+    },
+    {
+     "en": "We didn't do anything. That Roger guy\nprobably handled it all for us."
+    },
+    {
+     "en": "Kanji!\nYou didn't have to tell them that!"
+    },
+    {
+     "en": "Hahaha!\nI figured it'd be something like that!"
+    },
+    {
+     "en": "Anyway!\nI'm just glad everyone's safe."
+    },
+    {
+     "en": "Come to think of it,\nwhat happened to the bounty hunters?"
+    },
+    {
+     "en": "Come to think of it, at some point\nour mechs started working again, too."
+    },
+    {
+     "en": "Jet said~\nit was okay to put 'em back now~"
+    },
+    {
+     "en": "Aaah!\nOne of those bounty hunters!"
+    },
+    {
+     "en": "Hehe~!"
+    },
+    {
+     "en": "Robo-buddies~ sorry for making you~\nall stuck earlier~"
+    },
+    {
+     "en": "Now I'll make you mooove\nlooooads~"
+    },
+    {
+     "en": "Waaah!\nStop! They're fine just the way they are!"
+    },
+    {
+     "en": "Reeeally~~?"
+    },
+    {
+     "en": "Um... and you are?"
+    },
+    {
+     "en": "I'm Ed~~"
+    },
+    {
+     "en": "Say, Ed... where's that\nscaaary lady?"
+    },
+    {
+     "en": "Faye~\nflew off in her plane~"
+    },
+    {
+     "en": "Don't you have to go back, Ed?"
+    },
+    {
+     "en": "Ed's gonna~ play on the Iron Gear\na little longer~"
+    },
+    {
+     "en": "Oh, is that so..."
+    },
+    {
+     "en": "Ed~dy~!\nWanna play with your big bro?"
+    },
+    {
+     "en": "Uh-huh, okay~\nEd'll play with Light~"
+    },
+    {
+     "en": "You know my name?\nAw, that makes me happy."
+    },
+    {
+     "en": "'Cause~ you're the D-3's pilot, right~?\nHey~ can I play with the D-3~?"
+    },
+    {
+     "en": "Yeah, sure.\nCome on over here!"
+    },
+    {
+     "en": "Yaaaaay~~!"
+    },
+    {
+     "en": "Kind of a weird pair. When it comes to\nkids, I'd have figured on Tapp, right?"
+    },
+    {
+     "en": "Hey, hey...\nDon't go pinning that label on me."
+    },
+    {
+     "en": "Well, as far as that Ed kid goes,\nLight seems more on the same\nwavelength than Tapp."
+    },
+    {
+     "en": "Ugh~... To think our ship got hijacked\nby something like that~"
+    }
+   ],
+   "notes": "Ed's gender left unstated (speakers.tsv blank): no pronouns used for Ed. [15] [jp] rendered 'one of the bounty hunter pair'. [17] [jp] -> 'Robo-buddies'. | [editorial 9] stiff 'Don't go saying unnecessary things' for Elchi's casual scolding | [editorial 15] awkward 'One of the bounty hunter pair' for [jp]",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "Kanji,\nwe're heading out soon."
+    },
+    {
+     "en": "Yeah, I'm all set."
+    },
+    {
+     "en": "Heeey!\nCaptain Elchi!"
+    },
+    {
+     "en": "What is it?"
+    },
+    {
+     "en": "A woman's come to see you. Says she's\nRoger Smith's messenger."
+    },
+    {
+     "en": "Roger's?"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "?!\nWhat's this?"
+    },
+    {
+     "en": "Oh, this person says she's\nRoger's messenger."
+    },
+    {
+     "en": "R. Dorothy Wayneright. I'm supposed\nto be Roger Smith's secretary."
+    },
+    {
+     "en": "You must be the captain,\nElchi Cargo."
+    },
+    {
+     "en": "Yes. We were just about to call on\nRoger at his home."
+    },
+    {
+     "en": "Roger is out at the moment."
+    },
+    {
+     "en": "I see... I'd like to meet Roger.\nWhat should we do?"
+    },
+    {
+     "en": "He said that once his business is done,\nhe'll come straight here."
+    },
+    {
+     "en": "So we just have to wait here on the\nIron Gear, right?"
+    },
+    {
+     "en": "That's right."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "She sure doesn't say much..."
+    },
+    {
+     "en": "She doesn't move a muscle, either.\nKinda creepy..."
+    },
+    {
+     "en": "Oh? I think she's cute.\nThat black dress really suits you."
+    },
+    {
+     "en": "Black clothes are Roger's policy.\nHe has the worst taste."
+    },
+    {
+     "en": "Ahahaha... (sweat)"
+    },
+    {
+     "en": "Stupid!"
+    },
+    {
+     "en": "Oh, so that's how it is..."
+    },
+    {
+     "en": "Stop it! Both of you!"
+    },
+    {
+     "en": "Well then, I'll see you later."
+    },
+    {
+     "en": "Something's odd about her...\nThough I don't get a bad feeling\nfrom her..."
+    },
+    {
+     "en": "Don't sweat the little things!"
+    },
+    {
+     "en": "To everyone else,\nyou're pretty odd too, Amuro."
+    },
+    {
+     "en": "Haha...\nYou're right. Sorry."
+    },
+    {
+     "en": "Roger says he'll come to us, so let's get\nback to work. We've got loads to do!"
+    },
+    {
+     "en": "Now, what should I do..."
+    }
+   ],
+   "notes": "[22] [jp] -> 'He has the worst taste' (Roger is male). [24]-[26]: target of Quess's [jp] unstated; kept untargeted. 'Both of you' = Quess and Chan (or Dorothy) -- kept as in JP. [23] [jp] kept as '(sweat)'.",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Seeing the downtown like this, it doesn't\nfeel like the place is under Grados rule..."
+    },
+    {
+     "en": "I wonder why Grados allows\nthis one city to govern itself..."
+    },
+    {
+     "en": "Paradigm Corporation: President's Office"
+    },
+    {
+     "en": "So, how did it go,\nRoger Smith?"
+    },
+    {
+     "en": "(This man is the head of the Paradigm\nCorporation, Alex Rosewater.)"
+    },
+    {
+     "en": "(Not someone I care to meet, but if I'm\nto succeed at this job, there's no\nhelping it...)"
+    },
+    {
+     "en": "Thanks to you,\nthe worst was avoided."
+    },
+    {
+     "en": "No, without your information,\nI'd have made the wrong call myself."
+    },
+    {
+     "en": "I'd like you to keep mediating\nall sorts of matters for me."
+    },
+    {
+     "en": "Mediating?"
+    },
+    {
+     "en": "The fact is, there's something I'd like\nyou to deliver to the Iron Gear."
+    },
+    {
+     "en": "What is this?"
+    },
+    {
+     "en": "They'll understand once you hand it over."
+    },
+    {
+     "en": "Ah...\nIt's nothing dangerous."
+    },
+    {
+     "en": "It's not the sort of thing that\nexplodes or harms anyone's health."
+    },
+    {
+     "en": "I am a negotiator. I have no intention\nof getting involved in murky dealings."
+    },
+    {
+     "en": "My job is to send the Iron Gear on\nits way to Asia without incident."
+    },
+    {
+     "en": "Hmm... But you see...\nParadigm City is allied with Grados."
+    },
+    {
+     "en": "I'd think this affair will make\nall kinds of political waves."
+    },
+    {
+     "en": "I believe I've made the greatest possible\nconcession on this matter. I'd like you\nto at least know that much."
+    },
+    {
+     "en": "Then what would you have me do?"
+    },
+    {
+     "en": "I have no intention of\nholding you to account."
+    },
+    {
+     "en": "It's just that as long as the Iron Gear\nis in this city, you can't really\nturn this job down, can you?"
+    },
+    {
+     "en": "Is this a penalty?"
+    },
+    {
+     "en": "Nothing of the sort."
+    },
+    {
+     "en": "In my position, I can't go near\nthe Iron Gear."
+    },
+    {
+     "en": "That's why I'm asking you."
+    },
+    {
+     "en": "Naturally, I'll have ample payment\nready for you as well."
+    },
+    {
+     "en": "...Understood.\nI'll take charge of it."
+    },
+    {
+     "en": "Make sure it gets to them.\nBy whatever means it takes."
+    },
+    {
+     "en": "(I decided to accept Alex's request.)"
+    },
+    {
+     "en": "(Because I sensed that prying any further\nwould put me in danger.)"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "......!"
+    },
+    {
+     "en": "I didn't expect you to be waiting\nfor me, Dorothy."
+    },
+    {
+     "en": "If you take the subway, it doesn't\ntake all that long."
+    },
+    {
+     "en": "Good grief..."
+    },
+    {
+     "en": "You're going to the Iron Gear, aren't you?"
+    },
+    {
+     "en": "That's right.\nDid you deliver my message?"
+    },
+    {
+     "en": "Yes, no problem."
+    },
+    {
+     "en": "Splendid!"
+    },
+    {
+     "en": "He certainly does seem to be\nan excellent negotiator..."
+    },
+    {
+     "en": "Colonel Char,\nwas this to your satisfaction?"
+    },
+    {
+     "en": "Yes... I'm grateful for\nyour consideration in this matter."
+    },
+    {
+     "en": "Neo Zeon promises its friendship\nto the Paradigm Corporation."
+    },
+    {
+     "en": "I'm counting on you.\nIt's for our mutual benefit, after all."
+    },
+    {
+     "en": "Then I'll take my leave for today..."
+    },
+    {
+     "en": "(Amuro... I'm doing something\nunderhanded.)"
+    },
+    {
+     "en": "(If you're nearby,\nthen try to sense me...!)"
+    }
+   ],
+   "notes": "[2] narration location label. [12] [jp]: subject read as the Iron Gear crew ('They'll understand once you hand it over'). [29] [jp] read as Alex telling Roger to use any means. Roger's indented thought lines (full-width space) not reproduced. | [editorial 1] consistency: bare 'Grados' as in unit 00 and the corpus majority | [editorial 17] consistency: matches Amuro's 'allied with Grados' (11.1) | [proofread 2] location card in UI form 'Place: Room'",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "Looks like Roger's here."
+    },
+    {
+     "en": "I'll head to the bridge."
+    },
+    {
+     "en": "So you're Roger Smith."
+    },
+    {
+     "en": "That's right. If you don't mind,\nI'll get straight to the point."
+    },
+    {
+     "en": "Sure, go ahead."
+    },
+    {
+     "en": "Listen. For the Iron Gear to pass\nthrough this city, there's a condition."
+    },
+    {
+     "en": "A condition?"
+    },
+    {
+     "en": "What?\nYou still need more money?"
+    },
+    {
+     "en": "No... not that. I just need you to\nplay the villain a little."
+    },
+    {
+     "en": "The villain...?"
+    },
+    {
+     "en": "The story will be that you got through\nhere by threatening to destroy the city.\n...That's all."
+    },
+    {
+     "en": "What?! No way!\nThat'd make us just like..."
+    },
+    {
+     "en": "The city's owner values his diplomatic\nrelations with Grados."
+    },
+    {
+     "en": "That's how this city keeps its peace,\nso there's no helping it."
+    },
+    {
+     "en": "Or do you have some other way?"
+    },
+    {
+     "en": "In this case, we'll simply have to\naccept a temporary disgrace."
+    },
+    {
+     "en": "They've already gone along with a lot of\nunreasonable requests from us."
+    },
+    {
+     "en": "If we reach Asia safely,\nGEAR will take us in."
+    },
+    {
+     "en": "I suppose so..."
+    },
+    {
+     "en": "It's purely a diplomatic measure.\nNothing you need to worry about."
+    },
+    {
+     "en": "You can go into town, and as long as\nyou pay, you can get supplies too."
+    },
+    {
+     "en": "Hehh~\nNow that's handy."
+    },
+    {
+     "en": "Next, let's go over the arrangements\nfor leaving the city."
+    },
+    {
+     "en": "...And those are the arrangements."
+    },
+    {
+     "en": "Is everything clear?"
+    },
+    {
+     "en": "Yes...\nThank you for everything."
+    },
+    {
+     "en": "That is my job, after all."
+    },
+    {
+     "en": "Oh, and one more thing. I've been\nentrusted with something from\nthis city's owner."
+    },
+    {
+     "en": "That suitcase?"
+    },
+    {
+     "en": "Ah!!\nThis is...!"
+    },
+    {
+     "en": "A Psycho-Frame!"
+    },
+    {
+     "en": "A Psycho-Frame?"
+    },
+    {
+     "en": "It's a part that helps when you're\ncontrolling things like Funnels."
+    },
+    {
+     "en": "The Gundam has the same thing\nbuilt into it, too."
+    },
+    {
+     "en": "I'll examine it right away."
+    },
+    {
+     "en": "I'm counting on you, Chan."
+    },
+    {
+     "en": "Yes!\nLeave it to me!"
+    },
+    {
+     "en": "Roger, did they tell you\nanything about this frame?"
+    },
+    {
+     "en": "No... The head of the Paradigm\nCorporation just told me to hand it over."
+    },
+    {
+     "en": "I have no idea at all what it is."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "In any case, that's the last of\nmy business. I'll be going."
+    },
+    {
+     "en": "Okay, everyone, back to work, please.\nWe depart as soon as we're ready."
+    },
+    {
+     "en": "Got it!"
+    },
+    {
+     "en": "(A Psycho-Frame...\nWhy would something like that...)"
+    },
+    {
+     "en": "......!!"
+    },
+    {
+     "en": "This feeling...!"
+    },
+    {
+     "en": "I... have to go."
+    },
+    {
+     "en": "There's still time before we depart..."
+    }
+   ],
+   "notes": "[1] blank speaker read as Kanji continuing. [12] Alex (the city's owner, male) -> 'his'. [16] [jp]: 'They've already granted us quite a lot' (Roger/the city). [17] [jp] -> GEAR. | [accuracy 16] [jp]: 'unreasonable requests' restored (was 'granted us quite a lot') | [editorial 12] consistency: bare 'Grados'",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "There's still time before we depart.\nI'll head into town while I can."
+    },
+    {
+     "en": "Are you going into town?"
+    },
+    {
+     "en": "Yeah."
+    },
+    {
+     "en": "Watch yourself. This city's got plenty\nof drifters and thugs too."
+    },
+    {
+     "en": "Some of 'em are even bounty hunters\nlike the ones earlier."
+    },
+    {
+     "en": "Outsiders like you lot shouldn't go\nwalking around alone."
+    },
+    {
+     "en": "Is that because Grados showed up,\nafter all?"
+    },
+    {
+     "en": "Not really. This place has always\nbeen like that."
+    },
+    {
+     "en": "I mean, it's got something as nasty\nas the Military Police."
+    },
+    {
+     "en": "If you like, how about we go into town\ntogether? I'll show you around!"
+    },
+    {
+     "en": "Yeah?\nThen I'll take you up on it."
+    }
+   ],
+   "notes": "[accuracy 1] subject and verb restored: Rag is asking Kanji | [editorial 6] consistency: bare 'Grados'",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Inside the Dome sure is pretty~!"
+    },
+    {
+     "en": "It's a whole different world\nfrom outside."
+    },
+    {
+     "en": "Let's go over there!\nA new shop's opened!"
+    },
+    {
+     "en": "Heeey!\nDon't leave me behind!"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "That young man just now..."
+    },
+    {
+     "en": "That feeling...\nIs he a Londo Bell pilot?"
+    },
+    {
+     "en": "So others besides Amuro\nhave come to Terra too..."
+    },
+    {
+     "en": "Long time no see,\nColonel!"
+    },
+    {
+     "en": "Wha... Quess!\nIs that you?!"
+    },
+    {
+     "en": "I'm surprised. I never thought\nI'd run into you in a place like this."
+    },
+    {
+     "en": "Were you aboard the Iron Gear?"
+    },
+    {
+     "en": "Yeah... that's right."
+    },
+    {
+     "en": "Hey! You want to go back to space,\ndon't you, Colonel?"
+    },
+    {
+     "en": "I'll take you there!"
+    },
+    {
+     "en": "Quess...!\nHow do you know that..."
+    },
+    {
+     "en": "Hee hee hee! Because that's why you sent\nthe Psycho-Frame in, isn't it, Colonel?"
+    },
+    {
+     "en": "Yes... But I never imagined\nyou'd be the one to come."
+    },
+    {
+     "en": "Heh heh!\nDid you think Amuro would come?"
+    },
+    {
+     "en": "Phew~..."
+    },
+    {
+     "en": "Hm?\nWhat's wrong?"
+    },
+    {
+     "en": "Ah, I'll rest here for a bit,\nso take your time looking around."
+    },
+    {
+     "en": "Thanks, then.\nDon't mind if I do."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "Rag sure is...\na powerhouse..."
+    },
+    {
+     "en": "Phew~\nMy legs feel like lead..."
+    },
+    {
+     "en": "Is it this late already..."
+    },
+    {
+     "en": "Uh-oh... I'd better get back\nto the Iron Gear soon..."
+    },
+    {
+     "en": "Hm?\nHey! Quess!"
+    },
+    {
+     "en": "Whoa!! What?!\nKanji, you were there?"
+    },
+    {
+     "en": "(What's with her?\nShe's more flustered than usual...)"
+    },
+    {
+     "en": "You...\nwhat did you come here for?"
+    },
+    {
+     "en": "How rude!\nI'm just shopping!"
+    },
+    {
+     "en": "And what about you? Why are you\nsneaking around like that?!"
+    },
+    {
+     "en": "Wandering out here all alone...\nYou know, we're--"
+    },
+    {
+     "en": "Shut up!\nI'm going back right now!!"
+    },
+    {
+     "en": "Ah!\nHey! Wait!!"
+    },
+    {
+     "en": "Whoa!!"
+    },
+    {
+     "en": "Ow ow ow...\nMy legs got all tangled up."
+    },
+    {
+     "en": "Ahahaha! What're you doing,\nKanji? How pathetic!"
+    },
+    {
+     "en": "Quess was walking around alone.\nThen she ran off."
+    },
+    {
+     "en": "Quess was?\nSo that's what happened."
+    },
+    {
+     "en": "Then we'd better go after her right away.\nIt'd be bad if something happened."
+    },
+    {
+     "en": "Right."
+    },
+    {
+     "en": "I'm pretty sure she said she was going\nback to the ship..."
+    }
+   ],
+   "notes": "[6] Char's guess about Kanji. [13] [jp] -> 'space'. [33] [jp] -> 'sneaking around like that' (hiding his presence). [34] Kanji's lecture trails off; kept unfinished. | [accuracy 6] subject/verb restored: Char wondering about Kanji | [accuracy 18] subject restored: Quess asking Char | [editorial 22] 'Then I won't hold back' misfit for Rag accepting Kanji's offer to go on shopping",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "Blume,\nthe repairs are done."
+    },
+    {
+     "en": "Let's see..."
+    },
+    {
+     "en": "Well, well...\nYou did it right."
+    },
+    {
+     "en": "You're quick, too.\nNot bad at all."
+    },
+    {
+     "en": "That's because Fred's been helping me."
+    },
+    {
+     "en": "When there's fighting, the older guys\nwork hard for us."
+    },
+    {
+     "en": "So now it's our turn to work hard!"
+    },
+    {
+     "en": "Oh!\nWell said!"
+    },
+    {
+     "en": "Then I'm counting on you\nfor this one too!"
+    },
+    {
+     "en": "Yeah!\nLeave it to me!"
+    },
+    {
+     "en": "They're still repairing the Iron Gear..."
+    },
+    {
+     "en": "They've been at it nonstop\never since we got here..."
+    },
+    {
+     "en": "Oh!\nKanji."
+    },
+    {
+     "en": "Blume,\ndid Quess come back?"
+    },
+    {
+     "en": "She got back a little while ago. She's\nprobably doing maintenance on her mech\nor something."
+    },
+    {
+     "en": "Phew... I see.\nThen that's fine."
+    },
+    {
+     "en": "Looks rough.\nWant us to help with anything?"
+    },
+    {
+     "en": "This is our job. You main pilots\njust rest."
+    },
+    {
+     "en": "Well, well~ So you can say\nthings like that now, huh~"
+    },
+    {
+     "en": "Sh-Shut up!"
+    },
+    {
+     "en": "The unsung heroes, huh...\nWe should be grateful to them."
+    },
+    {
+     "en": "The ship with our bounty is right\nin front of us, and yet..."
+    },
+    {
+     "en": "So what's going to happen to\nour bounty money?"
+    },
+    {
+     "en": "Getting outmaneuvered by a negotiator...\nWe're such idiots..."
+    },
+    {
+     "en": "If it weren't for the Resistance mess,\nriding the Iron Gear wouldn't be\nhalf bad..."
+    },
+    {
+     "en": "Come to think of it,\nwhere'd those two go?!"
+    },
+    {
+     "en": "Well, not my problem..."
+    },
+    {
+     "en": "Hm? Somebody's working on something\nover there."
+    },
+    {
+     "en": "I'll go take a look.\nMaybe I can help out."
+    },
+    {
+     "en": "What are you up to?\nUm, it was Ed, right?"
+    },
+    {
+     "en": "Uh, well~ I'm making the ship's\nsecurity reeeally strong~"
+    },
+    {
+     "en": "Hey! Ed,\ndo this block too, would ya?"
+    },
+    {
+     "en": "Aye aye~"
+    },
+    {
+     "en": "Huh~ I don't really get it,\nbut that's amazing..."
+    },
+    {
+     "en": "Yes yes~\nIncoming call from the Bebop~"
+    },
+    {
+     "en": "You! How long are you planning\nto hang around there?"
+    },
+    {
+     "en": "Get back here now!\nOr I'll leave you behind!!"
+    },
+    {
+     "en": "It's still okay~\nSpike and~ Jet are~\nout and about~~"
+    },
+    {
+     "en": "I know that! Do you know where\nthose two went?"
+    },
+    {
+     "en": "Mmm!\nRoger's house~"
+    },
+    {
+     "en": "What? That's the negotiator's place."
+    },
+    {
+     "en": "What'd those two go there for,\nnow of all times..."
+    },
+    {
+     "en": "Dunnooo~"
+    },
+    {
+     "en": "Hmm... If they went to bust the place up,\nthat'd be fun..."
+    },
+    {
+     "en": "Anyway, you wrap things up\nand come back, too!"
+    },
+    {
+     "en": "I can't go out otherwise!"
+    },
+    {
+     "en": "Okaaay~!"
+    },
+    {
+     "en": "Whoaaa!\nH-Hey, Ed! Wait up!"
+    },
+    {
+     "en": "Hey, you!\nWhat are you making Ed do?"
+    },
+    {
+     "en": "Well, uh, just a little..."
+    },
+    {
+     "en": "Well, whatever. But you're paying\na fee for using Ed!"
+    },
+    {
+     "en": "Of course!"
+    },
+    {
+     "en": "C'mon...\nhelp me out, Kanji..."
+    },
+    {
+     "en": "O-Okay, fine..."
+    },
+    {
+     "en": "Um, Faye! I'll handle the fee.\nLet us look after Ed for a while."
+    },
+    {
+     "en": "Fine."
+    },
+    {
+     "en": "Also, could somebody run over\nto the negotiator's place for me?"
+    },
+    {
+     "en": "I need you to bring our ship's crew\nback here."
+    },
+    {
+     "en": "Kanji! Go to Roger's house and bring\nher partners back."
+    },
+    {
+     "en": "Huh?\nI have to go?"
+    },
+    {
+     "en": "I'm at a crucial point right now.\nPlease!!"
+    },
+    {
+     "en": "Thanks a bunch.\nBye!"
+    },
+    {
+     "en": "Ah... Faye!"
+    },
+    {
+     "en": "Sigh... Can't be helped.\nGuess I'm the one who has to go..."
+    }
+   ],
+   "notes": "[5] [jp] -> 'the older guys' (the pilots). [21]-[26] Faye's monologue; [25] 'those two' = Spike and Jet. [jp]: honorific dropped ('Faye'). [58] [jp] -> 'her partners' (Faye, female). | [editorial 24] consistency: 'Resistance' capitalised as elsewhere in these units | [editorial 28] 'Let's go see' / 'I can help' mixed we/I; Kanji goes alone to Ed (19.29) | [editorial 32] consistency: Ed's [jp] is 'Aye-aye~!' in 8.30 | [proofread 32] style sheet: 'Aye aye' (no hyphen)",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "You're a member of the Iron Gear,\naren't you?"
+    },
+    {
+     "en": "Yes, that's right.\nWhat about it?"
+    },
+    {
+     "en": "I've been watching you for a while...\nDon't go wandering around on your own."
+    },
+    {
+     "en": "It'd be a real headache if you people\ngot mixed up in some incident."
+    },
+    {
+     "en": "Get back to your ship before\nthere's any trouble."
+    },
+    {
+     "en": "I'd like to, but I don't know where\nRoger Smith's house is..."
+    },
+    {
+     "en": "Roger the negotiator?"
+    },
+    {
+     "en": "Ah, yeah, that's him!"
+    },
+    {
+     "en": "Hrrm... No choice, then!\nI'll take you there, so follow me!"
+    },
+    {
+     "en": "Haha...\nThanks a lot."
+    },
+    {
+     "en": "Hmph!"
+    },
+    {
+     "en": "We're here.\nThis is the building."
+    },
+    {
+     "en": "Wh-Whoa, it's huge!"
+    },
+    {
+     "en": "I have work to do, so I'll leave you\nhere. Have Roger take you back."
+    },
+    {
+     "en": "Ah, uh, sure..."
+    },
+    {
+     "en": "Listen, whatever you do,\ndon't cause any trouble."
+    },
+    {
+     "en": "Okay, first things first,\nring the doorbell..."
+    },
+    {
+     "en": "Yes, what is it?"
+    },
+    {
+     "en": "Oh, you're..."
+    },
+    {
+     "en": "What is your business?"
+    },
+    {
+     "en": "Ah... I think a couple of guys called\nSpike and Jet are here."
+    },
+    {
+     "en": "Yes...\nRoger is seeing them now.\nIs it something urgent?"
+    },
+    {
+     "en": "Yeah...\nI came to fetch them."
+    },
+    {
+     "en": "Could you tell them I've come\non Faye's behalf?"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "Understood."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "Roger's Mansion: Reception Room"
+    },
+    {
+     "en": "Looks like nothing's changed\nwith you, Roger."
+    },
+    {
+     "en": "And you two still seem to be\nin the bounty hunting business."
+    },
+    {
+     "en": "Pretty much... But it's gotten a bit\nharder since Grados showed up."
+    },
+    {
+     "en": "By the way, Roger, didn't you take a job\nfrom someone with a bounty recently?"
+    },
+    {
+     "en": "You mean the Iron Gear? Even if I had\ntaken a job, I couldn't give you any\ninformation."
+    },
+    {
+     "en": "We know that."
+    },
+    {
+     "en": "But a bounty we caught\ndropped your name."
+    },
+    {
+     "en": "Roger, I'm not looking\nto steal your job..."
+    },
+    {
+     "en": "But if you took the job,\nthere's gotta be a story behind it, right?"
+    },
+    {
+     "en": "...If you knew that, you couldn't go on\nbeing cowboys come tomorrow."
+    },
+    {
+     "en": "I've pretty much figured it out already..."
+    },
+    {
+     "en": "Spike... Jet...\nI'm telling you for your own good."
+    },
+    {
+     "en": "You'd do better not to get\ntoo deeply involved in this."
+    },
+    {
+     "en": "The reward you were supposed\nto receive is ready for you here."
+    },
+    {
+     "en": "So that's why you called us here."
+    },
+    {
+     "en": "I see. You used us to get the Iron Gear\ninto port, didn't you?"
+    },
+    {
+     "en": "I'm sorry... Won't you just back off\nwithout asking any questions?"
+    },
+    {
+     "en": "Well, we sure got dragged into\none heck of a farce."
+    },
+    {
+     "en": "But... Roger, you do realize, right?\nOne wrong move and there's no\nturning back."
+    },
+    {
+     "en": "Yes...\nHonestly, I had my doubts too."
+    },
+    {
+     "en": "Whatever the circumstances, it doesn't\nchange the fact that I got involved\nwith the Resistance..."
+    },
+    {
+     "en": "But I am a negotiator.\nI'll find a way."
+    },
+    {
+     "en": "But you two are different."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "Well, we got what we came for.\nLet's clear out, Spike."
+    },
+    {
+     "en": "Jet, I've got something to talk\nto Roger about. Go on ahead."
+    },
+    {
+     "en": "Hm...? Hey...\nYou're not seriously...!"
+    },
+    {
+     "en": "Roger...\nI owe you one, after all."
+    },
+    {
+     "en": "You've repaid that debt plenty with\nthis business. Don't worry about it."
+    },
+    {
+     "en": "That ain't all. There are folks\nI don't like either, y'know..."
+    },
+    {
+     "en": "Cut it out, Spike.\nNothing good'll come of it."
+    },
+    {
+     "en": "If you don't like it, bow out here.\nI'll do it on my own."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "I've had enough of getting dragged into\nmessy business. I'm getting out."
+    },
+    {
+     "en": "I'll talk to Spike myself."
+    },
+    {
+     "en": "Once that guy starts something,\nhe won't listen. See ya..."
+    },
+    {
+     "en": "Jet, is the usual place\nall right for the money?"
+    },
+    {
+     "en": "Yeah...\nAnd take his share out of it."
+    },
+    {
+     "en": "Understood..."
+    },
+    {
+     "en": "Spike...\nWhat do you intend to do now?"
+    },
+    {
+     "en": "I'm already on board.\nI'll help you with your job."
+    },
+    {
+     "en": "In your position, it's gotta be\nhard to make a move, right?"
+    },
+    {
+     "en": "I see...\nThen I'll sign a contract with you."
+    },
+    {
+     "en": "Though I hope it never comes to\na situation where I need your help..."
+    },
+    {
+     "en": "So... how much does it take\nto hire you?"
+    },
+    {
+     "en": "Let's see...\nJust cover my meals for now."
+    },
+    {
+     "en": "Heh...\nThat's easily arranged."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "They're taking a while...\nAre they still talking?"
+    },
+    {
+     "en": "Sorry to keep you waiting. Jet will be\nright out. The other one says he's\nstaying for a while."
+    },
+    {
+     "en": "Oh, okay..."
+    },
+    {
+     "en": "Hm? You're...\nfrom the Iron Gear, if I recall..."
+    },
+    {
+     "en": "Kanji Akatsuki.\nYou're Jet, I take it?"
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "Faye's sick of waiting\nfor you guys."
+    },
+    {
+     "en": "I see... Don't know why you're the one\ncoming to pick me up, though..."
+    },
+    {
+     "en": "That's what\nI'd like to know."
+    },
+    {
+     "en": "Also, I'm supposed to bring back\nthis Spike guy too."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "He's not coming back\nto our ship anymore."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "Looks like I put you to some trouble.\nI'll give you a lift to the airport."
+    },
+    {
+     "en": "That's a big help, but... Spike's your\npartner, isn't he? You're okay with this?"
+    },
+    {
+     "en": "...You getting in or not?\nDawdle and I'll leave you behind!"
+    },
+    {
+     "en": "Yeah, I'm getting in!\nHang on a sec!"
+    }
+   ],
+   "notes": "[0] narration location label ([jp]). [4]/[7] [jp] -> 'someone with a bounty' / 'a bounty'. [10] [jp] kept as 'cowboys' (Bebop slang for bounty hunters). [41] [jp] -> 'I'm already on board'. [50] [jp] = Spike (male) -> 'he'. [55] [jp]: 'for you guys' added for natural English (Faye was waiting for both). | [accuracy 49] subject restored: Kanji means Roger and the bounty hunters | [editorial 3] consistency: bare 'Grados' | [editorial 21] consistency: 'Resistance' capitalised | [editorial 46] awkward 'Enough for meals for now'll do' | [editorial 57] Japanese idiom 'That's my line' replaced with natural English for [jp] | [proofread 0] location card in UI form 'Place: Room'",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "See ya, Kanji!\nHere's hoping you have a safe voyage."
+    },
+    {
+     "en": "Thanks!"
+    },
+    {
+     "en": "That was quick.\nDid you finish your errand?"
+    },
+    {
+     "en": "Yeah.\nI came back by plane."
+    },
+    {
+     "en": "Hey~ hey~\nWhere're Spike and Jet~?"
+    },
+    {
+     "en": "Ed! It's about time you went back\nto your own ship!"
+    },
+    {
+     "en": "Okaaay~\nSee ya later~"
+    },
+    {
+     "en": "Whoooooooosh~!"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "Maybe I should've told Ed that\nSpike didn't come back..."
+    },
+    {
+     "en": "Oh well.\nEd'll find out back on the ship..."
+    },
+    {
+     "en": "Phew...\nNow we can finally set sail."
+    },
+    {
+     "en": "Don't you go out again either.\nWe're departing soon."
+    },
+    {
+     "en": "Yeah, got it."
+    },
+    {
+     "en": "\"Depart\" is now available."
+    }
+   ],
+   "notes": "[9]-[10] Ed's gender unknown: phrased without pronouns. [14] UI term [jp] -> \"Depart\".",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "At last, we're setting out\nfor the Asia Continent."
+    },
+    {
+     "en": "Once we get to Asia, we won't be\nwanted criminals anymore, right?"
+    },
+    {
+     "en": "Here's hoping!"
+    },
+    {
+     "en": "We're still inside enemy territory.\nThere's no telling what might happen."
+    },
+    {
+     "en": "Right...\nLet's not let our guard down."
+    },
+    {
+     "en": "Iron Gear, move out!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 24,
+   "segments": [
+    {
+     "en": "Heh heh heh... The Iron Gear bunch\nare moving out right on schedule."
+    }
+   ],
+   "notes": "Speaker Horla: gender blank in speakers.tsv, no pronouns needed.",
+   "status": "proofread"
+  },
+  {
+   "id": 25,
+   "segments": [
+    {
+     "en": "Geraba!\nHow'd it go?!"
+    },
+    {
+     "en": "Took a lotta work, y'know.\nThey're nothin' but a bunch of dimwits."
+    },
+    {
+     "en": "But hey, is a setup like that\nreally gonna cut it?"
+    },
+    {
+     "en": "Doesn't matter! There's nothing but the\nSea of Clouds on either side anyway.\nThey've got nowhere to run!"
+    },
+    {
+     "en": "All right!\nLet's do this!!"
+    },
+    {
+     "en": "Damn!\nAn ambush!"
+    },
+    {
+     "en": "This is bad. The land's too narrow\naround here to go around them!"
+    },
+    {
+     "en": "Then we've just gotta fight!!"
+    },
+    {
+     "en": "<Win Condition>\nRepel the enemy mothership within\nthe time limit"
+    }
+   ],
+   "notes": "[1] [jp] (Geraba's helpers) -> 'a bunch of dimwits'. [2] [jp] = the trap (mines, row 28). | [proofread 0] punctuation: question mark missing on a question",
+   "status": "proofread"
+  },
+  {
+   "id": 26,
+   "segments": [
+    {
+     "en": "We've taken out most of\nthe enemy's first line!"
+    },
+    {
+     "en": "All riiight!\nLet's charge straight in!"
+    },
+    {
+     "en": "Wait! We can't go in scattered like this.\nLet's regroup first!"
+    },
+    {
+     "en": "Kanji's right!"
+    },
+    {
+     "en": "The Iron Gear will keep advancing!\nAll units, gather around it!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 28,
+   "segments": [
+    {
+     "en": "Horla!!\nI'm forcing my way through!"
+    },
+    {
+     "en": "Heh...\nNot so fast!"
+    },
+    {
+     "en": "Geraba!\nSet off the mines!"
+    },
+    {
+     "en": "You got it!!"
+    },
+    {
+     "en": "Waaaaaaah!"
+    },
+    {
+     "en": "Tch!\nIt's a minefield!"
+    },
+    {
+     "en": "Fall back!\nFall baaack!!"
+    },
+    {
+     "en": "That's dirty, Horla!\nYou droopy-eyed creep!!"
+    },
+    {
+     "en": "My eyes aren't droopy! Shut up,\nyou lousy dumpling!!"
+    },
+    {
+     "en": "What was thaaat?!!"
+    },
+    {
+     "en": "Get as mad as you want, your eyes\nare still droopy!!"
+    },
+    {
+     "en": "Whaaat!!"
+    },
+    {
+     "en": "They're here!!"
+    },
+    {
+     "en": "Beck, is it?\nAll riiight!"
+    },
+    {
+     "en": "Yeeee-haaaw!"
+    },
+    {
+     "en": "Good timing. Now we can hit them\nfrom the front and the back!"
+    },
+    {
+     "en": "Well then,\nlet's get this started!"
+    },
+    {
+     "en": "Ready the long-range guns!!\nMake 'em dance in the blast!"
+    },
+    {
+     "en": "Aaaaaaah!"
+    },
+    {
+     "en": "Heh heh heh heh! Gotta put\nmy products to good use!"
+    },
+    {
+     "en": "Terminator Police,\nactivate!"
+    },
+    {
+     "en": "Ku ku ku... You can't escape in this\nnarrow corridor! How long can you\nhold out, I wonder?"
+    },
+    {
+     "en": "Here they come! A huge enemy force\ncoming in from the rear!!"
+    },
+    {
+     "en": "Light! How many of them\nare there?"
+    },
+    {
+     "en": "No idea!\nThere's a whole lot of 'em!"
+    },
+    {
+     "en": "They've got us pinned\nfront and back...!"
+    },
+    {
+     "en": "There's a crazy number of 'em\nin the vanguard alone..."
+    },
+    {
+     "en": "No whining! Just do\nwhatever you can!"
+    },
+    {
+     "en": "<Win Condition>\nRepel Horla's mothership,\nthe Govarie"
+    }
+   ],
+   "notes": "[7]-[10] insults: [jp] 'droopy-eyed', [jp] 'lousy dumpling'. [19] [jp] = Beck's manufactured machines -> 'my products'. [28] [jp] -> Govarie (glossary Govarie-class). | [accuracy 24] verb restored: 'There's a whole lot' (was fragment 'A whole lot!') | [editorial 26] awkward 'Their vanguard alone is a crazy number' | [proofread 9] punctuation: question mark missing ('?!!' doubled form)",
+   "status": "proofread"
+  },
+  {
+   "id": 29,
+   "segments": [
+    {
+     "en": "These guys are hanging on better than\nI figured. No wonder Grados put\na bounty on 'em."
+    },
+    {
+     "en": "Hey, Horla! Isn't it about time\nwe told 'em to surrender?"
+    },
+    {
+     "en": "...Let's do that. The more spoils\nthe better, after all."
+    },
+    {
+     "en": "We'll halt our attack\nfor now as well!"
+    },
+    {
+     "en": "Dammit!\nLike I'm gonna lose!"
+    },
+    {
+     "en": "Stop shooting.\nThe enemy's ceased fire."
+    },
+    {
+     "en": "Huh? Why?"
+    },
+    {
+     "en": "Anyway, everyone, go back and\nresupply while you can!"
+    }
+   ],
+   "notes": "[1] [jp] -> 'Hey, Horla!' (honorific dropped). | [editorial 0] consistency: bare 'Grados' as in the other units",
+   "status": "proofread"
+  },
+  {
+   "id": 30,
+   "segments": [
+    {
+     "en": "The enemy's regrouping.\nNext time they'll come all at once."
+    },
+    {
+     "en": "They're going to demand our surrender.\nElchi, a transmission's coming in."
+    },
+    {
+     "en": "It's Horla!!"
+    },
+    {
+     "en": "Long time no see,\nElchi Cargo."
+    },
+    {
+     "en": "I knew it, Horla!"
+    },
+    {
+     "en": "So you were behind all these attacks!\nWhat's the big idea?!"
+    },
+    {
+     "en": "Seems you still haven't outgrown\nbeing a pampered young lady,\nMiss Elchi Cargo."
+    },
+    {
+     "en": "I don't know what's going on\nbehind that pretty face, but"
+    },
+    {
+     "en": "one thing's for certain:\nyour life is in my hands."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "I suppose so......"
+    },
+    {
+     "en": "And that's not all.\nI've been reborn!"
+    },
+    {
+     "en": "With a single whim of mine, young lady...\nyou could die this very instant!"
+    },
+    {
+     "en": "What do you want me to do,\nHorla...?"
+    },
+    {
+     "en": "Just... become my... wife...\nEhehehe..."
+    },
+    {
+     "en": "No way!!"
+    },
+    {
+     "en": "Young lady!"
+    },
+    {
+     "en": "No!\nNoooo way!!"
+    },
+    {
+     "en": "Young lady!\nDon't you value your life?!"
+    },
+    {
+     "en": "Hmph!!\nNo means nooo!"
+    },
+    {
+     "en": "Make me really angry, and the\nIron Gear, and you along with it...!"
+    },
+    {
+     "en": "Hey! Boss!\nSomethin' weird's comin' up from behind!"
+    },
+    {
+     "en": "Shut up!\nThis is the crucial part!"
+    },
+    {
+     "en": "But... that thing's\nprobably an enemy!"
+    },
+    {
+     "en": "What do you mean, probably?!"
+    },
+    {
+     "en": "What is that?\nIt's just one unit!\nSurround it and crush it!"
+    },
+    {
+     "en": "Here they come, Ginga!!"
+    },
+    {
+     "en": "All right!\nLet's do it!"
+    },
+    {
+     "en": "Command Install!"
+    },
+    {
+     "en": "Whoa-hot-hot-hot!!"
+    },
+    {
+     "en": "What the heck\nis that thing?!!"
+    },
+    {
+     "en": "This is bad, Boss!!\nThat just took out half of us!"
+    },
+    {
+     "en": "Wh-\nWhaaat!!"
+    },
+    {
+     "en": "What's going on?!\nThat explosion just now..."
+    },
+    {
+     "en": "The enemy's in chaos!\nIsn't this our chance?"
+    },
+    {
+     "en": "All units, charge!!\nIgnore the enemies behind us!"
+    }
+   ],
+   "notes": "[7]-[8] one sentence split across pages, cut at the same point. [11] Horla's gender is blank in speakers.tsv, so [jp] -> 'I've been reborn!' (no gendered wording).[20] threat trails off as in JP. [jp] -> 'young lady'. [28] [jp] -> 'Command Install' (not in glossary). | [accuracy 26] [jp]: Horla's units are closing in to surround Dendoh ([25]); 'Here we go' lost the meaning | [proofread 24] punctuation: question mark missing | [proofread 30] punctuation: question mark missing ('?!!' doubled form)",
+   "status": "proofread"
+  },
+  {
+   "id": 31,
+   "segments": [
+    {
+     "en": "Looks like the Iron Gear's on the move.\nLet's go back 'em up too!"
+    },
+    {
+     "en": "We can't.\nDendoh's out of energy."
+    },
+    {
+     "en": "Yeah, but if they get wiped out\nin the meantime, what's the point!"
+    },
+    {
+     "en": "It's all right!\nThe Iron Gear will hold out."
+    },
+    {
+     "en": "Ms. Vega?!"
+    },
+    {
+     "en": "Hokuto! Ginga!\nDon't panic."
+    },
+    {
+     "en": "There are a lot of enemies. Swap out\nthe Hyper Dendoh Batteries now,\nwhile you can!"
+    },
+    {
+     "en": "Elise!\nAre you ready?"
+    },
+    {
+     "en": "The batteries are ready.\nPull Dendoh back for now!"
+    },
+    {
+     "en": "Got it!\nHokuto! We're heading back!"
+    },
+    {
+     "en": "Right!"
+    },
+    {
+     "en": "Elise!\nWe're counting on you."
+    },
+    {
+     "en": "Leave it to me!\nI'll have it done in record time!"
+    }
+   ],
+   "notes": "[jp] / [jp] / [jp]: honorifics dropped. | [editorial 4] project decision: [jp] = 'Ms. Vega' (Ginga, Roger, Hokuto elsewhere)",
+   "status": "proofread"
+  },
+  {
+   "id": 32,
+   "segments": [
+    {
+     "en": "Why?!\nHow do they have that much power?!!"
+    },
+    {
+     "en": "That's payback for earlier!\nMain cannon! Fiiire!!"
+    },
+    {
+     "en": "Waaaaaaaah!"
+    },
+    {
+     "en": "Boss!\nTime to call it quits!"
+    },
+    {
+     "en": "Shut up! We hold out\nuntil Beck's unit catches up!"
+    },
+    {
+     "en": "Ms. Vega!\nHow's the battle going?!"
+    },
+    {
+     "en": "We have the upper hand!\nThe Iron Gear is pushing them back."
+    },
+    {
+     "en": "Looks like we made it in time..."
+    },
+    {
+     "en": "Hokuto! One more\nFinal Attack!"
+    },
+    {
+     "en": "Yeah!"
+    },
+    {
+     "en": "Here goes!\nUnicorn!"
+    },
+    {
+     "en": "Gwaaah!"
+    },
+    {
+     "en": "Boss!\nWe can't hold out any longer!"
+    },
+    {
+     "en": "Argh! I hate to say a line like this,\nbut... we retreat for now!!"
+    },
+    {
+     "en": "So that's the power of the\nData Weapons I've heard about."
+    },
+    {
+     "en": "Sorry, Horla, but that was\nquite a show."
+    },
+    {
+     "en": "Pull back all units."
+    },
+    {
+     "en": "A wise man stays clear of danger!"
+    },
+    {
+     "en": "Looks like the enemies coming from\nbehind are pulling out."
+    },
+    {
+     "en": "Phew...\nThat was a close one..."
+    },
+    {
+     "en": "Yeah. If that backup hadn't shown up,\nwho knows what would've happened..."
+    },
+    {
+     "en": "It was that machine, wasn't it...\nThe one that backed us up."
+    },
+    {
+     "en": "Is it GEAR?"
+    },
+    {
+     "en": "Probably...\nI'd say that machine is one of\nGEAR's weapons."
+    },
+    {
+     "en": "Hey, can't we get in contact\nwith them?"
+    },
+    {
+     "en": "I'm relaying it now."
+    },
+    {
+     "en": "Oh!\nHere it comes."
+    },
+    {
+     "en": "Crew of the Iron Gear,\ncan you hear me?"
+    },
+    {
+     "en": "We are GEAR,\nthe Asian defense organization."
+    },
+    {
+     "en": "We welcome the Iron Gear's arrival\nfrom the bottom of our hearts."
+    },
+    {
+     "en": "You really saved us.\nThat was a close call."
+    },
+    {
+     "en": "We share a common enemy...\nLet us go forward hand in hand."
+    },
+    {
+     "en": "Yes, gladly!"
+    }
+   ],
+   "notes": "[jp] -> GEAR (quote marks dropped). [10] [jp] -> 'Unicorn' (Data Weapon; library has 'Unicorn Drill'). [8] [jp] -> 'Final Attack' (library: Gambar/Ganbar Final Attack -- inconsistent there). | [accuracy 25] subject restored: Light (D-3) is relaying GEAR's transmission | [editorial 5] project decision: [jp] = 'Ms. Vega' | [proofread 0] punctuation: question marks missing on two questions",
+   "status": "proofread"
+  },
+  {
+   "id": 33,
+   "segments": [
+    {
+     "en": "So Dendoh and the Iron Gear\nhave finally joined hands."
+    },
+    {
+     "en": "To think they could win a battle\ndespite such a gap in strength..."
+    },
+    {
+     "en": "It's been a long time since I've\nwatched such an entertaining fight."
+    },
+    {
+     "en": "Is this, too, a feat made possible\nby the power of Dendoh's\nData Weapons...?"
+    },
+    {
+     "en": "But that power befits none but\nEmperor Galfa, ruler of the\nentire universe."
+    },
+    {
+     "en": "Dendoh... One day, I shall claim\nevery last one of your Data Weapons."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

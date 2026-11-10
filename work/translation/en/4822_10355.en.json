@@ -1,0 +1,402 @@
+{
+ "table": "4822_10355",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "The Sanc Kingdom wishes\nto form an alliance."
+    },
+    {
+     "en": "Head for the Sanc Kingdom."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "OZ wishes to form an alliance."
+    },
+    {
+     "en": "Head for Romefeller."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "I am Relena Peacecraft,\nhead of the Sanc Kingdom."
+    },
+    {
+     "en": "I thank you for answering\nour call for an alliance."
+    },
+    {
+     "en": "Let us each do our utmost\nand build a world without war."
+    },
+    {
+     "en": "Alliance formed with the\nSanc Kingdom."
+    },
+    {
+     "en": "Ops Room..."
+    },
+    {
+     "en": "Our enemy, OZ, has allied with\nthe Redros Army at the behest\nof the Romefeller Foundation."
+    },
+    {
+     "en": "No matter how much this nation\ncalls for total pacifism,\nthey'll attack anyway."
+    },
+    {
+     "en": "If we just stay on the defensive,\nthings will only get worse."
+    },
+    {
+     "en": "I'm with you there!"
+    },
+    {
+     "en": "OZ and every organization tied to it\nwill be eliminated from this continent."
+    },
+    {
+     "en": "To do that,\nwe have no choice but to attack."
+    },
+    {
+     "en": "First, we strike Romefeller\nand cut off the Foundation's\nsource of funds."
+    },
+    {
+     "en": "We hit the Redros Army\nafter that."
+    },
+    {
+     "en": "That settles it.\nLet's get this party started!"
+    },
+    {
+     "en": "<Operation Launched>\nRomefeller Assault"
+    }
+   ],
+   "notes": "Seg 4 [jp] = scene caption, rendered as the UI's \"Ops Room\". | [editorial 3] system-message template unified | [editorial 14] operation-name format as the other cards",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Romefeller has been taken."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Looks like OZ isn't putting up\nany resistance in town."
+    },
+    {
+     "en": "So that wraps up the fighting\non the Iberia Continent!"
+    },
+    {
+     "en": "No... not yet..."
+    },
+    {
+     "en": "The enemy's remaining forces\nare gathering at Barge."
+    },
+    {
+     "en": "The fighting won't end until\nthat fortress is silenced."
+    },
+    {
+     "en": "Well then, let's hurry up\nand finish it off!"
+    },
+    {
+     "en": "<Operation Launched>\nFortress Barge Assault"
+    }
+   ],
+   "notes": "[jp] = OZ's space fortress, official Gundam Wing English \"Barge\" (not in glossary). | [editorial 6] operation-name format as the other cards",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Fortress Barge has fallen."
+    },
+    {
+     "en": "Hostile forces on the Iberia Continent\nhave been greatly reduced."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Regarding those the Romefeller\nFoundation told us about..."
+    },
+    {
+     "en": "They have offered to cooperate\nwith our army."
+    },
+    {
+     "en": "If those are the Foundation's\norders, we cannot refuse."
+    },
+    {
+     "en": "Tell them OZ will cooperate\nwith their forces in every way."
+    },
+    {
+     "en": "Understood!"
+    }
+   ],
+   "notes": "[jp] = the Redros side (the player's army on this route).",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "The Sanc Kingdom has fallen."
+    },
+    {
+     "en": "The conquest of the Iberia Continent\nis complete."
+    },
+    {
+     "en": "Proceed to your next objective."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "It seems the time has come for me\nto show the world the way."
+    },
+    {
+     "en": "Yes."
+    },
+    {
+     "en": "With the Sanc Kingdom destroyed,\nthere is no one left to defy us."
+    },
+    {
+     "en": "Lady Mariemaia will at last\nbecome Queen of Iberia."
+    },
+    {
+     "en": "Our army will support this\nwholeheartedly."
+    },
+    {
+     "en": "I'm counting on you."
+    },
+    {
+     "en": "Mariemaia's circumstances are\nsomewhat complicated, but they\nsuit our army well."
+    },
+    {
+     "en": "We lose nothing by taking\nadvantage of this situation."
+    },
+    {
+     "en": "Decide whether to approve the\nfounding of the Mariemaia Army."
+    },
+    {
+     "en": "If the army is founded, Treize\nwill disappear and the OZ members\nwill become enemies."
+    },
+    {
+     "en": "Approve the founding of\nthe Mariemaia Army?"
+    },
+    {
+     "en": "Yes\nNo"
+    },
+    {
+     "en": "I approve the founding of the army."
+    },
+    {
+     "en": "I leave the aftermath to you."
+    },
+    {
+     "en": "Sir!"
+    },
+    {
+     "en": "No. At a time like this,\nsuch petty schemes are pointless."
+    },
+    {
+     "en": "Understood.\nWe'll call off the plan."
+    }
+   ],
+   "notes": "Segs 6-7 (Rochina, no Mariemaia honorific) taken as Rochina reporting to Binzvanker afterwards.",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "I am Mariemaia Khushrenada."
+    },
+    {
+     "en": "I am the daughter of\nTreize Khushrenada."
+    },
+    {
+     "en": "I shall realize the ideal that\nhumanity can shine only\nthrough battle!"
+    },
+    {
+     "en": "A splendid speech,\nLady Mariemaia."
+    },
+    {
+     "en": "I feel your ideals are close\nto the ideals I strive for."
+    },
+    {
+     "en": "Therefore, I wish to form\nan alliance with your army."
+    },
+    {
+     "en": "As you wish."
+    },
+    {
+     "en": "From here on, leave it to us\nto clear the way."
+    },
+    {
+     "en": "The Mariemaia Army has been\nnewly formed."
+    },
+    {
+     "en": "You can now deploy the\nMariemaia Army's forces."
+    },
+    {
+     "en": "Treize and the members of OZ\nhave left the army."
+    },
+    {
+     "en": "Enemy forces are gathering\nat the Sanc Kingdom."
+    },
+    {
+     "en": "An assault operation has been launched."
+    }
+   ],
+   "notes": "[editorial 7] awkward 'leave clearing the way to us'",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "I am Mariemaia Khushrenada."
+    },
+    {
+     "en": "I am the daughter of\nTreize Khushrenada."
+    },
+    {
+     "en": "I shall realize the ideal that\nhumanity can shine only\nthrough battle!"
+    },
+    {
+     "en": "The Mariemaia Army\nhas been founded."
+    },
+    {
+     "en": "It is based in Luxembourg."
+    },
+    {
+     "en": "Organize the opposing force\n\"Preventer\" in the Sanc Kingdom."
+    }
+   ],
+   "notes": "[jp] = Preventer (official Gundam Wing English), not in glossary.",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "The Iberian Unified Government\nhas organized Preventer."
+    },
+    {
+     "en": "It was originally prepared to stop\nwars before they start, but in\nthis situation it can't be helped."
+    },
+    {
+     "en": "To keep the flames of war from\nspreading any further, please aim\nfor a swift victory."
+    }
+   ],
+   "notes": "[jp] rendered Iberian Unified Government (not in glossary). | [editorial 2] 'So the flames of war spread no further' read as 'therefore'",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Enemy fleet!\nThey're deploying!"
+    },
+    {
+     "en": "So they still mean to resist."
+    },
+    {
+     "en": "Even though it's futile."
+    },
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "You are far from fit to do\nbattle with my army."
+    },
+    {
+     "en": "Kindly exit the stage\nat once."
+    },
+    {
+     "en": "Enemy forces have been swept\nfrom the Iberia Continent."
+    }
+   ],
+   "notes": "[jp] used in its common (mis)sense 'not up to the task'; rendered as intended. | [editorial 0] 'far too inadequate' unidiomatic; sense (not up to the task) kept",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "Enemy forces have been swept\nfrom the Iberia Continent."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

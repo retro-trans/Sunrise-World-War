@@ -1,0 +1,2856 @@
+{
+ "rows": [
+  {
+   "en": "Airport",
+   "kinds": [
+    "house"
+   ],
+   "uses": 22,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x297486"
+  },
+  {
+   "en": "Park",
+   "kinds": [
+    "house"
+   ],
+   "uses": 6,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296ac0"
+  },
+  {
+   "en": "Street",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2873fc"
+  },
+  {
+   "en": "Kanji's House",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28456e"
+  },
+  {
+   "en": "Test Town",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x284585"
+  },
+  {
+   "en": "Test Town",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x284705"
+  },
+  {
+   "en": "Bazaar Point",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x284d6e"
+  },
+  {
+   "en": "Grados City",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x284dbf"
+  },
+  {
+   "en": "North Base",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x284eae"
+  },
+  {
+   "en": "East Base",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x284ef4"
+  },
+  {
+   "en": "Cusco",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x284f43"
+  },
+  {
+   "en": "Paradigm City",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x284f8d"
+  },
+  {
+   "en": "Hoshimi Town",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x285083"
+  },
+  {
+   "en": "Grados Base",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2850c8"
+  },
+  {
+   "en": "Theart Star",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x285111"
+  },
+  {
+   "en": "Sveto",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28516a"
+  },
+  {
+   "en": "Mizun",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2851af"
+  },
+  {
+   "en": "Trydetol",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2851f2"
+  },
+  {
+   "en": "Koam",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x285239"
+  },
+  {
+   "en": "Lake Victoria Base",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28527b"
+  },
+  {
+   "en": "Sanc Kingdom",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2852c7"
+  },
+  {
+   "en": "Romefeller",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x285310"
+  },
+  {
+   "en": "Alexandria",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x285355"
+  },
+  {
+   "en": "Luxembourg",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28539d"
+  },
+  {
+   "en": "Laas Wau",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2853e4"
+  },
+  {
+   "en": "Tatara",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x285428"
+  },
+  {
+   "en": "Uroporos",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28546b"
+  },
+  {
+   "en": "Goraon",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2854e3"
+  },
+  {
+   "en": "Gran-Garan",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x285579"
+  },
+  {
+   "en": "Kemi",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2855e7"
+  },
+  {
+   "en": "Arktos gate",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2857f6"
+  },
+  {
+   "en": "Cusco Town Hall",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287416"
+  },
+  {
+   "en": "Tokio",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287776"
+  },
+  {
+   "en": "GAIL",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "map mark of Capital City (GAIL HQ); the game labels it by the company",
+   "status": "draft",
+   "source_va": "0x2877b8"
+  },
+  {
+   "en": "Kyoto",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2877fb"
+  },
+  {
+   "en": "Nouvelle Tokio",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28783e"
+  },
+  {
+   "en": "Yosho Town",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "same place as [jp]; project spelling Yosho Town",
+   "status": "draft",
+   "source_va": "0x287885"
+  },
+  {
+   "en": "Fighbird",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "map mark of Sankai City; the game labels it by the hero",
+   "status": "draft",
+   "source_va": "0x287941"
+  },
+  {
+   "en": "Aozora Town",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287988"
+  },
+  {
+   "en": "Osaka",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2879cf"
+  },
+  {
+   "en": "The City",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287a11"
+  },
+  {
+   "en": "Alter Forest",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287a54"
+  },
+  {
+   "en": "Settlement",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287a9c"
+  },
+  {
+   "en": "Iron City",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287ae0"
+  },
+  {
+   "en": "White Valley",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287b25"
+  },
+  {
+   "en": "Aston",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287b69"
+  },
+  {
+   "en": "Freid",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287bac"
+  },
+  {
+   "en": "Fanelia",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287bf0"
+  },
+  {
+   "en": "Deloyer",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287c35"
+  },
+  {
+   "en": "Gilgamesh",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287c79"
+  },
+  {
+   "en": "Uoodo",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287cbf"
+  },
+  {
+   "en": "Kummen",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287d01"
+  },
+  {
+   "en": "Sunsa",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287d43"
+  },
+  {
+   "en": "Odon",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287d85"
+  },
+  {
+   "en": "Balarant",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287dc8"
+  },
+  {
+   "en": "GAIL Town",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287e0d"
+  },
+  {
+   "en": "Sai Village",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x287e53"
+  },
+  {
+   "en": "Cloud City",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28815c"
+  },
+  {
+   "en": "Deon Town",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2881b3"
+  },
+  {
+   "en": "Astante Fortress",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x288209"
+  },
+  {
+   "en": "Zakaal",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x288262"
+  },
+  {
+   "en": "Rawell Base",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2882b6"
+  },
+  {
+   "en": "Monak",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28830c"
+  },
+  {
+   "en": "Alex",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28835e"
+  },
+  {
+   "en": "Cecibel Base",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2883b1"
+  },
+  {
+   "en": "Town",
+   "kinds": [
+    "house"
+   ],
+   "uses": 31,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29749a"
+  },
+  {
+   "en": "Shopping Street",
+   "kinds": [
+    "house"
+   ],
+   "uses": 4,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296056"
+  },
+  {
+   "en": "Outskirts",
+   "kinds": [
+    "house"
+   ],
+   "uses": 33,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2974ac"
+  },
+  {
+   "en": "Akatsuki Home",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x289134"
+  },
+  {
+   "en": "Council Building",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28914e"
+  },
+  {
+   "en": "Cloud City",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x289163"
+  },
+  {
+   "en": "Hospital",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2892b0"
+  },
+  {
+   "en": "Deon Town",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2892c1"
+  },
+  {
+   "en": "Base Perimeter",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296f2c"
+  },
+  {
+   "en": "HQ",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28a126"
+  },
+  {
+   "en": "Zaxel Pass",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x292234"
+  },
+  {
+   "en": "Central Block",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x289518"
+  },
+  {
+   "en": "Astante Fortress",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28952d"
+  },
+  {
+   "en": "Port",
+   "kinds": [
+    "house"
+   ],
+   "uses": 7,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294a42"
+  },
+  {
+   "en": "Warehouse District",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x289c0a"
+  },
+  {
+   "en": "Bar",
+   "kinds": [
+    "house"
+   ],
+   "uses": 21,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29738c"
+  },
+  {
+   "en": "Coastal Factory",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x289c34"
+  },
+  {
+   "en": "Zakaal",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x289c49"
+  },
+  {
+   "en": "Landing Field",
+   "kinds": [
+    "house"
+   ],
+   "uses": 5,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2975e2"
+  },
+  {
+   "en": "Base Entrance",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x289ece"
+  },
+  {
+   "en": "Hangar",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x289ee6"
+  },
+  {
+   "en": "Outside the Base",
+   "kinds": [
+    "house"
+   ],
+   "uses": 3,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28aa38"
+  },
+  {
+   "en": "Lab",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x289f14"
+  },
+  {
+   "en": "Rawell Base",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x289f27"
+  },
+  {
+   "en": "Back Alley",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28a01e"
+  },
+  {
+   "en": "Monak",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28a043"
+  },
+  {
+   "en": "Outer Wall",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294f70"
+  },
+  {
+   "en": "Beach",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28a150"
+  },
+  {
+   "en": "Alex",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28a161"
+  },
+  {
+   "en": "Main Dome",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28a25e"
+  },
+  {
+   "en": "Command Center",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28a27a"
+  },
+  {
+   "en": "Cecibel Base",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28a2a5"
+  },
+  {
+   "en": "Docks",
+   "kinds": [
+    "house"
+   ],
+   "uses": 11,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2976dc"
+  },
+  {
+   "en": "Slums",
+   "kinds": [
+    "house"
+   ],
+   "uses": 5,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28ef00"
+  },
+  {
+   "en": "Bazaar Point",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28a467"
+  },
+  {
+   "en": "Slum District",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28a6b8"
+  },
+  {
+   "en": "Hall",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296800"
+  },
+  {
+   "en": "To Cusco",
+   "kinds": [
+    "exit"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28a6f4"
+  },
+  {
+   "en": "To Gaia",
+   "kinds": [
+    "exit"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28b8fe"
+  },
+  {
+   "en": "Grados City",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28a729"
+  },
+  {
+   "en": "Temporary HQ",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28ad72"
+  },
+  {
+   "en": "Base Corridor",
+   "kinds": [
+    "house"
+   ],
+   "uses": 5,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29224e"
+  },
+  {
+   "en": "North Base",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28aa6f"
+  },
+  {
+   "en": "Lounge",
+   "kinds": [
+    "house"
+   ],
+   "uses": 4,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294b90"
+  },
+  {
+   "en": "Ruins",
+   "kinds": [
+    "house"
+   ],
+   "uses": 3,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28d7ea"
+  },
+  {
+   "en": "East Base",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28adab"
+  },
+  {
+   "en": "Altar Hill",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28b5a6"
+  },
+  {
+   "en": "Altar",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28b5be"
+  },
+  {
+   "en": "Cusco",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28b5cf"
+  },
+  {
+   "en": "Dome",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28b85c"
+  },
+  {
+   "en": "Junkyard",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28b89c"
+  },
+  {
+   "en": "Roger's Mansion",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28b8bc"
+  },
+  {
+   "en": "To Asia",
+   "kinds": [
+    "exit"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28b8e4"
+  },
+  {
+   "en": "Paradigm City",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28b919"
+  },
+  {
+   "en": "Hoshimi Elementary",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28c5e4"
+  },
+  {
+   "en": "Amusement Park",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28c5fe"
+  },
+  {
+   "en": "GEAR HQ",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28cdb7"
+  },
+  {
+   "en": "Hoshimi Town",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28c647"
+  },
+  {
+   "en": "Base Ruins",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28d0de"
+  },
+  {
+   "en": "Grados Base",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28d0f1"
+  },
+  {
+   "en": "Dock",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28d2c4"
+  },
+  {
+   "en": "Central Room",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28d2da"
+  },
+  {
+   "en": "Meeting Hall",
+   "kinds": [
+    "house"
+   ],
+   "uses": 5,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28e8ca"
+  },
+  {
+   "en": "Lookout",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29549c"
+  },
+  {
+   "en": "Corridor",
+   "kinds": [
+    "house"
+   ],
+   "uses": 9,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2970ae"
+  },
+  {
+   "en": "Theart Star",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28d32f"
+  },
+  {
+   "en": "Landing Area",
+   "kinds": [
+    "house"
+   ],
+   "uses": 12,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2966d4"
+  },
+  {
+   "en": "Main Street",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29760c"
+  },
+  {
+   "en": "Restaurant",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28d4d4"
+  },
+  {
+   "en": "Sveto",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28d4ff"
+  },
+  {
+   "en": "Town Center",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28d7bc"
+  },
+  {
+   "en": "Mizun",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28d7fb"
+  },
+  {
+   "en": "Trydetol",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28d9b9"
+  },
+  {
+   "en": "Koam",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28dbc3"
+  },
+  {
+   "en": "Control Room",
+   "kinds": [
+    "house"
+   ],
+   "uses": 11,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296902"
+  },
+  {
+   "en": "Military Facility",
+   "kinds": [
+    "house"
+   ],
+   "uses": 4,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x293e2c"
+  },
+  {
+   "en": "Lake Victoria Base",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28dcf9"
+  },
+  {
+   "en": "Academy",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28de36"
+  },
+  {
+   "en": "Sanc Kingdom",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28de47"
+  },
+  {
+   "en": "Romefeller",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28e02f"
+  },
+  {
+   "en": "Alexandria",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28e233"
+  },
+  {
+   "en": "Luxembourg",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28e353"
+  },
+  {
+   "en": "Avenue",
+   "kinds": [
+    "house"
+   ],
+   "uses": 7,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2966ea"
+  },
+  {
+   "en": "Inside the Castle",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28e4d4"
+  },
+  {
+   "en": "Laas Wau (Kingdom of A)",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28e4f9"
+  },
+  {
+   "en": "Tatara Castle",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28e698"
+  },
+  {
+   "en": "Tatara",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28e6af"
+  },
+  {
+   "en": "Uroporos",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28e907"
+  },
+  {
+   "en": "Bridge",
+   "kinds": [
+    "house"
+   ],
+   "uses": 6,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294b78"
+  },
+  {
+   "en": "Goraon",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28eabf"
+  },
+  {
+   "en": "Moorings",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28ec62"
+  },
+  {
+   "en": "Lobby",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28eca4"
+  },
+  {
+   "en": "Gran-Garan",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28ecb7"
+  },
+  {
+   "en": "Kemi (Kingdom of Ku)",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28ef13"
+  },
+  {
+   "en": "Spaceport",
+   "kinds": [
+    "house"
+   ],
+   "uses": 20,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294dfe"
+  },
+  {
+   "en": "Lounge",
+   "kinds": [
+    "house"
+   ],
+   "uses": 4,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294cfe"
+  },
+  {
+   "en": "Side 1 Londenion",
+   "kinds": [
+    "town"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294d25"
+  },
+  {
+   "en": "Mansion",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28f8a6"
+  },
+  {
+   "en": "Sweetwater",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28f8b7"
+  },
+  {
+   "en": "Connecting Passage",
+   "kinds": [
+    "house"
+   ],
+   "uses": 10,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294a54"
+  },
+  {
+   "en": "Luna II",
+   "kinds": [
+    "town"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2940d5"
+  },
+  {
+   "en": "Side 1",
+   "kinds": [
+    "map"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2917f8"
+  },
+  {
+   "en": "Sweetwater",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x28ff5a"
+  },
+  {
+   "en": "Luna II",
+   "kinds": [
+    "map"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2914c2"
+  },
+  {
+   "en": "Von Braun",
+   "kinds": [
+    "map"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x291517"
+  },
+  {
+   "en": "Fifth Luna",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2900b3"
+  },
+  {
+   "en": "Konpei Island",
+   "kinds": [
+    "map"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29146a"
+  },
+  {
+   "en": "Axis",
+   "kinds": [
+    "map"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29185e"
+  },
+  {
+   "en": "Ria",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x290225"
+  },
+  {
+   "en": "Side 7",
+   "kinds": [
+    "map"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x291620"
+  },
+  {
+   "en": "La Vie en Rose",
+   "kinds": [
+    "map"
+   ],
+   "uses": 3,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2917b4"
+  },
+  {
+   "en": "Cecibel gate",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29042b"
+  },
+  {
+   "en": "Garden of Thorns",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x291570"
+  },
+  {
+   "en": "Side 6",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2915ca"
+  },
+  {
+   "en": "Side 3",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x291676"
+  },
+  {
+   "en": "Jaburo",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2916cc"
+  },
+  {
+   "en": "Gate of Zedan",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x291733"
+  },
+  {
+   "en": "Claudia gate",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2918e1"
+  },
+  {
+   "en": "Byston Well gate",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x291963"
+  },
+  {
+   "en": "Lost Ground gate",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2919e7"
+  },
+  {
+   "en": "Arktos",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x291fb5"
+  },
+  {
+   "en": "Cusco gate",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x292031"
+  },
+  {
+   "en": "Austral gate",
+   "kinds": [
+    "map"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2920ca"
+  },
+  {
+   "en": "Main Corridor",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2921ea"
+  },
+  {
+   "en": "Ops Room",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x292204"
+  },
+  {
+   "en": "HQ Perimeter",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29221a"
+  },
+  {
+   "en": "(event trigger)",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "debug town name of the event-caller script (tw0000); never shown",
+   "status": "draft",
+   "source_va": "0x292263"
+  },
+  {
+   "en": "Workshop",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2941fa"
+  },
+  {
+   "en": "Anaheim",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29421a"
+  },
+  {
+   "en": "Von Braun",
+   "kinds": [
+    "town"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294231"
+  },
+  {
+   "en": "Warehouse",
+   "kinds": [
+    "house"
+   ],
+   "uses": 6,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294a6c"
+  },
+  {
+   "en": "Fifth Luna",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29269f"
+  },
+  {
+   "en": "Mining Site",
+   "kinds": [
+    "house"
+   ],
+   "uses": 3,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296714"
+  },
+  {
+   "en": "Konpei Island",
+   "kinds": [
+    "town"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x293e59"
+  },
+  {
+   "en": "Outside the Palace",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294e3a"
+  },
+  {
+   "en": "Axis",
+   "kinds": [
+    "town"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294e4d"
+  },
+  {
+   "en": "Ria",
+   "kinds": [
+    "town"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2944ab"
+  },
+  {
+   "en": "Green Noa",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x292cf7"
+  },
+  {
+   "en": "Shoal Zone",
+   "kinds": [
+    "town"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294399"
+  },
+  {
+   "en": "Dock Entrance",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294b5e"
+  },
+  {
+   "en": "Sickbay",
+   "kinds": [
+    "house"
+   ],
+   "uses": 3,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294ba6"
+  },
+  {
+   "en": "Private Room",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294bbc"
+  },
+  {
+   "en": "Officers' Room",
+   "kinds": [
+    "house"
+   ],
+   "uses": 3,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294bda"
+  },
+  {
+   "en": "La Vie en Rose",
+   "kinds": [
+    "town"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294bed"
+  },
+  {
+   "en": "Aboard the Ra Cailum",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2934b6"
+  },
+  {
+   "en": "Cabin",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2938d6"
+  },
+  {
+   "en": "Aboard the Iron Gear",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x293892"
+  },
+  {
+   "en": "Upper Deck",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2938ea"
+  },
+  {
+   "en": "Backstreets",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x293f6a"
+  },
+  {
+   "en": "Abandoned Colony",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x293fa5"
+  },
+  {
+   "en": "Side 7",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2945c7"
+  },
+  {
+   "en": "Downtown",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294f46"
+  },
+  {
+   "en": "Side 3",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294731"
+  },
+  {
+   "en": "Side 2",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294853"
+  },
+  {
+   "en": "Military Port",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296d46"
+  },
+  {
+   "en": "Urban District",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29493a"
+  },
+  {
+   "en": "Shipyard",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294966"
+  },
+  {
+   "en": "Jaburo",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294979"
+  },
+  {
+   "en": "Gate of Zedan",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294a7d"
+  },
+  {
+   "en": "Clinic",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294f5a"
+  },
+  {
+   "en": "HOLY HQ",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294f84"
+  },
+  {
+   "en": "The City",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x294f9d"
+  },
+  {
+   "en": "Forest Entrance",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29506c"
+  },
+  {
+   "en": "Forest",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295084"
+  },
+  {
+   "en": "Alter Forest",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295093"
+  },
+  {
+   "en": "Market",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29517a"
+  },
+  {
+   "en": "Settlement",
+   "kinds": [
+    "house",
+    "town"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2951b9"
+  },
+  {
+   "en": "GGG HQ",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2952f2"
+  },
+  {
+   "en": "Circuit",
+   "kinds": [
+    "house"
+   ],
+   "uses": 5,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29606c"
+  },
+  {
+   "en": "Uptown",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295326"
+  },
+  {
+   "en": "Tokio",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295339"
+  },
+  {
+   "en": "GAIL HQ",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2954b2"
+  },
+  {
+   "en": "Capital City",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2954e3"
+  },
+  {
+   "en": "Teahouse",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29568a"
+  },
+  {
+   "en": "GGG Branch",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2956b2"
+  },
+  {
+   "en": "Kyoto",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2956e3"
+  },
+  {
+   "en": "Residential Area",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29591e"
+  },
+  {
+   "en": "Senpuuji Residence",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295934"
+  },
+  {
+   "en": "To Capital City",
+   "kinds": [
+    "exit"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295948"
+  },
+  {
+   "en": "To Tokio",
+   "kinds": [
+    "exit"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295c24"
+  },
+  {
+   "en": "Nouvelle Tokio",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295987"
+  },
+  {
+   "en": "Yosho Elementary",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295bc0"
+  },
+  {
+   "en": "Underground Base",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295bda"
+  },
+  {
+   "en": "To Kyoto",
+   "kinds": [
+    "exit"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295c08"
+  },
+  {
+   "en": "Yosho Town",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295c3f"
+  },
+  {
+   "en": "Amano Lab",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295dcc"
+  },
+  {
+   "en": "Sankai High School",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295de6"
+  },
+  {
+   "en": "Sankai City",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x295dfb"
+  },
+  {
+   "en": "Harukaze Elementary",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296086"
+  },
+  {
+   "en": "Aozora Town",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29609d"
+  },
+  {
+   "en": "Iron Castle",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29622c"
+  },
+  {
+   "en": "Iron City",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29623f"
+  },
+  {
+   "en": "Living Quarters",
+   "kinds": [
+    "house"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29692e"
+  },
+  {
+   "en": "Dig Site",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29635c"
+  },
+  {
+   "en": "Rampart",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296372"
+  },
+  {
+   "en": "Oasis",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296386"
+  },
+  {
+   "en": "White Valley",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29639b"
+  },
+  {
+   "en": "Aston",
+   "kinds": [
+    "house",
+    "town"
+   ],
+   "uses": 2,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2964c9"
+  },
+  {
+   "en": "Blade",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2965f5"
+  },
+  {
+   "en": "Fanelia",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296727"
+  },
+  {
+   "en": "Zero-G Valley",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296811"
+  },
+  {
+   "en": "Military Facility",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296918"
+  },
+  {
+   "en": "Deloyer",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296955"
+  },
+  {
+   "en": "Gilgamesh",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296ad1"
+  },
+  {
+   "en": "Uoodo",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296bfd"
+  },
+  {
+   "en": "Ramo Temple",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296d80"
+  },
+  {
+   "en": "Kummen",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296dab"
+  },
+  {
+   "en": "Base Center",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296efe"
+  },
+  {
+   "en": "Arena",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296f16"
+  },
+  {
+   "en": "Outside",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296f44"
+  },
+  {
+   "en": "Sunsa",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x296f55"
+  },
+  {
+   "en": "Laboratory",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x297080"
+  },
+  {
+   "en": "Green Zone",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x297096"
+  },
+  {
+   "en": "Odon Base",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2970bf"
+  },
+  {
+   "en": "Balarant",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2973b1"
+  },
+  {
+   "en": "GAIL Town",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2974bd"
+  },
+  {
+   "en": "Ancient Ruins",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2975f8"
+  },
+  {
+   "en": "Sai Village",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x29761f"
+  },
+  {
+   "en": "City Center",
+   "kinds": [
+    "house"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x2976f2"
+  },
+  {
+   "en": "Osaka",
+   "kinds": [
+    "town"
+   ],
+   "uses": 1,
+   "notes": "",
+   "status": "draft",
+   "source_va": "0x297709"
+  }
+ ]
+}

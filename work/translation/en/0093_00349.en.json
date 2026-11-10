@@ -1,0 +1,52 @@
+{
+ "table": "0093_00349",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "Honestly, what is he\ndoing... Ah, there you are."
+    }
+   ],
+   "notes": "Test scene. Speaker header says Lun, but the lines (here and row 1) are clearly Kanji's father; translated as the father. [jp] = Kanji (arrives next).",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Dad!!"
+    },
+    {
+     "en": "You're late!\nWhat were you doing?"
+    },
+    {
+     "en": "Sorry, I got thinking about\nstuff and lost track of time."
+    },
+    {
+     "en": "You're hopeless."
+    },
+    {
+     "en": "Now then, once more--\nKanji Akatsuki!"
+    },
+    {
+     "en": "What is it, Dad?"
+    },
+    {
+     "en": "Never mind that. Pull yourself\ntogether and answer properly!"
+    },
+    {
+     "en": "Y-Yes, sir!\n(What's gotten into Dad?)"
+    },
+    {
+     "en": "You understand this mission, don't you?"
+    },
+    {
+     "en": "Yes, sir."
+    }
+   ],
+   "notes": "Test scene. Lines headed 'Lun Forest' are the father's (he is called [jp]). | [editorial 3] match story version dlg_1270_02108_00 (same line); 'Hopeless boy.' added 'boy' (accuracy flag) | [editorial 8] stilted tag 'yes?'; matches story version dlg_1270_02108_00",
+   "status": "proofread"
+  }
+ ]
+}

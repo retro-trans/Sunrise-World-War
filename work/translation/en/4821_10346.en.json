@@ -1,0 +1,3034 @@
+{
+ "table": "4821_10346",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "Enemy fleet sighted!!"
+    },
+    {
+     "en": "Numerous battleships and cruisers!! They're closing in fast!!"
+    },
+    {
+     "en": "What?! It's not just a recon force?"
+    },
+    {
+     "en": "Not judging by the size of the fleet, sir."
+    },
+    {
+     "en": "Grr... I thought their goal was to retake the capital..."
+    },
+    {
+     "en": "No significant change in the enemy fleet's movements."
+    },
+    {
+     "en": "Looks like the jamming worked."
+    },
+    {
+     "en": "Good. Then our surprise attack succeeded."
+    },
+    {
+     "en": "We'll be within engagement range of the enemy fleet shortly!"
+    },
+    {
+     "en": "Intercepting enemy fleet transmissions!"
+    },
+    {
+     "en": "This is... a scramble alert."
+    },
+    {
+     "en": "Looks like they've finally noticed us."
+    },
+    {
+     "en": "We will now attack the enemy fleet!"
+    },
+    {
+     "en": "Fleet, take assault formation!"
+    },
+    {
+     "en": "Shifting to assault formation! It'll be complete in one minute!"
+    },
+    {
+     "en": "All ships, full barrage!!"
+    },
+    {
+     "en": "Fire!!"
+    },
+    {
+     "en": "Nwaaagh!"
+    },
+    {
+     "en": "Request support from the other units!"
+    },
+    {
+     "en": "Hits confirmed!"
+    },
+    {
+     "en": "The enemy fleet is in disarray!"
+    },
+    {
+     "en": "The enemy fleet's deployment is lagging!"
+    },
+    {
+     "en": "Right wing, left wing, advance!"
+    },
+    {
+     "en": "Launch the attack squadrons at the same time!"
+    },
+    {
+     "en": "One minute to attack squadron launch."
+    },
+    {
+     "en": "Catapult deck maintenance crews, please clear the deck."
+    },
+    {
+     "en": "My unit will attack the enemy flagship."
+    },
+    {
+     "en": "We'll leave ground suppression to the other units."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Nelfea Squad! Launching!"
+    },
+    {
+     "en": "All units, follow me!!"
+    }
+   ],
+   "notes": "Blank-header pages assigned to the previous speaker (6 NCO, 10/13/16/23 Lun or Rie by context, 18 Redros officer, 27/31 Nelfea).",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "<Win Condition>\nSink the enemy ship within the time limit"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Engine output dropping! We can't restore it!"
+    },
+    {
+     "en": "Won't the reinforcements make it in time...?"
+    },
+    {
+     "en": "I'm afraid not, sir..."
+    },
+    {
+     "en": "I miscalculated..."
+    },
+    {
+     "en": "I never imagined they still had this much strength left..."
+    },
+    {
+     "en": "Enemy flagship sunk!"
+    },
+    {
+     "en": "Once we've resupplied, we'll mop up the remaining enemies!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Roger!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "The remaining enemy forces are withdrawing."
+    },
+    {
+     "en": "Incoming transmission from HQ."
+    },
+    {
+     "en": "Looks like the operation was a success."
+    },
+    {
+     "en": "We've wiped out the enemy fleet that was deployed at Zakaal."
+    },
+    {
+     "en": "We've also nearly finished securing the key areas."
+    },
+    {
+     "en": "And our losses?"
+    },
+    {
+     "en": "Light, sir."
+    },
+    {
+     "en": "Nothing that will hinder our operations."
+    },
+    {
+     "en": "Good!"
+    },
+    {
+     "en": "The reinforcements I sent will reach you shortly."
+    },
+    {
+     "en": "Once they arrive, I want the Astante II to return to HQ."
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "We'll stand by on alert until then."
+    },
+    {
+     "en": "Very well!"
+    },
+    {
+     "en": "Then I'll see you at HQ."
+    },
+    {
+     "en": "We'll now dock at Zakaal."
+    }
+   ],
+   "notes": "[accuracy 15] project decision: [jp] = 'dock'",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Okay, that should do it!"
+    },
+    {
+     "en": "Captain Rie, I've finished putting together the revision list."
+    },
+    {
+     "en": "Thanks."
+    },
+    {
+     "en": "I'll send the change requests to the supply unit right away."
+    },
+    {
+     "en": "By the way, Rie?"
+    },
+    {
+     "en": "Our ship's going back to HQ after this, right?"
+    },
+    {
+     "en": "Yes. A new mission is waiting for us at Astante Fortress."
+    },
+    {
+     "en": "We'll head back as soon as we're ready."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "Then I'll arrange the civilian goods we're likely to run short of over there."
+    },
+    {
+     "en": "Thanks, that's a big help."
+    },
+    {
+     "en": "I'll leave it to you, then."
+    },
+    {
+     "en": "Maybe I'll get those arrangements started right away."
+    },
+    {
+     "en": "But I'll have to go out to get civilian goods, won't I?"
+    },
+    {
+     "en": "Changed and ready!"
+    },
+    {
+     "en": "Off I go!"
+    },
+    {
+     "en": "Oh... I forgot..."
+    },
+    {
+     "en": "I need Nelfea to change the squad setup for me..."
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Huh...?"
+    },
+    {
+     "en": "Isn't she here...?"
+    },
+    {
+     "en": "Did Nelfea \"Go Out\" too, I wonder..."
+    },
+    {
+     "en": "Come to think of it..."
+    },
+    {
+     "en": "I don't see any of the other pilots either..."
+    },
+    {
+     "en": "Where did everybody go...?"
+    }
+   ],
+   "notes": "Seg 13: [jp] rendered \"civilian goods\". Seg 17: [jp] as a verb phrase (\"change the squad setup\"), not the menu label. | [editorial 21] quoted [jp] is the town command; capitalised like \"Depart\" and the \"Go Out\" used in 3960_09379_00",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Keep it coming! Keep it coming!"
+    },
+    {
+     "en": "That's it, straight ahead!"
+    },
+    {
+     "en": "They've already started loading the containers..."
+    },
+    {
+     "en": "Watch out! Please stand back!"
+    },
+    {
+     "en": "Oh... sure!"
+    },
+    {
+     "en": "Sorry about that!"
+    },
+    {
+     "en": "I was wondering where the pilots had gone..."
+    },
+    {
+     "en": "They're all helping with the loading."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "Is that Nelfea over there?"
+    },
+    {
+     "en": "What are you doing!"
+    },
+    {
+     "en": "This container doesn't go here!"
+    },
+    {
+     "en": "Huh? It doesn't?"
+    },
+    {
+     "en": "Sigh..."
+    },
+    {
+     "en": "It's written right here, isn't it? That one goes to Deck 3!"
+    },
+    {
+     "en": "Ah...! I'm sorry!"
+    },
+    {
+     "en": "But... um..."
+    },
+    {
+     "en": "Get going!"
+    },
+    {
+     "en": "R-Roger...!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Captain Nelfea... shouldn't we leave loading the materials to the supply unit...?"
+    },
+    {
+     "en": "Some battles won't have steady supplies..."
+    },
+    {
+     "en": "When that happens, we're the ones who have to procure the goods ourselves."
+    },
+    {
+     "en": "I explained that at the briefing."
+    },
+    {
+     "en": "But right now, the supply unit is keeping up with us..."
+    },
+    {
+     "en": "Tell me that once you can actually do things properly."
+    },
+    {
+     "en": "Right now, you people can't even handle loading cargo right."
+    },
+    {
+     "en": "Just do it!"
+    },
+    {
+     "en": "Y-Yes, ma'am!"
+    },
+    {
+     "en": "..................."
+    },
+    {
+     "en": "Um~ have you got a second?"
+    },
+    {
+     "en": "What? If it's business, make it quick."
+    },
+    {
+     "en": "Um... about switching the squad setup to Plan B..."
+    },
+    {
+     "en": "I've already taken care of that."
+    },
+    {
+     "en": "Don't lump me in with the previous captain."
+    },
+    {
+     "en": "Oh, right, of course."
+    },
+    {
+     "en": "You're... not like Kanji..."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Oh... honestly! I'm not upset about it."
+    },
+    {
+     "en": "You just do your own job."
+    },
+    {
+     "en": "Okay."
+    }
+   ],
+   "notes": "Seg 34 [jp] = Kanji (Lun answers with his name). Seg 38 [jp] read as Nelfea saying she does not mind (Lun looked hurt), rendered \"I'm not upset about it\". | [editorial 25] stiff literal \"I'd like you to say\"; Nelfea is snapping at a subordinate",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "............"
+    },
+    {
+     "en": "(This is supposed to be where they handle food supplies...)"
+    },
+    {
+     "en": "(It sure doesn't look like it...)"
+    },
+    {
+     "en": "Hellooo! Excuse me!"
+    },
+    {
+     "en": "Yes, welcome!"
+    },
+    {
+     "en": "Oh? Now there's an unusual customer."
+    },
+    {
+     "en": "What'll it be?"
+    },
+    {
+     "en": "Oh... then, may I have some tea?"
+    },
+    {
+     "en": "Coming right up."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Um, ma'am?"
+    },
+    {
+     "en": "What is it?"
+    },
+    {
+     "en": "I'd like to buy some food."
+    },
+    {
+     "en": "Food? Not a meal?"
+    },
+    {
+     "en": "Yes. I'd like you to arrange a lot of the groceries on this list."
+    },
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "What on earth is this?"
+    },
+    {
+     "en": "Well, sure, I serve food here too..."
+    },
+    {
+     "en": "But I certainly don't deal in this kind of stuff."
+    },
+    {
+     "en": "But when I looked it up on the net, it said this place was the point of contact."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "I never put any ad up on the net, though..."
+    },
+    {
+     "en": "Say... are you one of the kids from that fleet?"
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "Well, are you?"
+    },
+    {
+     "en": "Ah... yes..."
+    },
+    {
+     "en": "Thought so..."
+    },
+    {
+     "en": "Sorry, but... I don't want to sell anything to the military."
+    },
+    {
+     "en": "The army's carted off everything worth having, so nothing's left over for us civilians."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "Not that I'd dare say that to those coup faction people..."
+    },
+    {
+     "en": "I'm sorry... for bringing the fighting here..."
+    },
+    {
+     "en": "Um... please hang in there."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Well, I'll be going now."
+    },
+    {
+     "en": "Your tea was delicious, ma'am."
+    },
+    {
+     "en": "Now, hold on a minute."
+    },
+    {
+     "en": "...?"
+    },
+    {
+     "en": "What is it?"
+    },
+    {
+     "en": "I'll make an exception this time."
+    },
+    {
+     "en": "I know you folks are struggling too."
+    },
+    {
+     "en": "But..."
+    },
+    {
+     "en": "I'll get together as much of what's on the list as I can."
+    },
+    {
+     "en": "I just send it to the port, right?"
+    },
+    {
+     "en": "Thank you so much!"
+    },
+    {
+     "en": "Hurry up and make Claudia a peaceful continent again."
+    },
+    {
+     "en": "And when you do, come back here and see me."
+    },
+    {
+     "en": "I will!"
+    }
+   ],
+   "notes": "Civilian here is a shopkeeper Lun calls [jp] (\"ma'am\"). [jp] = \"the coup faction\". | [editorial 39] \"This time's special\" read oddly (accuracy flag); same meaning",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "(The warehouses around here should have daily necessities...)"
+    },
+    {
+     "en": "Hey, missy. What're you doing here?"
+    },
+    {
+     "en": "Oh, um..."
+    },
+    {
+     "en": "Go on home, quick!"
+    },
+    {
+     "en": "This is no place for someone like you."
+    },
+    {
+     "en": "I came here for a reason."
+    },
+    {
+     "en": "Do you know... the person at Warehouse 16?"
+    },
+    {
+     "en": "Warehouse 16?"
+    },
+    {
+     "en": "Yes, that's right."
+    },
+    {
+     "en": "Do you know about it?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Don't tell me you're military."
+    },
+    {
+     "en": "Yes, I am."
+    },
+    {
+     "en": "So you came here to buy, huh..."
+    },
+    {
+     "en": "Um... could you be the contact for the deal?"
+    },
+    {
+     "en": "Those papers... did you write 'em?"
+    },
+    {
+     "en": "Yes, I did."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "Did I... get something wrong?"
+    },
+    {
+     "en": "Nope... they showed what kind of person you are, all right."
+    },
+    {
+     "en": "Huh? Did they?"
+    },
+    {
+     "en": "I've got the goods ready."
+    },
+    {
+     "en": "Follow me!"
+    },
+    {
+     "en": "I gathered everything here in this warehouse."
+    },
+    {
+     "en": "Check it over."
+    },
+    {
+     "en": "Thank you very much."
+    },
+    {
+     "en": "Hauling it from here is up to you folks, though."
+    },
+    {
+     "en": "A fleet like that's gotta have a big launch or two, right?"
+    },
+    {
+     "en": "Yes. I'll call one over right away."
+    },
+    {
+     "en": "Um... mister?"
+    },
+    {
+     "en": "Thank you for everything."
+    },
+    {
+     "en": "I think everyone on the ship will be really happy."
+    },
+    {
+     "en": "I'm too old to put up a decent fight anymore..."
+    },
+    {
+     "en": "I was glad I could help."
+    },
+    {
+     "en": "I'm counting on you folks."
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "See ya..."
+    },
+    {
+     "en": "Hang in there, missy."
+    },
+    {
+     "en": "I've made the call..."
+    },
+    {
+     "en": "The supply unit can take it from here."
+    }
+   ],
+   "notes": "Civilian here is an older man Lun calls [jp] (\"mister\"); he calls her [jp] (\"missy\"). | [accuracy 34] subject restored: the old man speaks for himself ([jp] in k32); 'We' was an unsupported generalization",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "The cargo's all arranged, so I'd better report to Captain Rie."
+    },
+    {
+     "en": "...?"
+    },
+    {
+     "en": "What's that...?"
+    },
+    {
+     "en": "There, all changed!"
+    },
+    {
+     "en": "...?"
+    },
+    {
+     "en": "Who's there...?"
+    },
+    {
+     "en": "Where am I?"
+    },
+    {
+     "en": "Where did you go...?\nYu..."
+    },
+    {
+     "en": "A girl's voice?"
+    },
+    {
+     "en": "Who could it be..."
+    },
+    {
+     "en": "Oh, Lun."
+    },
+    {
+     "en": "Arranging the cargo must've been tough, huh?"
+    },
+    {
+     "en": "Not really. The people were kind, so it went fine."
+    },
+    {
+     "en": "By the way, have our reinforcements arrived?"
+    },
+    {
+     "en": "They contacted us just a moment ago."
+    },
+    {
+     "en": "Once the cargo's loaded, let's head out."
+    },
+    {
+     "en": "Okay."
+    },
+    {
+     "en": "Right, time to get one more job done!"
+    },
+    {
+     "en": "Um... Rie..."
+    },
+    {
+     "en": "Hm? What is it?"
+    },
+    {
+     "en": "Oh..."
+    },
+    {
+     "en": "Sorry... it's nothing."
+    },
+    {
+     "en": "Really?"
+    },
+    {
+     "en": "See you later, then!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "That girl's voice I heard earlier..."
+    },
+    {
+     "en": "Was it really okay not to report it...?"
+    },
+    {
+     "en": "\"Depart\" is now available."
+    }
+   ],
+   "notes": "Seg 7: [jp] = You (glossary-binding name, You Isami); \"You...\" here is the name, which reads oddly in English. Seg 27: menu term [jp] kept as \"Depart\". | [accuracy 7] late decision: [jp] = 'Yu' (was 'You') | [proofread 27] late decision: the Depart-available system line is '\"Depart\" is now available.'",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "This ship will now proceed at full speed to \"Astante Fortress.\""
+    },
+    {
+     "en": "Course clear."
+    },
+    {
+     "en": "Displaying a marker on \"Astante Fortress.\""
+    },
+    {
+     "en": "All sections report no abnormalities."
+    },
+    {
+     "en": "Astante II, launch!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "We're off course. Correcting our heading."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Unidentified flying object approaching! Count... one!"
+    },
+    {
+     "en": "Just one?"
+    },
+    {
+     "en": "It isn't giving off a friendly signal."
+    },
+    {
+     "en": "Type and model unknown!"
+    },
+    {
+     "en": "Launch interceptors!!"
+    },
+    {
+     "en": "Roger!!"
+    },
+    {
+     "en": "...?!"
+    },
+    {
+     "en": "That girl... she's the one whose voice I heard!"
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "It's all right, she's not an enemy."
+    },
+    {
+     "en": "Open the hangar hatch!"
+    },
+    {
+     "en": "What?"
+    },
+    {
+     "en": "You want me to come in?"
+    },
+    {
+     "en": "I've never seen a machine like that..."
+    },
+    {
+     "en": "Is that girl... going to be all right...?"
+    },
+    {
+     "en": "She's coming out."
+    },
+    {
+     "en": "Um... nice to meet you."
+    },
+    {
+     "en": "I'm... Hime Utsumiya."
+    },
+    {
+     "en": "I'm Lun Forest."
+    },
+    {
+     "en": "It's nice to meet you, Hime."
+    },
+    {
+     "en": "Oh, yeah... nice to meet you too."
+    },
+    {
+     "en": "Looks like we'd better leave this to Lun."
+    },
+    {
+     "en": "Seems that way."
+    },
+    {
+     "en": "Lun, would you please take Hime to the sickbay?"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Come on, Hime, let's go."
+    },
+    {
+     "en": "Hey, wait! What's going on?"
+    },
+    {
+     "en": "Aww! I keep telling you, I'm fine now!"
+    },
+    {
+     "en": "Don't push yourself."
+    },
+    {
+     "en": "But I've gotta push myself! I made a promise!"
+    },
+    {
+     "en": "That's why I have to hurry back to Byston Well..."
+    },
+    {
+     "en": "Oh, so you used to live in Byston Well, Hime."
+    },
+    {
+     "en": "Oh... not exactly..."
+    },
+    {
+     "en": "I was staying there until a little while ago."
+    },
+    {
+     "en": "But then I got thrown here... and this doesn't seem to be Earth, either..."
+    },
+    {
+     "en": "Aaagh, what am I gonna do!"
+    },
+    {
+     "en": "Calm down."
+    },
+    {
+     "en": "Nothing you tell me will surprise me, so don't worry, okay?"
+    },
+    {
+     "en": "O-Okay..."
+    },
+    {
+     "en": "................"
+    },
+    {
+     "en": "Sigh... you're right... panicking won't help."
+    },
+    {
+     "en": "Hmm... where should I start..."
+    },
+    {
+     "en": "Listen, Hime."
+    },
+    {
+     "en": "This is top secret, since it's right before an operation, but..."
+    },
+    {
+     "en": "This ship... is going to leave this continent soon."
+    },
+    {
+     "en": "When it does, I'm sure you'll get to see Yu again."
+    },
+    {
+     "en": "Huh? Wh-Why?"
+    },
+    {
+     "en": "You know Yu? Don't tell me he came here?!"
+    },
+    {
+     "en": "No, it's not that. I heard your voice, that's all..."
+    },
+    {
+     "en": "Huh? How?"
+    },
+    {
+     "en": "I'm sure Yu is in that place called Byston Well."
+    },
+    {
+     "en": "You think so...?"
+    },
+    {
+     "en": "Yes, I'm sure... I'm sure you'll meet again."
+    },
+    {
+     "en": "I'm setting out on a journey too. To look for someone precious to me."
+    },
+    {
+     "en": "Someone... precious...?"
+    },
+    {
+     "en": "I don't think meeting you was a coincidence."
+    },
+    {
+     "en": "So let's go together."
+    },
+    {
+     "en": "Miss... Lun..."
+    },
+    {
+     "en": "Ah..."
+    },
+    {
+     "en": "Ugh... I'm dizzy..."
+    },
+    {
+     "en": "It's all right. You just let your guard down all at once."
+    },
+    {
+     "en": "Get plenty of rest and get your strength back."
+    },
+    {
+     "en": "Thank you, Miss Lun."
+    },
+    {
+     "en": "Just \"Lun\" is fine."
+    },
+    {
+     "en": "See you later, then."
+    },
+    {
+     "en": "Lun, huh..."
+    },
+    {
+     "en": "What a strange girl..."
+    },
+    {
+     "en": "But... somehow, she feels so warm..."
+    },
+    {
+     "en": "Maybe Lun's Organic power... is what drew the Brain here..."
+    },
+    {
+     "en": "I'd better get back to the bridge."
+    },
+    {
+     "en": "Sorry to keep you waiting!"
+    },
+    {
+     "en": "So? How is she doing?"
+    },
+    {
+     "en": "She's sound asleep."
+    },
+    {
+     "en": "So, did you find anything out?"
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "Hime... seems to have been thrown through all sorts of worlds before ending up here."
+    },
+    {
+     "en": "She said she was in Byston Well until a little while ago."
+    },
+    {
+     "en": "So she did come from an outside world..."
+    },
+    {
+     "en": "We have been observing distortions in space-time lately."
+    },
+    {
+     "en": "Still, Lun... how did you know?"
+    },
+    {
+     "en": "I wonder..."
+    },
+    {
+     "en": "It's like something I'd almost forgotten... has come back to me."
+    },
+    {
+     "en": "Your \"ability\" is growing stronger, is that it?"
+    },
+    {
+     "en": "Yes... So that operation of ours... I'm sure it'll go well."
+    },
+    {
+     "en": "I don't know why, but I feel confident about it."
+    },
+    {
+     "en": "Let's do our best! It's going to go well, right?"
+    },
+    {
+     "en": "Yeah!"
+    },
+    {
+     "en": "Returning to our planned route."
+    },
+    {
+     "en": "Setting our course back to Astante Fortress."
+    }
+   ],
+   "notes": "[jp] = You (binding glossary name for You Isami); segs 45/50 read \"see You\" / \"You is\" -- capitalized name, awkward but binding. Hime's [jp] -> \"Miss Lun\" so that Lun's [jp] (\"Just Lun is fine\") keeps its point. Seg 68 [jp] -> \"Organic power\" (Brain Powerd term; not in glossary); [jp] -> \"Brain\". Seg 15 [jp] read as the pilot climbing out of the machine.",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "We've arrived at Astante Fortress."
+    },
+    {
+     "en": "There's a transmission from HQ."
+    },
+    {
+     "en": "Rie, report to HQ as soon as you've docked."
+    },
+    {
+     "en": "Has something changed in the situation?"
+    },
+    {
+     "en": "Enemy forces are massing."
+    },
+    {
+     "en": "We may see a battle before long."
+    },
+    {
+     "en": "I'm reworking the operation plan."
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "I'll be waiting, then."
+    }
+   ],
+   "notes": "[accuracy 2] project decision: [jp] = 'dock'",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "Good work, everyone."
+    },
+    {
+     "en": "There's still time before our next orders are decided,"
+    },
+    {
+     "en": "so all of you get some rest while you can."
+    },
+    {
+     "en": "Well then, I'm off to HQ!"
+    },
+    {
+     "en": "Oh, Rie!"
+    },
+    {
+     "en": "Aww... she's already gone..."
+    },
+    {
+     "en": "She's always so busy, isn't she?"
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "Well, let's go rest up like we were ordered."
+    },
+    {
+     "en": "See you, I'm heading off first!"
+    },
+    {
+     "en": "Hmm... where should I go..."
+    }
+   ],
+   "notes": "[editorial 8] \"take our rest\" unidiomatic",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "Team 3! You lot! You're slacking off!"
+    },
+    {
+     "en": "Ma'am!"
+    },
+    {
+     "en": "You'll be going into real combat soon,"
+    },
+    {
+     "en": "and with the attitude you've got now, you won't survive!"
+    },
+    {
+     "en": "Yes, ma'am!!"
+    },
+    {
+     "en": "Resuming special training!"
+    },
+    {
+     "en": "Everyone, board your machines!!"
+    },
+    {
+     "en": "Come to think of it, Nelfea..."
+    },
+    {
+     "en": "was in charge of training the new pilots..."
+    },
+    {
+     "en": "And Rie went flying off to HQ..."
+    },
+    {
+     "en": "We only just got here... and everyone's already so busy..."
+    }
+   ],
+   "notes": "Seg 2-3 split sentence kept across pages as in the source.",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "The command center is holding a strategy meeting.\nYou cannot enter."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "Come to think of it, Rie..."
+    },
+    {
+     "en": "is probably in the strategy meeting right about now..."
+    },
+    {
+     "en": "Our forces have secured the production bases at Zakaal and in the Astante Mountains."
+    },
+    {
+     "en": "From here on, I want every unit to concentrate on building up its strength."
+    },
+    {
+     "en": "Any questions?"
+    },
+    {
+     "en": "Commander... may I?"
+    },
+    {
+     "en": "There's something I'd like to bring to your attention, sir..."
+    },
+    {
+     "en": "What is it?"
+    },
+    {
+     "en": "Retaking Zakaal has raised the troops' morale, which is a good thing, but..."
+    },
+    {
+     "en": "The view that we should seize the capital in one stroke and take back the continent is spreading among them."
+    },
+    {
+     "en": "I imagine it is..."
+    },
+    {
+     "en": "Many of our soldiers left family behind..."
+    },
+    {
+     "en": "True, there aren't that many Redros troops stationed on the Claudia Continent."
+    },
+    {
+     "en": "But the Redros Army is connected to the world outside the continent."
+    },
+    {
+     "en": "There's no telling how much strength they're holding in reserve..."
+    },
+    {
+     "en": "And on top of that, our opponent is none other than Binzvanker."
+    },
+    {
+     "en": "It's only reasonable to assume the enemy has already secured production bases bigger than Zakaal..."
+    },
+    {
+     "en": "But... how much of this information should we share with the troops..."
+    },
+    {
+     "en": "If they keep facing an enemy they can't make out, their anxiety will only grow."
+    },
+    {
+     "en": "Indeed..."
+    },
+    {
+     "en": "But either way, holding the entire continent with our current strength will be difficult."
+    },
+    {
+     "en": "Even if we did manage to retake the capital, our forces would end up spread thin defending each city."
+    },
+    {
+     "en": "Attacking by force could also provoke fighting in the streets."
+    },
+    {
+     "en": "We'll just have to explain why they must hold back for now."
+    },
+    {
+     "en": "I suppose so..."
+    },
+    {
+     "en": "This war is going to be a long one."
+    },
+    {
+     "en": "Retaking the capital will require thorough preparation."
+    },
+    {
+     "en": "For now, the key is to shorten our front and concentrate on defense."
+    },
+    {
+     "en": "You mean a defense line linking Astante Fortress and the Zakaal Industrial Complex?"
+    },
+    {
+     "en": "Exactly."
+    },
+    {
+     "en": "Within that range, even our current fleet strength can hold it well enough."
+    },
+    {
+     "en": "And then we wait for a chance to strike back, I take it."
+    },
+    {
+     "en": "But we still can't shake our unease about an enemy we can't make out..."
+    },
+    {
+     "en": "We don't even know how big the world beyond the Sea of Clouds is..."
+    },
+    {
+     "en": "True."
+    },
+    {
+     "en": "To turn to the counteroffensive, we'll need to grasp the enemy's situation."
+    },
+    {
+     "en": "If we only defend, the gap between us and the enemy will just keep widening."
+    },
+    {
+     "en": "Do you have something in mind, Commander?"
+    },
+    {
+     "en": "Hmm..."
+    },
+    {
+     "en": "To grasp the enemy's situation, we need to extend our antennae outward."
+    },
+    {
+     "en": "First, we'll form a new fleet and send it beyond the Claudia Continent."
+    },
+    {
+     "en": "Beyond the Claudia Continent...?"
+    },
+    {
+     "en": "You mean opening a gate and going to other worlds, the way the Redros fleet did?"
+    },
+    {
+     "en": "That's right."
+    },
+    {
+     "en": "I've already worked out the fleet's composition for it."
+    },
+    {
+     "en": "What would the fleet do in those other worlds?"
+    },
+    {
+     "en": "One task is gathering information, but..."
+    },
+    {
+     "en": "more important is forming alliances with the powers of those other worlds."
+    },
+    {
+     "en": "Is such a thing even possible?"
+    },
+    {
+     "en": "The enemy is already doing exactly that."
+    },
+    {
+     "en": "Warn them of the danger the Redros Army poses, and gather the powers who'll side with us..."
+    },
+    {
+     "en": "I think it's probably possible."
+    },
+    {
+     "en": "But it goes against our principle of avoiding interference with other worlds."
+    },
+    {
+     "en": "I know. But right now, we have no other option."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Rie, I'm putting you in command of the expeditionary fleet."
+    },
+    {
+     "en": "Me...?"
+    },
+    {
+     "en": "Only you and your people can understand the folly of what we've done, and overcome it."
+    },
+    {
+     "en": "You'll do this for me, won't you?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "I'll take charge of the fleet."
+    }
+   ],
+   "notes": "Seg 57 [jp] read as Rie and her comrades (\"you and your people\"). Seg 58 [jp] rendered \"I'm counting on you. Will you do it?\". | [editorial 42] consistency: \"the gate\" lower-case in 02 row 24 k43 (accuracy flag) | [editorial 58] \"I'm counting on you. Will you do it?\" was an expansion; [jp] as one pressing question (accuracy flag)",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "This place is so calming, just like I thought..."
+    },
+    {
+     "en": "I'll rest here a little while..."
+    },
+    {
+     "en": "Well... I guess I should head back soon."
+    },
+    {
+     "en": "Oh, Miss Luuun!"
+    },
+    {
+     "en": "Hm? What is it?"
+    },
+    {
+     "en": "Um... if it's all right..."
+    },
+    {
+     "en": "Could we take a commemorative photo with you?"
+    },
+    {
+     "en": "Sure."
+    },
+    {
+     "en": "I've got time for that much."
+    },
+    {
+     "en": "Woo-hoo!"
+    },
+    {
+     "en": "Hey! Everybody, gather round!"
+    },
+    {
+     "en": "Yeaaah!!"
+    },
+    {
+     "en": "Hehe, you all look like you're having fun."
+    },
+    {
+     "en": "Thank you very much!"
+    },
+    {
+     "en": "That was a lot of fun."
+    },
+    {
+     "en": "Hm? But isn't there training this afternoon? Did it get canceled?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Huh...? What's wrong, everyone?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "We're..."
+    },
+    {
+     "en": "We... just can't go along with some of Captain Nelfea's methods."
+    },
+    {
+     "en": "So we talked it over and decided to sit out today's training."
+    },
+    {
+     "en": "You're not going to train...?"
+    },
+    {
+     "en": "Is that true?"
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "We do feel bad about doing this to Captain Nelfea."
+    },
+    {
+     "en": "But..."
+    },
+    {
+     "en": "Every chance she gets, it's \"real combat this, real combat that\"..."
+    },
+    {
+     "en": "I know she's trying hard, but that personality of hers is tough to take."
+    },
+    {
+     "en": "Ha ha! You said it!"
+    },
+    {
+     "en": "Wait a minute!"
+    },
+    {
+     "en": "She may sound harsh sometimes, but..."
+    },
+    {
+     "en": "that's... because she's thinking of you all, isn't it?"
+    },
+    {
+     "en": "Deep down she's kind, and she's a really good girl."
+    },
+    {
+     "en": "We know that."
+    },
+    {
+     "en": "She's younger than me, but she's got her act together, and she's skilled, too..."
+    },
+    {
+     "en": "Right?"
+    },
+    {
+     "en": "But sometimes that just ends up putting more pressure on us."
+    },
+    {
+     "en": "She's such a serious person, after all..."
+    },
+    {
+     "en": "Hey! Quit playing the goody-goody and beating around the bush!"
+    },
+    {
+     "en": "You just overrated her, that's all!"
+    },
+    {
+     "en": "Just 'cause she's got talent, she looks down on everyone around her!"
+    },
+    {
+     "en": "In short, she's just a brat!"
+    },
+    {
+     "en": "You think so too, right, Miss Lun?"
+    },
+    {
+     "en": "Huh...?"
+    },
+    {
+     "en": "Yeah, really."
+    },
+    {
+     "en": "Not just with you, Miss Lun -- she's that arrogant even with Captain Rie."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "We volunteered to come here to save Claudia!"
+    },
+    {
+     "en": "Maybe we don't have the skills yet..."
+    },
+    {
+     "en": "but we're not afraid to fight!"
+    },
+    {
+     "en": "That's right!"
+    },
+    {
+     "en": "We're just now getting ready to stand up and fight!"
+    },
+    {
+     "en": "Having that crushed by some brat who's nothing but a lump of ego -- I won't stand for it!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Ow...!"
+    },
+    {
+     "en": "M-Miss Lun...?"
+    },
+    {
+     "en": "You don't understand anything!"
+    },
+    {
+     "en": "Huh...?"
+    },
+    {
+     "en": "The battlefield... the battlefield is..."
+    },
+    {
+     "en": "a far more horrible place than any of you imagine."
+    },
+    {
+     "en": "But that's exactly why trust between comrades is so important."
+    },
+    {
+     "en": "Because fighting on the same battlefield means sharing your lives with one another."
+    },
+    {
+     "en": "The way someone talks, their personality... real comrades should be able to get past things like that easily."
+    },
+    {
+     "en": "And yet... it's so cruel of you... all of you..."
+    },
+    {
+     "en": "Miss Lun... we didn't mean it like that."
+    },
+    {
+     "en": "It's just, there's a limit, you know..."
+    },
+    {
+     "en": "Has Nelfea ever abandoned any of you?"
+    },
+    {
+     "en": "Has she ever left someone who was struggling to fend for themselves?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "................"
+    },
+    {
+     "en": "She never did, did she?"
+    },
+    {
+     "en": "Nelfea thinks seriously about each and every one of you."
+    },
+    {
+     "en": "................"
+    },
+    {
+     "en": "Nelfea is giving it everything she has, too..."
+    },
+    {
+     "en": "So I want all of you to help her out."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Um, I'm going back to training."
+    },
+    {
+     "en": "What? You're bailing on us already?"
+    },
+    {
+     "en": "Well..."
+    },
+    {
+     "en": "Fine, whatever. Do what you want!"
+    },
+    {
+     "en": "I'm sorry for lecturing you like that."
+    },
+    {
+     "en": "When I'm... not even a pilot."
+    },
+    {
+     "en": "Please don't worry about that."
+    },
+    {
+     "en": "Don't worry. We'll..."
+    },
+    {
+     "en": "You lot! Quit playing the goody-goodies!"
+    },
+    {
+     "en": "Why don't you think about it too?"
+    },
+    {
+     "en": "About what you yourself need most right now."
+    },
+    {
+     "en": "Yeah... I'll think it over."
+    },
+    {
+     "en": "I mean, even I..."
+    },
+    {
+     "en": "Yes... I know..."
+    },
+    {
+     "en": "Well... I really have to get going now."
+    },
+    {
+     "en": "Um... Miss Lun."
+    },
+    {
+     "en": "Yes?"
+    },
+    {
+     "en": "...Thank you... so much..."
+    },
+    {
+     "en": "Okay, see you."
+    }
+   ],
+   "notes": "Volunteers' genders unknown and mixed (one uses [jp], others [jp]); no pronouns used for them. [jp] from the volunteers -> \"Miss Lun\" (cf. \"Ms. Diane\"). Seg 56 [jp]: Lun apparently slaps the loudest volunteer (not stated). Seg 91 [jp] left trailing. | [accuracy 47] dokoroka mistranslated as 'Forget you', which reads as a jab at Lun; it means 'not only with you' | [editorial 26] \"feel bad about it toward\" unidiomatic | [editorial 65] flow: \"that's so cruel... all of you\" did not connect",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Oh, Lun! Wait a second!"
+    },
+    {
+     "en": "Hm? What's up?"
+    },
+    {
+     "en": "Uh, well..."
+    },
+    {
+     "en": "Sorry... for making you look after my subordinates."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "Oh... I'm sorry."
+    },
+    {
+     "en": "Those kids... were saying such awful things about you, so I just..."
+    },
+    {
+     "en": "Did I overstep...?"
+    },
+    {
+     "en": "Oh, no, that's not what I mean."
+    },
+    {
+     "en": "You scolded my students for me..."
+    },
+    {
+     "en": "So... I just wanted to say thank you, that's all."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "I'm not bothered by the badmouthing. Or the group boycott, either."
+    },
+    {
+     "en": "Huh? You're not?"
+    },
+    {
+     "en": "This is just one stage in a unit's growth."
+    },
+    {
+     "en": "A stage?"
+    },
+    {
+     "en": "A unit falls into step through a bit of push and pull."
+    },
+    {
+     "en": "It's because each person has their own character that a unit functions."
+    },
+    {
+     "en": "Raising everyone's skill and knowledge matters, but they don't need to be perfectly identical."
+    },
+    {
+     "en": "Weapons can be replaced, but no one can make the same person twice..."
+    },
+    {
+     "en": "That's why I believe we have to value every single one of them..."
+    },
+    {
+     "en": "Nelfea... you're amazing..."
+    },
+    {
+     "en": "And yet, I'm sorry... I can't help you with anything..."
+    },
+    {
+     "en": "You were helping me just now, weren't you?"
+    },
+    {
+     "en": "That was within my expectations, too."
+    },
+    {
+     "en": "Huh...? What do you mean?"
+    },
+    {
+     "en": "It's because you're here that I can be strict with those kids."
+    },
+    {
+     "en": "Really?"
+    },
+    {
+     "en": "You've got your scatterbrained side, of course, and so do Rie and Kanji..."
+    },
+    {
+     "en": "But... you've all got even more strengths... lots of things I don't have."
+    },
+    {
+     "en": "You know, today, Nelfea, you're kind of..."
+    },
+    {
+     "en": "Sigh... even I get nervous before a big battle..."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "See you!"
+    }
+   ],
+   "notes": "Seg 16 [jp] rendered loosely (\"a bit of push and pull\"). Seg 30 trails off as in the source. | [editorial 19] \"make another of the same person\" awkward | [editorial 28] person mix (Rie and Kanji absent, accuracy/proofread flag); same meaning | [editorial 29] follows k28 rewrite: strengths belong to all three",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "Lun, could you wait a moment?"
+    },
+    {
+     "en": "Oh, yes. What is it?"
+    },
+    {
+     "en": "It's about Nelfea... she isn't causing you any trouble, is she?"
+    },
+    {
+     "en": "Not at all!"
+    },
+    {
+     "en": "I could tell Nelfea thinks very seriously about everyone."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "As I thought, she seems to be wound too tight."
+    },
+    {
+     "en": "Nelfea... is?"
+    },
+    {
+     "en": "She did say she was nervous, but..."
+    },
+    {
+     "en": "She's feeling the pressure of filling the gap Kanji left."
+    },
+    {
+     "en": "Kanji was always the one who eased the unit's tension, after all."
+    },
+    {
+     "en": "Is that so..."
+    },
+    {
+     "en": "Rie is also swamped with work, so she can't fully show her natural flexibility."
+    },
+    {
+     "en": "As a result, a tense atmosphere is spreading through the whole unit."
+    },
+    {
+     "en": "You may not realize it, Lun,"
+    },
+    {
+     "en": "but you walking among everyone like this helps more than you know."
+    },
+    {
+     "en": "Y-You're exaggerating."
+    },
+    {
+     "en": "I just like taking walks, that's all."
+    },
+    {
+     "en": "That's all it takes."
+    },
+    {
+     "en": "I'll be counting on you from now on, too."
+    }
+   ],
+   "notes": "[editorial 19] \"I'm counting on you from here on, too\" clunky",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "Hmm... my work's all done. What should I do now?"
+    },
+    {
+     "en": "Oh, I know."
+    },
+    {
+     "en": "Maybe I'll ask Rie to show me another famous local shop."
+    },
+    {
+     "en": "Is she still on the bridge?"
+    },
+    {
+     "en": "Is there anything I can help with?"
+    },
+    {
+     "en": "Huh? Is nobody here...?"
+    },
+    {
+     "en": "The lights are on, though..."
+    },
+    {
+     "en": "Zzz... zzz... zzz..."
+    },
+    {
+     "en": "Rie? Are you there?"
+    },
+    {
+     "en": "Zzz... zzz..."
+    },
+    {
+     "en": "Zzz... zzz... zzz..."
+    },
+    {
+     "en": "You haven't changed, Rie."
+    },
+    {
+     "en": "Zzz... zzz... zzz..."
+    },
+    {
+     "en": "Good night."
+    }
+   ],
+   "notes": "Seg 7: breathing under the Narration header; rendered as sleep sounds (it is Rie asleep).",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "Oh..."
+    },
+    {
+     "en": "It's this late already..."
+    },
+    {
+     "en": "Maybe I should get some rest too."
+    },
+    {
+     "en": "Get some rest\nNot yet"
+    },
+    {
+     "en": "Yes... I have an early morning tomorrow."
+    },
+    {
+     "en": "I should get some rest."
+    },
+    {
+     "en": "It's still light out,"
+    },
+    {
+     "en": "so maybe I'll walk around a bit more."
+    }
+   ],
+   "notes": "Seg 3 is a choice page: one option per line.",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "Huh...?"
+    },
+    {
+     "en": "Why am I... here..."
+    },
+    {
+     "en": "If I remember right, this place is..."
+    },
+    {
+     "en": "What a nice breeze..."
+    },
+    {
+     "en": "Heeey! Luuuun!"
+    },
+    {
+     "en": "Luuun! Can't you hear me?"
+    },
+    {
+     "en": "Huh...?"
+    },
+    {
+     "en": "Kanji...?"
+    },
+    {
+     "en": "Kanji... is that you?"
+    },
+    {
+     "en": "Can't you see me? I'm right in front of you."
+    },
+    {
+     "en": "................"
+    },
+    {
+     "en": "Oh... you really are."
+    },
+    {
+     "en": "Kanji... you're right by my side, aren't you?"
+    },
+    {
+     "en": "Lun... are you okay?"
+    },
+    {
+     "en": "My feelings reached you, like this. So I'm fine now."
+    },
+    {
+     "en": "More importantly... Kanji, what's wrong? You seem a little down..."
+    },
+    {
+     "en": "D-Do I?"
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "Hey, what's the matter?"
+    },
+    {
+     "en": "Lun... I......"
+    },
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "I've been giving it my all, but... is it really okay to keep going like this...?"
+    },
+    {
+     "en": "I feel like... I'm drifting further and further away from everyone in Claudia..."
+    },
+    {
+     "en": "Don't worry. Just keep moving forward the way you are, Kanji, and you'll be fine."
+    },
+    {
+     "en": "You think so...?"
+    },
+    {
+     "en": "You're not wrong, Kanji..."
+    },
+    {
+     "en": "Keep your heart calm, and believe in yourself."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "Got it. I'll keep charging ahead like this. Thanks, Lun."
+    },
+    {
+     "en": "Kanji......"
+    },
+    {
+     "en": "We'll meet again... We'll meet again for sure, won't we..."
+    }
+   ],
+   "notes": "Seg 4 under the Narration header is Kanji calling from off-screen. | [accuracy 2] restored tashika ('if I remember right'): Lun half-recognises the place",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "The next day..."
+    },
+    {
+     "en": "Send the fleet outside the continent?"
+    },
+    {
+     "en": "To learn the enemy's scale, and to gather allies and build them into a force that can oppose it."
+    },
+    {
+     "en": "Those are the two goals the expeditionary fleet is being sent out for."
+    },
+    {
+     "en": "That's far too haphazard."
+    },
+    {
+     "en": "Without any clear destination,"
+    },
+    {
+     "en": "sending this much strength out of Claudia..."
+    },
+    {
+     "en": "Charging ahead blindly won't achieve anything."
+    },
+    {
+     "en": "This is an official operation decided by Supreme HQ."
+    },
+    {
+     "en": "It can't be called off."
+    },
+    {
+     "en": "What about our level of training?"
+    },
+    {
+     "en": "So many units were thrown together in a hurry, we'll have no choice but to bring low-skilled pilots along."
+    },
+    {
+     "en": "That's true..."
+    },
+    {
+     "en": "But... if we just sit on our hands..."
+    },
+    {
+     "en": "then as long as we stay in Claudia, we'll be dancing in the palm of the Redros Army's hand."
+    },
+    {
+     "en": "................"
+    },
+    {
+     "en": "It's all right... we'll get results."
+    },
+    {
+     "en": "What...?!"
+    },
+    {
+     "en": "I can feel Kanji's energy."
+    },
+    {
+     "en": "And a great power in tune with it..."
+    },
+    {
+     "en": "A power in tune...?"
+    },
+    {
+     "en": "People who share the same heart as us..."
+    },
+    {
+     "en": "Their circle keeps growing bigger and bigger."
+    },
+    {
+     "en": "You mean..."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Believe me."
+    },
+    {
+     "en": "Lun, are you serious?"
+    },
+    {
+     "en": "This isn't just a lie to get us through the moment, is it?"
+    },
+    {
+     "en": "It's true. Believe me, Nelfea."
+    },
+    {
+     "en": "Sigh... I know you couldn't lie to save your life."
+    },
+    {
+     "en": "All right. Let's steel ourselves and go for it."
+    },
+    {
+     "en": "Okay, time to get ready to depart!"
+    },
+    {
+     "en": "Captain Nelfea! How did it go?"
+    },
+    {
+     "en": "The operation stands. Get to your positions!"
+    },
+    {
+     "en": "Is it really going to be okay?"
+    },
+    {
+     "en": "Who knows..."
+    },
+    {
+     "en": "But if we're doing it, we'll give it everything we've got!"
+    },
+    {
+     "en": "Lun, I can handle things here now."
+    },
+    {
+     "en": "Could you go out there and check the items on the list in person?"
+    },
+    {
+     "en": "You mean the storehouse at Zaxel Pass, right?"
+    },
+    {
+     "en": "Roger, I'm on my way!"
+    }
+   ],
+   "notes": "[jp] not in glossary -> \"Zaxel Pass\" (romanized). Seg 18 [jp] -> \"Kanji's energy\". [jp] -> \"Supreme HQ\". | [editorial 2] clarity: \"build them into a force that can oppose them\" had two clashing \"them\" | [editorial 22] \"Their gathering keeps growing\" unidiomatic",
+   "status": "proofread"
+  },
+  {
+   "id": 24,
+   "segments": [
+    {
+     "en": "Zaxel Pass..."
+    },
+    {
+     "en": "Turns out you can find plenty if you look."
+    },
+    {
+     "en": "You're right."
+    },
+    {
+     "en": "I never thought they'd have this much stored away, did you?"
+    },
+    {
+     "en": "You said it."
+    },
+    {
+     "en": "The rest is heavy lifting. The men in my unit will take care of it, so you can head back now."
+    },
+    {
+     "en": "Sorry to leave it all to you..."
+    },
+    {
+     "en": "Aww! Captain!\nSeriously?!\nWhat about gender equality?!"
+    },
+    {
+     "en": "Idiot!\nAn operator can't handle heavy machinery!"
+    },
+    {
+     "en": "I'm sorry."
+    },
+    {
+     "en": "Miss Lun, this is an old passage and it's dangerous. Let me escort you back to the station."
+    },
+    {
+     "en": "Hey!!"
+    },
+    {
+     "en": "Ow, ow, ow...!"
+    },
+    {
+     "en": "You, get to work already!"
+    },
+    {
+     "en": "U-Um...\nI'll go back on my own."
+    },
+    {
+     "en": "Right. Be careful."
+    },
+    {
+     "en": "Like this guy said, it's easy to get lost around here."
+    },
+    {
+     "en": "Okay!"
+    },
+    {
+     "en": "Well, I'll be going, then!"
+    },
+    {
+     "en": "Waaah!\nI got lost!"
+    },
+    {
+     "en": "Ugh... I've walked all this way and I still can't see the station..."
+    },
+    {
+     "en": "Huh...?!"
+    },
+    {
+     "en": "I can sense someone over this way..."
+    },
+    {
+     "en": "...!!"
+    },
+    {
+     "en": "You're...!"
+    },
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "You...!"
+    },
+    {
+     "en": "Could it be...\nLun Forest?!"
+    },
+    {
+     "en": "Omega...\nWhat are you doing here?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "You can't answer?"
+    },
+    {
+     "en": "Do you understand? I'm your enemy."
+    },
+    {
+     "en": "You spotted me first... so why aren't you pointing a gun at me...?"
+    },
+    {
+     "en": "Right now...\nI don't want to fight."
+    },
+    {
+     "en": "I don't understand you..."
+    },
+    {
+     "en": "I'm the man who shot Kanji down."
+    },
+    {
+     "en": "Kanji...\nKanji is alive..."
+    },
+    {
+     "en": "Oh...?"
+    },
+    {
+     "en": "And what about you? Why didn't you shoot me?"
+    },
+    {
+     "en": "Because you have no killing intent."
+    },
+    {
+     "en": "Is that all?"
+    },
+    {
+     "en": "Let's see..."
+    },
+    {
+     "en": "Maybe it's because you could be of use to me."
+    },
+    {
+     "en": "You people can open the gate without my power, can't you?"
+    },
+    {
+     "en": "Heh... That's enough prying. You're going to be my hostage."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "This gun has a silencer. No one around here will hear a thing."
+    },
+    {
+     "en": "Listen. Stay right by my side. Step away, and I'll shoot without mercy!"
+    },
+    {
+     "en": "............\nAll right..."
+    },
+    {
+     "en": "How obedient."
+    },
+    {
+     "en": "Good. Come with me!"
+    },
+    {
+     "en": "Where are we going?"
+    },
+    {
+     "en": "Aren't we going outside?"
+    },
+    {
+     "en": "Further in, there's something I'm supposed to collect."
+    },
+    {
+     "en": "Where is this...?"
+    },
+    {
+     "en": "The sub-control room of the factory plant."
+    },
+    {
+     "en": "From here, you can assemble the countless parts managed by Astante Fortress."
+    },
+    {
+     "en": "Now, just watch."
+    },
+    {
+     "en": "What is this...?"
+    },
+    {
+     "en": "The Shell Blade..."
+    },
+    {
+     "en": "A machine I once had a hand in building."
+    },
+    {
+     "en": "Something like this..."
+    },
+    {
+     "en": "You came all this way just to get something like this?"
+    },
+    {
+     "en": "More or less..."
+    },
+    {
+     "en": "How long are you people going to... rely on power like this?"
+    },
+    {
+     "en": "Why won't you talk with us before you start fighting?"
+    },
+    {
+     "en": "Our two positions will never meet..."
+    },
+    {
+     "en": "Talking any further would only produce some worthless compromise."
+    },
+    {
+     "en": "But...!"
+    },
+    {
+     "en": "We're going over to the machine."
+    },
+    {
+     "en": "Follow me!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Lun... Earlier you said you didn't want to fight... didn't you?"
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "Then why are you aboard the Astante II?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "I... I thought I could help Kanji and everyone..."
+    },
+    {
+     "en": "And so you volunteered for the military, is that it?"
+    },
+    {
+     "en": "Well, that's your own choice. I don't mind it, but..."
+    },
+    {
+     "en": "If you hate fighting, you shouldn't be aboard a battleship."
+    },
+    {
+     "en": "I suppose not..."
+    },
+    {
+     "en": "But...\nto me now,\nthose people are..."
+    },
+    {
+     "en": "my irreplaceable family..."
+    },
+    {
+     "en": "...The way you think is hardly that of a soldier."
+    },
+    {
+     "en": "No...\nI suppose it isn't..."
+    },
+    {
+     "en": "Heh heh... But thanks to that, I'm starting to see what their plan is."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "What do you mean?"
+    },
+    {
+     "en": "They took you on because of that special ability of yours."
+    },
+    {
+     "en": "They're planning to use it..."
+    },
+    {
+     "en": "Am I wrong?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "You have strategic value."
+    },
+    {
+     "en": "Sorry, but you'll be keeping me company a while longer."
+    },
+    {
+     "en": "The final adjustments are done."
+    },
+    {
+     "en": "Now all that's left is to climb aboard."
+    },
+    {
+     "en": "Don't move!"
+    },
+    {
+     "en": "...!"
+    },
+    {
+     "en": "I had a pretty good idea you'd show up here!"
+    },
+    {
+     "en": "Surrender at once!!"
+    },
+    {
+     "en": "Professor Rondo...\nImpressive as ever."
+    },
+    {
+     "en": "To think you saw my move coming..."
+    },
+    {
+     "en": "Ugh...!"
+    },
+    {
+     "en": "Professor!"
+    },
+    {
+     "en": "Pointing a gun at me is reckless, you know."
+    },
+    {
+     "en": "You're the reckless one,\nOmega Fokurosu!"
+    },
+    {
+     "en": "Hm...\nA perfect ambush...\n...is that it?"
+    },
+    {
+     "en": "But I have Lun's life in my hands."
+    },
+    {
+     "en": "Now, what will you do?"
+    },
+    {
+     "en": "Ngh..."
+    },
+    {
+     "en": "Everyone, hold your fire!!"
+    },
+    {
+     "en": "Damn it!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Heh..."
+    },
+    {
+     "en": "(No...\n because of me...)"
+    },
+    {
+     "en": "Omega...! I'll give you that machine!"
+    },
+    {
+     "en": "In exchange, let Lun go!"
+    },
+    {
+     "en": "Do that, and we'll let you escape!"
+    },
+    {
+     "en": "Heh...\nVery well."
+    },
+    {
+     "en": "Then I'll help myself to this machine."
+    },
+    {
+     "en": "Professor!!\nAre you all right?"
+    },
+    {
+     "en": "Yeah...\nIt just grazed my right arm."
+    },
+    {
+     "en": "I'm sorry...\nIt's my fault..."
+    },
+    {
+     "en": "No..."
+    },
+    {
+     "en": "You saw what happened just now. Not pointing a gun at him was the right call."
+    },
+    {
+     "en": "More importantly, I'm glad you weren't hurt, Lun."
+    },
+    {
+     "en": "Professor..."
+    },
+    {
+     "en": "We need to hurry back. The enemy may be closing in."
+    },
+    {
+     "en": "Right!"
+    }
+   ],
+   "notes": "[jp] not in glossary: romanized 'Zaxel Pass'. Seg 6 [jp] read as Lun's apologetic thanks for leaving the heavy work to the men. Seg 7 [jp] -> 'Captain' (the officer is the unit's leader; brief rule). Seg 43 [jp] lower-case 'the gate'. Seg 102: Rondo is evidently shot here (confirmed by seg 121). Seg 114 thought kept in parentheses; [jp] rendered 'because of me'. | [accuracy 10] project decision: rusan from those who use the honorific = 'Miss Lun' (not 'Ms.') | [accuracy 124] 'our guns' was an unsupported referent; the source does not say who held back (likely Lun earlier, possibly the squad), so kept neutral | [editorial 2] \"It sure does.\" did not answer \"Turns out you can find plenty if you look.\" (accuracy flag) | [editorial 47] \"If you leave it\" (my side) awkward",
+   "status": "proofread"
+  },
+  {
+   "id": 25,
+   "segments": [
+    {
+     "en": "An enemy intrusion has been confirmed inside the fortress."
+    },
+    {
+     "en": "We're moving up the start of the operation. All hands, hurry with your final checks!"
+    },
+    {
+     "en": "\"Depart\" is now available."
+    }
+   ],
+   "notes": "Seg 2 [jp]: plain 'depart' (UI command is \"Depart\"). | [editorial 2] consistency: same system line as 00 row 8 k27 | [proofread 2] late decision: the Depart-available system line is '\"Depart\" is now available.'",
+   "status": "proofread"
+  },
+  {
+   "id": 26,
+   "segments": [
+    {
+     "en": "Don't worry. Those kids will see it through, I'm sure of it."
+    },
+    {
+     "en": "Tail, I'm always causing you trouble."
+    },
+    {
+     "en": "Leave the backup to me."
+    },
+    {
+     "en": "I'm sorry...\nPlease... look after them."
+    },
+    {
+     "en": "Heh... Who'd have thought I'd end up covering your daughter's back instead of yours."
+    },
+    {
+     "en": "Tail..."
+    },
+    {
+     "en": "Tail Kinui!\nReturning to my unit!"
+    }
+   ],
+   "notes": "[editorial 1] \"putting you to trouble\" unidiomatic",
+   "status": "proofread"
+  },
+  {
+   "id": 27,
+   "segments": [
+    {
+     "en": "Enemy fleet approaching!!"
+    },
+    {
+     "en": "So they came after all..."
+    },
+    {
+     "en": "Enemy fleets are coming in from two directions!"
+    },
+    {
+     "en": "That overlaps with our planned course..."
+    },
+    {
+     "en": "At this rate we're gonna get surrounded! Are we going to be okay?"
+    },
+    {
+     "en": "You can use that machine of yours, can't you?"
+    },
+    {
+     "en": "You mean my Brain?"
+    },
+    {
+     "en": "We're sortieing.\nYou're coming with me!"
+    },
+    {
+     "en": "Huh?\nH-Hey, wait!"
+    },
+    {
+     "en": "We can leave Hime to Nelfea."
+    },
+    {
+     "en": "What do we do,\nCaptain Rie?"
+    },
+    {
+     "en": "Put me through to Commander Akatsuki."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Commander Akatsuki!! The expeditionary fleet will break through the enemy's right wing and head straight for the Sea of Clouds!"
+    },
+    {
+     "en": "Please cover us!"
+    },
+    {
+     "en": "Right, understood!"
+    },
+    {
+     "en": "All ships, sortie!!\nDrive back the enemy fleet!!"
+    },
+    {
+     "en": "Open fire!!"
+    },
+    {
+     "en": "Fleet, maximum battle speed!! We're breaking through the enemy fleet!"
+    },
+    {
+     "en": "All ships, follow the Astante II!"
+    }
+   ],
+   "notes": "Seg 6 [jp] -> 'my Brain' (Hime's Brain Powerd). Seg 10 [jp] 'Captain Rie' (ship captain); seg 11/13 [jp] 'Commander Akatsuki' (Kyo).",
+   "status": "proofread"
+  },
+  {
+   "id": 28,
+   "segments": [
+    {
+     "en": "The enemy fleet is pushing out ahead!!"
+    },
+    {
+     "en": "Stop them!"
+    },
+    {
+     "en": "Take out the enemy ships ahead! We're opening a breach!"
+    },
+    {
+     "en": "Mech Squads, launch!!"
+    },
+    {
+     "en": "Hime! We're heading out!"
+    },
+    {
+     "en": "I know!"
+    },
+    {
+     "en": "We just have to chase those guys off, right?"
+    },
+    {
+     "en": "Ready...?\nHere we go!"
+    },
+    {
+     "en": "Enemies coming in from the flank!!"
+    },
+    {
+     "en": "...!!\nThat's...!"
+    },
+    {
+     "en": "Lieutenant Min, how do you like Claudia's skies?"
+    },
+    {
+     "en": "Not bad. This wind... Just flying in it, I can feel it buzzing through my machine."
+    },
+    {
+     "en": "So this is what they call the Cloud Stream?"
+    },
+    {
+     "en": "That's right..."
+    },
+    {
+     "en": "Your machine has been given the coating too, but"
+    },
+    {
+     "en": "it can't take as much as an FT can. Stay away from the Sea of Clouds."
+    },
+    {
+     "en": "I know!"
+    },
+    {
+     "en": "Meio Plato, is it?"
+    },
+    {
+     "en": "We'll hit the enemy from the flank! I'm counting on you!"
+    },
+    {
+     "en": "I believe I understand the situation. Allow me to lend a hand!"
+    },
+    {
+     "en": "Heh... An army with ideals is strong. And we now stand within one..."
+    },
+    {
+     "en": "Let's do this!"
+    },
+    {
+     "en": "Now is the time to show them what we're made of!"
+    },
+    {
+     "en": "Whatever the enemy, there's no call to hold back!"
+    },
+    {
+     "en": "Deal with them calmly and swiftly."
+    },
+    {
+     "en": "Sir!!"
+    },
+    {
+     "en": "Here we go!!"
+    },
+    {
+     "en": "This is bad... Hitting us right before we launch...!"
+    },
+    {
+     "en": "...?!"
+    },
+    {
+     "en": "Who are you?!"
+    },
+    {
+     "en": "FT platoon, fortress garrison! We're here to support the Astante II!"
+    },
+    {
+     "en": "You're at a disadvantage in that position! Pull back!"
+    },
+    {
+     "en": "If you lose the flagship, it's all for nothing..."
+    },
+    {
+     "en": "We'll be your shield. Whatever it takes, we need you to break through here!"
+    },
+    {
+     "en": "Cross the Sea of Clouds...\nand reach the Redros Army's home base...!"
+    },
+    {
+     "en": "Please...!"
+    },
+    {
+     "en": "........................"
+    },
+    {
+     "en": "Understood...\nWe'll make this operation succeed, no matter what!"
+    },
+    {
+     "en": "All right!\nLet's get this show on the road!"
+    },
+    {
+     "en": "The Astante II crew's morale has risen."
+    },
+    {
+     "en": "During this battle, the crew's combat level is temporarily raised."
+    },
+    {
+     "en": "All ships, engage!"
+    },
+    {
+     "en": "<Win Condition>\nSink the enemy mothership within the time limit."
+    }
+   ],
+   "notes": "Seg 3 [jp] -> 'Mech Squads' (UI term). Seg 7: Hime, probably to her Brain. Seg 10 [jp] 'Captain Min'. Seg 17 Omega addressing Meio, who answers in seg 19. Seg 27: Nelfea's line trails off as in JP (the enemy hits before the mech squads have launched).",
+   "status": "proofread"
+  },
+  {
+   "id": 29,
+   "segments": [
+    {
+     "en": "So this is it..."
+    },
+    {
+     "en": "Heh...!\nNot bad at all..."
+    },
+    {
+     "en": "We need to resupply too, or we'll be out of ammunition."
+    },
+    {
+     "en": "Indeed..."
+    },
+    {
+     "en": "We can still fight!"
+    },
+    {
+     "en": "Fall back. Push any further and you'll die for nothing."
+    },
+    {
+     "en": "But...!"
+    },
+    {
+     "en": "Why, you little greenhorns!"
+    },
+    {
+     "en": "Quit giving your commander a hard time!"
+    },
+    {
+     "en": "Right!\nAll units, withdraw!"
+    },
+    {
+     "en": "All units, return to the ship. We're pulling out of this airspace at full speed!"
+    }
+   ],
+   "notes": "Seg 8 [jp] -> 'your commander' (Meio, Min addressing Welner and Karl). | [editorial 7] \"wet-behind-the-ears chicks\" mixed idiom, and \"chicks\" reads as gendered slang; [jp] = greenhorns",
+   "status": "proofread"
+  },
+  {
+   "id": 30,
+   "segments": [
+    {
+     "en": "Rie!!\nLeave the rest to me!"
+    },
+    {
+     "en": "Go!!"
+    },
+    {
+     "en": "We're leaving the front line at maximum battle speed!"
+    },
+    {
+     "en": "All ships, move out!!"
+    }
+   ],
+   "notes": "Seg 0 [jp]: Kyo speaking for his fleet; 'me' chosen (could be 'us').",
+   "status": "proofread"
+  },
+  {
+   "id": 31,
+   "segments": [
+    {
+     "en": "How bad is the fleet's damage?"
+    },
+    {
+     "en": "One cruiser moderately damaged. It has turned back to Astante Fortress."
+    },
+    {
+     "en": "This ship took hits too... Lun, what's the damage report?"
+    },
+    {
+     "en": "Sensors show no problems. Just in case, I'll check with Professor Rondo."
+    },
+    {
+     "en": "Damage at this level is nothing to worry about. Emergency repairs will handle it."
+    },
+    {
+     "en": "More importantly, we should be reaching the Sea of Clouds soon."
+    },
+    {
+     "en": "We'll observe the space-time distortion at the planned point."
+    },
+    {
+     "en": "Understood. I'll have the observation equipment readied."
+    },
+    {
+     "en": "Lun... I'm sorry, but I need to borrow your power."
+    },
+    {
+     "en": "Of course, gladly!"
+    },
+    {
+     "en": "But..."
+    },
+    {
+     "en": "What's wrong...?"
+    },
+    {
+     "en": "Connecting the worlds... I don't think that in itself is a bad thing."
+    },
+    {
+     "en": "But if it's what brings war down on us..."
+    },
+    {
+     "en": "It's precisely because we felt that way in the last war"
+    },
+    {
+     "en": "that we held back from crossing the Sea of Clouds and mingling with other worlds..."
+    },
+    {
+     "en": "But many people believe it would be good for barriers like region and race to disappear."
+    },
+    {
+     "en": "And that's exactly what the Redros Army took advantage of..."
+    },
+    {
+     "en": "But someday, everyone should be able to join hands."
+    },
+    {
+     "en": "For that to happen, we've gotta teach a lesson to the people who've let power go to their heads."
+    },
+    {
+     "en": "That's true..."
+    },
+    {
+     "en": "I'm sorry..."
+    },
+    {
+     "en": "There's no point looking back now..."
+    },
+    {
+     "en": "Everyone feels that way."
+    },
+    {
+     "en": "After all, nobody wants a war."
+    },
+    {
+     "en": "Yeah, that's right..."
+    },
+    {
+     "en": "Well, it's about time we got started!"
+    },
+    {
+     "en": "After all, so many people have put their hopes in us."
+    },
+    {
+     "en": "Here goes. We're starting up the device."
+    },
+    {
+     "en": "Cloud System...\nOverdrive!"
+    },
+    {
+     "en": "Hime...\nWill you help me?"
+    },
+    {
+     "en": "Can I... really do it?"
+    },
+    {
+     "en": "Yes... It's the same"
+    },
+    {
+     "en": "as with that Brain of yours."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "Okay... I'll give it a try."
+    },
+    {
+     "en": "I want you to feel it... the breath of life... flowing in from the other world..."
+    },
+    {
+     "en": "Okay..."
+    },
+    {
+     "en": "W-Wow...! There's a huge hole in the Sea of Clouds!"
+    },
+    {
+     "en": "Beyond it... I'm sure a whole new world is waiting."
+    },
+    {
+     "en": "Yeah... Somehow, I can feel it too."
+    },
+    {
+     "en": "And now... our journey begins all over again, doesn't it?"
+    },
+    {
+     "en": "Come on, let's go!"
+    }
+   ],
+   "notes": "Seg 2 [jp] -> 'Lun'. Seg 23 [jp]: read as 'everyone has that thought/doubt' (answering Lun's worry that linking worlds brings war). Seg 32-33 one sentence split across pages, cut at the same point; [jp] ('that Brain kid') -> 'that Brain of yours'. | [accuracy 27] restored the causal -dakara linking this to 'let's get started' | [editorial 23] \"Everyone thinks about it.\" vague; answers Lun's worry (translator note)",
+   "status": "proofread"
+  }
+ ]
+}

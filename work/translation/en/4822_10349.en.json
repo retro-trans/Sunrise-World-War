@@ -1,0 +1,264 @@
+{
+ "table": "4822_10349",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "Universal Century 0093..."
+    },
+    {
+     "en": "It's the region where Neo Zeon and\nthe Earth Federation are at odds."
+    },
+    {
+     "en": "Right now, we can form an alliance\nwith either Londo Bell or the\nNeo Zeon Army."
+    },
+    {
+     "en": "Londo Bell's base is\nLondenion."
+    },
+    {
+     "en": "The Neo Zeon Army should be\nat Sweetwater."
+    },
+    {
+     "en": "So, think about which one\nwe go with, Big Bro!"
+    },
+    {
+     "en": "Wait, so I'm the one\nwho decides after all?"
+    },
+    {
+     "en": "That's right. Either one\nis fine with me."
+    },
+    {
+     "en": "Oh, okay..."
+    }
+   ],
+   "notes": "Seg 7 header is Nelfea (not Rie, who asked the question); kept as Nelfea's line, wording works for either.",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Situation: Universal Century 0093"
+    },
+    {
+     "en": "At present, we are allied\nwith the Earth Federation."
+    },
+    {
+     "en": "The Federation government has given\nus Konpei Island as our army's base."
+    },
+    {
+     "en": "We must fight to repay\nthat debt."
+    },
+    {
+     "en": "We will eliminate those who defy\nthe Earth Federation government\nand bring order to space."
+    },
+    {
+     "en": "There are two enemy forces\nto be targeted."
+    },
+    {
+     "en": "One is the Neo Zeon Army, which\ndeclared independence at Sweetwater."
+    },
+    {
+     "en": "The other is Londo Bell, who\nwere supposed to be our allies."
+    },
+    {
+     "en": "Why Londo Bell?"
+    },
+    {
+     "en": "Not only are they keeping watch\non our movements,"
+    },
+    {
+     "en": "they're also trying to make contact\nwith the Claudian Unified Forces."
+    },
+    {
+     "en": "We can't leave them be."
+    },
+    {
+     "en": "Our operations will not stop\nat this universe."
+    },
+    {
+     "en": "To keep from being struck from behind,\nwe must eliminate any troublesome\nmilitary powers in advance."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "Commence the operation."
+    },
+    {
+     "en": "Rochina, I leave the rest to you!"
+    },
+    {
+     "en": "Sir!"
+    }
+   ],
+   "notes": "Segs 2-4, 6-7, 10-11, 13, 16: blank headers, read as continuations. Seg 9-10 is one sentence split across pages, kept split. [jp]: [jp] read as 'this universe' (Redros crosses worlds through gates). | [editorial 13] 'So we are not struck' was unclear (reads as 'therefore')",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Alliance formed with the\nNeo Zeon Army."
+    },
+    {
+     "en": "Now at war with Londo Bell."
+    },
+    {
+     "en": "Now at war with the\nKonpei Island Combined Fleet."
+    }
+   ],
+   "notes": "[jp] -> Konpei Island Combined Fleet (elf_strings UI form).",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Formal alliance formed\nwith Londo Bell."
+    },
+    {
+     "en": "The Ra Cailum joins\nyour forces."
+    }
+   ],
+   "notes": "[editorial 0] system-message template unified ('Alliance formed with X.')",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Yo!\nLong time no see!"
+    },
+    {
+     "en": "Looking good,\nKanji!"
+    },
+    {
+     "en": "Looks like we're fighting\ntogether again."
+    },
+    {
+     "en": "Yeah!"
+    },
+    {
+     "en": "I'm counting on you guys!\nGood to have you!"
+    },
+    {
+     "en": "The Dragonar Team has joined you."
+    }
+   ],
+   "notes": "Seg 4: blank header after Kanji's 'Yeah!', read as Kanji continuing (could also be one of the Dragonar pilots).",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Your Excellency!\nWe've been expecting you."
+    },
+    {
+     "en": "Mm.\nIs the combined fleet\nready?"
+    },
+    {
+     "en": "All preparations are complete."
+    },
+    {
+     "en": "Use it as you see fit,\nYour Excellency."
+    },
+    {
+     "en": "Well done!"
+    },
+    {
+     "en": "From this moment, our army will\nthrow its full strength into\npacifying the Earth Sphere."
+    },
+    {
+     "en": "Joined up with the Redros Army's\nKonpei Island Combined Fleet."
+    }
+   ],
+   "notes": "[editorial 2] 'Everything is complete' was vague as a reply to 'is the fleet ready?'",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Entering combat with\nLondo Bell's main force."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Londo Bell's main force has\nbeen driven off."
+    },
+    {
+     "en": "You can now dock at\nLondenion."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "La Vie en Rose has been\ncaptured."
+    },
+    {
+     "en": "La Vie en Rose is now\navailable."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Entering combat with the\nNeo Zeon Army's main force."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "The Neo Zeon Army's main force\nhas been driven off."
+    },
+    {
+     "en": "You can now dock at\nSweetwater."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "Entering combat with the\nKonpei Island Combined Fleet."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "The Konpei Island Combined Fleet\nhas been driven off."
+    },
+    {
+     "en": "You can now dock at\nKonpei Island."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

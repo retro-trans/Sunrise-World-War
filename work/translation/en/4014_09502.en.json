@@ -1,0 +1,3406 @@
+{
+ "table": "4014_09502",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "Soon after entering the Asia Continent, the Iron Gear ran into a brutal ambush."
+    },
+    {
+     "en": "It somehow broke through the enemy's trap and met up with reinforcements from GEAR."
+    },
+    {
+     "en": "So this is the machine from earlier..."
+    },
+    {
+     "en": "Cool, huh? It's called Dendoh!"
+    },
+    {
+     "en": "And you are?"
+    },
+    {
+     "en": "I'm Ginga Izumo! I'm Dendoh's pilot!"
+    },
+    {
+     "en": "I'm Hokuto Kusanagi. I pilot Dendoh together with Ginga."
+    },
+    {
+     "en": "Nice to meet you!"
+    },
+    {
+     "en": "I'm Kanji Akatsuki. We're both pilots, so let's get along!"
+    },
+    {
+     "en": "You bet!"
+    },
+    {
+     "en": "By the way, what about the woman from earlier?"
+    },
+    {
+     "en": "She's the one in charge, isn't she?"
+    },
+    {
+     "en": "Oh, Ms. Vega's on her motorcycle, so she'll probably be a little late."
+    },
+    {
+     "en": "Ms. Vega's the Vice-Commander of GEAR."
+    },
+    {
+     "en": "Huh~"
+    },
+    {
+     "en": "Oh! Here she comes!"
+    },
+    {
+     "en": "I've come from GEAR to meet you. My name is Vega."
+    },
+    {
+     "en": "Without further ado, I'll guide you to GEAR headquarters. Please take me to the bridge."
+    },
+    {
+     "en": "All right."
+    },
+    {
+     "en": "Dendoh has been deployed."
+    },
+    {
+     "en": "The Dendoh Team and Vega have joined the unit."
+    },
+    {
+     "en": "Well then, I'd better get on with my own job."
+    }
+   ],
+   "notes": "Seg 1: [jp] here = GEAR (the organization). Seg 7: speaker header blank, continues Hokuto's self-introduction. | [accuracy 12] project decision: the boys' [jp] = \"Ms. Vega\" | [accuracy 13] project decision: the boys' [jp] = \"Ms. Vega\" | [editorial 16] 'to receive you' stiff/ambiguous for [jp]; natural phrasing, Vega's polite register kept | [proofread 13] style sheet: [jp] 'Vice-Commander' (title capitalised)",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Welcome to Hoshimi!"
+    },
+    {
+     "en": "I'm Elise Willamette, chief of information. I'll guide you into port now!"
+    },
+    {
+     "en": "Gotcha! We're countin' on ya!"
+    },
+    {
+     "en": "Hey... isn't that chief... awfully young?"
+    },
+    {
+     "en": "Oh, you mean Elise."
+    },
+    {
+     "en": "She's our classmate."
+    },
+    {
+     "en": "Classmate? So she's in elementary school?"
+    },
+    {
+     "en": "Yeah, Elise is great with computers."
+    },
+    {
+     "en": "She's smart and all, I guess, but she's such a nag!"
+    },
+    {
+     "en": "I can hear you, Ginga!!"
+    },
+    {
+     "en": "Yikes!"
+    },
+    {
+     "en": "You'll pay for this later!"
+    },
+    {
+     "en": "Elise!"
+    },
+    {
+     "en": "Ah, yes! I'm sorry!"
+    },
+    {
+     "en": "Starting the docking program!"
+    }
+   ],
+   "notes": "Seg 1: [jp] rendered 'chief of information'. Seg 2: Blume answering the docking guidance ('we're counting on you').",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Huh~ That Elise girl really knows her stuff."
+    },
+    {
+     "en": "Hmhm... And you're quite something yourselves, to be able to see that."
+    },
+    {
+     "en": "By the way, what should we do after this?"
+    },
+    {
+     "en": "Please come to GEAR command by evening. These two will show you the way."
+    },
+    {
+     "en": "Hokuto, Ginga, I'm counting on you to show everyone around."
+    },
+    {
+     "en": "Leave it to us!"
+    },
+    {
+     "en": "I'll go on ahead and wait for you there."
+    },
+    {
+     "en": "Until then!!"
+    },
+    {
+     "en": "Oh... The way she moves... I'd say she's a formidable fighter."
+    },
+    {
+     "en": "You mean that Vega lady? Yeah, I think so too."
+    },
+    {
+     "en": "Yeah! Ms. Vega's crazy strong!"
+    },
+    {
+     "en": "...Wait, y-you guys are...!"
+    },
+    {
+     "en": "From the Continental Fighting Tournament...! The Shuffle Alliance!!"
+    },
+    {
+     "en": "Ginga, what are you getting so worked up about?"
+    },
+    {
+     "en": "You! You don't know?!"
+    },
+    {
+     "en": "The five fighters at the very top of the Continental Fighting Tournament!! The Shuffle Alliance!"
+    },
+    {
+     "en": "George de Sand of Neo France,"
+    },
+    {
+     "en": "and Sai Saici of Neo China!"
+    },
+    {
+     "en": "They're both super strong!"
+    },
+    {
+     "en": "Oh right, you do martial arts, Ginga."
+    },
+    {
+     "en": "That's got nothing to do with it! It's common knowledge! Jeez!"
+    },
+    {
+     "en": "Somehow... hearing that from you, Ginga, is kind of a shock."
+    },
+    {
+     "en": "Never mind that -- how about showing us around?"
+    },
+    {
+     "en": "Indeed... We still have time before evening."
+    },
+    {
+     "en": "I would very much like you to show us around the city."
+    },
+    {
+     "en": "There're plenty of guys on this ship who've never been to the Asia Continent before."
+    },
+    {
+     "en": "We're counting on you."
+    },
+    {
+     "en": "Sure! We'd be glad to!"
+    },
+    {
+     "en": "All right! Let's go!"
+    },
+    {
+     "en": "Everyone, we'll show you around. Please follow us."
+    }
+   ],
+   "notes": "[jp] = Continental Fighting Tournament (as in dlg_3986_09447_00); [jp] = Shuffle Alliance (standard G Gundam English, not in glossary). Seg 21: Hokuto is shocked to be lectured on 'common knowledge' by Ginga. | [accuracy 1] direction restored: Vega compliments the listeners ([jp]), not 'anyone' | [accuracy 10] project decision: the boys' [jp] = \"Ms. Vega\"",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Wow~ What a pretty town!"
+    },
+    {
+     "en": "It's hard to believe this place is at war with Grados."
+    },
+    {
+     "en": "Really. It's been ages since I've seen a town like this..."
+    },
+    {
+     "en": "Every town on the Gaia Continent was so run-down."
+    },
+    {
+     "en": "Protecting the peace here is our job!"
+    },
+    {
+     "en": "No way we're gonna let anybody wreck it that easily!"
+    },
+    {
+     "en": "But... the area we can protect right now is pretty limited. The other towns..."
+    },
+    {
+     "en": "That's why we're getting allies together like this, right?"
+    },
+    {
+     "en": "Yeah, that's right..."
+    },
+    {
+     "en": "It's about time. Could you take us to the command center?"
+    },
+    {
+     "en": "Oh, sorry! This way, everyone."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Here we are!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Is this really the place?"
+    },
+    {
+     "en": "Hey... Is this, by any chance... an amusement park?"
+    },
+    {
+     "en": "Surprised? GEAR's command center is under this amusement park!"
+    },
+    {
+     "en": "Ginga! You're too loud!"
+    },
+    {
+     "en": "Whoops! Right..."
+    },
+    {
+     "en": "The base is a secret even from the people in town. Please be careful too, everyone."
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "I'll show you the secret entrance. Please follow me."
+    },
+    {
+     "en": "Everyone on the GEAR staff is grateful for your cooperation."
+    },
+    {
+     "en": "I'm Shibuya, the commander. We will give the Iron Gear our full support!"
+    },
+    {
+     "en": "Let us fight together to defeat the Grados Army, which is disrupting the peace of Terra."
+    },
+    {
+     "en": "Now, let's skip the formalities. First, let me tell you about our organization, GEAR."
+    },
+    {
+     "en": "So what you're saying is, Asia already had a military force able to stand up to Grados..."
+    },
+    {
+     "en": "Well, as it turned out, yes..."
+    },
+    {
+     "en": "But GEAR's original purpose was to make every preparation against invaders from another world."
+    },
+    {
+     "en": "The Grados attack was something we never saw coming."
+    },
+    {
+     "en": "What, you mean there's somebody else comin' after us besides Grados?"
+    },
+    {
+     "en": "Exactly. What we were preparing to fight wasn't Grados, but Galfa."
+    },
+    {
+     "en": "GEAR is a defense organization built to counter Galfa, and Dendoh is our trump card against them."
+    },
+    {
+     "en": "Galfa? Never heard of 'em..."
+    },
+    {
+     "en": "Galfa is a mighty mechanical empire..."
+    },
+    {
+     "en": "They're plotting to wipe out every last human being in the world."
+    },
+    {
+     "en": "Many planets have already been destroyed by them."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "I drifted ashore on this continent more than ten years ago."
+    },
+    {
+     "en": "Ever since then, protecting Terra from Galfa's invasion has been my mission."
+    },
+    {
+     "en": "According to a recent report, it seems Grados and Galfa have formed an alliance."
+    },
+    {
+     "en": "If so, the battles ahead will only get tougher."
+    },
+    {
+     "en": "Gimme a break..."
+    },
+    {
+     "en": "I can't believe it. Galfa, who seek to wipe out humanity, allying with Grados..."
+    },
+    {
+     "en": "Well, quite. We'll keep investigating Galfa,"
+    },
+    {
+     "en": "but for now, let's think about how to deal with the enemy in front of us."
+    },
+    {
+     "en": "As you all know, the Grados Army is a powerful enemy."
+    },
+    {
+     "en": "The only reason we've held off the Grados invasion is that we've stuck strictly to defense."
+    },
+    {
+     "en": "Grados keeps bringing in reinforcements through the Cusco gate and building up its strength."
+    },
+    {
+     "en": "Our forces have been built up too... but in the end, they're just unmanned weapons."
+    },
+    {
+     "en": "What we critically lack is capable people."
+    },
+    {
+     "en": "The truth is, even combining GEAR's forces with the Resistance's, we can't bring the enemy to its knees."
+    },
+    {
+     "en": "If this goes on, sooner or later we'll be swallowed up by the Grados forces."
+    },
+    {
+     "en": "That's why we want you to cross the continents and gather people who understand our cause."
+    },
+    {
+     "en": "All right."
+    },
+    {
+     "en": "Eventually, we'll have you head to the Pentagona Continent, but the arrangements aren't in place yet."
+    },
+    {
+     "en": "For a while, we'd like you to operate with this place as your base."
+    },
+    {
+     "en": "For now, I want you all to get plenty of rest."
+    },
+    {
+     "en": "In the meantime, we'll draw up an operation plan that includes your forces."
+    },
+    {
+     "en": "Besides, we need some time to understand one another."
+    },
+    {
+     "en": "After all, we only know you from data."
+    },
+    {
+     "en": "That's true... If we push too hard and fail, there'll be no undoing it."
+    },
+    {
+     "en": "That's the kind of fighting force we are."
+    },
+    {
+     "en": "Captain Elchi! Let's take them up on their offer and get some real rest."
+    },
+    {
+     "en": "I suppose so."
+    },
+    {
+     "en": "Then that concludes today's meeting. Dismissed!"
+    }
+   ],
+   "notes": "[jp] in quotes rendered GEAR without quotes (same organization as [jp]). Seg 36: [jp] = the Cusco Gate (Cusco Continent). Seg 41: [jp] = people who understand/support GEAR's cause. | [accuracy 12] [jp] = actively disturbing (Grados is already invading), not merely 'threatens' | [editorial 18] 'What's that supposed to mean?' read as hostile; [jp] is a startled 'you mean...?'; Blume's dropped-g voice as elsewhere in the unit | [editorial 37] 'strength... they're' mismatch; 'they' now refers to forces | [editorial 45] 'For now, first of all' redundant ([jp]) | [proofread 36] style sheet: 'gate' lowercase (common noun, cf. 'Austral's gate')",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "There's still time before the next operation."
+    },
+    {
+     "en": "I should take care of whatever I can while I've got the chance."
+    }
+   ],
+   "notes": "Kanji alone: [jp] rendered as his own resolve ('I should').",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Hey! Kanji! I figure you know already, but we can't ship out."
+    },
+    {
+     "en": "The Iron Gear's under maintenance, as usual."
+    },
+    {
+     "en": "Maintenance again... This ship sure is a handful. Want me to help with anything?"
+    },
+    {
+     "en": "We're fine. We've got enough hands, and this time we wanna do it right with just the veterans."
+    },
+    {
+     "en": "We've been given plenty of time, so I'm thinking of using this chance to overhaul the whole ship."
+    },
+    {
+     "en": "If it goes well, she might even get a performance boost!"
+    },
+    {
+     "en": "Though we won't know until we try..."
+    },
+    {
+     "en": "Huh~ Now that I'm looking forward to. I'm counting on you!"
+    },
+    {
+     "en": "Leave it to us!"
+    }
+   ],
+   "notes": "[jp] not quoted as a menu term here, so 'ship out'. | [editorial 5] 'power up her performance' awkward",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Oh! Kanji! Hello!"
+    },
+    {
+     "en": "Hey! Hokuto!"
+    },
+    {
+     "en": "Huh? You're not with Ginga?"
+    },
+    {
+     "en": "Oh, Ginga's over at my house right now. We're having a dinner party at my place today."
+    },
+    {
+     "en": "We were short a few things, so I came out to buy them."
+    },
+    {
+     "en": "Hmm, I see. Sounds like fun."
+    },
+    {
+     "en": "Oh! I know! You should come too, Kanji."
+    },
+    {
+     "en": "My mom made way too much, and there aren't enough people to eat it all."
+    },
+    {
+     "en": "I'd love to, but it'd be rude to just barge in on you."
+    },
+    {
+     "en": "Not at all! Please don't be shy, just come."
+    },
+    {
+     "en": "Yeah? Then I'll take you up on that."
+    },
+    {
+     "en": "Hokuto's House"
+    },
+    {
+     "en": "Hey! You're late, Hokuto!"
+    },
+    {
+     "en": "Sorry, I had a hard time finding it."
+    },
+    {
+     "en": "Oh, right. I brought Kanji along."
+    },
+    {
+     "en": "Whoa! Awesome! Now I can ask all about the Cloud Saber!"
+    },
+    {
+     "en": "You're interested in my machine?"
+    },
+    {
+     "en": "Super interested! I mean, it's so cool!"
+    },
+    {
+     "en": "Well, the Iron Gear's got lots of other cool ones too!"
+    },
+    {
+     "en": "Be careful, Ginga. We're keeping all this secret even from Hokuto's parents, you know."
+    },
+    {
+     "en": "I know, I know!"
+    },
+    {
+     "en": "Um, Kanji..."
+    },
+    {
+     "en": "The fact that we're GEAR staff... it's a secret from our families."
+    },
+    {
+     "en": "So that's how it is. Please keep it to yourself."
+    },
+    {
+     "en": "Hold on. Something that big... why keep it a secret from your families?!"
+    },
+    {
+     "en": "A hero's true identity is always a secret! Obviously!"
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "Aw, don't sweat the details! C'mon, let's hurry up and go in."
+    },
+    {
+     "en": "Right. Kanji, come on in."
+    },
+    {
+     "en": "Uh, y-yeah..."
+    },
+    {
+     "en": "I'm home!"
+    },
+    {
+     "en": "Welcome back. Hm? Another new guest?"
+    },
+    {
+     "en": "Yeah! I ran into him in town."
+    },
+    {
+     "en": "This is Kanji... He's a pilot."
+    },
+    {
+     "en": "A pilot?"
+    },
+    {
+     "en": "I'm Kanji Akatsuki."
+    },
+    {
+     "en": "Ah, if I remember right, you're one of the Iron Gear's pilots!"
+    },
+    {
+     "en": "Huh? Uh... yes, that's right."
+    },
+    {
+     "en": "You know who I am?"
+    },
+    {
+     "en": "Oh, r-right!! My dad works in the news."
+    },
+    {
+     "en": "Ah, I see. So that's how..."
+    },
+    {
+     "en": "Keisuke! Don't. Kanji's here on his own time."
+    },
+    {
+     "en": "Oh, you're right. Sorry, Kanji."
+    },
+    {
+     "en": "No, it's fine. If anything, I'm the one who dropped in on you out of nowhere."
+    },
+    {
+     "en": "Ha ha! Don't mention it."
+    },
+    {
+     "en": "You must be tired. Make yourself at home tonight."
+    },
+    {
+     "en": "Let's eat already! I've been waiting forever, and I'm starving!"
+    },
+    {
+     "en": "Hehe. All right, all right."
+    },
+    {
+     "en": "Ahh~ Thanks for the meal!"
+    },
+    {
+     "en": "You're welcome. Was it to your liking?"
+    },
+    {
+     "en": "Yes, very. It was delicious."
+    },
+    {
+     "en": "Right? Hokuto's mom's stew is the best!"
+    },
+    {
+     "en": "Yeah!"
+    },
+    {
+     "en": "Hehe... I'm glad."
+    },
+    {
+     "en": "Well, I should be going."
+    },
+    {
+     "en": "Why not stay a little longer? The kids seem to want to hear more of your stories, Kanji."
+    },
+    {
+     "en": "Yeah! I want to hear more about the battles on the Gaia Continent."
+    },
+    {
+     "en": "I've got patrol duty, so I need to head back now."
+    },
+    {
+     "en": "Just a little bit more! Last thing -- I wanna hear about that Le Caine guy!"
+    },
+    {
+     "en": "Yeah, yeah."
+    },
+    {
+     "en": "Jeez, what do I do..."
+    },
+    {
+     "en": "Ginga! Hokuto! Knock it off already -- you're putting Kanji on the spot."
+    },
+    {
+     "en": "Even Mr. Kusanagi is holding back, and he's dying to ask!"
+    },
+    {
+     "en": "Ha ha... If I told my news desk about this, there'd be a real commotion."
+    },
+    {
+     "en": "Keisuke!"
+    },
+    {
+     "en": "Just kidding, Kanji. At home I leave work at the door too, so come again."
+    },
+    {
+     "en": "Please do come again."
+    },
+    {
+     "en": "I will! Thank you very much. Well, see you!"
+    },
+    {
+     "en": "(So that's Hokuto's home. What a close family...)"
+    },
+    {
+     "en": "(At their age, Hokuto and Ginga have been made to carry this city's fate on their shoulders.)"
+    },
+    {
+     "en": "(And yet they have to keep it a secret... That's gotta be rough...)"
+    }
+   ],
+   "notes": "Seg 19: [jp] = Hokuto's parents (scene is at Hokuto's house); rendered 'Hokuto's parents'. Seg 62: Elise's [jp] = Hokuto's father, rendered 'Mr. Kusanagi'. Seg 63: [jp] = his news desk/editor. | [accuracy 36] [jp] = one of its pilots; 'the pilot' implied he is the only one | [accuracy 69] [jp] is passive: the burden is imposed on them, which the next page builds on",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Phew... It's pretty quiet out this far."
+    },
+    {
+     "en": "Hm? What's that noise?"
+    },
+    {
+     "en": "Whoa!! What the--?!"
+    },
+    {
+     "en": "A-A baby?!"
+    },
+    {
+     "en": "Whoops!!"
+    },
+    {
+     "en": "Ow, ow, ow..."
+    },
+    {
+     "en": "What was that light just now...?"
+    },
+    {
+     "en": "Bwaaah!"
+    },
+    {
+     "en": "Never mind that. Where did this kid fall from...?"
+    },
+    {
+     "en": "Fwaaaah, fwaaah"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "What do I do? I'm in a real fix here..."
+    },
+    {
+     "en": "Ohhh, what do I do..."
+    },
+    {
+     "en": "Huh...! There were other people here, too!"
+    },
+    {
+     "en": "Hey! You there! Are you all right?!"
+    },
+    {
+     "en": "Ugh... uhh... What... what just happened?"
+    },
+    {
+     "en": "Oh...! Mirai? Where's Mirai?"
+    },
+    {
+     "en": "Mirai?"
+    },
+    {
+     "en": "Oh, do you mean this little one?"
+    },
+    {
+     "en": "A minute ago... um... the baby came falling down from above."
+    },
+    {
+     "en": "Bwaaaah!"
+    },
+    {
+     "en": "Yep, looks like the baby isn't hurt..."
+    },
+    {
+     "en": "Oh... thank goodness, Mirai."
+    },
+    {
+     "en": "Um... Thank you so much! Er..."
+    },
+    {
+     "en": "I'm Kanji Akatsuki. Just call me Kanji."
+    },
+    {
+     "en": "Oh, okay. Thank you, Kanji!"
+    },
+    {
+     "en": "Oh, that's right! Auntie! Auntie, come on!"
+    },
+    {
+     "en": "Ow, ow, ow... Natsumi... where the heck are we?"
+    },
+    {
+     "en": "This sure isn't Yumegaoka, that much I can tell..."
+    },
+    {
+     "en": "I don't know either!"
+    },
+    {
+     "en": "But how can you tell it's not Yumegaoka?"
+    },
+    {
+     "en": "Well, look. You can see the ocean, can't you?"
+    },
+    {
+     "en": "Oh! You're right!"
+    },
+    {
+     "en": "Um... Kanji? Is this place... the future?"
+    },
+    {
+     "en": "W-Well, no..."
+    },
+    {
+     "en": "As if! Get a grip, Natsumi!"
+    },
+    {
+     "en": "But...!"
+    },
+    {
+     "en": "Anyway, this is a city called Hoshimi."
+    },
+    {
+     "en": "So I'm guessing, um... it isn't this \"Yumegaoka\" place of yours."
+    },
+    {
+     "en": "Boy, you're not very sure of yourself..."
+    },
+    {
+     "en": "I only just got to this city myself."
+    },
+    {
+     "en": "Nuohhh... hmmm... Good heavens, what has happened!"
+    },
+    {
+     "en": "Oh! Mr. Eji! Are you okay?"
+    },
+    {
+     "en": "Something dreadful has come to pass...!!"
+    },
+    {
+     "en": "If my hunch is right, this is not the world we lived in. Nor, for that matter, have we come to the future."
+    },
+    {
+     "en": "That makes no sense! We understand the language, so obviously this is Japan!"
+    },
+    {
+     "en": "Let's go, Natsumi! We'll head into town and find out what's going on."
+    },
+    {
+     "en": "Oh, okay..."
+    },
+    {
+     "en": "Hold on a sec."
+    },
+    {
+     "en": "I don't think this old guy's wrong when he says you came from another world."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "Gahh! I can't deal with this!"
+    },
+    {
+     "en": "Hey, young man!"
+    },
+    {
+     "en": "Hm? What is it, mister?"
+    },
+    {
+     "en": "I am the genius scientist Eji!"
+    },
+    {
+     "en": "Kanji, was it! You show real promise, boy!"
+    },
+    {
+     "en": "I can have a far more sensible conversation with you than with these girls, I'd say!"
+    },
+    {
+     "en": "Won't you tell me what this phenomenon is all about?"
+    },
+    {
+     "en": "Yeah, sure."
+    },
+    {
+     "en": "But before that, could you tell me about yourselves?"
+    },
+    {
+     "en": "I think that'll make it easier for me to explain."
+    },
+    {
+     "en": "What a bother, but it does stand to reason."
+    },
+    {
+     "en": "Hey! You, tell him, why don't you?"
+    },
+    {
+     "en": "Huh...? Me?"
+    },
+    {
+     "en": "That's right! Hurry up and tell him everything!"
+    },
+    {
+     "en": "B-But..."
+    },
+    {
+     "en": "Don't you fret. This young fellow will believe your story, too, I'd wager."
+    },
+    {
+     "en": "You think so...?"
+    },
+    {
+     "en": "(Listen to the story of Natsumi's world?)"
+    },
+    {
+     "en": "Listen to Natsumi's story\nDon't listen (I can guess)"
+    },
+    {
+     "en": "I don't mind if it takes a while."
+    },
+    {
+     "en": "Besides... I'll believe every word you say, Natsumi. I promise."
+    },
+    {
+     "en": "Bwaaaah"
+    },
+    {
+     "en": "Mirai..."
+    },
+    {
+     "en": "You're right... This is no time to be hesitating, huh?"
+    },
+    {
+     "en": "All riiight! In that case, I'll tell you the whole thing, start to finish!"
+    },
+    {
+     "en": "All right! Bring it on!"
+    },
+    {
+     "en": "I'm Natsumi Mizuki, a fourth-grader!"
+    },
+    {
+     "en": "One stormy night, a baby suddenly appeared."
+    },
+    {
+     "en": "And guess what -- it was my baby, Mirai, who'd slipped back in time from 15 years in the future!"
+    },
+    {
+     "en": "Mom and Dad went off to London, so they're away,"
+    },
+    {
+     "en": "and Auntie Izumi, who's freeloading at our place, totally hates babies!"
+    },
+    {
+     "en": "Doing it all on my own is so hard!"
+    },
+    {
+     "en": "But I've made up my mind!"
+    },
+    {
+     "en": "Until the day Mirai can go back to the future safely, I'm the one who'll raise this baby!"
+    },
+    {
+     "en": "'Cause I'm Mirai's mommy!"
+    },
+    {
+     "en": "A few days earlier, Yumegaoka"
+    },
+    {
+     "en": "Natsumi's House"
+    },
+    {
+     "en": "Bwaah! Bwaaaah!"
+    },
+    {
+     "en": "H-Hey, you! Shoo, go away! I'm busy here!"
+    },
+    {
+     "en": "Kyaha, kyahaha! Fyuuu~! Kyaha!"
+    },
+    {
+     "en": "Hey! What're you doing?!"
+    },
+    {
+     "en": "Fwaaaaah!"
+    },
+    {
+     "en": "......!!"
+    },
+    {
+     "en": "Aaaah!! My manuscript!!"
+    },
+    {
+     "en": "Bwaaaah!"
+    },
+    {
+     "en": "Gyaaaaaah!! Stoooop!!"
+    },
+    {
+     "en": "Give it here! That's an important manuscript! I said give it here!!"
+    },
+    {
+     "en": "Phew... I almost lost every last page..."
+    },
+    {
+     "en": "Hic... hic..."
+    },
+    {
+     "en": "Bwaaaaah! Bwaaaaaaah!!"
+    },
+    {
+     "en": "Argh! For crying out loud! I'm the one who wants to cry here!!"
+    },
+    {
+     "en": "Natsumiii!! Do something about this!!"
+    },
+    {
+     "en": "Coming! Coming~!"
+    },
+    {
+     "en": "Oh, Mirai! What's wrong? There, there, it's all okay now."
+    },
+    {
+     "en": "Uuuuu..."
+    },
+    {
+     "en": "Auntie!! You were being mean to Mirai again, weren't you!"
+    },
+    {
+     "en": "I'm the one who got picked on! Look at this manuscript!"
+    },
+    {
+     "en": "Ugh... Whoa..."
+    },
+    {
+     "en": "I'd finished inking it and everything! And then... that Mirai...!"
+    },
+    {
+     "en": "Mirai's a baby, so it can't be helped!"
+    },
+    {
+     "en": "That's why I keep telling you not to let the kid into this room!!"
+    },
+    {
+     "en": "Well, I've got school, you know!"
+    },
+    {
+     "en": "You've got to look after Mirai during the day, Auntie Izumi!"
+    },
+    {
+     "en": "What are you talking about! That's your kid! You're the mother, aren't you?!"
+    },
+    {
+     "en": "Ugh..."
+    },
+    {
+     "en": "This is an important time for me right now! Drawing this manuscript is all I can handle!"
+    },
+    {
+     "en": "Haaah... I'm beat. Something to drink, something to drink..."
+    },
+    {
+     "en": "Hey... Auntie. This new manga of yours... You're going for the newcomer award, right?"
+    },
+    {
+     "en": "That's right!"
+    },
+    {
+     "en": "That's why this is an important time for me!"
+    },
+    {
+     "en": "My future's riding on this award!"
+    },
+    {
+     "en": "But it's another one of your usual violent stories?"
+    },
+    {
+     "en": "And what's wrong with violent stories, huh!"
+    },
+    {
+     "en": "Anyway, what else am I supposed to draw!"
+    },
+    {
+     "en": "Why not try something else? Like shojo manga?"
+    },
+    {
+     "en": "Nah, no way. That kind of stuff just isn't for me!"
+    },
+    {
+     "en": "I'm not so sure..."
+    },
+    {
+     "en": "Anyway, from now on I'm working full-throttle 24 hours a day, so YOU look after Mirai!"
+    },
+    {
+     "en": "Geez! Fine, I get it!"
+    },
+    {
+     "en": "Haaah... Guess I'll have to skip school today..."
+    },
+    {
+     "en": "Fwaah! Bwaaah!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "It's been a long time now since Mirai came here, huh..."
+    },
+    {
+     "en": "Natsumiii!! I'm starviiing! Bring me something!"
+    },
+    {
+     "en": "Okay, okay!"
+    },
+    {
+     "en": "Honestly, geez! She's such a slave driver."
+    },
+    {
+     "en": "Oh! That's right. I'll take some food to Mr. Eji, too."
+    },
+    {
+     "en": "The other person freeloading at our house is Mr. Eji, a self-proclaimed genius scientist."
+    },
+    {
+     "en": "But... in the middle of his research, Mr. Eji's lab blew up..."
+    },
+    {
+     "en": "So now he's building us a time machine in our garage."
+    },
+    {
+     "en": "Once the time machine's done, Mirai can go back to the future."
+    },
+    {
+     "en": "It's a lot to deal with, but I've got to hang in there!"
+    },
+    {
+     "en": "Um, Mr. Eji?"
+    },
+    {
+     "en": "Hyaaaaaaah!!"
+    },
+    {
+     "en": "What the heck is it nooow!!"
+    },
+    {
+     "en": "Natsumiii! What are you doing?! Shut that thing up already!"
+    },
+    {
+     "en": "Uh-oh...!"
+    },
+    {
+     "en": "Mr. Ejiii!! Mr. Ejiii!!"
+    },
+    {
+     "en": "Oh? What is it?"
+    },
+    {
+     "en": "Um, I'm really happy you're building a time machine for us, but..."
+    },
+    {
+     "en": "could you maybe keep it down a little?"
+    },
+    {
+     "en": "Wha-a-at are you on about!"
+    },
+    {
+     "en": "You're the one who told me to hurry up and build it, so I've been slaving away without a wink of sleep!"
+    },
+    {
+     "en": "Bwaaa"
+    },
+    {
+     "en": "H-Hey! Stop clinging to me!"
+    },
+    {
+     "en": "Oh, Mirai, you mustn't bother him while he's working. It's dangerous, okay?"
+    },
+    {
+     "en": "Phew... honestly, what a selfish girl!"
+    },
+    {
+     "en": "Ahahaha! S-Sorry."
+    },
+    {
+     "en": "Um... I made a meal for you, Mr. Eji,"
+    },
+    {
+     "en": "so how about calling it a day and trying again tomorrow... or something... haha..."
+    },
+    {
+     "en": "Hmm? Grub?"
+    },
+    {
+     "en": "Let's see... I suppose I'll have some for now."
+    },
+    {
+     "en": "Hey! Natsumi! Don't spoil him!"
+    },
+    {
+     "en": "What's this? What a racket!"
+    },
+    {
+     "en": "You're the one making a racket!!"
+    },
+    {
+     "en": "Ah! Hey! What do you think you're doing?!"
+    },
+    {
+     "en": "Can't you see? I'm eating."
+    },
+    {
+     "en": "Geez! Don't go eating other people's food without asking!"
+    },
+    {
+     "en": "Human progress demands sacrifice! Put up with it!"
+    },
+    {
+     "en": "Don't give me that selfish garbage!"
+    },
+    {
+     "en": "You just don't get it, girl! You're about to witness the greatest invention of the century!"
+    },
+    {
+     "en": "I'll pass on that, thanks! I can't have our food sacrificed for it!"
+    },
+    {
+     "en": "Get your own food yourself! Got that!"
+    },
+    {
+     "en": "Auntie! If Mr. Eji doesn't build the time machine, Mirai can't go back to the future!"
+    },
+    {
+     "en": "Like he can be trusted! And I can't believe we've got a shady old geezer like this freeloading here!"
+    },
+    {
+     "en": "You're freeloading too, Auntie!"
+    },
+    {
+     "en": "Listen, you! I earn my own pocket money doing assistant work, fair and square."
+    },
+    {
+     "en": "Anyway, do you really think some scientist nobody's ever heard of can build a time machine?"
+    },
+    {
+     "en": "What?! You'd mock my research?!"
+    },
+    {
+     "en": "Yeah! I would!"
+    },
+    {
+     "en": "Honestly, you're just...!"
+    },
+    {
+     "en": "I wish Auntie Izumi would be a little more patient, too..."
+    },
+    {
+     "en": "Fwaaaah!"
+    },
+    {
+     "en": "If you're a genius scientist, then show me some proof!"
+    },
+    {
+     "en": "Oho, if you insist, then I'll show you!"
+    },
+    {
+     "en": "It's not finished yet, but it can at least warp space-time!"
+    },
+    {
+     "en": "Huh? Nobody's asking you to warp anything!"
+    },
+    {
+     "en": "Now then, here goes!"
+    },
+    {
+     "en": "Hey! Listen when people talk to you!!"
+    },
+    {
+     "en": "Gahh! So loud! You'll disturb the whole neighborhood!!"
+    },
+    {
+     "en": "Mr. Eji, stop it!"
+    },
+    {
+     "en": "Hahaha! Rest easy!"
+    },
+    {
+     "en": "Space-time around this house has begun to distort! This noise won't even reach next door!"
+    },
+    {
+     "en": "Waaah! I don't get it, Mr. Ejiii!"
+    },
+    {
+     "en": "Never mind that! Turn it offff!"
+    },
+    {
+     "en": "H-Hey!! Don't touch thaaat!!"
+    },
+    {
+     "en": "If you don't want me touching it, then YOU turn it off!!"
+    },
+    {
+     "en": "Nwahhh! What kind of girl are you!!"
+    },
+    {
+     "en": "Yeah, THIS kind of girl! Take that! And that!"
+    },
+    {
+     "en": "Nwahh!! I told you to stooop!"
+    },
+    {
+     "en": "Kyaaaaah!!"
+    },
+    {
+     "en": "Whoa! Wh-What now!"
+    },
+    {
+     "en": "Don't tell me it's gonna explode!!"
+    },
+    {
+     "en": "Nuuu... this is...!!"
+    },
+    {
+     "en": "What is it already!"
+    },
+    {
+     "en": "Terrible! Something terrible has begun to happen in this house!"
+    },
+    {
+     "en": "What on earth happened?"
+    },
+    {
+     "en": "Uohh...! Ter-ri-ble!!"
+    },
+    {
+     "en": "Just groaning about it doesn't tell us anything!"
+    },
+    {
+     "en": "Terrible! If my guess is correct, then it's...!"
+    },
+    {
+     "en": "It's...?"
+    },
+    {
+     "en": "Something incredibly, horribly terrible!!"
+    },
+    {
+     "en": "Kyaaaaah!"
+    },
+    {
+     "en": "Hyaaaah!!"
+    },
+    {
+     "en": "Bwaaa"
+    },
+    {
+     "en": "...And that's what happened. Next thing we knew, we were here..."
+    },
+    {
+     "en": "The time machine wasn't finished yet."
+    },
+    {
+     "en": "So I can't say whether we traveled through time as well."
+    },
+    {
+     "en": "...And that's what happened. Next thing we knew, we were here..."
+    },
+    {
+     "en": "I'm pretty sure of it... You've come here from another world."
+    },
+    {
+     "en": "What does that mean?"
+    },
+    {
+     "en": "Yeah. How can you tell something like that?"
+    },
+    {
+     "en": "Because I'm in pretty much the same boat."
+    },
+    {
+     "en": "Huh? Then you too, Kanji?"
+    },
+    {
+     "en": "Yeah... that's right. I came from a different world than this one, too."
+    },
+    {
+     "en": "Listen. In this world, it's not that rare for people to come over from other worlds."
+    },
+    {
+     "en": "This is a world called \"Terra,\" but I'm not originally from here either."
+    },
+    {
+     "en": "Recently, some guys showed up who can open gates to other worlds at will..."
+    },
+    {
+     "en": "They're dragging the surrounding worlds in and trying to spread war everywhere."
+    },
+    {
+     "en": "I chased them all the way here."
+    },
+    {
+     "en": "Hmm... It's interesting, but it sounds kinda fishy..."
+    },
+    {
+     "en": "Maybe so. But this world may look peaceful at first glance, and yet a war has broken out here."
+    },
+    {
+     "en": "Anyway, right now you need a place where you can live safely, right? For Mirai's sake, too."
+    },
+    {
+     "en": "I don't know what the world you came from is like, but I think I can probably help."
+    },
+    {
+     "en": "As long as I can continue my research, I'm content. Young man! Take me to your home!"
+    },
+    {
+     "en": "Understood. I'll take you to the ship."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "No use thinking about it, I guess... Oh well, whatever happens, happens."
+    },
+    {
+     "en": "Let's go, Natsumi! Don't you dare let go of Mirai!"
+    },
+    {
+     "en": "Okay!"
+    }
+   ],
+   "notes": "[jp]/[jp] -> 'Mirai'/'Natsumi' (-chan dropped); [jp] -> 'Mr. Eji'; [jp] -> 'Auntie'. Mirai's gender is not in the glossary, so Mirai is never 'he/she' (seg 84 'raise this baby'). Seg 38: Kanji's katakana [jp] rendered as quoted '\"Yumegaoka\" place of yours' to keep the unfamiliar-name feel. Seg 69: choice menu, two options split by a line break. Seg 157: [jp] kept as 'what a selfish girl' -- most likely Natsumi (just asked him to hurry, then to be quiet), possibly Mirai; English keeps it open. Seg 177: [jp] = manga assistant work. Segs 216/219 identical in source (branch duplicates). | [accuracy 69] literal backslash-n in draft would print as text; replaced with a real line break (one option per line) | [editorial 8] 'More importantly' translationese for [jp] in Kanji's spoken voice | [editorial 69] choice option: the reason [jp] is the player-character's own ('I can guess'), per accuracy note; also brings option under the 30-character choice limit (was 31) | [editorial 87] location caption capitalised like 'Hokuto's House' in the same table | [editorial 198] sets up Izumi's comeback 'Yeah, THIS kind of girl!' ([jp] echoes [jp]); 'What a girl!!' lost the joke | [proofread 166] punctuation: direct question (Eji answers it) ended with '!'; '?!' as in 4015_09503_00 16.49",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "So this is your ship?"
+    },
+    {
+     "en": "Yes. You'll be safe here for now."
+    },
+    {
+     "en": "Huh~"
+    },
+    {
+     "en": "Mirai! It's a great big ship, huh?"
+    },
+    {
+     "en": "Bwaaah!!"
+    },
+    {
+     "en": "Wait here for a little while."
+    },
+    {
+     "en": "I'll go talk to HQ and make sure this city takes proper care of you."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Hmm... I see. I think I've got the gist of it."
+    },
+    {
+     "en": "So... you want GEAR to take in this family from Yumegaoka, is that it?"
+    },
+    {
+     "en": "Right now they're under temporary protection on the Iron Gear, but it's a warship, after all..."
+    },
+    {
+     "en": "What do you think, Vega?"
+    },
+    {
+     "en": "I'm in favor as well."
+    },
+    {
+     "en": "There's no better place to shelter civilians from another world than GEAR headquarters."
+    },
+    {
+     "en": "Then it's decided. We'll take in the refugees from the other world here. Vega, would you go and pick them up?"
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "Kanji, it'd be best if you went along, too. Head back to your ship."
+    },
+    {
+     "en": "Roger!"
+    }
+   ],
+   "notes": "Seg 8: [jp] -- 'go along with them' (accompany Vega to fetch the family); object not stated. | [editorial 0] 'I've grasped the general situation' stiff for mild-mannered Shibuya | [editorial 8] 'go along with them' -- only Vega is going; 'them' misdirects (object unstated in JP, per translator note)",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Wait a moment, Kanji."
+    },
+    {
+     "en": "What is it, Ms. Vega?"
+    },
+    {
+     "en": "Natsumi and the others appeared along with a flash of light... That's what you said, right?"
+    },
+    {
+     "en": "Yes... I think it was probably some kind of gate connecting to another world."
+    },
+    {
+     "en": "You sound confident..."
+    },
+    {
+     "en": "Well, I've crossed through gates plenty of times."
+    },
+    {
+     "en": "I see... So you're speaking from experience."
+    },
+    {
+     "en": "It's precisely because I've crossed through a gate myself that I can understand what you're saying, Kanji..."
+    },
+    {
+     "en": "But... ordinary people would find it hard to believe, wouldn't they?"
+    },
+    {
+     "en": "Right. That's why I thought it'd be best to have GEAR protect them."
+    },
+    {
+     "en": "I suppose so..."
+    },
+    {
+     "en": "But why did they show up in this city...? That bothers me a little..."
+    },
+    {
+     "en": "Hmm... I don't think there's anything suspicious about those folks, though..."
+    },
+    {
+     "en": "Oh, that's not what I mean."
+    },
+    {
+     "en": "It's just that there's something bothering me personally..."
+    },
+    {
+     "en": "Like a sign that something ominous is about to happen... that sort of feeling, I suppose..."
+    },
+    {
+     "en": "Something ominous...?"
+    },
+    {
+     "en": "Oh, I'm sorry. GEAR will investigate this matter, so don't worry about it."
+    },
+    {
+     "en": "If you find out anything, let me know!"
+    },
+    {
+     "en": "See you!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Easy for you to say \"don't worry about it\"..."
+    }
+   ],
+   "notes": "Seg 11: [jp] / seg 12 [jp] -> 'they' / 'those folks' (group includes Eji). | [accuracy 1] project decision: Kanji's [jp] = 'Ms. Vega' | [editorial 14] 'in my own way' awkward for [jp] | [editorial 15] 'a feeling like it's an omen of something ominous' redundant/clunky; 'ominous' kept for Kanji's echo on the next page",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "Oh... Kanji."
+    },
+    {
+     "en": "Hey! Natsumi. And sorry to keep the rest of you waiting."
+    },
+    {
+     "en": "Hey, Kanji..."
+    },
+    {
+     "en": "This ship... looks like it's got cannons on it?"
+    },
+    {
+     "en": "\"Looks like,\" nothing! Those are real cannons!"
+    },
+    {
+     "en": "Means these folks are out there blasting away at somebody!"
+    },
+    {
+     "en": "You've gotta be kidding! Riding around on a warship like this, we could die any minute!"
+    },
+    {
+     "en": "Um... What's going to happen to us now?"
+    },
+    {
+     "en": "For a while, you'll be under the protection of GEAR headquarters."
+    },
+    {
+     "en": "GEAR headquarters, you say?"
+    },
+    {
+     "en": "It's the biggest base on the Asia Continent. They'll understand your situation, and it's much safer than anywhere else."
+    },
+    {
+     "en": "Someone from GEAR will be here to pick you up soon."
+    },
+    {
+     "en": "People from another world... I am Vega, vice-commander of GEAR."
+    },
+    {
+     "en": "I promise to keep you all safe under our protection."
+    },
+    {
+     "en": "Wh-What? Who is this...?"
+    },
+    {
+     "en": "Um... does everyone at the base... um... wear a mask?"
+    },
+    {
+     "en": "Hmhm... This one is mine alone. For certain reasons, I can't take it off right now."
+    },
+    {
+     "en": "Is that so... Ahahaha... (sweat)"
+    },
+    {
+     "en": "This keeps getting shadier and shadier."
+    },
+    {
+     "en": "Auntie... at this point, all we can do is brace ourselves."
+    },
+    {
+     "en": "I guess so... Don't you leave my side, Natsumi!"
+    },
+    {
+     "en": "Okay!"
+    },
+    {
+     "en": "What are you lot whispering about?"
+    },
+    {
+     "en": "Nothing, nothing! Hahaha... (sweat)"
+    },
+    {
+     "en": "Masked girl, would you take us to this headquarters of yours, and be quick about it?"
+    },
+    {
+     "en": "Understood. Right this way, please."
+    },
+    {
+     "en": "Phew... That settles that for now..."
+    },
+    {
+     "en": "Kanji, sorry, but we're heading to GEAR headquarters right away."
+    },
+    {
+     "en": "Everything's ready already?"
+    },
+    {
+     "en": "Yeah. All that's left is to go over the operation."
+    },
+    {
+     "en": "Thing is, I was just at the command center a minute ago..."
+    },
+    {
+     "en": "Looks like you were sheltering some civilians..."
+    },
+    {
+     "en": "Yeah. As usual, they wandered in from another world."
+    },
+    {
+     "en": "Once this fight is over, I'll arrange for them to get back to their own world properly."
+    },
+    {
+     "en": "So you're saying Claudia can do that?"
+    },
+    {
+     "en": "I've heard it's a sealed technology..."
+    },
+    {
+     "en": "I don't really get how it works, but there've been a few cases before. I think it's probably possible."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Maybe the Redros Army is making use of it."
+    }
+   ],
+   "notes": "Seg 17/23: [jp] kept as '(sweat)'. Seg 34: [jp] taken as the world/power Claudia (Kanji's side); Amuro's line is a question. | [editorial 16] Vega's [jp] unified with her earlier 'Hmhm...' (dlg_4014_09502_00 row 2)",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "...As I've laid out, now that Dendoh has joined the Iron Gear's mobile forces,"
+    },
+    {
+     "en": "it has become possible to devise an operation in which we take the offensive."
+    },
+    {
+     "en": "That alone should let us catch the enemy off guard."
+    },
+    {
+     "en": "So? Where's the target?"
+    },
+    {
+     "en": "There's a Grados Army supply depot somewhere on the Asia Continent."
+    },
+    {
+     "en": "Supplies from the Gaia Continent should be gathered there."
+    },
+    {
+     "en": "In other words, we find the supply base and smash it, right?"
+    },
+    {
+     "en": "Precisely."
+    },
+    {
+     "en": "If this operation succeeds, the enemy won't be able to make a move for a while."
+    },
+    {
+     "en": "We have to make it succeed, no matter what."
+    },
+    {
+     "en": "You bet! Let's go, everyone!"
+    },
+    {
+     "en": "Right, let's go. The sooner the better, right?"
+    },
+    {
+     "en": "Very well! As of this moment, the operation is underway! All personnel, to your stations!"
+    },
+    {
+     "en": "Roger!!"
+    },
+    {
+     "en": "Roger!!"
+    }
+   ],
+   "notes": "Seg 4: [jp] = 'supply depot'; seg 6 [jp] = 'supply base'. | [editorial 4] inverted 'Somewhere ... is a ...' reads literary for a spoken briefing",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "All right! We're finally setting out!"
+    },
+    {
+     "en": "You're awfully fired up. Did the ship's maintenance go well?"
+    },
+    {
+     "en": "Yeah! The refit was a success. The engine's running great, too!"
+    },
+    {
+     "en": "And the Iron Gear's base performance should be up, too."
+    },
+    {
+     "en": "Here! This is the list of upgrades."
+    },
+    {
+     "en": "The Iron Gear's armor and carrying capacity have been increased."
+    },
+    {
+     "en": "Whaaat? Are these numbers for real? That's amazing!"
+    },
+    {
+     "en": "Heh... I was given the time to do it."
+    },
+    {
+     "en": "Wow~ You're pretty skilled."
+    },
+    {
+     "en": "Tee-hee."
+    },
+    {
+     "en": "Of course! It's all thanks to my excellent guidance!"
+    },
+    {
+     "en": "Yeah, yeah."
+    },
+    {
+     "en": "All right! Iron Gear, move ouuut!"
+    },
+    {
+     "en": "<Mission Objective>\nLocate the Grados Army base"
+    }
+   ],
+   "notes": "Seg 13: [jp] -> '<Mission Objective>' (no earlier precedent found). | [accuracy 13] literal backslash-n in draft; real line break restored",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Pentagona Continent\nBorder Watch Fortress \"Theart Star\""
+    },
+    {
+     "en": "Amazing facilities... It's like a fortress."
+    },
+    {
+     "en": "This is Theart Star. It's a special zone granted self-rule by Poseidal, who governs Pentagona."
+    },
+    {
+     "en": "To get from the Asia Continent to the Pentagona Continent, you have to pass through here, but..."
+    },
+    {
+     "en": "We can't get through just yet..."
+    },
+    {
+     "en": "Can't we at least dock there?"
+    },
+    {
+     "en": "Yeah... We'd like to resupply, but more than that, we might get some useful information."
+    },
+    {
+     "en": "I know how you feel, but..."
+    },
+    {
+     "en": "Here they come!"
+    },
+    {
+     "en": "This airspace is the territory of Theart Star."
+    },
+    {
+     "en": "You may not pass through here without permission! Withdraw immediately!"
+    },
+    {
+     "en": "I repeat! Withdraw immediately!"
+    },
+    {
+     "en": "Your vessel's passage permit has not been confirmed!"
+    },
+    {
+     "en": "If you continue to ignore our warnings, we will attack without mercy!!"
+    },
+    {
+     "en": "Change course at once!"
+    },
+    {
+     "en": "Just as I thought... The paperwork to get through here is a real pain."
+    },
+    {
+     "en": "I guess forcing our way through isn't an option, huh..."
+    },
+    {
+     "en": "No way! Theart Star has the Poseidal Army backing it, you know."
+    },
+    {
+     "en": "Changing course!"
+    }
+   ],
+   "notes": "[accuracy 0] literal backslash-n in draft; real line break restored | [editorial 6] 'That's true' does not answer Kanji's question 'Can't we at least dock there?'",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "Docking at Theart Star is currently not permitted."
+    },
+    {
+     "en": "Changing course inland."
+    }
+   ],
+   "notes": "Narration/system message; 'Changing course inland.' kept subjectless as a status message.",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "Dead ahead! I've spotted what looks like an enemy base!"
+    },
+    {
+     "en": "It's camouflaged, but with a heat source that big, there's no mistake."
+    },
+    {
+     "en": "Their guard is lax. If we strike now, we can take them in one go!"
+    },
+    {
+     "en": "Elchi! Give the order to attack!!"
+    },
+    {
+     "en": "All hands! Battle stations!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "What's that? The enemy?"
+    },
+    {
+     "en": "It's them!! Those Iron Gear bastards are attacking!"
+    },
+    {
+     "en": "Damn that Iron Gear lot, getting full of themselves!"
+    },
+    {
+     "en": "Intercept them at once!!"
+    },
+    {
+     "en": "<Win Condition>\nSink the enemy mothership within the time limit"
+    }
+   ],
+   "notes": "Seg 4: [jp] -> '<Win Condition>' as in earlier slices. | [accuracy 4] literal backslash-n in draft; real line break restored | [editorial 2] 'that Iron Gear ... themselves' number mismatch",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "They put up less of a fight than I expected."
+    },
+    {
+     "en": "You think? There were tons of enemies!"
+    },
+    {
+     "en": "True, there were a lot of them. But their formation was far too weak. I can only assume their commander is incompetent..."
+    },
+    {
+     "en": "Anyway, I'll try forcing my way inside."
+    },
+    {
+     "en": "If it goes well, we might get our hands on some Grados Army documents."
+    },
+    {
+     "en": "Please do. Once you're inside, send us the data."
+    },
+    {
+     "en": "The Iron Gear will mop up the remaining enemies!!"
+    },
+    {
+     "en": "We'll avoid firing on our Infantry Squad's entry route and hit the supply base with everything we've got!"
+    },
+    {
+     "en": "Main cannon! Fiiire!!"
+    }
+   ],
+   "notes": "Seg 7: [jp] -> 'Infantry Squad' (UI term). | [editorial 3] 'breaking into the interior' clunky for [jp]",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "The systems here are\nstill up and running."
+    },
+    {
+     "en": "I sense an immense pressure."
+    },
+    {
+     "en": "Looks like we'll just have to\nforce our way through. Let's go!"
+    },
+    {
+     "en": "Heh... Understood!"
+    },
+    {
+     "en": "Grados Army\nSupply Base Command Center"
+    },
+    {
+     "en": "This is Gun Emplacement No. 34!\nWe're under heavy enemy bombardment!\nSend reinforcements!!"
+    },
+    {
+     "en": "What the hell is HQ doing?!\nThey expect us to fight without SPTs?!"
+    },
+    {
+     "en": "The battle does not seem\nto be going well."
+    },
+    {
+     "en": "Areas 5 and 6 have\ngone silent as well."
+    },
+    {
+     "en": "We can't hold out any longer!\nRequesting permission for\na full retreat!!"
+    },
+    {
+     "en": "Denied!\nHold your current position\nto the death!!"
+    },
+    {
+     "en": "Wha--!\nWhy?!\nFurther resistance is pointless!"
+    },
+    {
+     "en": "Did you not hear me?\nHold to the death... I said."
+    },
+    {
+     "en": "......!!"
+    },
+    {
+     "en": "I... I cannot accept\nan order like that!"
+    },
+    {
+     "en": "Are you saying that holding this\nposition to the death has\nstrategic value?!"
+    },
+    {
+     "en": "If Grados officers and men are wasted\nfor nothing, not even you, Lord Arthea,\nwill be able to justify it!!"
+    },
+    {
+     "en": "Whatever the reason, I will not\ntolerate disobedience of my orders!"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Why...?! In this battle, our forces\nwere obviously deployed all wrong!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Ah...! Don't tell me...\nyou planned this!"
+    },
+    {
+     "en": "To wear down the\nstrength of Grados...!"
+    },
+    {
+     "en": "This defeat merely proves that\nthe soldiers of Grados are weak."
+    },
+    {
+     "en": "What did you say?!"
+    },
+    {
+     "en": "In numbers, the deployment should\nalways have let you face the enemy\nwith equal or greater strength."
+    },
+    {
+     "en": "And yet you were defeated\nthis easily..."
+    },
+    {
+     "en": "A force like that cannot possibly\nbe worth anything. I have no need\nfor weak soldiers!"
+    },
+    {
+     "en": "D-Damn you!!\nYou Galfa dog!"
+    },
+    {
+     "en": "I'll report this to\nHis Excellency Gresco!!"
+    },
+    {
+     "en": "Do as you like...\nif you can leave this base alive."
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "Fuhaha!!\nHow feeble, human!!"
+    },
+    {
+     "en": "Wh-What?!\nWho are you?!"
+    },
+    {
+     "en": "Hrrraaah!!"
+    },
+    {
+     "en": "Gwaaaaah!"
+    },
+    {
+     "en": "So you have come,\nwarrior of the Yoja."
+    },
+    {
+     "en": "Arthea, you said a human who'd\ngive me a real fight was coming.\nIs it this one?"
+    },
+    {
+     "en": "Ughhhhh..."
+    },
+    {
+     "en": "Not such small fry as that.\nThe real prey will arrive shortly.\nBide your time a little."
+    },
+    {
+     "en": "......!!"
+    },
+    {
+     "en": "Be careful! For a while now,\nan uncanny killing intent\nhas been building."
+    },
+    {
+     "en": "Here it comes!!"
+    }
+   ],
+   "notes": "seg 9, 14-16, 19, 21-22, 29: blank-header pages continue the Grados Officer. seg 37: [jp] rendered as plain address 'Arthea.' ([jp] lighter than [jp]). | [accuracy 21] [jp] is a gasp of realization; 'Hah' reads as a laugh | [editorial 21] accuracy edit used '/' as a line break; it would display literally | [editorial 37] vocative read as a stray statement; comma, as in the same soldier's 21.3 | [editorial 41] 'ever since a moment ago' awkward",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "Heh heh heh...\nWelcome, elite warriors\nof the Iron Gear."
+    },
+    {
+     "en": "......?!"
+    },
+    {
+     "en": "Fuhaha!!\nHow feeble, human!!"
+    },
+    {
+     "en": "Arthea,\nare these the ones?\nThe humans with some backbone?"
+    },
+    {
+     "en": "Indeed..."
+    },
+    {
+     "en": "Arthea...?\nIt can't be...\nThat's impossible......"
+    },
+    {
+     "en": "Well, then!\nLet's put you to the test!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "These beings...\nThey're no ordinary humans."
+    },
+    {
+     "en": "Oh...\nYou defeated the Yoja Soldiers?\nNow that is unexpected."
+    },
+    {
+     "en": "To think humans had\nfighters this skilled..."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "You seem to be the\ncommander of this base."
+    },
+    {
+     "en": "Surrender!\nAnd order all your forces\nto cease fire!"
+    },
+    {
+     "en": "Fuhahahahaha!\nDo you think you've won?"
+    },
+    {
+     "en": "Heh... To me, this base is\nnothing but a sacrificial pawn."
+    },
+    {
+     "en": "No...\nI should thank you for so\nconveniently destroying it."
+    },
+    {
+     "en": "What do you mean?"
+    },
+    {
+     "en": "There is no need to explain.\nHistory will answer in time."
+    },
+    {
+     "en": "But your survival was\na miscalculation on my part..."
+    },
+    {
+     "en": "In tribute to your prowess in battle,\nI shall tell you something,\nas a special favor."
+    },
+    {
+     "en": "Right about now, GEAR HQ\nis under a Yoja assault.\nThat is my plan."
+    },
+    {
+     "en": "......?!"
+    },
+    {
+     "en": "But...\nwhat in the world are the Yoja...?!"
+    },
+    {
+     "en": "The Yoja are evil beings who\ndescend from another world..."
+    },
+    {
+     "en": "It seems GEAR, relying on its\nscience, was unable to\ndetect their approach."
+    },
+    {
+     "en": "Arago's Castle"
+    },
+    {
+     "en": "Oh no... While the Iron Gear\nand Dendoh are away!"
+    },
+    {
+     "en": "Ms. Vega...\nIt seems we've been\ncompletely set up."
+    },
+    {
+     "en": "Yes... But somehow we have to\nget back to the Iron Gear\nand warn them about this."
+    },
+    {
+     "en": "......!!"
+    },
+    {
+     "en": "Vega... you say?"
+    },
+    {
+     "en": "...!!"
+    },
+    {
+     "en": "Nnnnnngh...!!"
+    },
+    {
+     "en": "...?!"
+    },
+    {
+     "en": "Now's our chance!!"
+    },
+    {
+     "en": "Hurry, we're going back!!"
+    },
+    {
+     "en": "Grr...!\nDamn you!!"
+    },
+    {
+     "en": "I wonder what that was...\nThe moment he heard Ms. Vega's\nname, that guy..."
+    },
+    {
+     "en": "In any case, that saved us.\nIt looks like we'll be able\nto get away."
+    },
+    {
+     "en": "GEAR HQ is\nunder attack?"
+    },
+    {
+     "en": "Isn't it defended by\nunmanned weapons?"
+    },
+    {
+     "en": "Against the brute force Grados\nhas used so far, the unmanned\nweapons can hold their own."
+    },
+    {
+     "en": "But against those soldiers we fought,\nthe ones called Yoja..."
+    },
+    {
+     "en": "Yoja?"
+    },
+    {
+     "en": "What's that?"
+    },
+    {
+     "en": "I don't know...\nBut ordinary soldiers stand no\nchance against that evil power."
+    },
+    {
+     "en": "Damn!\nNatsumi and the others are\nat GEAR HQ too!"
+    },
+    {
+     "en": "To think it'd become\nthe enemy's target!"
+    },
+    {
+     "en": "Light!\nCan't even the D-3's sensors\ntell what's going on?"
+    },
+    {
+     "en": "No good!\nEvery sensor we have\nis being jammed!"
+    },
+    {
+     "en": "For some reason, we can't get any\nread at all on the area around GEAR!"
+    },
+    {
+     "en": "Whatever! We've just gotta\nhurry back, right?!"
+    },
+    {
+     "en": "That's right!\nEven while we're sitting here,\nthe enemy is...!"
+    },
+    {
+     "en": "Captain Elchi,\nfor now, let's just hurry!"
+    },
+    {
+     "en": "Right!"
+    },
+    {
+     "en": "Iron Gear!\nMove out for GEAR HQ!!"
+    },
+    {
+     "en": "Ngh..."
+    },
+    {
+     "en": "That ominous feeling I had before\nwe sortied... Could that have\nbeen the Yoja?"
+    },
+    {
+     "en": "The enemy's target is\nprobably GEAR HQ..."
+    },
+    {
+     "en": "If I'd known this would happen,\nI'd have brought Natsumi\nand the others along...!"
+    },
+    {
+     "en": "Head for Hoshimi Town!"
+    }
+   ],
+   "notes": "seg 0: George's [jp] taken as the Yoja Soldiers just beaten. seg 15: speaker header is Vega but the archaic [jp] reads like George; kept neutral wording that fits either. seg 17: [jp] here = the GEAR organization (relies on science). seg 18: [jp] scene label -> Arago's Castle (UI form). seg 53: [jp] -> Hoshimi Town (not in glossary; Hoshimi from library 'Hoshimi Elementary'). | [accuracy 20] project decision: [jp] = 'Ms. Vega' (George addressing her) | [accuracy 30] project decision: [jp] = 'Ms. Vega' (Sai Saici) | [editorial 20] accuracy edit used '/' as a line break; it would display literally | [editorial 30] accuracy edit used '/' as a line break; it would display literally | [editorial 31] 'we were saved' stiff | [editorial 46] 'let's hurry, no matter what' unidiomatic for tonikaku",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "Full speed ahead!!\nCan't we go any faster?!"
+    },
+    {
+     "en": "Don't be crazy!\nThe engines'll burn out!"
+    },
+    {
+     "en": "What?!\nWeren't they supposed to\nhave been powered up?!"
+    },
+    {
+     "en": "Elchiii!!\nEnemies!\nThere's a huge enemy force!!"
+    },
+    {
+     "en": "What did you say?!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 24,
+   "segments": [
+    {
+     "en": "Heh heh heh...\nI won't let you pass!"
+    },
+    {
+     "en": "What the?!\nWhat is that black one?!"
+    },
+    {
+     "en": "A black Dendoh?"
+    },
+    {
+     "en": "Th-That's...!\nKnight Ouga!\nIt can't be!"
+    },
+    {
+     "en": "Why is Ouga here...?!"
+    }
+   ],
+   "notes": "[jp]/[jp] -> Knight Ouga/Ouga per glossary and term_fixes (Knight Ogre -> Knight Ouga).",
+   "status": "proofread"
+  },
+  {
+   "id": 25,
+   "segments": [
+    {
+     "en": "Like hell I'm gonna\nlose heeeeeere!!"
+    },
+    {
+     "en": "Heh...\nSo that's the other Gear, Dendoh!"
+    },
+    {
+     "en": "However!!"
+    },
+    {
+     "en": "Waaaaaaaaah!!"
+    },
+    {
+     "en": "It may be the other Gear, but with\npilots like these, it's hardly\nworth worrying about...!"
+    },
+    {
+     "en": "I'll be taking that Gear as well.\nWhile it sits over there, it only\nmakes things complicated!"
+    }
+   ],
+   "notes": "[jp] here = the machine class (Dendoh as the other Gear besides Ouga), written 'Gear'; the organization [jp] is 'GEAR'. seg 5: the source's doubled [jp] is garbled; rendered the evident sense.",
+   "status": "proofread"
+  },
+  {
+   "id": 26,
+   "segments": [
+    {
+     "en": "Iron Gear,\nfull speed ahead!!"
+    },
+    {
+     "en": "Aye aye!"
+    },
+    {
+     "en": "Not bad,\nIron Gear."
+    },
+    {
+     "en": "You seem blessed with\nwarriors of real promise."
+    },
+    {
+     "en": "But...\nit wouldn't be any fun otherwise."
+    },
+    {
+     "en": "Now, how will\nGrados respond...?"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 27,
+   "segments": [
+    {
+     "en": "We're almost there, Ginga!\nWe should be able to see\nthe town soon."
+    },
+    {
+     "en": "What the...?"
+    },
+    {
+     "en": "There's something weird\nhanging over the town!"
+    },
+    {
+     "en": "You're right!"
+    },
+    {
+     "en": "Is that what\nthey call the Yoja?"
+    },
+    {
+     "en": "From here our range should\nhold out. Let's go, Kanji!"
+    },
+    {
+     "en": "Right!! Units with enough range,\nlet's go support GEAR HQ!!"
+    },
+    {
+     "en": "I'm counting on you all!"
+    },
+    {
+     "en": "I am Arago.\nI am the lord of the world of darkness."
+    },
+    {
+     "en": "Now my empire shall\nrule over this world!"
+    },
+    {
+     "en": "Know that now begins\nour reign over the land!!"
+    },
+    {
+     "en": "Still no contact with Vega?!"
+    },
+    {
+     "en": "Heavy jamming is preventing\nany contact!"
+    },
+    {
+     "en": "Enemy airborne troops descending!"
+    },
+    {
+     "en": "They're surrounding GEAR HQ!"
+    },
+    {
+     "en": "What about the defense divisions?!"
+    },
+    {
+     "en": "The 6th Defense Division\nhas been wiped out!"
+    },
+    {
+     "en": "Our attacks are having\nalmost no effect!!\nWe're being cut down one-sidedly!"
+    },
+    {
+     "en": "Kyaaaaaah!!"
+    },
+    {
+     "en": "Impossible!!\nSurprise attack or not, you're\ntelling me we can't hold out?!"
+    },
+    {
+     "en": "Deploy all unmanned units!!\nEvacuating residents is top priority!\nBuy us every second you can!!"
+    },
+    {
+     "en": "Mmmgh!"
+    },
+    {
+     "en": "The first bulkhead\nhas been breached!"
+    },
+    {
+     "en": "70% of systems are down.\nProtective barrier operating\nat 20%."
+    },
+    {
+     "en": "This is terrible..."
+    },
+    {
+     "en": "All base personnel except main staff,\nevacuate HQ immediately!!"
+    },
+    {
+     "en": "All personnel except main staff,\nplease evacuate!"
+    },
+    {
+     "en": "I repeat!\nAll personnel except main staff,\nplease evac--!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Seems there's been quite a racket\ngoing on outside for a while now."
+    },
+    {
+     "en": "What?\nIs it a war?"
+    },
+    {
+     "en": "Anyway, let's get outside!\nIf we stay in a place like this,\nwe won't be able to escape!"
+    },
+    {
+     "en": "Huff, huff, huff, huff..."
+    },
+    {
+     "en": "Natsumi!\nThis way!"
+    }
+   ],
+   "notes": "seg 6: [jp] = units with long range. seg 17: subject of [jp] unstated; read as the defenders' attacks (follows the wiped-out division). | [editorial 6] accuracy flag: 'long-range units' read as weapon range; this is cruising range (answers Amuro's line) | [editorial 29] tense clash ('seems to be ... for a while now'); Eji's casual old-man voice | [proofread 27] punctuation: mixed '--...' on a cut-off word; single interruption dash",
+   "status": "proofread"
+  },
+  {
+   "id": 28,
+   "segments": [
+    {
+     "en": "Aaah!\nThe light's red!!"
+    },
+    {
+     "en": "Auntie!\nAre you sure you're okay\nto drive?!"
+    },
+    {
+     "en": "Gah!\nThis is no time to be\nobeying traffic rules!"
+    },
+    {
+     "en": "But...!!"
+    },
+    {
+     "en": "Fuhahahaha!!\nAnd where do you think\nyou're going?"
+    },
+    {
+     "en": "Eeeeek!!"
+    },
+    {
+     "en": "Wh-What do you want?!\nOut of the way!!"
+    },
+    {
+     "en": "Hrrrraaah!!"
+    },
+    {
+     "en": "Kyaa!!"
+    },
+    {
+     "en": "Fuhahahaha!\nDiiiie!!"
+    },
+    {
+     "en": "What?"
+    },
+    {
+     "en": "Who's there?!!\nWho dared throw a stone\nat me?!"
+    },
+    {
+     "en": "Attacking a little girl\nisn't something a warrior does!"
+    },
+    {
+     "en": "Hmph!\nThen why don't you stop hiding\nand come out yourself!"
+    },
+    {
+     "en": "Yeah,\nI'll do just that!"
+    },
+    {
+     "en": "I smite evil with a heart of Benevolence!\nRyo of Rekka is here!!"
+    },
+    {
+     "en": "You Yoja scum!\nI'm the one you'll be fighting!"
+    },
+    {
+     "en": "Fuhahahahaha!\nInsolent humans!"
+    },
+    {
+     "en": "You're perfect for ringing down\nthe curtain on this rotten world!"
+    },
+    {
+     "en": "Raaaaah!!"
+    },
+    {
+     "en": "Haaaaaaah!!"
+    },
+    {
+     "en": "Fuhahaha!\nThat tickles!"
+    },
+    {
+     "en": "Ngh...!"
+    },
+    {
+     "en": "Fuhahaha!\nThis is the end for you!"
+    },
+    {
+     "en": "Gwaaaah!!"
+    },
+    {
+     "en": "Now then, we'll be\ntaking it from here!"
+    },
+    {
+     "en": "I smite evil with a heart of Wisdom!\nToma of Tenku is here!!"
+    },
+    {
+     "en": "This is way too slow!\nI can't stand just watching!"
+    },
+    {
+     "en": "I smite evil with a heart of\nRighteousness! Shu of Kongo is here!"
+    },
+    {
+     "en": "You're sure taking\nyour sweet time."
+    },
+    {
+     "en": "I smite evil with a heart of Trust!\nShin of Suiko is here!"
+    },
+    {
+     "en": "Looks like we\nmade it in time."
+    },
+    {
+     "en": "I smite evil with a heart of Courtesy!\nSeiji of Korin is here!"
+    },
+    {
+     "en": "Ooh, oooooh!\nCu-Cursed humans!\nYou'll pay for this!"
+    },
+    {
+     "en": "Are you all right?"
+    },
+    {
+     "en": "Thank you...\nYou really saved us."
+    },
+    {
+     "en": "Heh heh!\nNow that we're here,\nyou've got nothing to worry about!"
+    },
+    {
+     "en": "Just who are you guys?"
+    },
+    {
+     "en": "We're the\nSamurai Troopers."
+    },
+    {
+     "en": "When the Yoja appear in this world,\nwe strike them down with the power\nof our armor! That's our duty."
+    },
+    {
+     "en": "Samurai... Troopers..."
+    },
+    {
+     "en": "All right, everyone!\nLet's go!!"
+    },
+    {
+     "en": "Yeah!!"
+    },
+    {
+     "en": "Now all five\nof us are together!"
+    },
+    {
+     "en": "Let's combine the power of all five\nand protect the town from the Yoja!"
+    },
+    {
+     "en": "Yeahhh!!"
+    },
+    {
+     "en": "Destroy the Yoja Gate"
+    }
+   ],
+   "notes": "seg 1: Natsumi calls Izumi [jp] (her aunt) -> Auntie; Izumi is driving. Ronin intros (seg 15/26/28/30/32): fixed pattern 'I smite evil with a heart of <virtue>! <Name> of <Armor> is here!' with library virtue words (Benevolence/Wisdom/Righteousness/Trust/Courtesy) and glossary armor names (Rekka/Tenku/Kongo/Suiko/Korin). seg 25: [jp] -> 'us' (Toma arrives with the others). seg 34: [jp] kept as plain 'you' (Natsumi, Izumi, possibly Eji). | [accuracy 45] [jp] is a rallying cheer answering Ryo, not surprise ('Ohhh') | [editorial 25] 'how about leaving the rest to us!' read as a question with '!'; makaseru as an assertive takeover | [proofread 11] punctuation: question marked with '!!' only; '?!!' keeps the doubled force",
+   "status": "proofread"
+  },
+  {
+   "id": 29,
+   "segments": [
+    {
+     "en": "Ooh, oooooh!\nCu-Cursed humans!\nYou'll pay for this!"
+    },
+    {
+     "en": "All right!"
+    },
+    {
+     "en": "Let's drive the Yoja\nright out of town!"
+    },
+    {
+     "en": "Right!"
+    },
+    {
+     "en": "Wait!!"
+    },
+    {
+     "en": "A powerful aura is approaching!\nThis is no ordinary Yoja!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 31,
+   "segments": [
+    {
+     "en": "Heh heh heh...\nFuhahahahahahahahaha!!"
+    },
+    {
+     "en": "Who's there?!!"
+    },
+    {
+     "en": "I've had a good look\nat your power!"
+    },
+    {
+     "en": "Floundering like that against mere\nYoja Soldiers...! You're no match\nfor me after all!!"
+    },
+    {
+     "en": "Who are you?!"
+    },
+    {
+     "en": "Heh heh heh...\nIt's been a while since\nI was in the human world."
+    },
+    {
+     "en": "The Four Masho themselves will\ndeal with you! Be grateful!"
+    },
+    {
+     "en": "Destroy the \"Yoja Ship\" or\nrepel all of the \"Four Masho\""
+    }
+   ],
+   "notes": "[jp] -> Four Masho (library form; UI uses '4 Masho'). | [proofread 1] punctuation: question marked with '!!' only; '?!!' keeps the doubled force (Shuten Doji answers)",
+   "status": "proofread"
+  },
+  {
+   "id": 32,
+   "segments": [
+    {
+     "en": "Hmmm... So they have appeared...\nthe Samurai Troopers, with the\npower of the armor!"
+    },
+    {
+     "en": "Lord Arago! This is terrible!\nThe castle is being pushed back\ninto the Yoja World!"
+    },
+    {
+     "en": "At this rate, the human world\nand the Yoja World will be\ncut off from each other again!"
+    },
+    {
+     "en": "Hmph!\nIt is but a barrier made by humans...\nIt seems it is still incomplete."
+    },
+    {
+     "en": "No matter...\nIn time, the veil of darkness\nwill fill the human world."
+    },
+    {
+     "en": "When it does, the Yoja Gate\nwill open of its own accord."
+    },
+    {
+     "en": "Recall the Four Masho at once!"
+    },
+    {
+     "en": "At once!"
+    }
+   ],
+   "notes": "seg 5: [jp] -> Yoja Gate (glossary [jp]).",
+   "status": "proofread"
+  },
+  {
+   "id": 33,
+   "segments": [
+    {
+     "en": "Hm?\nThe enemy is pulling back..."
+    },
+    {
+     "en": "What's going on?!"
+    },
+    {
+     "en": "Samurai Troopers...! You alone\nI cannot leave be."
+    },
+    {
+     "en": "I shall bury you\nwith my own power!"
+    },
+    {
+     "en": "Die!!"
+    },
+    {
+     "en": "Fuhahaha!\nSamurai Troopers... you shall\nnever appear again."
+    },
+    {
+     "en": "...!"
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "Ah!\nThose guys are...!"
+    },
+    {
+     "en": "Those fellows turned into\nballs of light."
+    },
+    {
+     "en": "They flew off\nsomewhere."
+    },
+    {
+     "en": "Oh...\nThe sky is clearing up."
+    },
+    {
+     "en": "Fuhahaha!!\nWait for me, humans!\nI shall surely return!"
+    },
+    {
+     "en": "Fuhahahahahahahahaha!!"
+    },
+    {
+     "en": "Are we...\nsafe now...?"
+    },
+    {
+     "en": "Looks like it..."
+    },
+    {
+     "en": "Heeey!"
+    },
+    {
+     "en": "Heeey!\nNatsumiii!!"
+    },
+    {
+     "en": "Oh, it's Kanji."
+    },
+    {
+     "en": "Heeey!\nOver heeere!!"
+    },
+    {
+     "en": "Thank goodness!\nIs everyone all right?"
+    },
+    {
+     "en": "We're\nokay..."
+    },
+    {
+     "en": "Some guys in armor\nprotected us."
+    },
+    {
+     "en": "But after they protected us,\nthey turned into light\nand flew away."
+    },
+    {
+     "en": "And then that giant castle,\nwhich must have come from another\ndimension, just vanished."
+    },
+    {
+     "en": "I'm sure those guys drove it\naway for us... by sacrificing\nthemselves... *sob*..."
+    },
+    {
+     "en": "I'm sorry...\nIt's all because I took\nyou to HQ..."
+    },
+    {
+     "en": "That's not true.\nMaybe being at that base\nis what kept us safe."
+    },
+    {
+     "en": "It's not your fault...\nWe made it through\nsafe, after all."
+    },
+    {
+     "en": "Yeah, that's right."
+    },
+    {
+     "en": "Still... I've learned rea~lly well\nthat this is one crazy world."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Be that as it may,\nI'm starving.\nShall we get something to eat?"
+    },
+    {
+     "en": "You make it sound so easy!\nIt's your machine's fault\nwe ended up here!!"
+    },
+    {
+     "en": "What a persistent girl!\nWe're here now,\nand that's that!"
+    },
+    {
+     "en": "Besides, it's your fault for\nfiddling with it the wrong way."
+    },
+    {
+     "en": "You've got all your limbs,\nso be glad of it!!"
+    },
+    {
+     "en": "Wh-Why you~!"
+    },
+    {
+     "en": "Uh, um... (sweat)"
+    },
+    {
+     "en": "Bwaaaaah!"
+    },
+    {
+     "en": "Ahaha!\nMirai, weren't you\nscared?"
+    },
+    {
+     "en": "Bwaaah!"
+    },
+    {
+     "en": "Sigh...\nI've lost all my motivation..."
+    },
+    {
+     "en": "Our ship's back too, so things\nshould be safe for a while."
+    },
+    {
+     "en": "Sorry, but could you\nhead back to GEAR HQ?"
+    },
+    {
+     "en": "Indeed, there I can\ncontinue my research!\nBack we go!"
+    },
+    {
+     "en": "Yeah, yeah..."
+    },
+    {
+     "en": "Um, Kanji...\nThank you."
+    },
+    {
+     "en": "Well, see you later."
+    }
+   ],
+   "notes": "seg 8/22/25: Natsumi's [jp] (the Troopers) -> 'those guys' / 'some guys in armor'. seg 44: Kanji asks Natsumi's group (not himself) to return to HQ.",
+   "status": "proofread"
+  },
+  {
+   "id": 34,
+   "segments": [
+    {
+     "en": "Good work, members\nof the Iron Gear."
+    },
+    {
+     "en": "Thanks to you, the enemy\nbase has been destroyed."
+    },
+    {
+     "en": "That will let us keep the\nGrados Army in check for a while."
+    },
+    {
+     "en": "Never mind that,\nis GEAR HQ okay?"
+    },
+    {
+     "en": "Repairs to the command center and\nthe town are moving at full speed.\nLeave that side of things to us."
+    },
+    {
+     "en": "It seems the enemy that attacked\nHQ was \"Arago\" of the \"Yoja World.\""
+    },
+    {
+     "en": "But why did the\nenemy pull back?"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Which means we'll need to\nstay fully on guard."
+    },
+    {
+     "en": "What matters is that the enemy\nis tied to this thing called\nthe \"Yoja World.\""
+    },
+    {
+     "en": "Grados, Galfa,\nand now the Yoja..."
+    },
+    {
+     "en": "If these forces are working together,\nwe'll have to rethink our\nstrategy as well."
+    },
+    {
+     "en": "I think the Redros Army forces\nI've been chasing are more than\na little involved in this too."
+    },
+    {
+     "en": "The key to the series of battles\nwe've been through lies hidden there."
+    },
+    {
+     "en": "Well, if we want to find out,\nwe've got no choice but to keep\nmoving forward."
+    },
+    {
+     "en": "Hmm. It seems we'd better move\nup our departure for Pentagona."
+    },
+    {
+     "en": "I'll make sure to get you\npermission to pass into Pentagona."
+    },
+    {
+     "en": "Please wait a little\nwhile longer."
+    },
+    {
+     "en": "Got it."
+    },
+    {
+     "en": "Dismissed!"
+    }
+   ],
+   "notes": "seg 5: the furigana gloss [jp] dropped. [jp] -> Yoja World (term_fixes). | [accuracy 12] [jp] = 'not a little', the draft's 'to some extent' weakened it | [editorial 12] accuracy edit tacked 'and more than a little' on the end (and used '/'); same meaning, natural order",
+   "status": "proofread"
+  },
+  {
+   "id": 35,
+   "segments": [
+    {
+     "en": "All right, let's head out!"
+    },
+    {
+     "en": "Our objective is to survey enemy\nstrength. If we can beat them one by\none, we can split their forces further."
+    },
+    {
+     "en": "We can't go to\nPentagona yet anyway."
+    },
+    {
+     "en": "So let's take out as many enemies\nas we can while we've got the chance!"
+    },
+    {
+     "en": "But if we just run around without\na plan, we'll only wear ourselves out."
+    },
+    {
+     "en": "Urk!"
+    },
+    {
+     "en": "Hahaha!\nHe got you there, Kaine!"
+    },
+    {
+     "en": "Say, I have a suggestion. Why don't\nwe go a bit further while we're at it\nand visit the enemy supply base?"
+    },
+    {
+     "en": "We might still be able to\nget some information there."
+    },
+    {
+     "en": "True. Thanks to the Yoja getting\nin the way, we never finished\ninvestigating the base."
+    },
+    {
+     "en": "Leaving the town is risky, but if\nthe enemy base is being rebuilt,\nwe should hit it once more."
+    },
+    {
+     "en": "Sounds good to me.\nWhat do you say, Captain Elchi?"
+    },
+    {
+     "en": "Sure!"
+    },
+    {
+     "en": "Then let's get going!"
+    },
+    {
+     "en": "Iron Gear, move out!"
+    },
+    {
+     "en": "\"Head for the ruins of the\nenemy supply base\""
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 36,
+   "segments": [
+    {
+     "en": "Looks like there are\nno enemies here."
+    },
+    {
+     "en": "It hasn't been repaired at all...\nMaybe they've abandoned it."
+    },
+    {
+     "en": "I'll go take a look\ninside right away."
+    },
+    {
+     "en": "Right, let's go too."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 37,
+   "segments": [
+    {
+     "en": "It's huge... And it looks like\nthey'd stockpiled a whole\nlot of weapons."
+    },
+    {
+     "en": "Were they saving up their strength\nfor the invasion of Pentagona...?\nOr perhaps..."
+    },
+    {
+     "en": "Maybe they never thought\nwe'd come attack them?"
+    },
+    {
+     "en": "Gradosians seem to really\nlook down on the people of Terra."
+    }
+   ],
+   "notes": "[accuracy 3] project decision: [jp] = Gradosians | [editorial 1] 'Or else...' reads as a threat | [editorial 3] accuracy edit used '/' as a line break; it would display literally",
+   "status": "proofread"
+  },
+  {
+   "id": 38,
+   "segments": [
+    {
+     "en": "......?!"
+    },
+    {
+     "en": "This is..."
+    },
+    {
+     "en": "Did you find something?"
+    },
+    {
+     "en": "Oh, yes...\nThere are some documents here..."
+    },
+    {
+     "en": "...?"
+    },
+    {
+     "en": "Wh-Whoa, this is an\noperations plan! To think it\nsurvived without being burned..."
+    },
+    {
+     "en": "Let's see...\nHuh, the enemy commander\nis... Arthea..."
+    },
+    {
+     "en": "It even lists where he's from.\nLet's see... G-Galfa?"
+    },
+    {
+     "en": "...!!"
+    },
+    {
+     "en": "Why would a Grados Army\ncommander be from\nthe Galfa Empire?"
+    },
+    {
+     "en": "If the Grados Army and Galfa\nhave formed an alliance,\nit's conceivable, but..."
+    },
+    {
+     "en": "Still, a commander who isn't\nfrom Grados certainly bothers me."
+    },
+    {
+     "en": "Arthea of the Galfa Empire...\nHe might turn out to be\na real slippery customer."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "What's wrong,\nMs. Vega?"
+    },
+    {
+     "en": "Oh, I'm sorry.\nI was spacing out a little..."
+    },
+    {
+     "en": "...I'll go check out\nthe room over there."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "The commander... Arthea...\nIt can't be..."
+    },
+    {
+     "en": "My brother...\na lackey of Galfa...?"
+    },
+    {
+     "en": "No... It's impossible.\nMy brother can't be alive."
+    }
+   ],
+   "notes": "seg 8-9: header Hokuto on seg 8 only; seg 9 continues Hokuto. seg 18-20: Vega's monologue, not in parentheses in the source, kept as speech. | [accuracy 14] project decision: [jp] = 'Ms. Vega' (Kanji addressing her) | [editorial 2] subject/verb restored; Kanji speaks politely to Vega | [editorial 14] accuracy edit used '/' as a line break; it would display literally",
+   "status": "proofread"
+  },
+  {
+   "id": 39,
+   "segments": [
+    {
+     "en": "Are you done looking around?"
+    },
+    {
+     "en": "Yeah, there were documents left\nthat tell us about the enemy.\nThese'll come in handy."
+    },
+    {
+     "en": "There's no point staying here.\nLet's head straight back to HQ."
+    },
+    {
+     "en": "Return to Hoshimi Town"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 40,
+   "segments": [
+    {
+     "en": "Here we are."
+    },
+    {
+     "en": "Good work!"
+    },
+    {
+     "en": "Iron Gear, now docking."
+    },
+    {
+     "en": "They really are\nsomething, those people......"
+    }
+   ],
+   "notes": "[accuracy 2] project decision: [jp] = 'dock'",
+   "status": "proofread"
+  },
+  {
+   "id": 41,
+   "segments": [
+    {
+     "en": "Gaia Continent\n\"Grados City\""
+    },
+    {
+     "en": "Today, once again, the sunlight\nfalls equally upon all things..."
+    },
+    {
+     "en": "Upon Terra, and upon Grados alike..."
+    },
+    {
+     "en": "....................."
+    },
+    {
+     "en": "To think I would lose\nthe base in Asia......"
+    },
+    {
+     "en": "The conquest of all Terra...\nis taking longer than I expected."
+    },
+    {
+     "en": "Excuse me, sir!!"
+    },
+    {
+     "en": "Your Excellency, the Saint of Cusco\nis again requesting an audience\nwith you this morning."
+    },
+    {
+     "en": "What shall I do?\nShall I send her away?"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "No...\nI will meet her..."
+    },
+    {
+     "en": "Sir...?"
+    },
+    {
+     "en": "Show her in."
+    },
+    {
+     "en": "But...!"
+    },
+    {
+     "en": "The human heart is a fickle thing...\nI find I wish to meet her."
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Understood.\nPlease wait a moment."
+    },
+    {
+     "en": "It has been a long time,\nYour Excellency Gresco."
+    },
+    {
+     "en": "Albatro Mill\nJulia Asuka."
+    },
+    {
+     "en": "You were nothing more than\na common Grados soldier.\nWhat happened to you?"
+    },
+    {
+     "en": "Your Excellency, why not open your\nheart to the sunlight and the sound\nof the wind as well?"
+    },
+    {
+     "en": "And what would come of that?"
+    },
+    {
+     "en": "I beg you, Your Excellency.\nOur two peoples must cherish\none another."
+    },
+    {
+     "en": "By your command,\nTerra and Grados can\njoin hands together."
+    },
+    {
+     "en": "Julia...\nDo you really think I would\ngive such an order?"
+    },
+    {
+     "en": "I beg of you."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Your Excellency!\nI beg of you!"
+    },
+    {
+     "en": "Father!\nYou must not!"
+    },
+    {
+     "en": "Surely, Father, you don't take\nthe words of a woman of tainted\nblood like this seriously?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Julia!\nI shall answer in\nmy father's place."
+    },
+    {
+     "en": "The people of Terra... the Terrans...\nare a race inferior to us Gradosians\nin every respect!"
+    },
+    {
+     "en": "The very idea of joining hands\nwith them is presumptuous!"
+    },
+    {
+     "en": "No...!\nGradosians and Terrans hold\nthe same things within."
+    },
+    {
+     "en": "They are moved by beauty, they\nlisten to truth, they speak of\nlove, and they have pride."
+    },
+    {
+     "en": "And where are these\nTerrans you speak of?!"
+    },
+    {
+     "en": "Look around you!\nThey do whatever we say!"
+    },
+    {
+     "en": "That is because you\nmake them do so."
+    },
+    {
+     "en": "Like small children, for no reason,\nmerely to show off your own strength."
+    },
+    {
+     "en": "Oh...\nYou say the most interesting things."
+    },
+    {
+     "en": "Then show me, through battle, this\nhidden power of the Terrans\nthat you believe in!"
+    },
+    {
+     "en": "If the Terrans win, I will forgive\nyour slander against me and\nspare your life."
+    },
+    {
+     "en": "But if the Terrans lose,\nyour life is forfeit!!"
+    },
+    {
+     "en": "I have no desire\nfor battle!"
+    },
+    {
+     "en": "I shall soon prepare a\nfield for the decisive battle."
+    },
+    {
+     "en": "We will settle our long war with\nthe Resistance once and for all."
+    },
+    {
+     "en": "What do you say, Father...? Surely\nthis accords with your heart, which\nhas no taste for pointless slaughter."
+    },
+    {
+     "en": "What are you planning,\nLe Caine...?"
+    },
+    {
+     "en": "Heh... It's simple. We lure them\nout to Paradigm City and crush\nthem all in one stroke."
+    },
+    {
+     "en": "What do you mean?\nParadigm City is\nallied with us."
+    },
+    {
+     "en": "Were you not aware, sir?\nOf that city's acts of betrayal..."
+    },
+    {
+     "en": "Why is it that the Resistance\nholding out on the Gaia Continent\ncan keep on fighting?"
+    },
+    {
+     "en": "It's because they receive support\nfrom an organization in Asia\ncalled \"GEAR.\""
+    },
+    {
+     "en": "Their point of contact is the only\ncorridor connecting the two\ncontinents... namely, Paradigm City!"
+    },
+    {
+     "en": "For the Resistance, that city is\na lifeline they strategically\ncannot do without."
+    },
+    {
+     "en": "If we seize it, they will come\nat us in sheer desperation."
+    },
+    {
+     "en": "Le Caine...\nChase the enemy before your eyes,\nand you will misjudge grand strategy."
+    },
+    {
+     "en": "We of Grados must now\nunify all of Terra."
+    },
+    {
+     "en": "For that purpose, Paradigm\nmust be allowed to live."
+    },
+    {
+     "en": "But, Your Excellency,\nit's plain that city is secretly\nin league with the enemy."
+    },
+    {
+     "en": "Will you let their kind\nrun free?!"
+    },
+    {
+     "en": "Le Caine...\nIt seems you still don't\nunderstand what war is."
+    },
+    {
+     "en": "Is that so?"
+    },
+    {
+     "en": "To begin with, the reason we\nstill haven't conquered\nthe Asia Continent..."
+    },
+    {
+     "en": "Isn't it because your strategy,\nYour Excellency, is so timid?!"
+    },
+    {
+     "en": "You go too far,\nLe Caine!"
+    },
+    {
+     "en": "My apologies."
+    },
+    {
+     "en": "Lord Le Caine, even if you win by\nmaking enemies of everyone,\nwhat will be left?"
+    },
+    {
+     "en": "That is what His Excellency\nGresco is telling you."
+    },
+    {
+     "en": "Keep out of this, outsider!"
+    },
+    {
+     "en": "Your Excellency!\nPlease heed my counsel!\nI will answer you with results!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Very well..."
+    },
+    {
+     "en": "The Cusco gate has stabilized, and\nthe reinforcements from the homeworld\nkeep growing larger."
+    },
+    {
+     "en": "If, as you say, you can take Paradigm\nand catch the enemy in a single\nsweep, then so be it."
+    },
+    {
+     "en": "Show me what you can do,\nLe Caine!"
+    },
+    {
+     "en": "Yes, sir!"
+    },
+    {
+     "en": "How foolish... To measure people's\nworth by the strength of\ntheir arms..."
+    },
+    {
+     "en": "Fuhahahaha!"
+    },
+    {
+     "en": "Julia!\nLet the superiority of the Gradosians\nbe seared into your eyes!"
+    },
+    {
+     "en": "Your Excellency!\nThe fleet is fully prepared\nto sortie!"
+    },
+    {
+     "en": "Well done!"
+    },
+    {
+     "en": "Father has given his permission.\nTomorrow morning, we sortie\nfor Paradigm City."
+    },
+    {
+     "en": "Yes, sir!"
+    }
+   ],
+   "notes": "[jp] -> Cusco (UI 'Cusco Continent', library 'Saint of Cusco'; the speakers file says Cuzco). [jp] -> Terrans (as in dlg_3986_09447_01); [jp] -> Gradosians. seg 4: [jp] = the Grados supply base destroyed in the previous scene. seg 29: [jp] kept at full strength ('of tainted blood'; Julia is half-Terran). seg 47: Le Caine addresses Gresco as Father and Your Excellency by turns, kept as in source. seg 53: [jp] = the GEAR organization. seg 81: Roanne addresses Le Caine as [jp] -> Your Excellency. | [accuracy 61] [jp] = 'their kind / such people' (contemptuous, but 'scum' overstated it) | [editorial 40] Le Caine's sneer; 'You say interesting things' too literal | [editorial 52] 'the Resistance, who keep resisting' repetition | [editorial 54] accuracy flag: renrakuchi, 'Their link' too terse | [editorial 61] accuracy edit used '/' as a line break; it would display literally | [editorial 64] term: 'Asia Continent' as everywhere else in the corpus (Gaia/Cusco Continent pattern) | [editorial 70] accuracy flag: direct rebuke to Julia; impersonal form was stiff | [editorial 80] inverted word order ('Burn into your eyes the...') awkward; imagery kept",
+   "status": "proofread"
+  }
+ ]
+}

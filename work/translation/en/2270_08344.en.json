@@ -1,0 +1,171 @@
+{
+ "table": "2270_08344",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "The mock battle\nwill now begin."
+    },
+    {
+     "en": "Send the drill program to every\nunit scheduled to sortie!"
+    },
+    {
+     "en": "Sending the program now."
+    },
+    {
+     "en": "Oh, here it comes."
+    },
+    {
+     "en": "So far, so good!\nYou're doing great,\nLun!"
+    },
+    {
+     "en": "Oh, Kanji...\nDid it get to you all right?"
+    },
+    {
+     "en": "Yeah!\nIt came through perfectly!"
+    },
+    {
+     "en": "Um... Kanji?"
+    },
+    {
+     "en": "What?"
+    },
+    {
+     "en": "I went to the trouble of sending it,\nso read it properly, okay?"
+    },
+    {
+     "en": "Hahaha... (sweat)\nI know, I know."
+    },
+    {
+     "en": "Okay then...\nGuess I'll start up the program\nLun sent me."
+    },
+    {
+     "en": "So it starts with the basic controls?\nWhat a pain~"
+    },
+    {
+     "en": "But it's Lun asking me,\nnot just anyone.\nGuess I'll just have to grin and bear it..."
+    },
+    {
+     "en": "Heh...\nI'll take a good long look at\nhow much those kids have grown."
+    },
+    {
+     "en": "We'll be entering attack range shortly.\nAll units, prepare to sortie!"
+    },
+    {
+     "en": "All right, let's go,\nmy GT-K."
+    },
+    {
+     "en": "Nelfea! You probably know already,\nbut the enemy leader\nis Kanji Akatsuki."
+    },
+    {
+     "en": "His machine is an FT,\nthe Cloud Saber."
+    },
+    {
+     "en": "If he flies at high altitude,\nshooting him down with a ground-combat GT\nis next to impossible."
+    },
+    {
+     "en": "I'll try provoking him, at least.\nIf he's the cocky type,\nhe might come down."
+    },
+    {
+     "en": "I wish I could've gotten you\nan FT too, instead of a GT..."
+    },
+    {
+     "en": "I don't mind.\nI'm used to this machine."
+    },
+    {
+     "en": "Against Kanji, it's just\nthe right handicap."
+    },
+    {
+     "en": "Honestly...\nwhat a girl you are..."
+    },
+    {
+     "en": "Auntie Tail!"
+    },
+    {
+     "en": "Don't treat me like a child\nwhile I'm carrying out a mission...!"
+    },
+    {
+     "en": "Ahaha...\nI'm sorry."
+    },
+    {
+     "en": "But don't get the wrong idea.\nI just thought you seemed\nreliable, that's all."
+    },
+    {
+     "en": "Heh... Thanks."
+    },
+    {
+     "en": "It's almost time..."
+    },
+    {
+     "en": "I'm launching!"
+    },
+    {
+     "en": "Don't get cocky just because\nyou've got air superiority."
+    },
+    {
+     "en": "I'll show you what this\nmachine can really do!"
+    },
+    {
+     "en": "We'll buy time with the GT-O\nagainst attacks from the air!"
+    },
+    {
+     "en": "Meanwhile, Nelfea,\ncharge in from the ground."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Listen,\nBig Bro."
+    },
+    {
+     "en": "In battle, whoever sinks the other\nside's mothership first wins."
+    },
+    {
+     "en": "No matter how many units you have left,\nif your mothership goes down, you lose."
+    },
+    {
+     "en": "Roger. So I just have to hit\nthe enemy mothership fast."
+    },
+    {
+     "en": "Also, the enemy mothership\nhas no units that are good\nat aerial combat."
+    },
+    {
+     "en": "So you should take your\nCloud Saber and attack\nfrom the air, Big Bro."
+    },
+    {
+     "en": "I know basic stuff like that\nwithout you spelling it out\nevery single time."
+    },
+    {
+     "en": "Well, of course you do.\nYou ARE the \"combat leader.\""
+    },
+    {
+     "en": "Okay, I'm counting on you!"
+    },
+    {
+     "en": "All right!\nHere I go!!"
+    },
+    {
+     "en": "How's that!"
+    },
+    {
+     "en": "You've gotten better,\nKanji!"
+    },
+    {
+     "en": "But now\nit's our turn."
+    },
+    {
+     "en": "Nelfea's unit has broken\nthrough the defense line!"
+    },
+    {
+     "en": "That leaves our\nmothership wide open!"
+    },
+    {
+     "en": "We have to launch\ninterceptors right away!"
+    }
+   ],
+   "notes": "Battle tutorial; same scene as dlg_0672_07375_00 (other version) -- kept its terms: mock battle, drill program, mothership (UI), \"combat leader\" ([jp]), Auntie Tail. Seg 1 (no header): an order on Kanji's side, speaker unclear (likely Rie as captain). Seg 4 and 13 (no header) read as Kanji continuing. Seg 17 [jp] 'the enemy leader' (Kanji leads the opposing team). Seg 20 source has [jp] (requisition), clearly a typo for [jp] (provoke). Seg 23/26/28/33/35 (no header) read as the previous speaker continuing. Seg 47-49: 'How's that!' is Kanji; 'You've gotten better, Kanji!' has Nelfea's header (kept speaker-neutral). Seg 49 [jp] 'our turn' (Nelfea speaks for Tail's side). Seg 52 (no header): continues Rie's alarm. | [accuracy 6] subject restored: 'it' = the program Lun sent | [accuracy 13] [jp] = 'none other than Lun' (why he can't refuse); 'of all people' read as surprise/disparagement | [accuracy 24] [jp] is exasperated admiration (Tail says next she meant Nelfea seemed reliable); 'you're such a kid' made it an insult and contradicted k28. 'girl' still lets Nelfea take it as being treated like a child | [accuracy 30] [jp] = 'almost time'; 'It's about time' reads as impatient 'finally' | [accuracy 31] subject restored (Nelfea launching herself) | [editorial 4] 'Going smoothly, smoothly!' was a literal doubling | [editorial 12] Kanji is alone: 'We're' had no referent; the program is the subject (accuracy flag k12) | [editorial 21] word order: 'too' attached to the FT, as accuracy flag k21 suggested | [editorial 45] 'Well' repeated from k44 'Well, of course you do.'",
+   "status": "proofread"
+  }
+ ]
+}

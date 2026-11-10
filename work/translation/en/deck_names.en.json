@@ -1,0 +1,964 @@
+{
+ "rows": [
+  {
+   "en": "Test Deck",
+   "notes": "",
+   "source_va": "0x2668fc",
+   "source_size": 24
+  },
+  {
+   "en": "Test Deck 2",
+   "notes": "",
+   "source_va": "0x266a34",
+   "source_size": 24
+  },
+  {
+   "en": "1st Mech Squad",
+   "notes": "player starting squad",
+   "source_va": "0x267184",
+   "source_size": 24
+  },
+  {
+   "en": "Mock Enemy Squad",
+   "notes": "",
+   "source_va": "0x266ca4",
+   "source_size": 24
+  },
+  {
+   "en": "Cruiser Renown",
+   "notes": "",
+   "source_va": "0x266ddc",
+   "source_size": 24
+  },
+  {
+   "en": "Battleship Zalkfur",
+   "notes": "",
+   "source_va": "0x266f14",
+   "source_size": 24
+  },
+  {
+   "en": "Londo Bell Raiders",
+   "notes": "",
+   "source_va": "0x26704c",
+   "source_size": 24
+  },
+  {
+   "en": "Zeon Remnants 1",
+   "notes": "",
+   "source_va": "0x2672bc",
+   "source_size": 24
+  },
+  {
+   "en": "Zeon Remnants 2",
+   "notes": "",
+   "source_va": "0x2673f4",
+   "source_size": 24
+  },
+  {
+   "en": "Zeon Remnants 3",
+   "notes": "",
+   "source_va": "0x26752c",
+   "source_size": 24
+  },
+  {
+   "en": "Londo Bell Drill Team",
+   "notes": "",
+   "source_va": "0x267664",
+   "source_size": 24
+  },
+  {
+   "en": "Londo Bell Drill Team B",
+   "notes": "",
+   "source_va": "0x26779c",
+   "source_size": 24
+  },
+  {
+   "en": "5th Luna Interceptors",
+   "notes": "",
+   "source_va": "0x2678d4",
+   "source_size": 24
+  },
+  {
+   "en": "Decoy Squad 1 (Rezin)",
+   "notes": "",
+   "source_va": "0x267a0c",
+   "source_size": 24
+  },
+  {
+   "en": "Luna II Assault Force",
+   "notes": "",
+   "source_va": "0x267b44",
+   "source_size": 24
+  },
+  {
+   "en": "Reuleaux Squad",
+   "notes": "",
+   "source_va": "0x267c7c",
+   "source_size": 24
+  },
+  {
+   "en": "Axis Defense Force",
+   "notes": "",
+   "source_va": "0x267db4",
+   "source_size": 24
+  },
+  {
+   "en": "Dragonar Team",
+   "notes": "",
+   "source_va": "0x26c944",
+   "source_size": 24
+  },
+  {
+   "en": "Breaker Squad 1",
+   "notes": "",
+   "source_va": "0x268024",
+   "source_size": 24
+  },
+  {
+   "en": "Breaker Squad 2",
+   "notes": "",
+   "source_va": "0x26815c",
+   "source_size": 24
+  },
+  {
+   "en": "Iron Gear Squad",
+   "notes": "",
+   "source_va": "0x26ae74",
+   "source_size": 24
+  },
+  {
+   "en": "Timp Squad 1",
+   "notes": "",
+   "source_va": "0x2683cc",
+   "source_size": 24
+  },
+  {
+   "en": "Horla Squad 1",
+   "notes": "",
+   "source_va": "0x268504",
+   "source_size": 24
+  },
+  {
+   "en": "Grados Squad 1",
+   "notes": "",
+   "source_va": "0x26863c",
+   "source_size": 24
+  },
+  {
+   "en": "Grados Squad 2",
+   "notes": "",
+   "source_va": "0x268774",
+   "source_size": 24
+  },
+  {
+   "en": "Grados Squad 3",
+   "notes": "",
+   "source_va": "0x269e9c",
+   "source_size": 24
+  },
+  {
+   "en": "Gosterro A",
+   "notes": "",
+   "source_va": "0x2689e4",
+   "source_size": 24
+  },
+  {
+   "en": "Karla A",
+   "notes": "",
+   "source_va": "0x268b1c",
+   "source_size": 24
+  },
+  {
+   "en": "Le Caine Squad A",
+   "notes": "",
+   "source_va": "0x268c54",
+   "source_size": 24
+  },
+  {
+   "en": "Roanne Squad A",
+   "notes": "",
+   "source_va": "0x268d8c",
+   "source_size": 24
+  },
+  {
+   "en": "Le Caine Squad B",
+   "notes": "",
+   "source_va": "0x268ec4",
+   "source_size": 24
+  },
+  {
+   "en": "Le Caine Squad C",
+   "notes": "",
+   "source_va": "0x268ffc",
+   "source_size": 24
+  },
+  {
+   "en": "Karla B",
+   "notes": "",
+   "source_va": "0x269134",
+   "source_size": 24
+  },
+  {
+   "en": "Grados City Recon",
+   "notes": "",
+   "source_va": "0x26926c",
+   "source_size": 24
+  },
+  {
+   "en": "Grados Infantry",
+   "notes": "",
+   "source_va": "0x2693a4",
+   "source_size": 24
+  },
+  {
+   "en": "Horla Infantry",
+   "notes": "",
+   "source_va": "0x2694dc",
+   "source_size": 24
+  },
+  {
+   "en": "Gosterro/Horla Infantry",
+   "notes": "",
+   "source_va": "0x269614",
+   "source_size": 24
+  },
+  {
+   "en": "Karla and Timp",
+   "notes": "",
+   "source_va": "0x26974c",
+   "source_size": 24
+  },
+  {
+   "en": "First Infantry Battle",
+   "notes": "",
+   "source_va": "0x269884",
+   "source_size": 24
+  },
+  {
+   "en": "Red vs White (Red)",
+   "notes": "",
+   "source_va": "0x2699bc",
+   "source_size": 24
+  },
+  {
+   "en": "Red vs White (White)",
+   "notes": "",
+   "source_va": "0x269af4",
+   "source_size": 24
+  },
+  {
+   "en": "Janous Squad",
+   "notes": "",
+   "source_va": "0x269c2c",
+   "source_size": 24
+  },
+  {
+   "en": "Grados Supply Unit 1",
+   "notes": "",
+   "source_va": "0x269d64",
+   "source_size": 24
+  },
+  {
+   "en": "Bebop",
+   "notes": "",
+   "source_va": "0x269fd4",
+   "source_size": 24
+  },
+  {
+   "en": "Vega's First Battle",
+   "notes": "",
+   "source_va": "0x26a10c",
+   "source_size": 24
+  },
+  {
+   "en": "Yoja Platoon 1",
+   "notes": "",
+   "source_va": "0x26a244",
+   "source_size": 24
+  },
+  {
+   "en": "Arthea Fleet 1",
+   "notes": "",
+   "source_va": "0x26a37c",
+   "source_size": 24
+  },
+  {
+   "en": "Troopers 1",
+   "notes": "",
+   "source_va": "0x26a4b4",
+   "source_size": 24
+  },
+  {
+   "en": "Yoja Ship Squad",
+   "notes": "",
+   "source_va": "0x26a5ec",
+   "source_size": 24
+  },
+  {
+   "en": "Vega's Infantry",
+   "notes": "",
+   "source_va": "0x26a724",
+   "source_size": 24
+  },
+  {
+   "en": "Arthea Fleet 2",
+   "notes": "",
+   "source_va": "0x26a85c",
+   "source_size": 24
+  },
+  {
+   "en": "Arthea Fleet 3",
+   "notes": "",
+   "source_va": "0x26a994",
+   "source_size": 24
+  },
+  {
+   "en": "Timp: Paradigm Sea",
+   "notes": "",
+   "source_va": "0x26aacc",
+   "source_size": 24
+  },
+  {
+   "en": "Ep. 13 Infantry",
+   "notes": "",
+   "source_va": "0x26ac04",
+   "source_size": 24
+  },
+  {
+   "en": "Ep. 13 Infantry (Foe)",
+   "notes": "",
+   "source_va": "0x26ad3c",
+   "source_size": 24
+  },
+  {
+   "en": "Arthea Fleet 4",
+   "notes": "",
+   "source_va": "0x26afac",
+   "source_size": 24
+  },
+  {
+   "en": "Ep. 13 Pre-Final Squad",
+   "notes": "",
+   "source_va": "0x26b0e4",
+   "source_size": 24
+  },
+  {
+   "en": "Zakaal Assault Force",
+   "notes": "",
+   "source_va": "0x26b21c",
+   "source_size": 24
+  },
+  {
+   "en": "Sea of Clouds Strike",
+   "notes": "",
+   "source_va": "0x26b354",
+   "source_size": 24
+  },
+  {
+   "en": "Zakaal Garrison",
+   "notes": "",
+   "source_va": "0x26b48c",
+   "source_size": 24
+  },
+  {
+   "en": "Mission 1",
+   "notes": "",
+   "source_va": "0x26b5c4",
+   "source_size": 24
+  },
+  {
+   "en": "Mission 2",
+   "notes": "",
+   "source_va": "0x26b6fc",
+   "source_size": 24
+  },
+  {
+   "en": "Mission 3",
+   "notes": "",
+   "source_va": "0x26b96c",
+   "source_size": 24
+  },
+  {
+   "en": "Unified Mech Squad 1",
+   "notes": "",
+   "source_va": "0x26baa4",
+   "source_size": 24
+  },
+  {
+   "en": "Unified Marines 1",
+   "notes": "",
+   "source_va": "0x26bbdc",
+   "source_size": 24
+  },
+  {
+   "en": "Redros Mech Squad 1",
+   "notes": "",
+   "source_va": "0x26bd14",
+   "source_size": 24
+  },
+  {
+   "en": "Redros Marines 1",
+   "notes": "",
+   "source_va": "0x26be4c",
+   "source_size": 24
+  },
+  {
+   "en": "Brave Allied Mechs",
+   "notes": "",
+   "source_va": "0x26bf84",
+   "source_size": 24
+  },
+  {
+   "en": "Space Allied Mechs",
+   "notes": "",
+   "source_va": "0x26c0bc",
+   "source_size": 24
+  },
+  {
+   "en": "Allied Infantry",
+   "notes": "",
+   "source_va": "0x26c1f4",
+   "source_size": 24
+  },
+  {
+   "en": "Redros Combined Mechs",
+   "notes": "",
+   "source_va": "0x26c32c",
+   "source_size": 24
+  },
+  {
+   "en": "Galfa Allied Mechs",
+   "notes": "",
+   "source_va": "0x26c464",
+   "source_size": 24
+  },
+  {
+   "en": "Showdown at Arago",
+   "notes": "",
+   "source_va": "0x26c59c",
+   "source_size": 24
+  },
+  {
+   "en": "Mediator",
+   "notes": "",
+   "source_va": "0x26c80c",
+   "source_size": 24
+  },
+  {
+   "en": "(G) MS Team 0080",
+   "notes": "",
+   "source_va": "0x26ca7c",
+   "source_size": 24
+  },
+  {
+   "en": "(S) MS Team 0083",
+   "notes": "",
+   "source_va": "0x26cbb4",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Titans",
+   "notes": "",
+   "source_va": "0x26ccec",
+   "source_size": 24
+  },
+  {
+   "en": "(S) Delaz Fleet",
+   "notes": "",
+   "source_va": "0x26ce24",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Elchi's Revolt",
+   "notes": "",
+   "source_va": "0x26cf5c",
+   "source_size": 24
+  },
+  {
+   "en": "(S) Metal Armor Team",
+   "notes": "",
+   "source_va": "0x26d094",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Grados & Galfa",
+   "notes": "",
+   "source_va": "0x26d1cc",
+   "source_size": 24
+  },
+  {
+   "en": "(S) Gaia-Asia Alliance",
+   "notes": "",
+   "source_va": "0x26d304",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Giganos Army",
+   "notes": "",
+   "source_va": "0x26d43c",
+   "source_size": 24
+  },
+  {
+   "en": "(S) Neo Zeon Army",
+   "notes": "",
+   "source_va": "0x26d574",
+   "source_size": 24
+  },
+  {
+   "en": "(S) G Team 0087",
+   "notes": "",
+   "source_va": "0x26d6ac",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Fang of the Sun",
+   "notes": "",
+   "source_va": "0x26d7e4",
+   "source_size": 24
+  },
+  {
+   "en": "(S) Asteroid League",
+   "notes": "",
+   "source_va": "0x26d91c",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Mardoul Combined",
+   "notes": "",
+   "source_va": "0x26da54",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Pentagona Rebels",
+   "notes": "",
+   "source_va": "0x26db8c",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Drake's Ambition",
+   "notes": "",
+   "source_va": "0x26dcc4",
+   "source_size": 24
+  },
+  {
+   "en": "(S) OZ Specials",
+   "notes": "",
+   "source_va": "0x26ddfc",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Mariemaia Army",
+   "notes": "",
+   "source_va": "0x26df34",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Rochina Fleet",
+   "notes": "",
+   "source_va": "0x26e06c",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Brave League",
+   "notes": "",
+   "source_va": "0x26e1a4",
+   "source_size": 24
+  },
+  {
+   "en": "(G) White Valley League",
+   "notes": "",
+   "source_va": "0x26e2dc",
+   "source_size": 24
+  },
+  {
+   "en": "(S) New Poseidal Army",
+   "notes": "",
+   "source_va": "0x26e414",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Eldran Alliance",
+   "notes": "",
+   "source_va": "0x26e54c",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Goraon Raiders",
+   "notes": "",
+   "source_va": "0x26e684",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Women Elite Squad",
+   "notes": "",
+   "source_va": "0x26e7bc",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Endless Waltz",
+   "notes": "",
+   "source_va": "0x26e8f4",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Earth Defense Class",
+   "notes": "",
+   "source_va": "0x26ea2c",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Grand Brave League",
+   "notes": "",
+   "source_va": "0x26eb64",
+   "source_size": 24
+  },
+  {
+   "en": "(S) Dread G Corps",
+   "notes": "",
+   "source_va": "0x26ec9c",
+   "source_size": 24
+  },
+  {
+   "en": "(G) Top Ace Squad",
+   "notes": "",
+   "source_va": "0x26edd4",
+   "source_size": 24
+  },
+  {
+   "en": "Breaker Infantry",
+   "notes": "",
+   "source_va": "0x26ef0c",
+   "source_size": 24
+  },
+  {
+   "en": "New Sand Rats",
+   "notes": "",
+   "source_va": "0x272d34",
+   "source_size": 24
+  },
+  {
+   "en": "Resistance Infiltrators",
+   "notes": "",
+   "source_va": "0x26f17c",
+   "source_size": 24
+  },
+  {
+   "en": "GEAR Marines",
+   "notes": "",
+   "source_va": "0x272fa4",
+   "source_size": 24
+  },
+  {
+   "en": "Culture Correction Unit",
+   "notes": "",
+   "source_va": "0x2730dc",
+   "source_size": 24
+  },
+  {
+   "en": "Shuffle Alliance",
+   "notes": "",
+   "source_va": "0x273214",
+   "source_size": 24
+  },
+  {
+   "en": "Yoja Realm: Shuten Raid",
+   "notes": "",
+   "source_va": "0x27334c",
+   "source_size": 24
+  },
+  {
+   "en": "Samurai Troopers",
+   "notes": "",
+   "source_va": "0x273484",
+   "source_size": 24
+  },
+  {
+   "en": "Gosterro Returns",
+   "notes": "",
+   "source_va": "0x2735bc",
+   "source_size": 24
+  },
+  {
+   "en": "Four Warlords Assemble",
+   "notes": "",
+   "source_va": "0x2736f4",
+   "source_size": 24
+  },
+  {
+   "en": "J. Locke Squad",
+   "notes": "",
+   "source_va": "0x27382c",
+   "source_size": 24
+  },
+  {
+   "en": "Wataru and Friends",
+   "notes": "",
+   "source_va": "0x26fc74",
+   "source_size": 24
+  },
+  {
+   "en": "Prince Mito's Party",
+   "notes": "",
+   "source_va": "0x26fdac",
+   "source_size": 24
+  },
+  {
+   "en": "GGG Marines",
+   "notes": "",
+   "source_va": "0x273bd4",
+   "source_size": 24
+  },
+  {
+   "en": "Kazuma for Hire",
+   "notes": "",
+   "source_va": "0x273d0c",
+   "source_size": 24
+  },
+  {
+   "en": "HOLY Squad",
+   "notes": "",
+   "source_va": "0x273e44",
+   "source_size": 24
+  },
+  {
+   "en": "Brave Dagwon",
+   "notes": "",
+   "source_va": "0x273f7c",
+   "source_size": 24
+  },
+  {
+   "en": "Onward to Galgiva",
+   "notes": "",
+   "source_va": "0x2740b4",
+   "source_size": 24
+  },
+  {
+   "en": "Native Side",
+   "notes": "",
+   "source_va": "0x2704fc",
+   "source_size": 24
+  },
+  {
+   "en": "Ruthless HOLY Squad",
+   "notes": "",
+   "source_va": "0x274324",
+   "source_size": 24
+  },
+  {
+   "en": "Infantry Horde",
+   "notes": "",
+   "source_va": "0x27445c",
+   "source_size": 24
+  },
+  {
+   "en": "Dark League",
+   "notes": "",
+   "source_va": "0x2708a4",
+   "source_size": 24
+  },
+  {
+   "en": "Rascal League",
+   "notes": "",
+   "source_va": "0x2746cc",
+   "source_size": 24
+  },
+  {
+   "en": "Brave Marines",
+   "notes": "",
+   "source_va": "0x270b14",
+   "source_size": 24
+  },
+  {
+   "en": "Yoja Realm Onslaught",
+   "notes": "",
+   "source_va": "0x270c4c",
+   "source_size": 24
+  },
+  {
+   "en": "Squad of Justice",
+   "notes": "",
+   "source_va": "0x270d84",
+   "source_size": 24
+  },
+  {
+   "en": "Galfa-HOLY League",
+   "notes": "",
+   "source_va": "0x270ebc",
+   "source_size": 24
+  },
+  {
+   "en": "Women Warriors",
+   "notes": "",
+   "source_va": "0x270ff4",
+   "source_size": 24
+  },
+  {
+   "en": "Dark Aura",
+   "notes": "",
+   "source_va": "0x27112c",
+   "source_size": 24
+  },
+  {
+   "en": "Elite Marines",
+   "notes": "",
+   "source_va": "0x271264",
+   "source_size": 24
+  },
+  {
+   "en": "Mobile Suit Team 0080",
+   "notes": "",
+   "source_va": "0x27139c",
+   "source_size": 24
+  },
+  {
+   "en": "Mobile Suit Team 0083",
+   "notes": "",
+   "source_va": "0x2714d4",
+   "source_size": 24
+  },
+  {
+   "en": "Titans",
+   "notes": "",
+   "source_va": "0x27160c",
+   "source_size": 24
+  },
+  {
+   "en": "Delaz Fleet",
+   "notes": "",
+   "source_va": "0x271744",
+   "source_size": 24
+  },
+  {
+   "en": "Hired Breakers",
+   "notes": "",
+   "source_va": "0x27187c",
+   "source_size": 24
+  },
+  {
+   "en": "Metal Armor Team",
+   "notes": "",
+   "source_va": "0x2719b4",
+   "source_size": 24
+  },
+  {
+   "en": "Grados-Galfa Alliance",
+   "notes": "",
+   "source_va": "0x271aec",
+   "source_size": 24
+  },
+  {
+   "en": "Whale Raiders",
+   "notes": "",
+   "source_va": "0x271c24",
+   "source_size": 24
+  },
+  {
+   "en": "Giganos Army",
+   "notes": "",
+   "source_va": "0x271d5c",
+   "source_size": 24
+  },
+  {
+   "en": "Neo Zeon Corps",
+   "notes": "",
+   "source_va": "0x271e94",
+   "source_size": 24
+  },
+  {
+   "en": "Gundam Team 0087",
+   "notes": "",
+   "source_va": "0x271fcc",
+   "source_size": 24
+  },
+  {
+   "en": "Fang of the Sun",
+   "notes": "",
+   "source_va": "0x272104",
+   "source_size": 24
+  },
+  {
+   "en": "Asteroid League",
+   "notes": "",
+   "source_va": "0x27223c",
+   "source_size": 24
+  },
+  {
+   "en": "Mardoul-Deloyer Union",
+   "notes": "",
+   "source_va": "0x272374",
+   "source_size": 24
+  },
+  {
+   "en": "Pentagona Rebels",
+   "notes": "",
+   "source_va": "0x2724ac",
+   "source_size": 24
+  },
+  {
+   "en": "Drake Army",
+   "notes": "",
+   "source_va": "0x2725e4",
+   "source_size": 24
+  },
+  {
+   "en": "OZ Specials",
+   "notes": "",
+   "source_va": "0x27271c",
+   "source_size": 24
+  },
+  {
+   "en": "Mariemaia Army",
+   "notes": "",
+   "source_va": "0x272854",
+   "source_size": 24
+  },
+  {
+   "en": "Rochina Fleet",
+   "notes": "",
+   "source_va": "0x27298c",
+   "source_size": 24
+  },
+  {
+   "en": "Brave League",
+   "notes": "",
+   "source_va": "0x272ac4",
+   "source_size": 24
+  },
+  {
+   "en": "Breaker Squad",
+   "notes": "",
+   "source_va": "0x272bfc",
+   "source_size": 24
+  },
+  {
+   "en": "Infiltration Team",
+   "notes": "",
+   "source_va": "0x272e6c",
+   "source_size": 24
+  },
+  {
+   "en": "Wataru's Party",
+   "notes": "",
+   "source_va": "0x273964",
+   "source_size": 24
+  },
+  {
+   "en": "Prince Mito's Party",
+   "notes": "",
+   "source_va": "0x273a9c",
+   "source_size": 24
+  },
+  {
+   "en": "Native Alter Side",
+   "notes": "",
+   "source_va": "0x2741ec",
+   "source_size": 24
+  },
+  {
+   "en": "Galfa-Dark League",
+   "notes": "",
+   "source_va": "0x274594",
+   "source_size": 24
+  }
+ ]
+}

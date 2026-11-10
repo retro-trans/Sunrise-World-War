@@ -1,0 +1,1457 @@
+{
+ "table": "3986_09447",
+ "rows": [
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Hey, Kanji, what's this talk about?"
+    },
+    {
+     "en": "And you only called the folks who came down from space..."
+    },
+    {
+     "en": "Is this about Grados...?"
+    },
+    {
+     "en": "That battle just now...\nwe might be the reason it happened."
+    },
+    {
+     "en": "Not that us getting off the ship now\nwould change anything, though."
+    },
+    {
+     "en": "But hold on, how does Grados\neven know about us in the first place?"
+    },
+    {
+     "en": "About that..."
+    },
+    {
+     "en": "Grados and Binzvanker might\nalready be in contact."
+    },
+    {
+     "en": "You remember the Konpei Island Fleet, right?"
+    },
+    {
+     "en": "Oh, yeah...\nThe Giganos Army was in on it too!"
+    },
+    {
+     "en": "And when we came to this continent,\nOmega made contact with us too."
+    },
+    {
+     "en": "Looks like Binzvanker is trying\nto join hands with the powers\nof every world out there."
+    },
+    {
+     "en": "They've even set up peaceful relations\nwith the Earth Federation..."
+    },
+    {
+     "en": "Sounds like a real slippery customer,\nthis Binzvanker."
+    },
+    {
+     "en": "But they're not people who honestly\nwant peace. They're keeping quiet\nfor now, but..."
+    },
+    {
+     "en": "I sense it too.\nLeaving them alone is dangerous."
+    },
+    {
+     "en": "Quess's intuition, huh..."
+    },
+    {
+     "en": "Anyway, for now all we can do is\nprotect the Iron Gear with everything\nwe've got...!"
+    },
+    {
+     "en": "Everyone, are we agreed?"
+    },
+    {
+     "en": "Yeah!"
+    },
+    {
+     "en": "Okay, you got it!"
+    }
+   ],
+   "notes": "Seg 8: [jp] = Konpei Island fleet (elf_strings has Konpei Island Combined Fleet). Seg 1: blank header, read as Kaine continuing ('and only gathering the ones who came down from space'). Segs 12-15: Binzvanker referred to as 'they'/'this Binzvanker' (gender/nature not settled; Amuro's [jp] is plural). | [editorial 8] project term: Konpei Island Fleet (capital F) | [proofread 9] style sheet: 'the Giganos Army' (army name)",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Are the ship's repairs done?"
+    },
+    {
+     "en": "Yes...\nWe can move out right away."
+    },
+    {
+     "en": "I'll guide you to the Resistance hideout."
+    },
+    {
+     "en": "You should be able to resupply there.\nIt might not be enough, though..."
+    },
+    {
+     "en": "But..."
+    },
+    {
+     "en": "Hey, Elchi, why not?"
+    },
+    {
+     "en": "I don't like the way Grados does\nthings either."
+    },
+    {
+     "en": "Working to free this country\ndoesn't sound so bad to me."
+    },
+    {
+     "en": "Jiron... we're haulers.\n...We're not saviors."
+    },
+    {
+     "en": "No more... I've had enough of seeing blood!"
+    },
+    {
+     "en": "Hmm~...\nSuch cultured words, I'm sure..."
+    },
+    {
+     "en": "Haulers have rules of their own,\nyou know."
+    },
+    {
+     "en": "If you want to trade across borders,\nthe iron rule is never to meddle in\nhow a country runs things...!"
+    },
+    {
+     "en": "If we joined the Resistance...!"
+    },
+    {
+     "en": "Then what're we gonna do from here!"
+    },
+    {
+     "en": "Either way, we're \"outlaws\" now.\nWe can't even get off this continent!"
+    },
+    {
+     "en": "That's exactly it! I don't understand\nwhy this suddenly happened to us!!"
+    },
+    {
+     "en": "It's because we outsiders are\naboard this ship."
+    },
+    {
+     "en": "But there's no turning back now, is there?"
+    },
+    {
+     "en": "Yikes...\nShe just came right out and said\nthe thing nobody wanted to say..."
+    },
+    {
+     "en": "What do you mean?"
+    },
+    {
+     "en": "We have no choice but to keep going forward."
+    },
+    {
+     "en": "We should cooperate with the Resistance!"
+    },
+    {
+     "en": "You lot! You were \"outlaws\"\nfrom the very start, weren't you!"
+    },
+    {
+     "en": "That's not true."
+    },
+    {
+     "en": "No, Quess. It's better that we\nmake that clear..."
+    },
+    {
+     "en": "It's true that Kanji, Kaine's group\nand I share a common enemy."
+    },
+    {
+     "en": "Whether that enemy is connected\nto Grados isn't clear yet..."
+    },
+    {
+     "en": "But Grados is clearly after us."
+    },
+    {
+     "en": "I don't really get it. A common enemy...\nWhat kind of enemy is it?"
+    },
+    {
+     "en": "Sooner or later, it will become\nthe enemy of this entire world."
+    },
+    {
+     "en": "You just got involved a little earlier\nthan everyone else."
+    },
+    {
+     "en": "We're not in the war business!\nWe're haulers!"
+    },
+    {
+     "en": "Why don't you lot just go help\nthe Resistance on your own?"
+    },
+    {
+     "en": "Even if we got off now, the Iron Gear\nwould still be targeted."
+    },
+    {
+     "en": "You've got some nerve saying that!"
+    },
+    {
+     "en": "Blume! This is no time to be\nsaying stuff like that, is it?"
+    },
+    {
+     "en": "What was that?!"
+    },
+    {
+     "en": "Knock it off!"
+    },
+    {
+     "en": "We were Sand Rats to begin with...!\nWe're not haulers born and bred."
+    },
+    {
+     "en": "Rag..."
+    },
+    {
+     "en": "Heh! Why not?\nI've made up my mind too."
+    },
+    {
+     "en": "You lot have bailed us out\nplenty of times."
+    },
+    {
+     "en": "Come on! The Grados Army's coming,\nso we can't dawdle!"
+    },
+    {
+     "en": "Let's head out!\nElchi!"
+    },
+    {
+     "en": "Jiron..."
+    },
+    {
+     "en": "All right..."
+    },
+    {
+     "en": "Let's go to the Resistance hideout!"
+    },
+    {
+     "en": "Damn...\nYou've all lost your minds..."
+    }
+   ],
+   "notes": "[jp] rendered 'haulers' throughout (Iron Gear traders). Seg 10: Jiron mockingly echoes Elchi's 'culture' talk in feminine speech; kept as a sarcastic 'Such cultured words'. [jp] = 'Sand Rats' (glossary position for Blume; library also has 'Sandrats'). | [accuracy 9] deliberate pause after kore ijou restored | [editorial 15] [jp] = \"outlaws\" in quotes, as in dlg_3983_09438_01 rows 16/18 | [editorial 17] 'riding on this ship' awkward | [editorial 23] [jp] = \"outlaws\" (was \"wanted\"); consistent with k15 and previous unit | [editorial 32] accuracy flag: sensouya contrasts with hakobiya as a trade; 'warmongers' means war advocates | [editorial 43] project term: the Grados Army",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Eiji, I'm putting up a marker now."
+    },
+    {
+     "en": "Is the Resistance base\nsomewhere around here?"
+    },
+    {
+     "en": "Yeah...\nIt's roughly around there."
+    },
+    {
+     "en": "Allll right,\nlet's move out!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Hey, Eiji, the Grados forces chasing us\nstill haven't shown up?"
+    },
+    {
+     "en": "We're moving away from\nGrados headquarters."
+    },
+    {
+     "en": "Maybe we managed to shake off\nour pursuers."
+    },
+    {
+     "en": "Come to think of it,\nwhere is Grados headquarters?"
+    },
+    {
+     "en": "Their headquarters is far to the south."
+    },
+    {
+     "en": "In the city that used to be called\nNew York."
+    },
+    {
+     "en": "New York...\nUntil not long ago, it was\nthe center of culture..."
+    },
+    {
+     "en": "Now they've even banned calling\nthat city New York."
+    },
+    {
+     "en": "That's right..."
+    },
+    {
+     "en": "..............."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "This is it.\nThere should be a secret base\nunderground around here."
+    },
+    {
+     "en": "What's that?\nWhat was that explosion?!"
+    },
+    {
+     "en": "No way...!"
+    },
+    {
+     "en": "Th-This is...\nResistance base..."
+    },
+    {
+     "en": "E-Eiji!\nStay away!!"
+    },
+    {
+     "en": "Hey!!\nYou bastard!!"
+    },
+    {
+     "en": "Guhh!!"
+    },
+    {
+     "en": "Ahahahaha~\nGuess I squeezed a little too hard!\nDid I squash it flat?"
+    },
+    {
+     "en": "So you were alive!\nGosterro!!"
+    },
+    {
+     "en": "Alive?\nWell now, who knows!"
+    },
+    {
+     "en": "Who can say how much of this body\nis actually alive!!\nFuhahahaha!"
+    },
+    {
+     "en": "Eijiii~! At long last,\nI get my revenge on you!"
+    },
+    {
+     "en": "Stop! We surrendered!\nYou promised to spare our lives!"
+    },
+    {
+     "en": "Ahahahahaha~!\nI just looove killing people!"
+    },
+    {
+     "en": "Gwaaaaah!"
+    },
+    {
+     "en": "This is why I can never\ngive up killing!"
+    },
+    {
+     "en": "Gaaaaah!"
+    },
+    {
+     "en": "Eeeeek!"
+    },
+    {
+     "en": "Drop deaaad~~!"
+    },
+    {
+     "en": "Stooooop!!"
+    },
+    {
+     "en": "Eahahahaha!"
+    },
+    {
+     "en": "This is so much fun,\nmy brain's about to boil over!"
+    },
+    {
+     "en": "I'll slaughter every last one of you!"
+    },
+    {
+     "en": "Gyaaaaah!"
+    },
+    {
+     "en": "Deehahaha,\nI can't get enough of this!"
+    },
+    {
+     "en": "Th-This is horrible...\nBattle stations!!\nWe're rescuing the Resistance!"
+    },
+    {
+     "en": "That's more like it!"
+    }
+   ],
+   "notes": "Seg 7: [jp] -- the crushed victim's gender is unknown, so Gosterro says 'Did I squash it flat?' (callous 'it'). Seg 3: the transmission is cut off mid-sentence; kept unfinished.",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Come on, Gosterro!\nFace me!!"
+    },
+    {
+     "en": "Eahahahaha!"
+    },
+    {
+     "en": "Don't think you'll get to fight me\nfair and square!"
+    },
+    {
+     "en": "An ambush!"
+    },
+    {
+     "en": "Soft as ever, aren't you~~!!"
+    },
+    {
+     "en": "We meet again,\nkid!"
+    },
+    {
+     "en": "Dammit!\nEven Timp's here!"
+    },
+    {
+     "en": "You lot! I'll finish off\nevery la~st one of you myself!\nNuahahaha!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Boss!!\nWe can't take any more!"
+    },
+    {
+     "en": "Don't call me Boss!\nI told you to call me Captain!!"
+    },
+    {
+     "en": "All forces, retreat!"
+    },
+    {
+     "en": "You got it,\nBoss!"
+    },
+    {
+     "en": "Tch!"
+    },
+    {
+     "en": "Iron Gear...\nnot bad at all..."
+    },
+    {
+     "en": "Those guys fight on a whole other level\nfrom your run-of-the-mill Breakers."
+    },
+    {
+     "en": "Heh heh...\nNo wonder they're targets."
+    },
+    {
+     "en": "Uooooooh, I'm not gonna die\nfrom something like this~!!"
+    },
+    {
+     "en": "Daaaamn iiit~~~!\nYou'll pay for this~~~!"
+    }
+   ],
+   "notes": "[editorial 6] capitalisation: 'Breaker(s)' capitalised across the corpus and glossary | [proofread 1] capitalisation: 'Boss' / 'Captain' as forms of address (k0/k3 'Boss'; Elchi's 'Call me Captain!' in dlg_3983_09438_00)",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Phew... looks like our friends\nfinally pulled back."
+    },
+    {
+     "en": "Hey, Eiji, that Gosterro guy...\nisn't he out of his damn mind?"
+    },
+    {
+     "en": "Pretty much..."
+    },
+    {
+     "en": "Are all Gradosians like that?"
+    },
+    {
+     "en": "Idiot! If all Gradosians were like that,\nthey could never even build SPTs!"
+    },
+    {
+     "en": "That's right...\nGosterro is a special case."
+    },
+    {
+     "en": "Anyway, rescuing the base's survivors\ncomes first right now.\nLet's hurry!"
+    }
+   ],
+   "notes": "[editorial 3] project term: Gradosian(s) (used in the very next page)",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "It's quiet...\nDid everyone... get wiped out?"
+    },
+    {
+     "en": "That can't be.\nThere's a secret shelter here.\nThis way!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "So this is the shelter...?!"
+    },
+    {
+     "en": "Heyyy!\nIs anybody alive in there?!"
+    },
+    {
+     "en": "We're friends.\nIt's Eiji, of the Layzner!\nIs anybody there?"
+    },
+    {
+     "en": "Eiji!\nEveryone, it's okay now.\nYou can come out!"
+    },
+    {
+     "en": "Eiji...\nSo you made it to the Iron Gear\nsafely."
+    },
+    {
+     "en": "Yeah...\nBy the way, what happened\nto the others?"
+    },
+    {
+     "en": "No need to worry.\nHeadquarters has moved elsewhere."
+    },
+    {
+     "en": "The attack came so suddenly that\nwe couldn't get word to you,\nEiji..."
+    },
+    {
+     "en": "Then why did you all stay behind?"
+    },
+    {
+     "en": "We're the unit that stayed behind\nto throw the enemy off the scent."
+    },
+    {
+     "en": "Besides, if nobody had stayed,\nyou'd have been in a fix, right?"
+    },
+    {
+     "en": "I see... I owe you one.\nAre there no other survivors?"
+    },
+    {
+     "en": "In the last battle, half of the unit\nended up scattered..."
+    },
+    {
+     "en": "Nah!\nThey're a tough bunch.\nWe'll meet up with them sooner or later...!"
+    },
+    {
+     "en": "You're right."
+    },
+    {
+     "en": "Eiji, let's get everyone moved\nonto the ship, and fast.\nThe enemy might come back."
+    },
+    {
+     "en": "Right."
+    }
+   ],
+   "notes": "Several different Resistance Members speak (polite one uses [jp], casual one uses plain [jp]); segs 4 and 6-7 keep that contrast through register only. [jp] = 'Headquarters'. | [editorial 11] accuracy flag: sumanai answers 'you'd have been in a fix' -- gratitude, 'I'm sorry' read as an apology",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Um, you're one of the Iron Gear's\npeople, aren't you?"
+    },
+    {
+     "en": "Yeah... that's right."
+    },
+    {
+     "en": "Thank you for your help.\nLet us fight the tyranny of Grados\ntogether!"
+    },
+    {
+     "en": "Oh, uh, sure...!"
+    },
+    {
+     "en": "Staying behind was worth it! Watching\nyou guys drive Grados off felt great!"
+    },
+    {
+     "en": "Looking forward to fighting\nalongside you!"
+    },
+    {
+     "en": "Same here!\nI'm glad to have you with us!"
+    },
+    {
+     "en": "Everyone, move to the Iron Gear\nright away. I'm counting on you\nto guide us to the new hideout."
+    },
+    {
+     "en": "Yeah!\nLeave it to me."
+    },
+    {
+     "en": "The Resistance has joined the unit."
+    }
+   ],
+   "notes": "[editorial 9] system line aligned to '<name> has joined the unit.'",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "So in the end, all that\ntrouble for nothing...!"
+    },
+    {
+     "en": "We're already aboard this boat,\nso stick with it to the end."
+    },
+    {
+     "en": "We've got more allies now,\nso what's wrong with that?"
+    },
+    {
+     "en": "You're way too happy-go-lucky,\nyou know that?!"
+    },
+    {
+     "en": "All right, let's get going!"
+    },
+    {
+     "en": "Head for the Resistance base."
+    }
+   ],
+   "notes": "Seg 1: [jp] (idiom: once you've boarded the boat, see it through) kept as a boat image, which also fits the Iron Gear.",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "Whoa there!\nGot a hit on the sensors.\nThere's a ship approaching."
+    },
+    {
+     "en": "Grados forces?"
+    },
+    {
+     "en": "No...\nI can't tell yet."
+    },
+    {
+     "en": "Is that the ship?\nThe one Gosterro\nfailed to finish off!"
+    },
+    {
+     "en": "Yes!\nThat hull type is definitely\nthe Iron Gear!"
+    },
+    {
+     "en": "Eiji...\nI'll make you pay for\nCaptain Gale's death!"
+    }
+   ],
+   "notes": "[jp] romanized 'Gale' (Layzner's Gale; not in the glossary). [jp] = 'Captain' (unit leader title). | [editorial 3] 'botched the job against' awkward",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "Eiji, what's that ship?"
+    },
+    {
+     "en": "No doubt about it.\nIt's a Grados ship!"
+    },
+    {
+     "en": "At last you show yourself before me,\nEiji!!"
+    },
+    {
+     "en": "You're...!"
+    },
+    {
+     "en": "Don't you dare say\nyou've forgotten!"
+    },
+    {
+     "en": "You betrayed Grados and took\nCaptain Gale's life! I...\nwill never forgive you!!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "(I deserted the army and headed for\nTerra to warn the people there\nabout the threat of Grados.)"
+    },
+    {
+     "en": "(But... as a result... I ended up\nbringing down Gale, my own\nsenior officer......)"
+    },
+    {
+     "en": "Back then... I couldn't control\nthe Layzner's V-MAX..."
+    },
+    {
+     "en": "And because of that,\nGale..."
+    },
+    {
+     "en": "Eiji!\nToday I'll finally destroy you!\nPrepare yourself!!"
+    },
+    {
+     "en": "All right!\nLet's intercept them!!"
+    },
+    {
+     "en": "All hands!\nBattle stations!!"
+    }
+   ],
+   "notes": "Seg 8: [jp] = Gale as Eiji's senior in the Grados army; 'my own senior officer'. Seg 10 trails off deliberately. | [accuracy 5] deliberate pause in watashi wa... restored",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "We... can't hold out.\nPlease fall back!"
+    },
+    {
+     "en": "D-Damn you!!\nNext time for sure!!"
+    },
+    {
+     "en": "You've got all kinds of people\ngunning for you, huh."
+    },
+    {
+     "en": "I betrayed my homeland.\nIt can't be helped..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "We're almost at the rendezvous point.\nIf we wait there, someone will come\nto meet us."
+    },
+    {
+     "en": "Roger!\nLet's get back on course."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "Is it around here?"
+    },
+    {
+     "en": "Yeah, spot on.\nStop the ship."
+    },
+    {
+     "en": "Well?\nJust like I said, right?"
+    },
+    {
+     "en": "They're planning to meet up\nwith the Resistance here."
+    },
+    {
+     "en": "Heh heh... good work."
+    },
+    {
+     "en": "Listen up, you lot!\nWe're storming the Iron Gear\nin hand-to-hand combat!!"
+    },
+    {
+     "en": "Got that?!\nKill every last one of them!!"
+    },
+    {
+     "en": "Whaaat?!\nWeren't we supposed to capture\nElchi, the captain...?"
+    },
+    {
+     "en": "If you want to save her,\nyou'd better be the first one aboard!"
+    },
+    {
+     "en": "N-No way!!"
+    },
+    {
+     "en": "Hahahaha!! Fools who defy Grados!\nI'll carve up every last one of you!"
+    },
+    {
+     "en": "A-All forces, chaaarge!!"
+    },
+    {
+     "en": "Yeahhh!!"
+    },
+    {
+     "en": "...?"
+    },
+    {
+     "en": "Hm?\nSomebody's running this way."
+    },
+    {
+     "en": "Whoa~\nThat's a lot of people.\nIs that the Resistance?"
+    },
+    {
+     "en": "Heyyy! You guys!\nAre you with the Resistance?"
+    },
+    {
+     "en": "Wh-Whoaaaaaa!!"
+    },
+    {
+     "en": "Chaaarge!!"
+    },
+    {
+     "en": "Don't fall behind the Security Force!\nShow 'em a Breaker's pride!"
+    },
+    {
+     "en": "Uraaaaah!!"
+    },
+    {
+     "en": "Nuahahahaha!\nKill them aaall!!"
+    },
+    {
+     "en": "Whoaaaa!\nWe're under attack~!!\nIt's Horla and Gosterro!"
+    },
+    {
+     "en": "Elchi! We're under attack!\nHorla and Gosterro are charging in\non foot!!"
+    },
+    {
+     "en": "What did you say?!"
+    },
+    {
+     "en": "Everyone, it's hand-to-hand!!"
+    },
+    {
+     "en": "Anyone in the hangar,\nguard your own machines!!"
+    },
+    {
+     "en": "The enemy got inside...!\nWhere's Kanji?!"
+    },
+    {
+     "en": "He went to the bridge and\nhasn't come back!"
+    },
+    {
+     "en": "Whoa!!\nThey're here already!"
+    },
+    {
+     "en": "Hiyaaaah!!"
+    },
+    {
+     "en": "Ow!!"
+    },
+    {
+     "en": "That bitch!\nShe got me!!"
+    },
+    {
+     "en": "Nyeh!!"
+    },
+    {
+     "en": "Hey, Quess!\nDon't egg them on so much!"
+    },
+    {
+     "en": "Everyone, it's dangerous outside!!\nGet into your machines right now!!"
+    },
+    {
+     "en": "Protecting our own machines\nis our top priority!"
+    },
+    {
+     "en": "Got it!\nWill do!!"
+    },
+    {
+     "en": "All right!\nI'm gonna run right through 'em!"
+    },
+    {
+     "en": "Yeah!"
+    },
+    {
+     "en": "Let's launch and back them up\nfrom outside the ship!"
+    },
+    {
+     "en": "I see.\nSo we cut off the enemy's\nreinforcements."
+    },
+    {
+     "en": "Agreed! Well then,\nlet's bust on through!"
+    },
+    {
+     "en": "Hey! Hey!\nMove it, or I'll squash\nyou flat!!"
+    },
+    {
+     "en": "What?!\nThey're launching?!\nStop them!!"
+    },
+    {
+     "en": "Dwaaaaah!!"
+    },
+    {
+     "en": "Waaaaaah!!"
+    },
+    {
+     "en": "There's a huge number of soldiers\ngathering around the ship...!"
+    },
+    {
+     "en": "Amuro and the others just\nheaded out in their machines."
+    },
+    {
+     "en": "Let's leave the ones outside\nto Amuro's group for now."
+    },
+    {
+     "en": "My Resistance comrades should\nbe here soon. If we can hold out,\nwe'll manage somehow."
+    },
+    {
+     "en": "Until then, we've got to drive\nthe enemy off the ship..."
+    },
+    {
+     "en": "Blume!\nI'm leaving the bridge to you.\nTake care of things here."
+    },
+    {
+     "en": "Huh?\nDon't tell me you want me\nto guard the bridge alone?"
+    },
+    {
+     "en": "The entrance is narrow,\nso handle it by yourself!"
+    },
+    {
+     "en": "Blume,\nwe're counting on you!"
+    },
+    {
+     "en": "Everyone else,\nfollow me!"
+    },
+    {
+     "en": "We're driving the enemy\noff the Iron Gear!!"
+    },
+    {
+     "en": "Whew~!\nAin't she gallant!"
+    },
+    {
+     "en": "Hahahahaha!\nWhy not?\nThat's Elchi for you!"
+    },
+    {
+     "en": "Heh!\nYou said it."
+    },
+    {
+     "en": "Been a while since our last brawl.\nTime we showed 'em some\nSand Rats grit too!"
+    },
+    {
+     "en": "Allll right!\nLet's gooo!!"
+    },
+    {
+     "en": "Kanji!!\nLet's go too!"
+    },
+    {
+     "en": "H-Hang on a sec."
+    },
+    {
+     "en": "Hand-to-hand or not, I don't have\nany decent weapons."
+    },
+    {
+     "en": "And besides...\nwill Blume be okay on his own?"
+    },
+    {
+     "en": "Better than babysitting you!\nGet going already!!"
+    },
+    {
+     "en": "Y-Yeah..."
+    }
+   ],
+   "notes": "Segs 14-16: blank-header pages read as Jiron (he sees the runners; seg 17 is his scream). Seg 19: blank header, read as Horla continuing. Seg 32: [jp] kept at full strength ('That bitch!'). Seg 33: [jp] (tongue-out taunt) = 'Nyeh!!'. [jp] = hand-to-hand combat. | [editorial 12] battle-cry ooo- answering 'Charge!'; 'Ooooh!!' read as admiration; matches the crew's 'Yeahhh!' in the previous unit | [editorial 19] capitalisation: Breaker | [editorial 38] hashirinukeru = dash through (to his machine); 'make a run for it' means fleeing",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Forget the machines!\nJust keep the pilots\nfrom getting near them!"
+    },
+    {
+     "en": "Horla!\nYou again?!"
+    },
+    {
+     "en": "Miss Elchi!"
+    },
+    {
+     "en": "I can't protect you\nany longer!!"
+    },
+    {
+     "en": "Hmph! So you've sunk to being\na Grados lackey,\nhave you!"
+    },
+    {
+     "en": "If you mean to protect me,\nbetray Grados right now!"
+    },
+    {
+     "en": "Ngh...\nNo use saying anything to her."
+    },
+    {
+     "en": "Then I'll make you listen,\nby force if I have to!"
+    },
+    {
+     "en": "And I won't go easy on you either!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "Dammit!\nWhat's with these people?!"
+    },
+    {
+     "en": "Heh! We were raised a whole lot\ntougher than you!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "Rag!\nSomething nasty's\ncoming from over there!"
+    },
+    {
+     "en": "What?"
+    },
+    {
+     "en": "Hm, that's...!"
+    },
+    {
+     "en": "Mr. Gosterro!!\nOver here!"
+    },
+    {
+     "en": "That prey is miiine~!"
+    },
+    {
+     "en": "Gwah!"
+    },
+    {
+     "en": "Gosterro!!"
+    },
+    {
+     "en": "Nwahahahaha~\nI'll make every bone in your\nbodies creak~"
+    },
+    {
+     "en": "I'll slaughter every last one of you!"
+    },
+    {
+     "en": "We're outnumbered...\nIf I could just get into my FT,\nI could do something...!"
+    },
+    {
+     "en": "Don't give up.\nMy comrades will be here\nto help soon!"
+    },
+    {
+     "en": "That's right!\nHang in there until\nEiji's comrades arrive!"
+    },
+    {
+     "en": "Give it up!\nWith odds like these,\nyou don't stand a chance!"
+    },
+    {
+     "en": "Hey!\nGanging up on a delicate lady,\nisn't that a cowardly thing to do?!"
+    },
+    {
+     "en": "I just love the words\n\"brute force\"~\nAhahahaha~"
+    },
+    {
+     "en": "U-Uhyaaaah!"
+    },
+    {
+     "en": "Damn it~\nThat hurt, you know!"
+    },
+    {
+     "en": "Captain Gosterro!\nThe 3rd Platoon's been wiped out!!\nEnemy reinforcements incoming!!"
+    },
+    {
+     "en": "What?\nDon't screw with me!"
+    },
+    {
+     "en": "W-Well...\nThe enemy's mobile weapons have\nthem pinned down!"
+    },
+    {
+     "en": "Whaaat~!"
+    },
+    {
+     "en": "Tch, what a pain in the neck."
+    },
+    {
+     "en": "Heh heh heh~!\nYou lot are my prey.\nI'll never let you get away!!"
+    },
+    {
+     "en": "We'll see about that."
+    },
+    {
+     "en": "Y-You!\nWhen did you get here?!!"
+    },
+    {
+     "en": "Guhoh!!"
+    },
+    {
+     "en": "Ngh...\nMore of them?"
+    },
+    {
+     "en": "Looks like we made it in time,\nbro!"
+    },
+    {
+     "en": "So it seems..."
+    },
+    {
+     "en": "Hey, you bastard!"
+    },
+    {
+     "en": "We have risen up\nto bring down Grados!"
+    },
+    {
+     "en": "Not content with ruling by force,\nyou commit act after act of tyranny."
+    },
+    {
+     "en": "I, George de Sand,\ncannot allow it!"
+    },
+    {
+     "en": "That's right!"
+    },
+    {
+     "en": "I'm on the Resistance's side too,\nso there!!"
+    },
+    {
+     "en": "Anyone who torments innocent people\ngets knocked flat by me!"
+    },
+    {
+     "en": "I swear it on the fist\nof the King of Hearts!!"
+    },
+    {
+     "en": "Th-That crest...!!"
+    },
+    {
+     "en": "He's the champion of the Continental\nFighting Tournament! The King of\nHearts!! Domon Kasshu!!"
+    },
+    {
+     "en": "No way... it can't be..."
+    },
+    {
+     "en": "No doubt about it! That's the mark\nof the King of Hearts!"
+    },
+    {
+     "en": "Well, I'll be...\nWho knew someone like that\nwas in the Resistance?"
+    },
+    {
+     "en": "I don't really get it,\nbut he's on our side?"
+    },
+    {
+     "en": "Yeah, exactly."
+    },
+    {
+     "en": "Thanks in part to their help, the\nResistance's activities are\ngrowing bigger by the day."
+    },
+    {
+     "en": "B-Boss!\nWe can't beat them\nno matter what!!"
+    },
+    {
+     "en": "Seriously...\nA guy like that,\nin the Resistance..."
+    },
+    {
+     "en": "Don't panic!!"
+    },
+    {
+     "en": "<Win Condition>\nDefeat Gosterro within the time limit\nor drive off the enemy vehicles."
+    }
+   ],
+   "notes": "Seg 38 / row 22 seg 10: [jp] (this game's continent-based fighting competition, standing in for the Gundam Fight) rendered 'Continental Fighting Tournament'; not in the glossary, please verify. Seg 36: reading gloss [jp] dropped. Seg 27: [jp] (Sai Saici to Domon) = 'bro'. Seg 45: [jp] = Horla addressed as 'Boss'. Seg 48: [jp] = '<Win Condition>' (form used in another slice). | [accuracy 23] soitsu wa dou ka na is a challenge to Gosterro's boast ('I doubt it'), not a neutral 'Is that so?' | [editorial 26] accuracy flag: arate, 'Newcomers?' weak; matches 'More of them!?' (dlg_3983_09438_01 r18 k17) | [proofread 24] question ending in '!!' -> '?!!' (style sheet doubled form)",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "Nghaaaah~~\nM-My brain hurts~!"
+    },
+    {
+     "en": "Captain Gosterro\nwent down?!"
+    },
+    {
+     "en": "Like I said, we can't\nbeat 'em!"
+    },
+    {
+     "en": "Fall back!\nHurry, run for it!"
+    },
+    {
+     "en": "H-Hey!\nYou lot!!\nDon't run off on your own!!"
+    },
+    {
+     "en": "Horla!\nGive it up!"
+    },
+    {
+     "en": "Grrgh...!\nI'm pulling out for today!"
+    },
+    {
+     "en": "Come at us as many times\nas you like!"
+    },
+    {
+     "en": "My, my...\nThey scattered like baby spiders,\ndidn't they..."
+    },
+    {
+     "en": "No...\nThere's still one left."
+    },
+    {
+     "en": "Ugh, it hurts~\nI'm gonna die~\nI'm done for~"
+    },
+    {
+     "en": "Hey... are you okay?"
+    },
+    {
+     "en": "Look out, Kanji!\nDon't get any closer!!"
+    },
+    {
+     "en": "Uooooooh, I'm not gonna die\nfrom something like this~!"
+    },
+    {
+     "en": "Wh-Whoa!!"
+    },
+    {
+     "en": "Gnuuuuuh!! Someday, I swear,\nI'll tear you lot limb from limb!"
+    },
+    {
+     "en": "Kanji,\nare you okay?"
+    },
+    {
+     "en": "Yeah... you saved me."
+    },
+    {
+     "en": "That Gosterro guy...\nhe can take an unnatural\namount of punishment."
+    },
+    {
+     "en": "More importantly, bro!\nShouldn't we go after\nGosterro?"
+    },
+    {
+     "en": "Our job is to guide the Iron Gear.\nThere's no need to chase him\ntoo far."
+    },
+    {
+     "en": "Indeed. That man is half cyborg...\nCapturing him would take\nthorough preparation."
+    },
+    {
+     "en": "But y'know, if we let him get away,\nI've got a feeling he'll just\nkeep doing nothing but bad stuff."
+    },
+    {
+     "en": "Maybe so...\nIt's true that finishing him off\nright then would've been easy."
+    },
+    {
+     "en": "But...\nwe are not killers.\nDon't forget that."
+    },
+    {
+     "en": "I know,\nbro!"
+    }
+   ],
+   "notes": "Seg 3: [jp] is in feminine speech under a generic Breaker header; kept neutral ('Fall back! Hurry, run for it!'). Seg 8: [jp] idiom kept literally ('like baby spiders'). | [editorial 6] 'I'll withdraw for today!' too stiff for Horla's casual voice",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "Good work, Blume!"
+    },
+    {
+     "en": "What a welcome that was,\nseriously!!"
+    },
+    {
+     "en": "I wish the Resistance would clean up\nthe enemy before we show up."
+    },
+    {
+     "en": "Come on, don't say that."
+    },
+    {
+     "en": "You'll be shocked when you see\nwho came to pick us up."
+    },
+    {
+     "en": "Huh?\nWhat's that supposed to mean?"
+    },
+    {
+     "en": "So this is the bridge."
+    },
+    {
+     "en": "Whoa~\nNice view, huh?"
+    },
+    {
+     "en": "It retains a nostalgic air...\nA fine ship indeed."
+    },
+    {
+     "en": "Ah... ah......\nYou guys... could you be...!"
+    },
+    {
+     "en": "Surprised? These are genuine regulars\nof the Continental Fighting\nTournament!"
+    },
+    {
+     "en": "Then that guy is the King of Hearts...\nDomon Kasshu?"
+    },
+    {
+     "en": "Yep, it's the real deal!"
+    },
+    {
+     "en": "No way...?!"
+    },
+    {
+     "en": "Comrades from every nation are\ngathering in the Resistance now."
+    },
+    {
+     "en": "We came over from the neighboring\nAsia Continent to lend a hand."
+    },
+    {
+     "en": "I know that.\nYou're Sai Saici of Neo China,\nright?"
+    },
+    {
+     "en": "The Grados Army has advanced\neven into the Asia Continent\nthat we protect."
+    },
+    {
+     "en": "Not just here on the Gaia Continent --\nthe whole Terra Realm is in\ngreat turmoil right now."
+    },
+    {
+     "en": "Well, the details can wait\nuntil we reach the base."
+    },
+    {
+     "en": "I'll guide you to the base right away.\nCould you correct your course?"
+    },
+    {
+     "en": "Aye aye!!"
+    },
+    {
+     "en": "Domon, Sai Saici and George\nhave joined the unit."
+    },
+    {
+     "en": "Kanji gained hand-to-hand combat\nexperience. From now on, he is\nregistered as a Warrior."
+    }
+   ],
+   "notes": "[jp] / [jp] / [jp] = 'Gaia Continent' / 'Asia Continent' / 'Terra Realm' (forms used in elf_strings). [jp] = 'Warrior' (glossary: [jp]). | [editorial 17] project term: the Grados Army | [editorial 22] system line aligned to '<name> has joined the unit.'",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "This is the Resistance base."
+    },
+    {
+     "en": "Huh~\nFrom far off, it just looked like\nplain rocky desert..."
+    },
+    {
+     "en": "It didn't even show up on the D-3's\nsensors. That's some camouflage."
+    },
+    {
+     "en": "Looks like nobody's\ntailing us..."
+    },
+    {
+     "en": "The main facilities are underground.\nKeep heading straight in."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Grados City\n(formerly New York)"
+    },
+    {
+     "en": "Grados Government Building"
+    },
+    {
+     "en": "Three years have passed since we left\nthe Grados homeworld and came to\nthe far-off Terra Realm..."
+    },
+    {
+     "en": "...and of Terra's six continents,\nour forces have taken a mere two..."
+    },
+    {
+     "en": "Our forces now invading the Asia\nContinent have already subdued\n70% of it."
+    },
+    {
+     "en": "Once the Asia Continent is pacified,\nhalf of the Terra Realm will be\nunder our rule."
+    },
+    {
+     "en": "Yet the conquest of the Asia Continent\nseems to be taking a great deal\nof time."
+    },
+    {
+     "en": "Sir... As our territory has grown,\nour units have been spread out\nacross the continent."
+    },
+    {
+     "en": "Resistance activity has also grown\nfiercer, which further accelerates\nthe dispersal of our forces."
+    },
+    {
+     "en": "Hm...\nReinforcements will soon arrive\nfrom the Grados homeworld."
+    },
+    {
+     "en": "Before they do, crush the\nResistance and make ready\nfor the offensive."
+    },
+    {
+     "en": "Sir!"
+    },
+    {
+     "en": "Excuse me......"
+    },
+    {
+     "en": "What?\nI see... understood..."
+    },
+    {
+     "en": "Your Excellency! A Terran with\nClass-A collaborator status has come\nto report on the war situation."
+    },
+    {
+     "en": "I will go and hear the report myself."
+    },
+    {
+     "en": "No...\nBring the Terran here."
+    },
+    {
+     "en": "Your Excellency...!\nWhat did you say?"
+    },
+    {
+     "en": "That Terran... is most likely\nRoanne Demitrich. I have heard\nthe rumors."
+    },
+    {
+     "en": "Er..."
+    },
+    {
+     "en": "I am told this is a capable Terran\nwho has sworn loyalty to Grados.\nI wish to meet him for myself."
+    },
+    {
+     "en": "But this hall is a sacred place\nthat only Gradosians are\npermitted to enter..."
+    },
+    {
+     "en": "It matters not...\nSend him in."
+    },
+    {
+     "en": "...Understood."
+    },
+    {
+     "en": "Roanne Demitrich!\nEnter!!"
+    },
+    {
+     "en": "I have a report, sir!!"
+    },
+    {
+     "en": "According to word just in, the unit sent\nto destroy the Iron Gear failed its mission\nand appears to have been wiped out."
+    },
+    {
+     "en": "You mean to say that Gosterro\nwas beaten?!"
+    },
+    {
+     "en": "Yes... The report comes from\na reliable reconnaissance unit!"
+    },
+    {
+     "en": "Damn you... Iron Gear!\nHow dare you, mere haulers!!"
+    },
+    {
+     "en": "Karla.\nI hear that you, too, were defeated\nby this Iron Gear."
+    },
+    {
+     "en": "N-No... I merely happened\nto run into them while on patrol..."
+    },
+    {
+     "en": "If I may be so bold\nas to speak, sir!!"
+    },
+    {
+     "en": "It appears the Iron Gear has made\ncontact with the Resistance and\nstrengthened its forces."
+    },
+    {
+     "en": "So it would seem...\nWe must organize a new\npunitive force."
+    },
+    {
+     "en": "Roanne Demitrich,\nyou have done well!"
+    },
+    {
+     "en": "Sir!"
+    },
+    {
+     "en": "Ngh..."
+    },
+    {
+     "en": "What is it,\nKarla?"
+    },
+    {
+     "en": "Heh heh...\nThat Terran is quite useful,\nis it not?"
+    },
+    {
+     "en": "Y-Yes..."
+    }
+   ],
+   "notes": "Roanne's gender is blank in speakers.tsv: Gresco's lines use 'the Terran' / singular 'them' (seg 26) instead of he/she. [jp] = 'Terran' (Grados' word for the natives of Terra; not in the glossary). Seg 20: [jp] = 'Class-A collaborator'. Seg 7: [jp] = 'Government Building'. [jp] = 'D-3' (Light's Dragonar-3). Seg 9 continues Gresco's sentence from seg 8; leading '...' marks the continuation. | [accuracy 26] Roanne's gender is now settled (male in speakers.tsv / project decisions); singular 'them' replaced by 'him' | [accuracy 35] tadaka hakobiya no bunzai de: contempt 'how dare mere haulers' restored; 'You're nothing but haulers' lost the outrage | [editorial 26] 'meet him once' reads oddly for ichido atte okitai | [editorial 28] accuracy flag: Roanne is named in k24 and 'him' in k26, so 'the Terran' repeated is stiff",
+   "status": "proofread"
+  },
+  {
+   "id": 24,
+   "segments": [
+    {
+     "en": "New Grados Army Space Carrier"
+    },
+    {
+     "en": "Lord Le Caine, we have just\npassed through the gate."
+    },
+    {
+     "en": "Heh... So this is the continent\nmy father rules..."
+    },
+    {
+     "en": "Now that I am here, all those\nwho turn their blades on Grados"
+    },
+    {
+     "en": "will lay their bloodied bodies\nat my feet!"
+    }
+   ],
+   "notes": "Segs 3-4: one sentence cut across two pages; English cut at the matching point. | [editorial 0] caption word order: 'Grados Army New Space Carrier' stacked awkwardly",
+   "status": "proofread"
+  }
+ ]
+}

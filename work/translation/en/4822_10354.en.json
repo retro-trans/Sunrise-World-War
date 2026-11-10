@@ -1,0 +1,769 @@
+{
+ "table": "4822_10354",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "Pentagona Continent"
+    },
+    {
+     "en": "<Enemy Faction>\nPoseidal Regular Army"
+    },
+    {
+     "en": "<Allied Faction>\nRebel Army"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Pentagona Continent"
+    },
+    {
+     "en": "<Enemy Faction>\nRebel Army"
+    },
+    {
+     "en": "<Allied Faction>\nPoseidal Regular Army"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "There should be a base for our allies\nsomewhere in this town..."
+    },
+    {
+     "en": "Hostile units sighted!\nThey're ordering us to halt!"
+    },
+    {
+     "en": "Whoa, whoa...\nDon't tell me this is an enemy trap."
+    },
+    {
+     "en": "No, it's not that..."
+    },
+    {
+     "en": "Every town on this continent\nis controlled by the Poseidal Army."
+    },
+    {
+     "en": "The only way into town\nis to drive the enemy out by force."
+    },
+    {
+     "en": "Guess so..."
+    }
+   ],
+   "notes": "Seg 3 source typo [jp] read as [jp].",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "The enemy forces have been\ndriven off."
+    },
+    {
+     "en": "You can now dock at Trydetol."
+    }
+   ],
+   "notes": "[editorial 0] same message as elsewhere (10352 11.0); was 'Enemy forces repelled.'",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "I'm Semuge, leader of our rebel army."
+    },
+    {
+     "en": "Let's fight together\nto bring down Poseidal!"
+    },
+    {
+     "en": "We look forward to working with you!"
+    },
+    {
+     "en": "Alliance formed with the rebel army\nof the Pentagona Continent."
+    },
+    {
+     "en": "Straight to business, then:\nI need you to fly to Mizun."
+    },
+    {
+     "en": "That's where you'll find\nthe true leader of the rebels."
+    },
+    {
+     "en": "The true leader?"
+    },
+    {
+     "en": "You'll understand once you reach Mizun."
+    },
+    {
+     "en": "Understood.\nWe'll head for Mizun once we depart."
+    }
+   ],
+   "notes": "[editorial 3] system-message template unified",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "This is Mizun, isn't it?"
+    },
+    {
+     "en": "No doubt about it.\nThis is Mizun."
+    },
+    {
+     "en": "Hostile units sighted!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "The enemy fleet is withdrawing."
+    },
+    {
+     "en": "Splendid...!\nWith this, we can stand up\nto the Poseidal Army!"
+    },
+    {
+     "en": "The enemy forces have been\ndriven off."
+    },
+    {
+     "en": "You can now dock at Mizun."
+    }
+   ],
+   "notes": "[editorial 2] same as 4.0",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Mr. Semuge, the person you wanted\nus to meet is...?"
+    },
+    {
+     "en": "He should be here already.\nFollow me."
+    },
+    {
+     "en": "Allow me to introduce him!"
+    },
+    {
+     "en": "Heir to the royal blood of the Yaman people,\nthe true leader of our rebel army..."
+    },
+    {
+     "en": "Daba Myroad!"
+    },
+    {
+     "en": "I'm Daba Myroad."
+    },
+    {
+     "en": "To stand against the Redros Army,\nwhich threatens the peace of the world,\nI'll fight alongside you all!"
+    },
+    {
+     "en": "Thank you for your cooperation!"
+    },
+    {
+     "en": "Well, let's skip the stiff formalities."
+    },
+    {
+     "en": "For now, it's down with Poseidal!\nLet's get a move on!"
+    },
+    {
+     "en": "Who put YOU in charge?!"
+    },
+    {
+     "en": "What's wrong with that?"
+    },
+    {
+     "en": "Right, Daba?"
+    },
+    {
+     "en": "Yeah."
+    },
+    {
+     "en": "Geez! You're okay with that, Daba?"
+    },
+    {
+     "en": "Sure."
+    },
+    {
+     "en": "Besides, I get the feeling we'll\nget along well with these people."
+    },
+    {
+     "en": "Somehow, they've got the same\nvibe as us, huh..."
+    },
+    {
+     "en": "The leaders are in completely\ndifferent leagues."
+    },
+    {
+     "en": "Uh... maybe so..."
+    },
+    {
+     "en": "But... the rebels don't have enough\nexperience in organized warfare."
+    },
+    {
+     "en": "These people, on the other hand,\nhave had proper military training."
+    },
+    {
+     "en": "Yeah... Leccee's right.\nThere's a lot we should learn from them."
+    },
+    {
+     "en": "Hmm...\nSo your name's Leccee..."
+    },
+    {
+     "en": "You came up through the regular army,\ndidn't you?"
+    },
+    {
+     "en": "Gaw Ha Leccee.\nI'm an ex-soldier, more or less."
+    },
+    {
+     "en": "I thought so..."
+    },
+    {
+     "en": "I'm Nelfea Northrock.\nI think you and I will get along."
+    },
+    {
+     "en": "Oh?"
+    },
+    {
+     "en": "Nice to meet you,\nyoung lady."
+    },
+    {
+     "en": "Joined up with Daba's group."
+    }
+   ],
+   "notes": "Seg 18 [jp] read as [jp] (caliber); Nelfea contrasts the two groups' leaders, Rie concedes. Seg 29 (blank header after Leccee's line) taken as Leccee calling Nelfea [jp].",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Daba, where's the enemy's\nmain force?"
+    },
+    {
+     "en": "The Poseidal Army's main force\nis in the capital, Sveto."
+    },
+    {
+     "en": "Are we going to attack them right away?"
+    },
+    {
+     "en": "Poseidal has joined hands with\nthe Redros Army and is building\nup strength."
+    },
+    {
+     "en": "If we dawdle,\nour casualties will only mount."
+    },
+    {
+     "en": "Good point..."
+    },
+    {
+     "en": "Daba, there's no need\nto be in such a hurry."
+    },
+    {
+     "en": "Now that we have warships to carry\nour forces, we can attack Sveto anytime."
+    },
+    {
+     "en": "Before that, why not form\nan alliance with Theart Star?"
+    },
+    {
+     "en": "Once Poseidal is beaten, we'll still\nhave to fight the Redros Army."
+    },
+    {
+     "en": "If we're in this for the long haul,\nwe'll want Theart Star's support."
+    },
+    {
+     "en": "Whether she'll agree\nto negotiate with us..."
+    },
+    {
+     "en": "That I can't say, but once she sees\nour strength now, she may be moved\nto act."
+    },
+    {
+     "en": "In other words, we've gotta show\nthem what we can do!"
+    },
+    {
+     "en": "We take out Giwaza's army\ndeployed in Koam's airspace."
+    },
+    {
+     "en": "Even if we attack Sveto, there's a risk\nGiwaza will hit us from behind."
+    },
+    {
+     "en": "So we should crush them first."
+    },
+    {
+     "en": "Which one should we attack first..."
+    },
+    {
+     "en": "Launching the operation."
+    },
+    {
+     "en": "Targets: the capital, \"Sveto,\"\nand the province of \"Koam.\""
+    },
+    {
+     "en": "Both regions must be taken\nto liberate the Pentagona Continent."
+    },
+    {
+     "en": "Displaying markers."
+    }
+   ],
+   "notes": "Seg 3: no pronoun for Poseidal (the ruler's gender is ambiguous in this game). Seg 11 [jp] = Full Flat (female, queen of Theart Star). Seg 7 (blank header, polite [jp]) kept as Semuge continuing. Sveto follows the library spelling ([jp]).",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "The alliance with the Poseidal\nRegular Army has deepened."
+    },
+    {
+     "en": "You can now deploy the Poseidal\nRegular Army's forces."
+    }
+   ],
+   "notes": "[accuracy 0] [jp] is 'alliance', not general 'relations' | [editorial 0] stray '/' in the text; worded like the Titans message (10350 19.5)",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "I am Quwasan Olibee, commander\nof the Imperial Guard Division."
+    },
+    {
+     "en": "My words faithfully convey\nthe will of Lord Poseidal."
+    },
+    {
+     "en": "Heed them well."
+    },
+    {
+     "en": "Command us as you wish."
+    },
+    {
+     "en": "A rebel base has been discovered\nin Trydetol."
+    },
+    {
+     "en": "Surround the city with your fleet\nand put every last traitor to death!"
+    },
+    {
+     "en": "With our army's strength,\nthat will be a simple matter."
+    },
+    {
+     "en": "I'll have an assault force\norganized at once."
+    },
+    {
+     "en": "Lord Poseidal has granted you\nthe honor of this victory."
+    },
+    {
+     "en": "Swift action would be wise."
+    },
+    {
+     "en": "I'm well aware."
+    },
+    {
+     "en": "Please, enjoy a taste\nof our army's true strength."
+    },
+    {
+     "en": "<Operation Launched>\nTrydetol Assault"
+    }
+   ],
+   "notes": "[editorial 12] operation-name format as the other cards ('GEAR HQ Assault')",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Koam has been captured."
+    },
+    {
+     "en": "You can now dock."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "So Daba Myroad defeated Giwaza..."
+    },
+    {
+     "en": "Perhaps the time is ripe,\nMiyau..."
+    },
+    {
+     "en": "Lady Full Flat!"
+    },
+    {
+     "en": "An envoy from Claudia is here."
+    },
+    {
+     "en": "About the alliance talks, I take it..."
+    },
+    {
+     "en": "I'm coming."
+    },
+    {
+     "en": "I'm Rie Akatsuki.\nToday, I've come..."
+    },
+    {
+     "en": "I know.\nWe have our own intelligence network,\nyou see."
+    },
+    {
+     "en": "I'll get straight to the point."
+    },
+    {
+     "en": "Theart Star will form\nan alliance with your forces."
+    },
+    {
+     "en": "From now on, we will have\nno more dealings with the Redros Army."
+    },
+    {
+     "en": "Will that suffice?"
+    },
+    {
+     "en": "Yes!"
+    },
+    {
+     "en": "Um, th-thank you very much!"
+    },
+    {
+     "en": "Heh...\nI have high hopes for you."
+    },
+    {
+     "en": "Alliance formed with Theart Star."
+    }
+   ],
+   "notes": "[jp] not in glossary; romanized Miyau (someone Full Flat addresses; identity not verified). | [editorial 8] 'I'll give you my conclusion first' was a calque | [editorial 15] system-message template unified",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "Sveto has been captured."
+    },
+    {
+     "en": "Docking at Sveto."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "Hey! Daba!\nWhere are you going?!"
+    },
+    {
+     "en": "I'm going to look for Olibee!"
+    },
+    {
+     "en": "Amm, help Kyao out!"
+    },
+    {
+     "en": "Whaaat?!\nI wanna go too!"
+    },
+    {
+     "en": "Hey! Amm!"
+    },
+    {
+     "en": "We've got our hands full here too!\nHelp out!!"
+    },
+    {
+     "en": "Amm, we need your skills.\nSorry, but please give us a hand."
+    },
+    {
+     "en": "Ugh... geez!\nWhat is with this?!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "Hm!\nYou!!"
+    },
+    {
+     "en": "Daba Myroad!"
+    },
+    {
+     "en": "Relax.\nOlibee is safe."
+    },
+    {
+     "en": "B... Big Brother...?"
+    },
+    {
+     "en": "Olibee!"
+    },
+    {
+     "en": "Big Brother..."
+    },
+    {
+     "en": "Thank goodness...\nOlibee!"
+    },
+    {
+     "en": "Daba Myroad."
+    },
+    {
+     "en": "I'm going to lend the rebels my aid."
+    },
+    {
+     "en": "I can't believe you mean that."
+    },
+    {
+     "en": "Besides, we've already defeated\nPoseidal. Why now..."
+    },
+    {
+     "en": "Poseidal has gone off somewhere\nwith the Redros Army."
+    },
+    {
+     "en": "What did you say?"
+    },
+    {
+     "en": "Poseidal will return someday."
+    },
+    {
+     "en": "For that day,\nI will lend you all my strength."
+    },
+    {
+     "en": "That is what I've decided."
+    },
+    {
+     "en": "All right... Gablae,\nlet's fight together!"
+    },
+    {
+     "en": "Right!"
+    },
+    {
+     "en": "Alliance formed with Gablae's unit."
+    }
+   ],
+   "notes": "[accuracy 10] subject restored: Daba means 'we' (his side) beat Poseidal; passive dropped it | [editorial 10] literal slashes in the text replaced by spaces | [editorial 18] system-message template unified",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Big Brother!\nHee hee hee hee."
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Daba!\nHas Olibee gotten\nher memory back?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "She's free of Poseidal's hold on her,\nbut... her memories and her mind\nhaven't come back..."
+    },
+    {
+     "en": "Hee hee...\nBig Brother..."
+    },
+    {
+     "en": "Olibee is... already...\n...not here anymore..."
+    },
+    {
+     "en": "She's... gone..."
+    },
+    {
+     "en": "Daba..."
+    },
+    {
+     "en": "Daba... don't cry..."
+    },
+    {
+     "en": "Ugh... uuugh......\nI... I......"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": ".........A...mm......?"
+    },
+    {
+     "en": "Giving up isn't like you, Daba!"
+    },
+    {
+     "en": "The Daba I love would never,\never give up!"
+    },
+    {
+     "en": "Always looking forward... facing\nanything head-on... That's Daba\nMyroad! That's who you are!"
+    },
+    {
+     "en": "......!"
+    },
+    {
+     "en": "That's right. After all,\nOlibee is right here."
+    },
+    {
+     "en": "We mustn't give up..."
+    },
+    {
+     "en": "Come on, get up! There must still\nbe lots of things that only you\ncan do, Daba!"
+    },
+    {
+     "en": "That's right... There are things\nI have to do."
+    },
+    {
+     "en": "I can't lose heart here!"
+    }
+   ],
+   "notes": "Seg 19 source typo [jp] read as [jp]. Seg 20 blank header kept as Amm continuing.",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "Incident on the Pentagona Continent."
+    },
+    {
+     "en": "Sveto has been seized by a combined\nforce of the Poseidal Army and\nthe Redros Army."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 24,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 26,
+   "segments": [
+    {
+     "en": "Sveto has been captured."
+    },
+    {
+     "en": "Docking at Sveto."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 27,
+   "segments": [
+    {
+     "en": "So the Pentagona Continent's\nbeen liberated, right?"
+    },
+    {
+     "en": "Yeah."
+    },
+    {
+     "en": "And on top of that, we've driven\nthe Redros Army one step closer\nto the wall."
+    },
+    {
+     "en": "Thank you. Thanks to everyone's\nhelp, we were able to defeat Poseidal."
+    },
+    {
+     "en": "Now it's our turn to give it\neverything we've got to bring down\nthe Redros Army."
+    },
+    {
+     "en": "That's what I like to hear!"
+    },
+    {
+     "en": "At this point,\nlet's see this through to the end!"
+    },
+    {
+     "en": "Glad to have you aboard!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 28,
+   "segments": [
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 30,
+   "segments": [
+    {
+     "en": "The rebels in Trydetol\nhave been suppressed."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 31,
+   "segments": [
+    {
+     "en": "A splendid performance."
+    },
+    {
+     "en": "Thanks to your work, we have\nbrought order to this continent."
+    },
+    {
+     "en": "From now on, the Pentagona Continent\nwill prosper as never before."
+    },
+    {
+     "en": "Thank you, sir."
+    },
+    {
+     "en": "However, we're only halfway there.\nLet us move on to our next objective."
+    },
+    {
+     "en": "Indeed. I'm counting on you."
+    },
+    {
+     "en": "Enemy forces on the Pentagona\nContinent have been wiped out."
+    },
+    {
+     "en": "Find your next objective."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

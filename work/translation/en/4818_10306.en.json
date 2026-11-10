@@ -1,0 +1,1792 @@
+{
+ "table": "4818_10306",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "Hokuto's House"
+    },
+    {
+     "en": "I'm home!"
+    },
+    {
+     "en": "Oh, Dad!"
+    },
+    {
+     "en": "Hey, Hokuto."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Hm?\nWhat's wrong?"
+    },
+    {
+     "en": "Where's your mom?"
+    },
+    {
+     "en": "Well... she's not here."
+    },
+    {
+     "en": "Not here?\nWhat do you mean...\nshe's not here?"
+    },
+    {
+     "en": "I don't know...\nYou don't know either, Dad?"
+    },
+    {
+     "en": "That's strange...\nShe never told me she had\nanything going on today..."
+    },
+    {
+     "en": "When I got home...\nthe front door was locked,\nand inside... it was pitch dark."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "What about Grandpa's place?\nDid you try calling there?"
+    },
+    {
+     "en": "No..."
+    },
+    {
+     "en": "I was tired yesterday,\nso I just went straight to sleep."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "Hey, Dad...\nWhat do you think happened to Mom?"
+    },
+    {
+     "en": "Don't worry... I'm sure she's\nstill waiting it out in a\nshelter somewhere."
+    },
+    {
+     "en": "Yeah... you're right."
+    },
+    {
+     "en": "Oh!\nMaybe that's Mom!"
+    },
+    {
+     "en": "Huh...?"
+    },
+    {
+     "en": "Hello, Hokuto..."
+    },
+    {
+     "en": "Ah..."
+    },
+    {
+     "en": "Commander..."
+    },
+    {
+     "en": "I'm Shibuya, the commander."
+    },
+    {
+     "en": "There is something I must\ntell you, Mr. Kusanagi..."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Hokuto...?!\nYou're...\nthe pilot of Dendoh...?"
+    },
+    {
+     "en": "Please don't blame Hokuto\nfor not telling you..."
+    },
+    {
+     "en": "We were the ones...\nwho made him keep it secret."
+    },
+    {
+     "en": "Commander..."
+    },
+    {
+     "en": "Hokuto... and Ginga. The two\nof them were chosen by Dendoh."
+    },
+    {
+     "en": "Chosen... by Dendoh...?"
+    },
+    {
+     "en": "Hokuto and Ginga could draw out\nmore of Dendoh's power than Orie."
+    },
+    {
+     "en": "For that reason alone,\nwe ended up relying\non these children."
+    },
+    {
+     "en": "......!!"
+    },
+    {
+     "en": "Commander...\nYou just said Mom's name..."
+    },
+    {
+     "en": "Yes. If you two hadn't been\nchosen... Orie was the one who\nwould have fought in Dendoh."
+    },
+    {
+     "en": "As Dendoh's pilot...\nand as GEAR's vice-commander,\nVega...!"
+    },
+    {
+     "en": "Fight......? Orie...?"
+    },
+    {
+     "en": "...What?!\nNo way...\nThen..."
+    },
+    {
+     "en": "Vega is...... Mom...?"
+    },
+    {
+     "en": "Ah!\nThen that means...!"
+    },
+    {
+     "en": "I'm sorry...\nHokuto...!"
+    },
+    {
+     "en": "Ngh!!\nI can't just sit here!"
+    },
+    {
+     "en": "Hokuto!!"
+    },
+    {
+     "en": "That guy kidnapped her!\nMom...!!\nI've got to go save her!!"
+    },
+    {
+     "en": "Kidnapped...?\n......Orie was?"
+    },
+    {
+     "en": "Wait!\nHokuto!!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Ugh...! Mom!"
+    },
+    {
+     "en": "I'll... I'll come\nand save you!!"
+    }
+   ],
+   "notes": "Seg 6 (blank header) read as Keisuke asking. Seg 47 'aitsu' = the enemy who took Vega (Arthea/Ouga); rendered 'that guy'. Shibuya's gender unknown: no pronouns used for Shibuya. | [editorial 32] run-on: name list and clause split into two sentences",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "GEAR HQ: Hangar"
+    },
+    {
+     "en": "Owwwww..."
+    },
+    {
+     "en": "Hey! Hokuto!\nWhat's gotten into you,\nrushing around like that?"
+    },
+    {
+     "en": "Vega...\nShe was my mom."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "Mom... didn't come home...\nand then Commander Shibuya came\nand said Vega...... is Mom..."
+    },
+    {
+     "en": "The one Ouga kidnapped...\nit was my mom!!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "No way......"
+    },
+    {
+     "en": "So I'm going\nto save Mom!!"
+    },
+    {
+     "en": "H-Hold on a sec!\nYou don't even know\nwhere that guy is!"
+    },
+    {
+     "en": "But...!\nMom's...!!"
+    },
+    {
+     "en": "Just calm down, already!"
+    },
+    {
+     "en": "Waaaaaaaaah!!"
+    },
+    {
+     "en": "Now I get...\nwhat's going on."
+    },
+    {
+     "en": "But right now,\nall we can do is wait."
+    },
+    {
+     "en": "Okay..."
+    },
+    {
+     "en": "I know it's a shock...\nBut you've got to hang in there.\nGot it, Hokuto?"
+    },
+    {
+     "en": "Kanji... please...\ntrain me.\nI can't just sit still."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "All right."
+    },
+    {
+     "en": "The Dendoh Team's piloting\nlevel went up by 4."
+    },
+    {
+     "en": "Good work today, Kanji!"
+    },
+    {
+     "en": "Hey, Elise.\nThanks for helping out\nwith the training."
+    },
+    {
+     "en": "Not at all..."
+    },
+    {
+     "en": "How's Hokuto?"
+    },
+    {
+     "en": "...He was worn out, so he's asleep."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "I'm worried about Hokuto,\nbut Galfa's on my mind too..."
+    },
+    {
+     "en": "So I've got a lot of things\nI want to ask Vega myself."
+    },
+    {
+     "en": "That last battle gave us a look at\nthe connection between Galfa\nand the Redros Army..."
+    }
+   ],
+   "notes": "Seg 6: [jp] = Arthea's Knight Ouga (term_fixes: Ouga). Seg 8 'uso...' has no header; Ginga most likely (only Ginga and Hokuto present) -- kept neutral 'No way'. | [editorial 9] 'going to go' clunky; [jp] object restored | [editorial 28] [jp]: 'bugging me' read as annoyance (accuracy flag)",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Oh, Kanji.\nWe're about to depart."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "\"Depart\" is now available."
+    }
+   ],
+   "notes": "[proofread 2] style sheet system line for [jp]",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Even if we don't know where\nthe enemy's remaining forces are,"
+    },
+    {
+     "en": "we can't just sit on our hands!"
+    },
+    {
+     "en": "First, we act!"
+    },
+    {
+     "en": "Do that, and the path\nwill reveal itself!"
+    },
+    {
+     "en": "Iron Gear!\nLaunch!"
+    },
+    {
+     "en": "We'll hunt down the enemies left\nin Asia and drive them off!"
+    }
+   ],
+   "notes": "Header of seg 0 is Master Asia (archaic speech fits); segs 1-3 kept as his. Seg 5 (no header) follows Elchi's launch order and is read as hers.",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "The Iron Gear and Grados...\nLet them fight, then take Dendoh."
+    },
+    {
+     "en": "An ignoble way for a knight to fight,\nbut it cannot be helped if I am\nto present Dendoh to His Majesty..."
+    }
+   ],
+   "notes": "[proofread 0] style sheet: plain 'Grados'",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Kanji!\nCome to the Nu Gundam's\ncockpit right away!"
+    },
+    {
+     "en": "What's up?"
+    },
+    {
+     "en": "Look, Kanji."
+    },
+    {
+     "en": "The Gundam's Psycho-Frame\nis resonating!"
+    },
+    {
+     "en": "Don't tell me...\nIs a gate opening again?"
+    },
+    {
+     "en": "...!!"
+    },
+    {
+     "en": "This feeling... I've got it!\nIt's where Quess and the\nothers vanished before!"
+    },
+    {
+     "en": "All right!\nLet's go check it out!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Looks like nothing's\nhappened yet."
+    },
+    {
+     "en": "No... here it comes!"
+    },
+    {
+     "en": "Whoa!!\nIt really came!!"
+    },
+    {
+     "en": "......!!"
+    },
+    {
+     "en": "Something's coming down!"
+    },
+    {
+     "en": "It's a mobile suit\nI've never seen before."
+    },
+    {
+     "en": "Hm...?!\nHathaway, is that you?!"
+    },
+    {
+     "en": "You're saying Hathaway's\nriding in that thing?"
+    },
+    {
+     "en": "Where... am I?"
+    },
+    {
+     "en": "Quess...\nWhat should I do?\nShow me the way..."
+    },
+    {
+     "en": "...?!"
+    },
+    {
+     "en": "Hathaway...\nLong time no see."
+    },
+    {
+     "en": "Huh...?\nAmuro?"
+    },
+    {
+     "en": "Ah!\nPlease wait!\nI'll open the hatch now!"
+    },
+    {
+     "en": "I can't believe it!\nI just got here, and I've\nalready run into Amuro!"
+    },
+    {
+     "en": "I'm surprised too.\nI never imagined you'd be\nthe one to come, Hathaway."
+    },
+    {
+     "en": "Anyway, that's quite a\nmachine you came in on.\nIs that really a mobile suit?"
+    },
+    {
+     "en": "Unusual, isn't it?\nThat's because it's equipped\nwith a Minovsky Craft system."
+    },
+    {
+     "en": "It lets the suit fly through\nthe sky while still heavily armed."
+    },
+    {
+     "en": "Impressive...\nHave they already put tech like\nthis into service over there?"
+    },
+    {
+     "en": "It's an experimental unit, as\nusual. I doubt something like\nthis will ever be mass-produced..."
+    },
+    {
+     "en": "What's it called?"
+    },
+    {
+     "en": "This is the\n\"Xi Gundam.\""
+    },
+    {
+     "en": "This is a Gundam?"
+    },
+    {
+     "en": "Haha!\nI knew you'd be surprised."
+    },
+    {
+     "en": "I'll take you to the ship now.\nI've got a mountain of questions\nabout how things are over there."
+    },
+    {
+     "en": "Thanks. I'm glad to be aboard."
+    },
+    {
+     "en": "Hathaway has joined the unit."
+    },
+    {
+     "en": "The Xi Gundam has been deployed."
+    }
+   ],
+   "notes": "Seg 4 has no header; left as a line from Amuro or Kanji (neutral wording). | [editorial 18] 'It lets it' unclear | [editorial 24] [jp]: 'It surprises everyone' generalised (accuracy flag)",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Arthea Fleet Flagship"
+    },
+    {
+     "en": "Like that, you look just\nas you did long ago... Vega."
+    },
+    {
+     "en": "Arthea..."
+    },
+    {
+     "en": "What is the meaning of this?\nArthea...\n...No... Brother..."
+    },
+    {
+     "en": "Ah...\nNo...\nAre you truly...?!"
+    },
+    {
+     "en": "For reasons of my own,\nI cannot remove\nthis mask at present."
+    },
+    {
+     "en": "But make no mistake,\nI am your brother, Arthea."
+    },
+    {
+     "en": "It is no wonder you cannot\nbelieve it at once.\nIt was... the same for me."
+    },
+    {
+     "en": "Vega... I never dreamed\nyou could still be alive..."
+    },
+    {
+     "en": "But...!\nThen why?\nWhy side with Galfa, of all things?!"
+    },
+    {
+     "en": "Emperor Galfa saved us both,\nand to this day he fights,\nwishing for peace in the universe."
+    },
+    {
+     "en": "What...?"
+    },
+    {
+     "en": "Out of concern for me,\nHis Majesty in his kindness\nsealed away my memories."
+    },
+    {
+     "en": "His Majesty...?"
+    },
+    {
+     "en": "The memories of our planet's end...\nso painful, so full of sorrow..."
+    },
+    {
+     "en": "Better that I have none of them\nat all, for my own sake--\nso His Majesty judged..."
+    },
+    {
+     "en": "But when I met you again, and\nmy sealed memories began to stir,\nHis Majesty could not bear my pain,"
+    },
+    {
+     "en": "and returned all of them\nto me."
+    },
+    {
+     "en": "Brother..."
+    },
+    {
+     "en": "Yet truly, I would have been\nhappier not knowing..."
+    },
+    {
+     "en": "That you, my one and only sister,\nwhom they carried off that day..."
+    },
+    {
+     "en": "you, the sister I loved so dearly\nthat even with my memories sealed\nsome part of my heart remembered...!"
+    },
+    {
+     "en": "Deceived or not, to think you have\njoined the evil humans who take\nup arms against Emperor Galfa!"
+    },
+    {
+     "en": "Brother, what are you saying?!"
+    },
+    {
+     "en": "Brother!\nThose are false memories!"
+    },
+    {
+     "en": "The one that suddenly rose up\nand attacked our planet"
+    },
+    {
+     "en": "was Galfa--our planet's\nbiocomputer, gone mad and out\nof control! Was it not?!"
+    },
+    {
+     "en": "That is what they have made\nyou believe!\nVega!"
+    },
+    {
+     "en": "They have deceived you...!"
+    },
+    {
+     "en": "Those humans who would topple\nHis Majesty and plunge the whole\nuniverse into endless turmoil!"
+    },
+    {
+     "en": "Brother...!"
+    },
+    {
+     "en": "It is you who are mistaken!\nIt is you who have been\ndeceived, Brother!!"
+    },
+    {
+     "en": "What!!"
+    },
+    {
+     "en": "Those memories of yours, Brother...\nthey are not the truth!"
+    },
+    {
+     "en": "Enough!"
+    },
+    {
+     "en": "Everything that cast us\ninto such a fate...!\nI shall destroy it all!!"
+    }
+   ],
+   "notes": "Seg 10: [jp] 'us both'. Emperor Galfa is referred to as 'he' once (seg 10), following Arthea's view of the Emperor as a person. Segs 28-29 one sentence split across pages ([jp] / ...[jp]); English split at the same point. | [editorial 1] dangling modifier 'Seeing you like that, you look'",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Whoa!"
+    },
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "What is it,\nLight?"
+    },
+    {
+     "en": "Well, well...\nLooks like we won't have\nto go looking for the enemy..."
+    },
+    {
+     "en": "They've come to us,\nall bunched together!"
+    },
+    {
+     "en": "What the hell is that?!\nThere's a crazy number of 'em!"
+    },
+    {
+     "en": "I can't believe there were\nstill that many left...!"
+    },
+    {
+     "en": "Most of them are\nClaudian-built cruisers."
+    },
+    {
+     "en": "There's no doubt the Redros\nArmy is behind this!"
+    },
+    {
+     "en": "Here they come!"
+    },
+    {
+     "en": "All units, prepare to intercept!!"
+    }
+   ],
+   "notes": "Seg 2 has no header; read as Kanji continuing.",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "I waited for them to fight\nGrados, but I can bear it\nno longer!"
+    },
+    {
+     "en": "Demons who brainwashed my sister\nVega and use her as evil's pawn!\nI'll not rest till I bury you myself!!"
+    },
+    {
+     "en": "That bastard!\nLet's go, Hokuto!"
+    },
+    {
+     "en": "Command Install!"
+    }
+   ],
+   "notes": "Seg 3 [jp] rendered 'Command Install!' (no established form found in other slices). | [proofread 0] style sheet: plain 'Grados'",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "You!\nIf not for the likes of you...!"
+    },
+    {
+     "en": "Give my mom back!!"
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "......?!"
+    },
+    {
+     "en": "Hokuto!!\nGinga!"
+    },
+    {
+     "en": "Hokutooo!!"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Vega's son?\nYou?"
+    },
+    {
+     "en": "...I see.\nSo that is why you\ncan move Dendoh."
+    },
+    {
+     "en": "Waaaaaah!!"
+    },
+    {
+     "en": "So your mother taught you this?!"
+    },
+    {
+     "en": "That you fight for\nthe peace of this universe!"
+    },
+    {
+     "en": "Is that why you fight?!\nDendoh!!"
+    },
+    {
+     "en": "Are you so eager to bring war?\nSo thirsty for blood?\nFoolish humans!"
+    },
+    {
+     "en": "As long as Dendoh fights, peace\nwill never come to this\nuniverse, now or ever!!"
+    },
+    {
+     "en": "Deceived or not, would you\ndrag even your own son into\nsuch darkness?! Vega!!"
+    }
+   ],
+   "notes": "[editorial 10] rhetorical accusing question restored in tone (accuracy flag); k11-k12 flow kept",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "Hear me!!\nPilot of Dendoh!"
+    },
+    {
+     "en": "No...\nSon of Vega!"
+    },
+    {
+     "en": "...!!"
+    },
+    {
+     "en": "...?!"
+    },
+    {
+     "en": "Vega is my sister, from whom\nI was torn apart in the year\n4085 of the Arktos Era!"
+    },
+    {
+     "en": "Huh...?"
+    },
+    {
+     "en": "...?!"
+    },
+    {
+     "en": "His sister?!"
+    },
+    {
+     "en": "Carried off by the enemy, taught\nthat we of Galfa are the ones\nwho bring harm to the universe,"
+    },
+    {
+     "en": "she threw herself into this war--\nmy foolish sister!"
+    },
+    {
+     "en": "Mom is...\nthat guy's sister?"
+    },
+    {
+     "en": "If Dendoh believes those words\nand fights on,"
+    },
+    {
+     "en": "then nothing can save\nthis universe from war!"
+    },
+    {
+     "en": "No!\nThat's not true!"
+    },
+    {
+     "en": "Hokuto!!\nGinga!!"
+    },
+    {
+     "en": "The other Gear, which brings\nruin and chaos!!\nI shall destroy it, nothing more!!"
+    }
+   ],
+   "notes": "Seg 4: [jp] 'Arktos Era' (term_fixes: Arktos); 'Era' is my choice for [jp]. Seg 7 [jp] given to Hokuto per header: 'His sister!?'. Seg 15: [jp] 'the other Gear' (Dendoh as the other Gear besides Ouga) -- unverified.",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "Dammit!\nThey just keep coming!"
+    },
+    {
+     "en": "If you abandon Dendoh, I shall\ngrant you a reprieve, son of Vega."
+    },
+    {
+     "en": "I may even let the Iron Gear\nescape from this battlefield!"
+    },
+    {
+     "en": "Give up Dendoh?!"
+    },
+    {
+     "en": "Even I have no wish\nto cause more tragedy!"
+    },
+    {
+     "en": "What will it be?!\nSon of Vega!"
+    },
+    {
+     "en": "Ngh...\nGive my mom baaack!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "I see... Then so be it!!"
+    },
+    {
+     "en": "Viper Whip,\ninstall!"
+    },
+    {
+     "en": "Kyaaaah!"
+    },
+    {
+     "en": "Dammit!\nWhat power!!"
+    },
+    {
+     "en": "This is the end!"
+    },
+    {
+     "en": "Arthea!!"
+    },
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "Stop this fighting!\nArthea!!"
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "Though I know it not myself,\nI am the one who holds the key\nto Dendoh's secret!"
+    },
+    {
+     "en": "If you continue this battle...!\nI will end my own life,\nhere and now!"
+    },
+    {
+     "en": "...!!"
+    },
+    {
+     "en": "Vega!!\nWhat are you doing?!"
+    },
+    {
+     "en": "Damn it all!!"
+    },
+    {
+     "en": "Very well, Vega!\nWait until I return to the ship!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Nngh...!"
+    },
+    {
+     "en": "LORD ARTHEA...!\nI HAVE A REPORT."
+    },
+    {
+     "en": "Mm..."
+    },
+    {
+     "en": "SPACE-TIME TREMORS\nARE BEING OBSERVED."
+    },
+    {
+     "en": "SOON... THE GATE...\nWILL... OPEN..."
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "Nngh...!"
+    },
+    {
+     "en": "LORD ARTHEA...\nWHAT ARE YOUR ORDERS...?"
+    },
+    {
+     "en": "The battle is not over!\nDo not lift the encirclement!"
+    },
+    {
+     "en": "UNDERSTOOD..."
+    },
+    {
+     "en": "What the?!\nA gate that huge?!"
+    },
+    {
+     "en": "Wh-What in the world\nis that...!"
+    },
+    {
+     "en": "Kyaaaaaah!!"
+    },
+    {
+     "en": "Nnngh!"
+    },
+    {
+     "en": "A fleet that size!!\nDid they summon it here?!"
+    }
+   ],
+   "notes": "Segs 25-33: UNKNOWN speaker writes in katakana (robotic Galfa voice); rendered with plain clipped English and ellipses, no special casing. Seg 9 [jp] Viper Whip per machine library. | [accuracy 25] robotic katakana voice: CAPITALS per project decision (translator note predates it; cf. 'ROGER.' in dlg_4819_10307_00) | [accuracy 27] robotic katakana voice: CAPITALS per project decision (translator note predates it; cf. 'ROGER.' in dlg_4819_10307_00) | [accuracy 28] robotic katakana voice: CAPITALS per project decision (translator note predates it; cf. 'ROGER.' in dlg_4819_10307_00) | [accuracy 31] robotic katakana voice: CAPITALS per project decision (translator note predates it; cf. 'ROGER.' in dlg_4819_10307_00) | [accuracy 33] robotic katakana voice: CAPITALS per project decision (translator note predates it; cf. 'ROGER.' in dlg_4819_10307_00)",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "I am Char Aznable,\nSupreme Leader of Neo Zeon."
+    },
+    {
+     "en": "Our fleet has entered the area\nto maintain the safety and\norder of Paradigm City,"
+    },
+    {
+     "en": "at the request of Mr. Alex,\nwho governs Paradigm City."
+    },
+    {
+     "en": "Accordingly, we strongly desire\nan alliance with your forces,\nwho also protect this city."
+    },
+    {
+     "en": "Char...? But why?!"
+    },
+    {
+     "en": "Quess must have brought them.\nI can sense her presence too..."
+    },
+    {
+     "en": "What's going on?"
+    },
+    {
+     "en": "He's the one we were fighting\nback when we were in space..."
+    },
+    {
+     "en": "So why's he coming to us\nwanting to form an alliance?"
+    },
+    {
+     "en": "I'll go ask him myself."
+    }
+   ],
+   "notes": "Seg 5: [jp] -- object unstated; 'them' (Char and his fleet).",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "We're going to\nmeet Char now."
+    },
+    {
+     "en": "All right?"
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "Neo Zeon Fleet\nFlagship: Bridge"
+    },
+    {
+     "en": "Colonel!\nAmuro and Kanji are here."
+    },
+    {
+     "en": "We're here representing the Iron\nGear: Lieutenant Kanji Akatsuki and\nLieutenant Amuro Ray!"
+    },
+    {
+     "en": "I'm sorry to have you\ncome all this way.\nAt ease."
+    },
+    {
+     "en": "Char...!\nJust what are you after,\nwanting an alliance with us?"
+    },
+    {
+     "en": "And why did you\ncome down to Terra?!"
+    },
+    {
+     "en": "We came down to Terra to keep\nNeo Zeon's forces in reserve\noutside the Earth Sphere."
+    },
+    {
+     "en": "As a supply base for the fleet...\nand as a hiding place,\nthis world is just right."
+    },
+    {
+     "en": "You could say we're simply doing\nwhat the Redros Army does.\nAll in order to oppose them!"
+    },
+    {
+     "en": "Oppose the Redros Army?!"
+    },
+    {
+     "en": "That's right!\nWhich is precisely why\nwe wish to ally with you."
+    },
+    {
+     "en": "..................."
+    },
+    {
+     "en": "Well, hear me out."
+    },
+    {
+     "en": "The Earth Sphere is now ruled by\nthe Federation, and Neo Zeon's\nautonomy exists in name only."
+    },
+    {
+     "en": "Worse, the Federation has joined\nhands with the Redros Army to build\nanother group like the Titans."
+    },
+    {
+     "en": "What did you say?!"
+    },
+    {
+     "en": "It's true, Amuro."
+    },
+    {
+     "en": "Londo Bell's split, too...\nand some of them are forming a\ngroup to fight back against it."
+    },
+    {
+     "en": "Captain Bright and Ms. Diane\nand the others are\nat the center of it."
+    },
+    {
+     "en": "Bright...?"
+    },
+    {
+     "en": "Surely you, too, realize that\nthe present situation\nis not normal."
+    },
+    {
+     "en": "All of it is tied\nto the Redros Army."
+    },
+    {
+     "en": "True...\nThat's the natural conclusion,\nbut..."
+    },
+    {
+     "en": "It was Quess who told me.\nOtherwise, I might have ended\nup dancing to their tune."
+    },
+    {
+     "en": "Has the Redros Army been\ngetting more active in space?"
+    },
+    {
+     "en": "No... same as always.\nBut the skirmishes keep\non increasing."
+    },
+    {
+     "en": "You can tell they're trying\nto spread the war!"
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "At present, our goals\nalign in many respects."
+    },
+    {
+     "en": "It would be strange not to form\nan alliance with such a partner,\nwouldn't it?"
+    },
+    {
+     "en": "Talk is cheap."
+    },
+    {
+     "en": "I simply wish for humanity to move\nto a way of life in harmony with\nthe Earth... and with space."
+    },
+    {
+     "en": "That has not changed,\nthen or now."
+    },
+    {
+     "en": "If you start a meteor drop,\nI'll turn against you.\nCount on it!"
+    },
+    {
+     "en": "That's fine by me.\nBut for now, may I take it\nthat we are agreed?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Amuro..."
+    },
+    {
+     "en": "Yeah...\nI know."
+    },
+    {
+     "en": "I'll report that the talks...\nreached an agreement.\nThat's what you want, Char?"
+    },
+    {
+     "en": "Of course."
+    },
+    {
+     "en": "Amuro, I thank you for coming\nhere in person to speak\nwith me."
+    },
+    {
+     "en": "Kanji...\nYou understand, don't you?"
+    },
+    {
+     "en": "...So in the end, Char's\nthinking hasn't changed\nfrom before?"
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "Once this is all over...\nI'll have to settle things\nwith him."
+    },
+    {
+     "en": "A temporary alliance, huh..."
+    }
+   ],
+   "notes": "Seg 1 [jp] (no header) read as Amuro checking with Kanji. Seg 5: both introduced as [jp] Captain per project decision. Seg 36: [jp] 'meteor drop' (majority form in earlier slices; one slice used 'asteroid drop'). | [editorial 27] 'making more of a showing' awkward | [proofread 3] location card format 'Place: Room' (style sheet)",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "Is that...\nQuess...?"
+    },
+    {
+     "en": "Hey!\nQuess!\nYou look like you're doing well!"
+    },
+    {
+     "en": "Quess Paraya, attached to\nthe Rewloola. I've come\nto collect my machine!"
+    },
+    {
+     "en": "Hey, no need to be\nso stiff about it!"
+    },
+    {
+     "en": "...I'm with the regular Neo\nZeon forces now, you know.\nLet's do this properly."
+    },
+    {
+     "en": "Dahahaha!\nEven a scarecrow looks\nsharp in a uniform, huh?"
+    },
+    {
+     "en": "Jeez!\nQuit fooling around!"
+    },
+    {
+     "en": "Anyway, show me\nwhere my machine is."
+    },
+    {
+     "en": "Sure!\nThis way!"
+    },
+    {
+     "en": "It's ready to be moved\nout right away.\nGive it a check, just in case."
+    },
+    {
+     "en": "Is it really...\nokay for me to take it?"
+    },
+    {
+     "en": "You're the only one who can\nuse this thing...\nPut it to good use, okay?"
+    },
+    {
+     "en": "Of course!\nThat's the plan!"
+    },
+    {
+     "en": "Oh...\nIt's all set to\nmove right away."
+    },
+    {
+     "en": "You can tell just by\nlooking at it from outside?"
+    },
+    {
+     "en": "It has a psycommu, so I\ncan tell. You really kept it\nin great shape."
+    },
+    {
+     "en": "While you were gone, Chan\nkept it perfectly maintained.\nYou'd better thank her!"
+    },
+    {
+     "en": "Yeah......\nHehe... Tell her thanks for me,\nand sorry for all the trouble."
+    },
+    {
+     "en": "Will do!"
+    },
+    {
+     "en": "Want to take a walk\naround the ship?"
+    },
+    {
+     "en": "You should probably\nsay hi to everyone,\nright?"
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "Jagd Doga (Quess Custom)\nhas been removed from the unit."
+    }
+   ],
+   "notes": "Seg 6 [jp] rendered as an equivalent idiom (scarecrow/uniform). Chan Agi is female per glossary ('her').",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "This is the room Kaine\nand the others share.\nWant to go in?"
+    },
+    {
+     "en": "Yeah!\nWe didn't really get\nto talk earlier."
+    },
+    {
+     "en": "Kaine and Co.'s Cabin"
+    },
+    {
+     "en": "You...\nAre you really Quess?"
+    },
+    {
+     "en": "Kanji, something's\nfishy about her!"
+    },
+    {
+     "en": "What?!\nThere's nothing going on!"
+    },
+    {
+     "en": "Sure, I caused everyone\ntrouble, and I feel a little\nguilty about it, but..."
+    },
+    {
+     "en": "Ma~n,\nwhat a pain that was~!"
+    },
+    {
+     "en": "Yep, yep!"
+    },
+    {
+     "en": "Having a machine that couldn't\nfight sitting in the hangar\nwas a real nuisance, too."
+    },
+    {
+     "en": "Okay! I'll apologize for\nthat, honestly!"
+    },
+    {
+     "en": "But... I thought if I told you,\nyou wouldn't let me go."
+    },
+    {
+     "en": "I wasn't sure... it would\nwork out either, you know."
+    },
+    {
+     "en": "Huuuh?\nWhat the heck happened\nto you?"
+    },
+    {
+     "en": "Is this really\nthe Quess we know?"
+    },
+    {
+     "en": "Jeez, even you're\nsaying that, Tapp?"
+    },
+    {
+     "en": "Well, I mean..."
+    },
+    {
+     "en": "Ugh...\nLet's go, Kanji!"
+    },
+    {
+     "en": "H-Hey!"
+    }
+   ],
+   "notes": "Seg 4 (no header) read as Kaine continuing; seg 14 (no header) as Tapp continuing (Quess answers 'even you, Tapp'). | [editorial 0] awkward possessive 'Kaine and the others' room'",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "I'll go to the bridge first.\nElchi's there, right?"
+    },
+    {
+     "en": "Yeah, and a few others should\nbe gathered there right now."
+    },
+    {
+     "en": "All right!"
+    },
+    {
+     "en": "Oh? Quess.\nYou look well."
+    },
+    {
+     "en": "I'm sorry...\nfor running off on my own..."
+    },
+    {
+     "en": "It's fine.\nIt's all in the past now."
+    },
+    {
+     "en": "Quess, I don't think\nyou betrayed us."
+    },
+    {
+     "en": "So you can come back\nanytime you want."
+    },
+    {
+     "en": "Oh... okay...\nThank you."
+    },
+    {
+     "en": "I'd better get going..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "Quuueess!!"
+    },
+    {
+     "en": "Huh...?"
+    },
+    {
+     "en": "Hathaway!\nNot now!"
+    },
+    {
+     "en": "Quess!!"
+    },
+    {
+     "en": "Hathaway?!"
+    },
+    {
+     "en": "Just come over here!"
+    },
+    {
+     "en": "Ow!\nI'm coming!\nDon't be so rough!"
+    },
+    {
+     "en": "That Hathaway..."
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Come back, Quess!"
+    },
+    {
+     "en": "Not yet...\nI've still got so much to do!\nSo I can't come back to you!"
+    },
+    {
+     "en": "Is being with Char\nreally that great?!"
+    },
+    {
+     "en": "Ugh...\nThat's not it!\nTry to understand!"
+    },
+    {
+     "en": "No...\nNo matter what you say,\nI can't come back yet!"
+    },
+    {
+     "en": "Quess...!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Quess...\nYou said you can't come\nback 'yet'..."
+    },
+    {
+     "en": "That means this is where\nyou belong, right?\nRight...? Quess..."
+    }
+   ],
+   "notes": "Seg 13 has no header; read as Quess continuing. Segs 16-17: Hathaway picks up on [jp]/[jp] ('yet').",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "Mom..."
+    },
+    {
+     "en": "Cheer up, Hokuto!"
+    },
+    {
+     "en": "Yeah......"
+    },
+    {
+     "en": "Your mom's alive.\nThere's still a chance!"
+    },
+    {
+     "en": "Anyway, for now, let's go\nreport to GEAR headquarters."
+    },
+    {
+     "en": "Okay..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "That concludes my report!"
+    },
+    {
+     "en": "I see...\nSo that Arthea is\nVega's brother..."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "...We can at least confirm she's\nalive. We must count that\nas a mercy amid misfortune."
+    },
+    {
+     "en": "You must all be tired.\nPlease, get some rest for today."
+    },
+    {
+     "en": "GEAR HQ: Lounge"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Ginga..."
+    },
+    {
+     "en": "Ngh!"
+    },
+    {
+     "en": "Ginga!!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Hokuto..."
+    },
+    {
+     "en": "Hokuto, come here.\nIt's all right now..."
+    },
+    {
+     "en": "Ugh... uuu......"
+    },
+    {
+     "en": "Waaaaaaaaaah!!"
+    },
+    {
+     "en": "Dammit!\nDAMMIT!!"
+    },
+    {
+     "en": "I don't get it...\nI don't understand\nany of this anymore!"
+    },
+    {
+     "en": "Ginga..."
+    }
+   ],
+   "notes": "Seg 13 (no header) read as Keisuke continuing; [jp] rendered 'you don't have to hold it in'. | [editorial 13] trimmed added explanation 'you don't have to hold it in' (accuracy flag); [jp]",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "Still..."
+    },
+    {
+     "en": "I never thought we'd end up\nfighting side by side\nwith Char's fleet..."
+    },
+    {
+     "en": "Now there's no telling\nwhat Le Caine will do..."
+    },
+    {
+     "en": "And how Omega's and Arthea's\nforces will respond to that..."
+    },
+    {
+     "en": "Looks like there's a lot\nwe need to think through."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "Grados City\n(Formerly New York)"
+    },
+    {
+     "en": "...If only Father hadn't\nordered a retreat back then..."
+    },
+    {
+     "en": "What of Karla?!\nShe is my subordinate, so why\nhas she not reported to me?!"
+    },
+    {
+     "en": "After what happened, that\nwill be impossible for a while."
+    },
+    {
+     "en": "Mounting another campaign with\na large force will take\nan enormous amount of time..."
+    },
+    {
+     "en": "Father knew that, and still he\nsent me out! And then he\nmade me turn back!!"
+    },
+    {
+     "en": "While we sat idle, we let these\nNeo Zeon nobodies from who knows\nwhere invade, did we not?!"
+    },
+    {
+     "en": "It is just as you say,\nYour Excellency."
+    },
+    {
+     "en": "Neo Zeon and the Resistance are\nmarching in step, and they've become\na formidable, troublesome foe."
+    },
+    {
+     "en": "However, had we pressed on\ninstead of withdrawing, we might\nhave been struck from behind."
+    },
+    {
+     "en": "Roanne Demitrich,\nyou always arrive at\nthe very answer I wish for."
+    },
+    {
+     "en": "You honor me!"
+    },
+    {
+     "en": "...And so?\nAre preparations for our\nnext offensive in order?"
+    },
+    {
+     "en": "To wipe out the new enemy fleet,\nI've requested reinforcements from\nthe homeland. They'll arrive soon."
+    },
+    {
+     "en": "Good...\nAnd what of Arthea?"
+    },
+    {
+     "en": "He's isolated on the Asia\nContinent, but seems to hold a base.\nHowever, something is amiss..."
+    },
+    {
+     "en": "What is it?\nSpeak."
+    },
+    {
+     "en": "With Paradigm under enemy control,\nCommander Arthea's forces are\ncompletely cut off."
+    },
+    {
+     "en": "What's more, his supply depot\nwas utterly destroyed by the enemy."
+    },
+    {
+     "en": "I wondered how he was managing\nto resupply in that state,\nso I looked into it..."
+    },
+    {
+     "en": "It seems he is getting\nforces from Pentagona."
+    },
+    {
+     "en": "What did you say?"
+    },
+    {
+     "en": "It does seem to take the\nform of a commercial deal..."
+    },
+    {
+     "en": "I thought it might be fair to\nregard it as a field decision..."
+    },
+    {
+     "en": "But I've received no such report\nfrom him whatsoever!"
+    },
+    {
+     "en": "Indeed...!"
+    },
+    {
+     "en": "I doubt it, but...\nkeep investigating Arthea.\nAnd move up the fleet's sortie!"
+    },
+    {
+     "en": "Yes, sir!!"
+    },
+    {
+     "en": "I'm going to see Father.\nI won't have him ordering me to\nretreat halfway through again!"
+    },
+    {
+     "en": "Le Caine...?"
+    },
+    {
+     "en": "Father!\nThere's something I must ask you!"
+    },
+    {
+     "en": "Why did you use Karla\nto obstruct the battle?!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Why?!"
+    },
+    {
+     "en": "I've yet to receive a satisfying\nanswer from you since then!"
+    },
+    {
+     "en": "I beg you,\ntell me the reason."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Or was that Karla's\nown decision?"
+    },
+    {
+     "en": "I...!"
+    },
+    {
+     "en": "Aaah!!"
+    },
+    {
+     "en": "I wasn't asking you!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "And one more thing.\nWhat do you intend to do with Julia?"
+    },
+    {
+     "en": "I've found out that you're\nhiding her somewhere, Father!"
+    },
+    {
+     "en": "Tell me the reason\nfor that as well!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Father!!"
+    },
+    {
+     "en": "Karla... leave us."
+    },
+    {
+     "en": "Yes, sir...!"
+    },
+    {
+     "en": "Le Caine..."
+    },
+    {
+     "en": "All of it...\nwas for your sake."
+    },
+    {
+     "en": "You believe Gradosians are\na race far superior to\nthe people of Terra."
+    },
+    {
+     "en": "It is a fact,\nso there's no helping it."
+    },
+    {
+     "en": "Wise guidance by the superior...\nand innocent obedience to it..."
+    },
+    {
+     "en": "That is your principle of rule?"
+    },
+    {
+     "en": "Precisely."
+    },
+    {
+     "en": "I see...\nI understand your thinking."
+    },
+    {
+     "en": "Karla!\nBring Julia in."
+    },
+    {
+     "en": "Pardon the intrusion!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Just as I thought,\nFather!"
+    },
+    {
+     "en": "Julia,\nspeak to Le Caine."
+    },
+    {
+     "en": "Lord Le Caine,\nyou are mistaken."
+    },
+    {
+     "en": "Gradosians and the people\nof Terra are equals."
+    },
+    {
+     "en": "At their origin, Gradosians and\nthe people of Terra are races\nthat sprang from the same root!"
+    },
+    {
+     "en": "Hmph!\nNo sooner do you show up\nthan you spout such nonsense!"
+    },
+    {
+     "en": "No.\nIt is not a lie."
+    },
+    {
+     "en": "Gradosians and Terrans\nshare the same ancestors."
+    },
+    {
+     "en": "Silence!!\nJulia!!"
+    },
+    {
+     "en": "Father, how long will you let\nher spout this drivel?!"
+    },
+    {
+     "en": "Please listen!\nLord Le Caine."
+    },
+    {
+     "en": "The reason your father\ntook me away,"
+    },
+    {
+     "en": "and the reason he intervened\nin the battle with the Layzner..."
+    },
+    {
+     "en": "is that he feared this secret\nwould reach your ears!"
+    },
+    {
+     "en": "He feared the blow it would deal\nyou when you learned the secret..."
+    },
+    {
+     "en": "How insolent!\nJulia!"
+    },
+    {
+     "en": "I let you talk, and\nyou get carried away!"
+    },
+    {
+     "en": "He feared the blow\nit would deal me?"
+    },
+    {
+     "en": "Don't talk such rubbish!"
+    },
+    {
+     "en": "Father!!\nWill you still let Julia\nsay whatever she pleases?!"
+    },
+    {
+     "en": "Le Caine...\nEverything Julia says is true.\nThere is no lie in it."
+    },
+    {
+     "en": "Father!!"
+    },
+    {
+     "en": "It is a secret that anyone at the\nheart of Grados power must\nlearn sooner or later."
+    },
+    {
+     "en": "Why should such a thing\nbe a secret?"
+    },
+    {
+     "en": "I can't imagine any Gradosian\nbelieving such drivel!"
+    },
+    {
+     "en": "You must learn\nthe principle of rule."
+    },
+    {
+     "en": "Rule begins with admitting\nthat you yourself are evil."
+    },
+    {
+     "en": "You must know that the blood\nof millions has been shed to\nmaintain the power to rule."
+    },
+    {
+     "en": "Which is exactly why...\nso that the blood shed\nwill not be in vain...!"
+    },
+    {
+     "en": "Those who rule\nmust be superior!!"
+    },
+    {
+     "en": "And what does it mean\nto be superior?!"
+    },
+    {
+     "en": "Knowledge...? Strength...?\nLineage...? Looks...?\n...Such fragile things."
+    },
+    {
+     "en": "Values like those\nshift all too easily..."
+    },
+    {
+     "en": "To rule is power!\nThe power to hold others down!"
+    },
+    {
+     "en": "And power is, in a word,\n\"evil\"!"
+    },
+    {
+     "en": "...!!"
+    },
+    {
+     "en": "What is needed is one who can\nfirst admit to being evil!"
+    },
+    {
+     "en": "One who, knowing everything, can\nstill reign aloof above it all!!"
+    },
+    {
+     "en": "Ngh..."
+    },
+    {
+     "en": "As I thought... you are still\nfar too green as a commander,\nLe Caine..."
+    },
+    {
+     "en": "That is your view, Father!!"
+    },
+    {
+     "en": "My view is that only the\nsuperior should rule!"
+    },
+    {
+     "en": "If ruling is all it takes,\neven a fool can do it!"
+    },
+    {
+     "en": "No!\nIt must be the superior!!"
+    },
+    {
+     "en": "Do you still not understand?!\nLe Caine!!"
+    },
+    {
+     "en": "It is you who do not\nunderstand, Father!"
+    },
+    {
+     "en": "You're trying to flee\nfrom the heights of rule!!"
+    },
+    {
+     "en": "You go too far, Le Caine!\nBe gone!"
+    },
+    {
+     "en": "Please wait,\nFather!!"
+    },
+    {
+     "en": "I overestimated you!"
+    },
+    {
+     "en": "You are... far too childish!"
+    },
+    {
+     "en": "Urgh...!"
+    },
+    {
+     "en": "This is cowardly, Father!\nJust because I won't\nbend to your will!"
+    },
+    {
+     "en": "Is that your logic\nof rule, Father?"
+    },
+    {
+     "en": "Le Caine!\nI hereby dismiss you."
+    },
+    {
+     "en": "Father!!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Fatheeer!!"
+    },
+    {
+     "en": "Be gone!\nLe Caine!!"
+    },
+    {
+     "en": "Hngh!!"
+    },
+    {
+     "en": "Fatheeer!!"
+    },
+    {
+     "en": "Th-The secret of Grados's\ncreation must be kept...!"
+    },
+    {
+     "en": "J-Julia...\nKill... kill Julia...!!"
+    },
+    {
+     "en": "Kahh...!"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Father...?"
+    },
+    {
+     "en": "Father......"
+    },
+    {
+     "en": "Fatheeeeeeer!!"
+    }
+   ],
+   "notes": "Seg 2 (no header) read as Le Caine continuing. Seg 6 [jp] 'nobodies from who knows where'. Seg 18 [jp] -- whose depot is unstated; read as Arthea's ('his'). Segs 15/18/19 use 'he' for Arthea (male per glossary). Seg 39 [jp] (Karla) -- presumably struck by Le Caine; kept as a bare cry. Seg 67 [jp] 'Terrans' vs [jp]/[jp] 'the people of Terra'. Seg 92 [jp] rendered 'Strength'. Seg 93: [jp] -- neutral 'one who can first admit to being evil'. Segs 117-123 (0-based): what physically happens (Le Caine's cry, Gresco collapsing) is not stated; kept as bare cries. | [accuracy 51] term: [jp] = Gradosian(s) (project decision) | [accuracy 63] term: [jp] = Gradosian(s) (project decision) | [accuracy 64] term: [jp] = Gradosian(s) (project decision) | [accuracy 67] term: [jp] = Gradosian(s) (project decision) | [accuracy 84] term: [jp] = Gradosian(s) (project decision) | [editorial 9] 'had we not withdrawn and pressed on' ambiguous | [editorial 19] tense agreement | [editorial 105] agreement: 'you who does' | [proofread 15] capitalisation: 'Asian Continent' as elsewhere (dlg_4817 r11 k10, corpus 5:1) | [proofread 86] grammar: infinitive subject with 'begins'; 'rule' as noun, as in 'principle of rule' nearby",
+   "status": "proofread"
+  }
+ ]
+}

@@ -1,0 +1,453 @@
+{
+ "table": "4822_10350",
+ "rows": [
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Axis has entered\nthe Earth Sphere."
+    },
+    {
+     "en": "The Axis forces led by Haman Karn\nhave declared war on the Earth\nFederation Forces and the Titans."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "I am Lieutenant Quattro Bajeena."
+    },
+    {
+     "en": "We of the AEUG are\nat odds with the Titans."
+    },
+    {
+     "en": "Naturally, we are also hostile to\nthe Redros Army, their ally."
+    },
+    {
+     "en": "Therefore, we would like to\npropose a united front\nwith your forces."
+    },
+    {
+     "en": "Understood.\nLet's fight together."
+    },
+    {
+     "en": "Thank you for agreeing\nso readily."
+    },
+    {
+     "en": "Alliance formed with the AEUG."
+    },
+    {
+     "en": "The Argama's squad has joined\nyour forces."
+    }
+   ],
+   "notes": "[jp] -> Captain (project rank decision).",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "The Titans' fleet is assembling\nat the Gate of Zedan."
+    },
+    {
+     "en": "The operation to take the\nGate of Zedan has been launched."
+    }
+   ],
+   "notes": "[jp] not in glossary/UI strings; used the established Zeta Gundam English 'Gate of Zedan'. | [editorial 0] possessive as in 'the Titans' main force' elsewhere",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Entering combat with the\nTitans' main force."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "The Titans' main force has\nbeen driven off."
+    },
+    {
+     "en": "You can now dock at\n\"Gryps.\""
+    }
+   ],
+   "notes": "[jp] -> Gryps (as in 'Gryps War' elsewhere); not in glossary.",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Fleet from Axis confirmed."
+    },
+    {
+     "en": "Here they come!"
+    },
+    {
+     "en": "Hey!\nHold it right there!"
+    },
+    {
+     "en": "Whoa, what for?!"
+    },
+    {
+     "en": "The Axis fleet is requesting\ncontact."
+    },
+    {
+     "en": "Exactly!\nWe talk first!"
+    },
+    {
+     "en": "Lady Mineva, these people\nwish to form an alliance\nwith us."
+    },
+    {
+     "en": "A fine attitude."
+    },
+    {
+     "en": "The Earth Sphere is now\nin turmoil."
+    },
+    {
+     "en": "This pointless fighting\nmust be ended swiftly."
+    },
+    {
+     "en": "That is the very goal\nour Axis strives for."
+    },
+    {
+     "en": "Let us fight together and\nbuild a world of peace."
+    },
+    {
+     "en": "Form an alliance with Axis?"
+    },
+    {
+     "en": "Ally\nDon't ally"
+    },
+    {
+     "en": "You heard her!"
+    },
+    {
+     "en": "By Lady Mineva's command,\nwe hereby form an alliance\nwith your forces!"
+    },
+    {
+     "en": "We expect great things\nof you all."
+    },
+    {
+     "en": "Alliance formed with\nthe Axis forces."
+    },
+    {
+     "en": "You can now dock at Axis."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "We gave you one last chance\nto side with us..."
+    },
+    {
+     "en": "I'm sorry..."
+    },
+    {
+     "en": "Very well..."
+    },
+    {
+     "en": "Then learn the power of\nour Axis the hard way!!"
+    }
+   ],
+   "notes": "Segs 8-11 (blank) read as Mineva continuing; 15 Haman; 18 narration; 20 and 23 Haman. Segs 19-23 are the refusal branch. Mineva's archaic [jp] kept as a formal register. | [editorial 17] system-message template unified",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Now in combat with\nthe Axis forces."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "The enemy fleet has been\ndriven off."
+    },
+    {
+     "en": "You can now dock at Axis."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "Emergency transmission!"
+    },
+    {
+     "en": "The Titans have been reorganized\nunder Paptimus Scirocco."
+    },
+    {
+     "en": "It appears the Titans have\ndeclared war on the AEUG\nall over again!"
+    },
+    {
+     "en": "...Which means they're\nour enemy, right?"
+    },
+    {
+     "en": "And here I thought we'd\nfinally taken them down..."
+    },
+    {
+     "en": "The main force of the Titans\n(Scirocco) is at \"Gryps.\""
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "We have a transmission from\nAdmiral Kowen of the\nEarth Federation Forces."
+    },
+    {
+     "en": "From the Federation...?"
+    },
+    {
+     "en": "I hear the Federation forces have\nbeen stirring since Jamitov\nstepped down..."
+    },
+    {
+     "en": "They probably want to\nform an alliance with us."
+    },
+    {
+     "en": "The Federation, allying\nwith us?"
+    },
+    {
+     "en": "But hey,\nisn't the Federation\nbasically the Titans?"
+    },
+    {
+     "en": "...Which means we'd be\nindirectly teaming up with\nthe Redros Army."
+    },
+    {
+     "en": "That's true..."
+    },
+    {
+     "en": "Connecting now!"
+    },
+    {
+     "en": "This is Kowen of the\nEarth Federation Forces."
+    },
+    {
+     "en": "We are rallying the anti-Titans\nfactions within the\nFederation forces."
+    },
+    {
+     "en": "We wish to form an alliance\nwith your forces."
+    },
+    {
+     "en": "To defeat the Titans under\nScirocco... and Axis\nunder Haman..."
+    },
+    {
+     "en": "We need your strength!"
+    },
+    {
+     "en": "Allying with the people of this\nworld is just what we want...\nbut..."
+    },
+    {
+     "en": "If you are the Federation forces,\nisn't the Redros Army\nhelping you?"
+    },
+    {
+     "en": "We are enemies of the\nRedros Army."
+    },
+    {
+     "en": "We can't ally with an organization\nthe Redros Army supports."
+    },
+    {
+     "en": "True... The Federation did receive\nRedros Army support by way\nof the Titans."
+    },
+    {
+     "en": "But now we reject the\nRedros Army's schemes."
+    },
+    {
+     "en": "That's exactly why we've offered\nthis alliance to your forces,\nnot to the Redros Army."
+    },
+    {
+     "en": "We want to fight alongside you\nfor the peace and future\nof the Earth Sphere!"
+    },
+    {
+     "en": "Cooperate with the Federation's\nanti-Titans faction?"
+    },
+    {
+     "en": "Cooperate\nDon't cooperate"
+    },
+    {
+     "en": "Thank you."
+    },
+    {
+     "en": "Then please join up with our\nelite unit right away."
+    },
+    {
+     "en": "The Albion's squad is resupplying\nat \"La Vie en Rose.\""
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "We'll head for\n\"La Vie en Rose.\""
+    },
+    {
+     "en": "I see... That's a shame..."
+    },
+    {
+     "en": "We have no intention of making\nenemies of your forces."
+    },
+    {
+     "en": "But if you say you'll ally\nwith Axis, then we will\nbe enemies."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "Then, farewell!"
+    }
+   ],
+   "notes": "Seg 0: [jp] rendered 'Admiral Kowen' as written (glossary position says lt. general). Seg 3 (blank) read as Nelfea; seg 6 as Kanji. Segs 29-33 are the refusal branch; Kowen's line mentions an Axis alliance, kept as written.",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Entering combat with the\nTitans' main force."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "The Titans' main force has\nbeen driven off."
+    },
+    {
+     "en": "You can now dock at\n\"Gryps.\""
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "That about takes care of\nthe hostile forces."
+    },
+    {
+     "en": "Shall we head for the\nnext objective soon?"
+    },
+    {
+     "en": "Yes.\nOnce we're ready, let's head\nfor the gate."
+    }
+   ],
+   "notes": "[editorial 2] doubled 'let's'",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "It's been a while,\nLord Redros."
+    },
+    {
+     "en": "The supplies I promised you\nare all ready."
+    },
+    {
+     "en": "Please put them to good use\nfor the Titans."
+    },
+    {
+     "en": "Much obliged!"
+    },
+    {
+     "en": "The Titans promise to maintain\ntheir relationship with your forces\nunchanged from here on."
+    },
+    {
+     "en": "The alliance with the Titans\nhas deepened."
+    },
+    {
+     "en": "Titans troops can now be\nformed into squads."
+    }
+   ],
+   "notes": "Seg 1-2: header says Redros is the one delivering promised supplies to the Titans; kept that direction.",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "\"Operation Apollo\" has been\nlaunched."
+    },
+    {
+     "en": "Take control of\nVon Braun City."
+    }
+   ],
+   "notes": "[jp] -> Operation Apollo (Zeta Gundam); not in glossary.",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "The AEUG's main force has been\nspotted near Von Braun."
+    },
+    {
+     "en": "The battle will now begin."
+    }
+   ],
+   "notes": "[editorial 1] brief template for battle-start messages (was 'Commencing battle.')",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "The AEUG has been defeated."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 27,
+   "segments": [
+    {
+     "en": "The enemy fleet has been\ndriven off."
+    },
+    {
+     "en": "You can now dock at Axis."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 28,
+   "segments": [
+    {
+     "en": "Your Excellency, the enemy's\nmain forces have been\nwiped out."
+    },
+    {
+     "en": "There will be no further\norganized resistance."
+    },
+    {
+     "en": "Good. We'll pass through the gate\nand head for our next objective."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  }
+ ]
+}

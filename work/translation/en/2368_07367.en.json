@@ -1,0 +1,145 @@
+{
+ "table": "2368_07367",
+ "rows": [
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Racing Through Space"
+    }
+   ],
+   "notes": "Table 2368_07367 is the BGM/song title list (neighbouring rows are English titles such as SWAN, NEO ZION), not unit labels. Titles in title case; English-language source titles stay as written.",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Wings of the Boy Who Killed Adolescence"
+    }
+   ],
+   "notes": "Gundam Wing OP2 (Shishunki wo Koroshita Shonen no Tsubasa); usual English rendering. 39 chars, over the 16-char aim but narrower (328 px @22) than the widest source title (352 px).",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Wing Caliber"
+    }
+   ],
+   "notes": "Katakana title romanized; exact official spelling unverified.",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Blue Flash"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Vow to Crush"
+    }
+   ],
+   "notes": "[jp]: literal rendering; official English title unverified.",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Destiny of Flame"
+    }
+   ],
+   "notes": "[jp] (VOTOMS OP): literal rendering; also seen as 'Fate of Flames'.",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "Stardust Eyes"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "Finisher! Flame Sword"
+    }
+   ],
+   "notes": "[jp] rendered 'Finisher!'; Flame Sword per glossary. 21 chars.",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Strongest Robo Daioja"
+    }
+   ],
+   "notes": "Daioja per glossary; 21 chars.",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "Let's Might Gaine!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "Our Fighting Spirit"
+    }
+   ],
+   "notes": "19 chars.",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Gambaruger Combination Theme"
+    }
+   ],
+   "notes": "28 chars; fits source width (254 px @22).",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "Final Fusion"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 24,
+   "segments": [
+    {
+     "en": "GUSHING DARKNESS\n      ~Omega's Theme"
+    }
+   ],
+   "notes": "Two-line layout kept; ASCII spaces indent the subtitle to roughly right-align it under line 1, as in the source.",
+   "status": "proofread"
+  }
+ ]
+}

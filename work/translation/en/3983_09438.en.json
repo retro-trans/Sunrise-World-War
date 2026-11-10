@@ -1,0 +1,2282 @@
+{
+ "table": "3983_09438",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "What is this place?! It's pure white -- I can't see a thing!"
+    },
+    {
+     "en": "Looks like there's an atmosphere?"
+    },
+    {
+     "en": "Seems like we're inside a cloud... It's almost all water vapor."
+    },
+    {
+     "en": "There's gravity?!"
+    },
+    {
+     "en": "Looks that way. We don't have enough thrust -- we're descending!"
+    },
+    {
+     "en": "We're out of the clouds?!"
+    },
+    {
+     "en": "There's a continent down there...?!"
+    },
+    {
+     "en": "Looks like we're not in space..."
+    },
+    {
+     "en": "Didn't we just come straight down to Earth?"
+    },
+    {
+     "en": "I don't know..."
+    },
+    {
+     "en": "While we can, get pictures of the terrain from up here!"
+    },
+    {
+     "en": "Hm?!"
+    },
+    {
+     "en": "There's something over there!!"
+    },
+    {
+     "en": "Cruiser sighted ahead! It's a Clop-class!"
+    },
+    {
+     "en": "Oh... So there was another ship besides ours that came through the gate."
+    },
+    {
+     "en": "It's being tossed about by the air currents and wobbling... A damaged ship?"
+    },
+    {
+     "en": "If it lost its steering and wandered into this airspace by chance, it's a lucky ship..."
+    },
+    {
+     "en": "Indeed... Had its approach to the gate been off course, it would have burned up in the atmosphere."
+    },
+    {
+     "en": "Registry confirmed. It's a Londo Bell ship!"
+    },
+    {
+     "en": "What...?"
+    },
+    {
+     "en": "Lord Omega... We have reports that Kanji Akatsuki was assigned to Londo Bell."
+    },
+    {
+     "en": "Are you saying it's no accident that they came...?"
+    },
+    {
+     "en": "However, I'd think it difficult to pinpoint the gate with an FT's equipment alone..."
+    },
+    {
+     "en": "Still less do I believe Kanji Akatsuki has any great analytical ability. He's a lucky man, though..."
+    },
+    {
+     "en": "Perhaps a Newtype guided them..."
+    },
+    {
+     "en": "With Londo Bell... that's conceivable..."
+    },
+    {
+     "en": "Hurry, get away!"
+    },
+    {
+     "en": "But hey, that's a Federation ship, right? Isn't it on our side?"
+    },
+    {
+     "en": "Either way, at this rate it's only a matter of time before we crash-land."
+    },
+    {
+     "en": "Shouldn't we ask them for help?"
+    },
+    {
+     "en": "Whoa! They're contacting us!"
+    },
+    {
+     "en": "I am the commander of this ship, Omega Fokurosu."
+    },
+    {
+     "en": "We are prepared to rescue your crew. Is the person in charge of your ship present?"
+    },
+    {
+     "en": "Ah, uh, umm... The person in charge, huh..."
+    },
+    {
+     "en": "In this case... it's gotta be Kanji, right?"
+    },
+    {
+     "en": "Heeey! Kanji!"
+    },
+    {
+     "en": "What? Where'd that guy go?"
+    },
+    {
+     "en": "You there! Did you just... say Kanji?!"
+    },
+    {
+     "en": "Huh? What's up?"
+    },
+    {
+     "en": "Is Kanji Akatsuki aboard?!"
+    },
+    {
+     "en": "Kanji's here, all right! So what's it to you?"
+    },
+    {
+     "en": "We've got somewhere we need to go!!"
+    },
+    {
+     "en": "We don't need you to rescue us, thanks!!"
+    },
+    {
+     "en": "Whoa, whoa! Quess! Let's keep this a little friendlier."
+    },
+    {
+     "en": "If that ship answers to Kanji, I'll sink it right here!"
+    },
+    {
+     "en": "H-Hey, wait a second!"
+    },
+    {
+     "en": "We're Federation forces, y'know! You guys are on our side, right?"
+    },
+    {
+     "en": "This world is not the space we were in until moments ago -- much less the Earth Sphere!"
+    },
+    {
+     "en": "Therefore, our army is not the Earth Federation Forces!"
+    },
+    {
+     "en": "If you value your lives, abandon ship at once! I'll at least spare your lives."
+    },
+    {
+     "en": "Lord Omega!! Enemy unit approaching!!"
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "Figured you'd pull something like that! Omega!!"
+    },
+    {
+     "en": "Kanji, it's you...!"
+    },
+    {
+     "en": "If you're going to attack, I'll destroy your ship's engines!"
+    },
+    {
+     "en": "Luckily for me, I know this ship's layout pretty well."
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Fighting here would only end with us taking each other down..."
+    },
+    {
+     "en": "Very well... I'll withdraw for now."
+    },
+    {
+     "en": "What's this? You're awfully cooperative."
+    },
+    {
+     "en": "Someday, you and I must settle things."
+    },
+    {
+     "en": "Until then, don't you go dying some pointless death."
+    },
+    {
+     "en": "Kanji, you're pretty good!"
+    },
+    {
+     "en": "Quit teasing! I'm a veteran pilot, believe it or not."
+    },
+    {
+     "en": "Whoa! The ship still isn't stable?"
+    },
+    {
+     "en": "What's going on? We're drifting!"
+    },
+    {
+     "en": "Can't be helped, can it? The helm's barely worked from the start!"
+    },
+    {
+     "en": "If we're making a forced landing, hurry! At this rate, we'll end up out over the Sea of Clouds!"
+    },
+    {
+     "en": "The Sea of Clouds?! You mean that thing we can see right ahead?"
+    },
+    {
+     "en": "If this ship goes out over the Sea of Clouds, it won't last even a few minutes!"
+    },
+    {
+     "en": "To fly over the Sea of Clouds, you need a Cloud Ship."
+    },
+    {
+     "en": "Ngh...! Hey! Kanji!"
+    },
+    {
+     "en": "What do you mean the ship won't last?!"
+    },
+    {
+     "en": "Well, to put it in terms you guys would get..."
+    },
+    {
+     "en": "it'd burn up, like when you enter Earth's atmosphere."
+    },
+    {
+     "en": "Looks like we've ended up someplace pretty crazy, huh?"
+    },
+    {
+     "en": "Little late to be whining about it now!"
+    },
+    {
+     "en": "You guys! This is no time to sit around chatting!"
+    },
+    {
+     "en": "Do something! More to the right, I said!"
+    },
+    {
+     "en": "This is the best I can do!"
+    },
+    {
+     "en": "Never mind that, just drop us onto land!"
+    },
+    {
+     "en": "Fine! It's gonna get a little rough, but here we go!!"
+    },
+    {
+     "en": "That's insane!!"
+    },
+    {
+     "en": "Yieee~! Gods and Buddhas, save me~!!"
+    },
+    {
+     "en": "Ow ow ow ow ow..."
+    },
+    {
+     "en": "Owww~ We should've come down in the Dragonars..."
+    },
+    {
+     "en": "Still... what kind of world is this, anyway?"
+    },
+    {
+     "en": "Seems fundamentally different from Earth's natural environment."
+    },
+    {
+     "en": "Yeah... There was a Sea of Clouds all around the continent..."
+    },
+    {
+     "en": "It's called a \"Sea of Clouds,\" but it isn't just water vapor, right?"
+    },
+    {
+     "en": "Yeah... It only looks like clouds. As for what kind of substance it really is..."
+    },
+    {
+     "en": "nobody even knows whether it's a \"substance\" at all."
+    },
+    {
+     "en": "So, basically, we just stay away from it, right?"
+    },
+    {
+     "en": "Whoa!"
+    },
+    {
+     "en": "What is it this tiiime?"
+    },
+    {
+     "en": "Something's coming at us from over there!!"
+    },
+    {
+     "en": "......!!"
+    },
+    {
+     "en": "What? This feeling..."
+    }
+   ],
+   "notes": "[10] no header; read as Kanji (the FT test pilot ordering terrain photos) -- 'we' kept implicit via imperative. [12] no header; read as Quess continuing. [36] no header; Tapp continuing (Kanji has already launched). [57][58][61] Omega continuing. [jp] = 'Sea of Clouds' (library-entry form; glossary ship name uses 'Cloud Sea'). [jp] = 'Cloud Ship' as in library. [jp] = 'Lord Omega'. [83] [jp] kept literal-ish as 'Gods and Buddhas'. | [accuracy 69] [jp]: 'even' restored; 'won't last a few minutes' read as the opposite emphasis | [editorial 27] Kaine's voice: 'a ship from the Federation forces' stiff | [editorial 44] 'moves by Kanji's will' stiff (accuracy flag); [jp] = acts on his will | [proofread 14] style sheet: 'gate' lowercase (common noun) | [proofread 17] style sheet: 'gate' lowercase (common noun) | [proofread 22] style sheet: 'gate' lowercase (common noun)",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "That treasure's ours for the taking!"
+    },
+    {
+     "en": "Boys! Don't you screw this up!!"
+    },
+    {
+     "en": "They're not even gonna talk?!"
+    },
+    {
+     "en": "Doesn't look like they're the type you can reason with."
+    },
+    {
+     "en": "That lot? They're all show."
+    },
+    {
+     "en": "They're nothing much in terms of firepower."
+    },
+    {
+     "en": "Let's send 'em packing! And then we'll make the prisoners tell us all kinds of stuff!"
+    },
+    {
+     "en": "Right! Let's fight back!!"
+    }
+   ],
+   "notes": "Breaker leader's gender not assumed.",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "What's with these guys... They've got a lot more backbone than I thought!"
+    },
+    {
+     "en": "It's your own fault for taking us lightly!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Nuooh! What a bunch!!"
+    },
+    {
+     "en": "Any more of this and it won't be worth the cost...!"
+    },
+    {
+     "en": "Fall back! Fall baaack!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "You're not getting away! We've got questions for you guys!!"
+    },
+    {
+     "en": "Hold it! More of them are coming!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "These guys... What the heck are they!"
+    },
+    {
+     "en": "Doesn't look like they're friendly."
+    },
+    {
+     "en": "Hey! Without resupply, we can't keep fighting!"
+    },
+    {
+     "en": "How about we just play nice and try surrendering?"
+    },
+    {
+     "en": "That might beat fighting recklessly, but..."
+    },
+    {
+     "en": "It's fine. If we just stay put like this..."
+    },
+    {
+     "en": "Huh?!"
+    },
+    {
+     "en": "Kanji! Are you there?"
+    },
+    {
+     "en": "Amuro!! How did you...?!"
+    },
+    {
+     "en": "Save the talk for later. We'll take them down with the Iron Gear! Stay hidden for a while."
+    },
+    {
+     "en": "Iron... Gear?"
+    },
+    {
+     "en": "Well, I'll be. It's just like Quess said."
+    },
+    {
+     "en": "But what's that supposed to mean, \"stay put\"?"
+    },
+    {
+     "en": "It means we just sit back and watch."
+    },
+    {
+     "en": "This is a warning to all Breakers gathered here!"
+    },
+    {
+     "en": "I am Elchi Cargo of the Iron Gear!"
+    },
+    {
+     "en": "Friends of ours are aboard that ship! I won't allow you to lay a hand on it!"
+    },
+    {
+     "en": "Who cares! Let 'em have it!!"
+    },
+    {
+     "en": "Oh, you've done it now!!"
+    },
+    {
+     "en": "All hands! Battle stations!!"
+    },
+    {
+     "en": "That's what I've been waiting for! Let's go, Amuro!"
+    },
+    {
+     "en": "Yeah... We're protecting that ship no matter what!"
+    },
+    {
+     "en": "I know, I know. They're your precious guests, right?"
+    },
+    {
+     "en": "All riiight! Here we gooo!"
+    }
+   ],
+   "notes": "[17] Breaker speaker (rough, possibly female speech in the JP) kept gender-neutral. [22] Rag answering Amuro: 'your guests' = the Londo Bell ship's crew. | [accuracy 12] referent: 'he' pointed at Amuro, but Amuro said 'stay hidden'; 'stay put' ([jp]) is Quess's phrase from k5 -- source names no one, kept impersonal | [editorial 9] 'We'll talk later. We'll suppress them' doubled 'We'll' and stiff 'suppress' | [editorial 14] 'I warn all Breakers' stilted for a loudspeaker announcement",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "You think you can take us on with a force this puny?"
+    },
+    {
+     "en": "By the looks of it, that Land Ship's all show too."
+    },
+    {
+     "en": "All units launched! Done!"
+    },
+    {
+     "en": "Then here we go!"
+    },
+    {
+     "en": "Iron Gear, transform!!"
+    },
+    {
+     "en": "Aye aye!!"
+    },
+    {
+     "en": "What? Hey... Waaaaah!"
+    },
+    {
+     "en": "Don't get spooked!! That's just a bluff!"
+    },
+    {
+     "en": "Fire! Fiiire! Keep shooting!!"
+    },
+    {
+     "en": "The enemy's rattled! Drive them off with every turret at once!!"
+    },
+    {
+     "en": "Now that's a captain!"
+    },
+    {
+     "en": "Fiiire!!"
+    },
+    {
+     "en": "Waaaaaaah!!"
+    },
+    {
+     "en": "Fall back! Fall baaack!"
+    },
+    {
+     "en": "You're wide open!"
+    },
+    {
+     "en": "Amuro's amazing."
+    },
+    {
+     "en": "That's Amuro for ya!"
+    },
+    {
+     "en": "All riiight, my turn!!"
+    },
+    {
+     "en": "Tch! Here they come!! Hit 'em back!!"
+    },
+    {
+     "en": "Gkh! Damn you, Walker Gallia!"
+    },
+    {
+     "en": "Bossss! We can't hold out!!"
+    },
+    {
+     "en": "Can't enjoy the loot if you're dead! We're pulling out!!"
+    },
+    {
+     "en": "Looks like it's over."
+    },
+    {
+     "en": "Cease fire! Undo the transformation."
+    },
+    {
+     "en": "You got it!"
+    }
+   ],
+   "notes": "Breaker speakers kept gender-neutral; [jp] rendered 'Boss'. [21] [jp] idiom -> 'can't enjoy the loot if you're dead'. | [editorial 1] [jp]: 'At this rate' implied progression; 'Land Ship' per project decision | [editorial 10] [jp] cheer: 'Way to go, great captain!' awkward | [proofread 5] style sheet: 'Aye aye' (no hyphen)",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Heeey! Lieutenant Amuro!"
+    },
+    {
+     "en": "The whole Dragonar Team's here!"
+    },
+    {
+     "en": "Is Londo Bell going to be all right?"
+    },
+    {
+     "en": "We had Kayra stay behind, so the mobile suit team'll be fine."
+    },
+    {
+     "en": "Besides, the fight with Neo Zeon is heading toward a temporary ceasefire."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "Still, it turned out just like Quess said."
+    },
+    {
+     "en": "You said it. I never thought we'd find you this easily."
+    },
+    {
+     "en": "Quess...? She's here?"
+    },
+    {
+     "en": "Yeah. Actually, we only made it here thanks to her."
+    },
+    {
+     "en": "She kept saying you and Char were alive over here, see."
+    },
+    {
+     "en": "I see... Quess did..."
+    },
+    {
+     "en": "I feel like I'm starting to get what this Newtype thing is about, a little."
+    },
+    {
+     "en": "Heeey! Amurooo! Where's the help you mentioned?"
+    },
+    {
+     "en": "Jiron! Over here!"
+    },
+    {
+     "en": "Hey! I'm Jiron Amos. Good to meetcha!"
+    },
+    {
+     "en": "I'm Kanji Akatsuki. Thanks for having us."
+    },
+    {
+     "en": "I'm Rag Uralo."
+    },
+    {
+     "en": "Well, if you're Amuro's friends, you must know your stuff, right?"
+    },
+    {
+     "en": "Looks like you've got your own machines, too."
+    },
+    {
+     "en": "Leave it all to us, and you can rest easy!"
+    },
+    {
+     "en": "Don't go deciding that so easily!"
+    },
+    {
+     "en": "Hm? What's with that girl? Pretty unfriendly, isn't she?"
+    },
+    {
+     "en": "Ah... She's..."
+    },
+    {
+     "en": "I don't have to give my name to someone who might end up an enemy."
+    },
+    {
+     "en": "Whaaat?! I introduced myself!"
+    },
+    {
+     "en": "And after we just saved your hides, too!"
+    },
+    {
+     "en": "I don't remember asking you to."
+    },
+    {
+     "en": "Quess! There you go, making enemies again!"
+    },
+    {
+     "en": "That's right. In that last fight, too, Quess said it'd be fine, so..."
+    },
+    {
+     "en": "I was just using the situation."
+    },
+    {
+     "en": "What did you say?!"
+    },
+    {
+     "en": "Don't get the wrong idea. Until recently, I was enemies with Amuro and his people."
+    },
+    {
+     "en": "Oh, yeah?! Then why don't you just get lost!"
+    },
+    {
+     "en": "I will! You're nothing but a gang of outlaws!"
+    },
+    {
+     "en": "Why, you little...!"
+    },
+    {
+     "en": "Quess! That's enough!!"
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "I can't just leave you here like this."
+    },
+    {
+     "en": "You're coming with us!"
+    },
+    {
+     "en": "Hmph!"
+    },
+    {
+     "en": "H-Hey! Quess!"
+    },
+    {
+     "en": "Hmm... Do girls always butt heads like that?"
+    },
+    {
+     "en": "Of course not!"
+    },
+    {
+     "en": "Amuro... Anyway, I don't want any troublemakers."
+    },
+    {
+     "en": "Sorry. She's still just a kid..."
+    },
+    {
+     "en": "A lot happened before she came here..."
+    },
+    {
+     "en": "We'll look after her, so cut her some slack."
+    },
+    {
+     "en": "Phew... Guess it can't be helped..."
+    },
+    {
+     "en": "You there! Stop dawdling!"
+    },
+    {
+     "en": "We won't make it to the bazaar in time!"
+    },
+    {
+     "en": "Get the cargo loaded, pronto! We're leaving right away!!"
+    },
+    {
+     "en": "Oh? Seems like she's in a hurry."
+    },
+    {
+     "en": "That's the captain of our Iron Gear."
+    },
+    {
+     "en": "I'll fill you in on the details as we go."
+    },
+    {
+     "en": "For now, bring everything that looks useful aboard the Iron Gear."
+    },
+    {
+     "en": "Got it. Let's get to it, everyone!"
+    },
+    {
+     "en": "Yeah!!"
+    },
+    {
+     "en": "Captain! We've loaded everything that looked useful."
+    },
+    {
+     "en": "Good work!"
+    },
+    {
+     "en": "Iron Gear! Set out for the Bazaar Point!!"
+    },
+    {
+     "en": "(The Iron Gear, huh...)"
+    },
+    {
+     "en": "(I just got here, so... I don't know my way around at all...)"
+    },
+    {
+     "en": "(......! The ship's started moving...?)"
+    },
+    {
+     "en": "(Where on earth are we headed...?)"
+    },
+    {
+     "en": "(...Well, for now, I guess I'll take a walk around the ship...)"
+    }
+   ],
+   "notes": "[0] [jp] -> 'Captain Amuro' (rank). [13] [jp] = the help Amuro brought/mentioned. [20] [jp] idiom -> 'you can rest easy'. [46] whose 'before coming here' read as Quess's. [32] [jp] -> 'Amuro and his people'. | [editorial 26] subject: the Iron Gear crew did the rescue (accuracy flag offered 'we'); Rag speaks for the crew | [editorial 32] 'Amuro and his people and I were enemies' clumsy chain | [editorial 62] [jp] idiom: 'left from my right' too literal (accuracy flag)",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Heyyy, how's it goin'!!"
+    },
+    {
+     "en": "What? So you guys are the new recruits?"
+    },
+    {
+     "en": "Yeah."
+    },
+    {
+     "en": "Hmm... How'd softies like you ever survive this long?"
+    },
+    {
+     "en": "Listen up! I'm the great Blume."
+    },
+    {
+     "en": "I'm gonna work you to the bone, so be ready!"
+    },
+    {
+     "en": "Go easy on us."
+    },
+    {
+     "en": "The Iron Gear's short-handed as it is."
+    },
+    {
+     "en": "Anyone caught slacking off gets straightened out!"
+    },
+    {
+     "en": "Blume! Stop that."
+    },
+    {
+     "en": "Elchi! With guys like these, you gotta set 'em straight from the start."
+    },
+    {
+     "en": "Call me Captain!"
+    },
+    {
+     "en": "Yeah, yeah...!"
+    },
+    {
+     "en": "Pardon him, everyone."
+    },
+    {
+     "en": "I'm the captain, Elchi Cargo."
+    },
+    {
+     "en": "Welcome aboard the Iron Gear! We're glad to have you!"
+    },
+    {
+     "en": "Wow~ I'm surprised a beauty like you is the captain."
+    },
+    {
+     "en": "Oh my~ A beauty? Stop it, you~"
+    },
+    {
+     "en": "Hey, Kaine, isn't cheating kinda bad?"
+    },
+    {
+     "en": "Ahahahahaha!"
+    },
+    {
+     "en": "But hey, with a beautiful captain, the work's a lot more rewarding."
+    },
+    {
+     "en": "Exactly!"
+    },
+    {
+     "en": "Jeez! What a frivolous bunch~ They're nothing like Amuro..."
+    },
+    {
+     "en": "Hahaha... I bet."
+    },
+    {
+     "en": "Amuro told me about you all. It seems you specialize in fighting with machines."
+    },
+    {
+     "en": "Well, we were in the military, so I guess that's about right...?"
+    },
+    {
+     "en": "I see... So you're ex-military..."
+    },
+    {
+     "en": "I'm sure you understand, but we're strictly \"haulers.\""
+    },
+    {
+     "en": "So my policy is to avoid fighting as much as possible."
+    },
+    {
+     "en": "I understand."
+    },
+    {
+     "en": "It's not like we've been fighting because we like it, either."
+    },
+    {
+     "en": "That's right. Not fighting beats fighting any day!"
+    },
+    {
+     "en": "Wonderful! Maybe you're more cultured than I thought."
+    },
+    {
+     "en": "Cultured...?"
+    },
+    {
+     "en": "Well, sure. Compared to other gloomy soldiers, we're way more cultured."
+    },
+    {
+     "en": "But if guys like that bunch earlier are swarming around..."
+    },
+    {
+     "en": "is it really much different from a war?"
+    },
+    {
+     "en": "Yeah... This ship's got plenty of weapons on it, too."
+    },
+    {
+     "en": "Mmm... That's the thing. There are so many barbarians around..."
+    },
+    {
+     "en": "And here I am, aiming to be a cultured hauler...!"
+    },
+    {
+     "en": "That kinda talk is why we're short-handed!"
+    },
+    {
+     "en": "Shut up! If you don't like it, get off!"
+    },
+    {
+     "en": "Now listen, everyone. This ship may sometimes be forced to fight in self-defense."
+    },
+    {
+     "en": "But fighting is not our business!"
+    },
+    {
+     "en": "We haulers are approved by each continent's government to cross their borders."
+    },
+    {
+     "en": "Being allowed to trade at the designated Bazaar Points is, you might say, a \"hauler's\" privilege."
+    },
+    {
+     "en": "From now on, I want you to take pride in being \"haulers\" too, and work hard!"
+    },
+    {
+     "en": "Understood!"
+    },
+    {
+     "en": "Now, I'll give you your first job."
+    },
+    {
+     "en": "This ship is currently heading for a Bazaar Point."
+    },
+    {
+     "en": "But on the way, guys like that bunch earlier will come after our cargo."
+    },
+    {
+     "en": "Until we reach the bazaar, take turns keeping watch around the ship."
+    },
+    {
+     "en": "Roger that!"
+    },
+    {
+     "en": "Hmm... Feels like we're doing the same thing as before."
+    },
+    {
+     "en": "Now, now, don't say that, Tapp my boy!"
+    },
+    {
+     "en": "Captain Elchi! After work, let's have a cultured chat."
+    },
+    {
+     "en": "Nice! Maybe throw a welcome party or something!"
+    },
+    {
+     "en": "A party? Oh, right, that IS cultured, isn't it?"
+    },
+    {
+     "en": "Captain!!"
+    },
+    {
+     "en": "Ah, ahem!"
+    },
+    {
+     "en": "All right, dismissed!"
+    },
+    {
+     "en": "Well then, see ya!"
+    },
+    {
+     "en": "Elchi, compared to your old man, you're kinda short on dignity."
+    },
+    {
+     "en": "Can't be helped! That's just how things turned out!"
+    },
+    {
+     "en": "Haaah... A girl as young as me..."
+    },
+    {
+     "en": "having to be the boss of a hauler outfit...! Poor me..."
+    },
+    {
+     "en": "Whining at this point? You're no tragic heroine."
+    },
+    {
+     "en": "The only thing you're good at is talking...!"
+    },
+    {
+     "en": "We are on course for the Bazaar Point, I hope."
+    },
+    {
+     "en": "Like I'd get it wrong."
+    },
+    {
+     "en": "Fine, then! Make sure we get there on time."
+    },
+    {
+     "en": "Yeah, yeah...!"
+    }
+   ],
+   "notes": "[jp] = 'haulers' (library-entry form). [18] [jp] joke at Kaine (cheating on his girl back home). [54] [jp] -> 'Tapp my boy' for Light's teasing tone. [62] [jp] = Elchi's late father -> 'your old man'. | [editorial 27] [jp]: 'first and last' unidiomatic | [editorial 60] 'Now, dismissed!' awkward",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Picked up a Land Ship approaching. I'm sending you the image, so take a look."
+    },
+    {
+     "en": "......?"
+    },
+    {
+     "en": "Whoa! An image came through."
+    },
+    {
+     "en": "Wow~ This thing's handy~"
+    },
+    {
+     "en": "This is no time to be impressed!"
+    },
+    {
+     "en": "Tell us whether they're enemies!"
+    },
+    {
+     "en": "Hmm... I can't really tell from this alone."
+    },
+    {
+     "en": "Bro! The Iron Gear's shown up!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Looks like they broke through the patrol we sent out."
+    },
+    {
+     "en": "They're tough. Small-fry Breakers can't take them down."
+    },
+    {
+     "en": "We'll hit them once they're worn out! That's all part of the plan."
+    },
+    {
+     "en": "Commence the operation!! Get everyone to battle stations!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Walker Machines are coming out!"
+    },
+    {
+     "en": "Don't tell me they want a fight?"
+    },
+    {
+     "en": "Hey! We've got an incoming transmission!!"
+    },
+    {
+     "en": "Miss Elchi, it's been a long time."
+    },
+    {
+     "en": "...What? Is that you, Horla?"
+    },
+    {
+     "en": "What a pest! That's no way for a man to act!!"
+    },
+    {
+     "en": "We're here to take part in the bazaar! Let us through!!"
+    },
+    {
+     "en": "That's... a request I can't grant!"
+    },
+    {
+     "en": "The Grados Army has asked us to investigate the Iron Gear, you see."
+    },
+    {
+     "en": "Seems the Grados Army has business with the \"outsiders\" aboard the Iron Gear."
+    },
+    {
+     "en": "What did you say?!"
+    },
+    {
+     "en": "...Nobody told me about that!"
+    },
+    {
+     "en": "Our rights are supposed to be protected by intercontinental ordinances."
+    },
+    {
+     "en": "Even the Grados Army has no right to pull something like this!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Outsiders... Doesn't that mean us?"
+    },
+    {
+     "en": "You're saying Grados knows who we are...?"
+    },
+    {
+     "en": "We can't go causing trouble for the Iron Gear."
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "What are you talking about! We're comrades, aren't we!"
+    },
+    {
+     "en": "Right?! Elchi!!"
+    },
+    {
+     "en": "Ugh..."
+    },
+    {
+     "en": "What'll it be? If you like, I could sink you right now, no problem."
+    },
+    {
+     "en": "It'd just get written off as a squabble between haulers!"
+    },
+    {
+     "en": "Damn it! What a creep!"
+    },
+    {
+     "en": "If Amuro and the others leave, we won't make it from here on!"
+    },
+    {
+     "en": "Elchi!! At this point, we've just gotta see it through!"
+    },
+    {
+     "en": "Oh, fine! Commence battle! We're driving off Kid Horla!!"
+    },
+    {
+     "en": "That's more like it!"
+    },
+    {
+     "en": "Let's go, everyone!"
+    },
+    {
+     "en": "Yeah!!"
+    },
+    {
+     "en": "Hmph! Seems words won't get through to you!"
+    }
+   ],
+   "notes": "[0] Light reporting to Elchi on the bridge. [17] [jp] = 'Miss Elchi' / 'miss' (Horla's fawning-polite tone). [19] [jp] kept as 'no way for a man to act'. Horla's gender is blank in speakers.tsv; no pronouns used. | [accuracy 22] project decision: [jp] = the Grados Army (was 'Grados military') | [accuracy 23] project decision: [jp] = the Grados Army (was 'Grados military') | [accuracy 27] project decision: [jp] = the Grados Army (was 'Grados military') | [editorial 0] project decision: [jp] = 'Land Ship' | [editorial 9] 'the patrol ... got broken through' awkward passive",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Looks like the enemy ship's pulling back. Want to give chase?"
+    },
+    {
+     "en": "Wait! Horla himself is nowhere to be seen!"
+    },
+    {
+     "en": "Haven't seen him over here either."
+    },
+    {
+     "en": "Maybe he never came out at all?"
+    },
+    {
+     "en": "No way!"
+    },
+    {
+     "en": "Where'd that creep go and hide!!"
+    },
+    {
+     "en": "That Horla~ always getting in my way...!"
+    },
+    {
+     "en": "What a cruel thing to say. And here I thought I was helping you out..."
+    },
+    {
+     "en": "Huh! Horla?!"
+    },
+    {
+     "en": "Heh... So those are your prized hired hands?"
+    },
+    {
+     "en": "Throwing your weight around with big hulking machines, yet you can't keep out one intruder. How pathetic..."
+    },
+    {
+     "en": "We're just short-handed! We're going to the bazaar to recruit crew right now!"
+    },
+    {
+     "en": "You won't find many Breakers you can trust."
+    },
+    {
+     "en": "Wake up already, miss!"
+    },
+    {
+     "en": "There's hardly any of your old friends left anymore, is there?"
+    },
+    {
+     "en": "Ugh~ So...! What's your point?!"
+    },
+    {
+     "en": "Brats from the Sand Rats... and robot jockeys nobody knows anything about..."
+    },
+    {
+     "en": "Keep company with them, and you'll really end up \"wanted\"...!"
+    },
+    {
+     "en": "Hmph! As long as I keep to the haulers' rules, I'll be fine!"
+    },
+    {
+     "en": "You're naive! Once you're branded \"wanted,\" you won't be recognized as a hauler!"
+    },
+    {
+     "en": "If that happens, not only will you be unable to leave this continent, but the Grados regulars will attack you."
+    },
+    {
+     "en": "I know that!"
+    },
+    {
+     "en": "Then either you throw them off the Iron Gear... or marry me... and come with me..."
+    },
+    {
+     "en": "It's one or the other, isn't it?"
+    },
+    {
+     "en": "Wh-Why does it come to that!"
+    },
+    {
+     "en": "It's not too late yet. Please, come with me!"
+    },
+    {
+     "en": "No! No way! Like I'd ever be your bride!"
+    },
+    {
+     "en": "All you want is the Cargo family's rights, isn't it?"
+    },
+    {
+     "en": "Th-That's not true!"
+    },
+    {
+     "en": "How dare you say that...!"
+    },
+    {
+     "en": "As if I'd believe you!!"
+    },
+    {
+     "en": "Besides, I don't like Grados's policies!!"
+    },
+    {
+     "en": "Destroying the old cultures and forcing only their own culture on everyone -- what kind of policy is that!!"
+    },
+    {
+     "en": "I'll never become one of their lackeys!!"
+    },
+    {
+     "en": "Miss! If the \"Culture Correction Squad\" heard you say that, you'd be in serious trouble!"
+    },
+    {
+     "en": "Heeey! Elchi, it's about time to transform..."
+    },
+    {
+     "en": "Ah! You!!"
+    },
+    {
+     "en": "Out of my way!"
+    },
+    {
+     "en": "Guhh!!"
+    },
+    {
+     "en": "Horla!!"
+    },
+    {
+     "en": "Whoa!!"
+    },
+    {
+     "en": "You know how good I am with a knife!"
+    },
+    {
+     "en": "Get out right now, or next time I really will hit you!"
+    },
+    {
+     "en": "Heh... What'll it be, Mr. Kid?"
+    },
+    {
+     "en": "Nnngh..."
+    },
+    {
+     "en": "Miss! I won't give up!"
+    },
+    {
+     "en": "Elchiii! You okay?"
+    },
+    {
+     "en": "Yes, I'm fine."
+    },
+    {
+     "en": "Like I'd go down that easily!"
+    },
+    {
+     "en": "Looks like we caused you some trouble."
+    },
+    {
+     "en": "If you think so, get back to the ship right away and do your maintenance!"
+    },
+    {
+     "en": "Blume! We're out of time, so we'll head straight into the Bazaar Point."
+    },
+    {
+     "en": "Aye aye!"
+    }
+   ],
+   "notes": "[2] Blume: 'that one' = Horla, gender-neutral. [22] [jp] (singular) read as the outsiders collectively -> 'them'; could mean one person (Amuro?). [29] [jp] read as Elchi's outrage at the marriage scheme/denial. [jp] -> 'Culture Correction Squad' (not in glossary, unverified). [jp] -> 'Sand Rats'. | [editorial 1] [jp]: 'Horla, the one who matters' clunky; Horla's gender (m) now known | [editorial 2] Horla is male (glossary); 'that one' workaround smoothed | [editorial 3] Horla is male; repeated name was a pronoun workaround | [editorial 20] 'not only won't you be able to ... , the ...' grammar/flow | [proofread 52] style sheet: 'Aye aye' (no hyphen)",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Bazaar Point, here we are!\nHow about that? Right on schedule!"
+    },
+    {
+     "en": "Looks like we made it\nin time, somehow."
+    },
+    {
+     "en": "Let's get down to business right away!\nGather everyone in the hangar!"
+    },
+    {
+     "en": "...And so, the Iron Gear will stay\nhere a while and do business."
+    },
+    {
+     "en": "Get your machine maintenance done fast,\nthen everyone join in the bazaar!"
+    },
+    {
+     "en": "First bazaar in ages!\nLet's all give it everything we've got!"
+    },
+    {
+     "en": "Yeahhh!"
+    },
+    {
+     "en": "Yeahhh!"
+    },
+    {
+     "en": "Yeahhh!"
+    },
+    {
+     "en": "Yeahhh!"
+    },
+    {
+     "en": "Kanji!\nGot a minute?"
+    },
+    {
+     "en": "Sure, what is it?"
+    },
+    {
+     "en": "I hear you're the one who\norganizes the unit's formations."
+    },
+    {
+     "en": "I have to say,\nI'm impressed."
+    },
+    {
+     "en": "Nah...\nIt's nothing special."
+    },
+    {
+     "en": "Heh... Well, it's about\nto be something special!"
+    },
+    {
+     "en": "To organize a unit, you need\nall sorts of \"equipment,\" right?"
+    },
+    {
+     "en": "So, right off the bat, could you buy\nwhatever you think might come in handy?"
+    },
+    {
+     "en": "Here, this is your war chest!"
+    },
+    {
+     "en": "Obtained 10000 funds."
+    },
+    {
+     "en": "Whoa!\nThis much?!"
+    },
+    {
+     "en": "From now on, I'm leaving equipment\npurchases to you, Kanji."
+    },
+    {
+     "en": "Well, I'm off to mind the shop now,\nso I'll leave the rest to you!"
+    },
+    {
+     "en": "Hey... Captain!"
+    },
+    {
+     "en": "Dammit...\nI've totally lost sight of her..."
+    },
+    {
+     "en": "Now, what am I supposed to do..."
+    },
+    {
+     "en": "Hah hah!\nShe dumped the job right on you!"
+    },
+    {
+     "en": "Eh, it's fine.\nIf it helps out even a little..."
+    },
+    {
+     "en": "Say, have you ever\nshopped at a bazaar before?"
+    },
+    {
+     "en": "No...\nNot even once..."
+    },
+    {
+     "en": "This guy's gonna get\nripped off for sure!"
+    },
+    {
+     "en": "Oh, fine... This time\nI'll show you how it's done!\nFollow me!"
+    },
+    {
+     "en": "Hey, pal!\nCome on over!"
+    },
+    {
+     "en": "We've got the\ngood stuff here!"
+    },
+    {
+     "en": "C'mon, c'mon!\nIf you dawdle, it'll\nall be gone!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "This is something...\nThey're selling seriously dangerous\nweapons like they're vegetables."
+    },
+    {
+     "en": "These guys are\npretty much all crooks."
+    },
+    {
+     "en": "If you don't size things up properly,\nyou won't get anything decent."
+    },
+    {
+     "en": "*Gulp*..."
+    },
+    {
+     "en": "Ah ha ha ha ha!\nAren't you cute!"
+    },
+    {
+     "en": "And you're so brave\non the battlefield!"
+    },
+    {
+     "en": "W-Well, I can't help it!"
+    },
+    {
+     "en": "Today I'm gonna drill it all into you,\nso make sure you learn it right!"
+    },
+    {
+     "en": "Yes, ma'am!\nI'm in your hands!"
+    },
+    {
+     "en": "Okay!\nWe'll start over there!!"
+    },
+    {
+     "en": "Phew...\nFinally done..."
+    },
+    {
+     "en": "I'm totally beat...\nThis is quite a job..."
+    },
+    {
+     "en": "Still... today\nI really owe Rag one..."
+    },
+    {
+     "en": "Kanji, are you done on your end too?"
+    },
+    {
+     "en": "Yeah, finally."
+    },
+    {
+     "en": "Hm...?\nYou look pretty worn out."
+    },
+    {
+     "en": "You okay?\nKanji...!"
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "Sorry to bother you when you're tired,\nbut we'd like your help with one more job."
+    },
+    {
+     "en": "What kind of job?"
+    },
+    {
+     "en": "Gathering information.\nWe were thinking of splitting up\nand getting started now."
+    },
+    {
+     "en": "Of course I'll help!\nWe don't know a thing\nabout this continent, after all."
+    },
+    {
+     "en": "All right, then.\nLet's get started."
+    },
+    {
+     "en": "There's still time.\nI'll take a good look around."
+    }
+   ],
+   "notes": "'Bazaar Point' capitalised as a location name ([jp]). Seg 15 answers Kanji's 'nothing special' ([jp]) with a matching pun for [jp]. Seg 19 follows the UI string 'Obtained %d funds.'. Seg 59 volitional [jp] read as Kanji to himself. | [editorial 3] [jp] opens the briefing; 'So that's the plan.' came before the plan it announced | [editorial 4] awkward 'Finish maintaining your machines quickly' | [editorial 43] 'teach you inside and out' unidiomatic for mitchiri oshieru",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "A bar, huh...\nI bet it's full of\nroughnecks and such..."
+    },
+    {
+     "en": "Come on!\nGet a grip, Kanji!"
+    },
+    {
+     "en": "I got combat training\nat the military academy!\nGo in there with confidence!"
+    },
+    {
+     "en": "Oh!\nYou came too, Kanji?"
+    },
+    {
+     "en": "Don't just stand\naround over there,\ncome over here!"
+    },
+    {
+     "en": "Uh... s-sure..."
+    },
+    {
+     "en": "Just so you know,\nno drinking."
+    },
+    {
+     "en": "That's fine by me...\nbut why not?"
+    },
+    {
+     "en": "If you've had a few, you can't move\nwhen it counts, right?"
+    },
+    {
+     "en": "You've gotta be able to\nprotect yourself!"
+    },
+    {
+     "en": "I see,\nso that's how it is."
+    },
+    {
+     "en": "Ow ow ow!"
+    },
+    {
+     "en": "Why are YOU the one\nacting impressed!"
+    },
+    {
+     "en": "Guess it's almost time..."
+    },
+    {
+     "en": "Well then,\nI'll get going.\nI've still got things to do."
+    },
+    {
+     "en": "Yeah?\nWell, see you later."
+    },
+    {
+     "en": "Will Kanji be okay\non his own...?"
+    },
+    {
+     "en": "Now, where should\nI go next..."
+    }
+   ],
+   "notes": "Seg 12: Rag scolds Jiron (a local) for being impressed by the no-drinking rule; seg 11 is his reaction to a smack. | [accuracy 13] sorosoro jikan ka = time is nearly up (he has to leave next line); 'About time, I guess' reads as 'finally'",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "...?!"
+    },
+    {
+     "en": "Isn't that\nQuess over there...?"
+    },
+    {
+     "en": "Hey!\nQuess!"
+    },
+    {
+     "en": "Oh... Kanji."
+    },
+    {
+     "en": "It's dangerous to come\nto a place like this alone."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "What's wrong?\nYou look down again."
+    },
+    {
+     "en": "Yeah...\nSort of..."
+    },
+    {
+     "en": "I was remembering the time\nI trained in India..."
+    },
+    {
+     "en": "India...\nDoes it look like this?"
+    },
+    {
+     "en": "Nope!\nNot really."
+    },
+    {
+     "en": "But now that you mention it...\nmaybe the smell of the wind\nis kind of the same...?"
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "I... I don't even understand\nmyself anymore..."
+    },
+    {
+     "en": "I'm causing everyone\ntrouble, aren't I?"
+    },
+    {
+     "en": "But it's thanks to you, Quess,\nthat we made it here."
+    },
+    {
+     "en": "You don't regret it?"
+    },
+    {
+     "en": "Nope...\nWe made some new friends, too."
+    },
+    {
+     "en": "Thanks to that, little by little,\nI'm starting to see the truth\nof what's going on..."
+    },
+    {
+     "en": "The truth...?"
+    },
+    {
+     "en": "What Binzvanker is scheming...\nthat's what I want to get to the bottom of."
+    },
+    {
+     "en": "Oh, the boss of the organization\nthat staged the coup\nin Claudia, right?"
+    },
+    {
+     "en": "In space, we found out\nthey're tied in with\nthe Earth Federation Forces..."
+    },
+    {
+     "en": "And then...\nOmega showed up in this world, too..."
+    },
+    {
+     "en": "Their organization may have grown\nfar bigger than we imagined."
+    },
+    {
+     "en": "Char... and Amuro...\nthey're both getting dragged into it...\nI can see that now."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "Would you know, Kanji?\nWhat's going to happen\nto the world from here on..."
+    },
+    {
+     "en": "If I knew the future,\nlife would be a lot easier."
+    },
+    {
+     "en": "I guess not..."
+    },
+    {
+     "en": "But hey, if more people who notice\nwhat's wrong with the world join us...\nthere'll be peace someday!"
+    },
+    {
+     "en": "That's the kind of future\nI believe in."
+    },
+    {
+     "en": "Pfft... Aha!\nAhahahahahaha!"
+    },
+    {
+     "en": "Wh-What?"
+    },
+    {
+     "en": "You're so simple!\nAhahahahahaha!"
+    },
+    {
+     "en": "What the?!\nWere you making fun of me?"
+    },
+    {
+     "en": "Ahahahaha!\nSorry, sorry!"
+    },
+    {
+     "en": "It's just, you said it\nout of nowhere."
+    },
+    {
+     "en": "That's harsh~"
+    },
+    {
+     "en": "Well, I guess that's more like you,\nQuess, so it's fine!"
+    },
+    {
+     "en": "What's THAT supposed to mean~!"
+    },
+    {
+     "en": "Ha ha ha...\nJust a little payback."
+    },
+    {
+     "en": "Grrr~"
+    },
+    {
+     "en": "Sorry to interrupt\nyour little chat!"
+    },
+    {
+     "en": "Huh? Who are you?"
+    },
+    {
+     "en": "Heh heh heh..."
+    },
+    {
+     "en": "I don't make a habit of\nintroducing myself, but\nI'll tell you two."
+    },
+    {
+     "en": "The name's\nTimp Sharon."
+    },
+    {
+     "en": "Let's just say I'm\na wandering gunman."
+    },
+    {
+     "en": "Pleased to meet ya,\nyou two!"
+    },
+    {
+     "en": "What are you trying to look cool for?!\nWhat do you want with us?!\nOld man!"
+    },
+    {
+     "en": "Hmph... I'm not an old man!\nI told you, it's Timp!!"
+    },
+    {
+     "en": "You look like an old man\nany way you slice it!"
+    },
+    {
+     "en": "Hmph... Fine, whatever..."
+    },
+    {
+     "en": "You two are pilots the\nIron Gear hired, right?"
+    },
+    {
+     "en": "Yeah...\nWhat about it?"
+    },
+    {
+     "en": "If you stay on the Iron Gear,\nnothing good's gonna come of it."
+    },
+    {
+     "en": "Take my advice.\nGet off that ship\nand come with me...!"
+    },
+    {
+     "en": "Why?\nWe're getting along fine!"
+    },
+    {
+     "en": "Captain Elchi's young, but we\ncan all back her up, and the\nmood on board is great, y'know?"
+    },
+    {
+     "en": "The Grados Army\nis on the move."
+    },
+    {
+     "en": "The Grados Army?!"
+    },
+    {
+     "en": "And what's this Grados Army\nafter, anyway?"
+    },
+    {
+     "en": "Who knows...\nI don't really get\nwhat they're about either."
+    },
+    {
+     "en": "Point is, they're a major power that\ninvaded this continent\nthree years ago."
+    },
+    {
+     "en": "These days, everything around here\nis Grados territory."
+    },
+    {
+     "en": "Unless you're a hauler, you can't\neven move around freely."
+    },
+    {
+     "en": "I heard there's a rule that no power\ncan interfere with haulers\nwithout good reason."
+    },
+    {
+     "en": "Which means somewhere\nalong the way, you must've\ncrossed the line, right?"
+    },
+    {
+     "en": "The Iron Gear stands out\namong all the hauling outfits."
+    },
+    {
+     "en": "Point is, once Grados\nhas its eye on you,\nyou're finished."
+    },
+    {
+     "en": "You two would be smart to\ncome with me right now, too."
+    },
+    {
+     "en": "Even so, we can't just\nget off that ship\nright now."
+    },
+    {
+     "en": "After all, we might be\npart of the reason\nfor this ourselves."
+    },
+    {
+     "en": "Got some kind of obligation\nto the Iron Gear, pal?"
+    },
+    {
+     "en": "You can't have been running\nwith that crowd for\nall that long...?"
+    },
+    {
+     "en": "Thanks for the information, at least."
+    },
+    {
+     "en": "Let's go, Quess!"
+    },
+    {
+     "en": "Okay!"
+    },
+    {
+     "en": "Hey there,\npal!"
+    },
+    {
+     "en": "Naive camaraderie won't\nget you far in this world!"
+    },
+    {
+     "en": "Maybe not..."
+    },
+    {
+     "en": "But to me,\nit feels like the right thing."
+    }
+   ],
+   "notes": "[jp] = 'hauler(s)' as in the library entry for Elchi. [jp] = 'old man' (Quess mocking Timp). [jp]/[jp] (Timp to Kanji) = 'pal'. Seg 73: Kanji means the 'outsiders' Grados is after (Kid Horla's earlier line). | [accuracy 76] contrastive wa restored: he thanks Timp for the info only, while refusing the offer | [editorial 20] 'I want' repeated across both halves; spoken cleft keeps the JP order | [editorial 28] 'wouldn't have it so rough' unidiomatic for kurou wa shinai",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "We'll be heading out soon.\nEveryone, gather on the bridge."
+    },
+    {
+     "en": "So we're finally heading out...\nI wonder where we're going next..."
+    },
+    {
+     "en": "...And so, we're heading for a city\non the west coast, \"Paradigm City.\""
+    },
+    {
+     "en": "Paradigm City?"
+    },
+    {
+     "en": "Yeah, it's a gloomy town\nwhere it's always overcast."
+    },
+    {
+     "en": "Sure, the old downtown\ndoes have a dreary feel to it..."
+    },
+    {
+     "en": "But that city sits right at\nthe junction linking the eastern\nand western continents."
+    },
+    {
+     "en": "The center's\npretty well developed."
+    },
+    {
+     "en": "Maybe we'll finally get\nsome decent food for once."
+    },
+    {
+     "en": "All right, we're heading out.\nEveryone, back to your posts."
+    },
+    {
+     "en": "Roger!"
+    }
+   ],
+   "notes": "[jp] = 'old downtown' (the run-down lower town, as opposed to the developed [jp]). | [editorial 2] [jp] opens the briefing; 'So that's the plan.' came before the plan it announced (same as row 11 k3)",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Let's set out for\nParadigm City!"
+    },
+    {
+     "en": "......?"
+    },
+    {
+     "en": "There's a Land Ship\nin our path."
+    },
+    {
+     "en": "Huh?\nWhat a nuisance...\nCouldn't it just move out of the way?"
+    },
+    {
+     "en": "Attention, Iron Gear!\nDisarm immediately\nand surrender to us."
+    },
+    {
+     "en": "Huh?\nWhy?"
+    },
+    {
+     "en": "That's...!\nIt's that old man from before!"
+    },
+    {
+     "en": "If I remember right...\nhe said his name was Timp."
+    },
+    {
+     "en": "Why, that rat~!!"
+    },
+    {
+     "en": "Hey!\nJiron!!"
+    }
+   ],
+   "notes": "[editorial 0] bare imperative 'Set out for...' read oddly as Elchi's departure call | [editorial 3] stiff 'Could it please move aside?' for Elchi's dokete kurenai kashira | [editorial 8] accuracy flag: aitsu me milder than 'bastard'; matches Jiron's 'Timp, you rat!' (row 19 k3); 'bastard' kept for konno yaro (row 16 k31)",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "Jiron, huh...\nLong time no see!"
+    },
+    {
+     "en": "Timp!!\nToday I'm finally gonna avenge\nmy dad and my mom!!"
+    },
+    {
+     "en": "The statute of limitations ran out ages ago.\nTime you forgot all about it!"
+    },
+    {
+     "en": "Like I could ever forget!"
+    },
+    {
+     "en": "Then what're you gonna\ndo about it, kid?!"
+    },
+    {
+     "en": "What the?\nWho are these guys!"
+    },
+    {
+     "en": "Those are the Walker Machines\nthat were at the bazaar!"
+    },
+    {
+     "en": "Hey, you!"
+    },
+    {
+     "en": "Whoa!\nThey're shooting at us!"
+    },
+    {
+     "en": "What do you think you're\ndoing, out of nowhere!"
+    },
+    {
+     "en": "You still don't get it,\nlittle lady?"
+    },
+    {
+     "en": "You lot have officially\nbeen branded \"outlaws\"!"
+    },
+    {
+     "en": "Wh-What did you say?!!"
+    },
+    {
+     "en": "Us...\n\"outlaws\"..."
+    },
+    {
+     "en": "Uh-oh.\nWe're surrounded."
+    },
+    {
+     "en": "Boys!\nLet 'em have it!!"
+    },
+    {
+     "en": "Eeeeek!"
+    },
+    {
+     "en": "Damn it!"
+    },
+    {
+     "en": "Elchi! At this rate, culture'll be\nthe least of our worries!!"
+    },
+    {
+     "en": "It can't be helped.\nMaybe we should abandon the Iron Gear..."
+    },
+    {
+     "en": "Even if we abandon it, Grados\nisn't gonna let us live, you know!"
+    },
+    {
+     "en": "We won't know\nunless we try!"
+    },
+    {
+     "en": "Elchi!\nYou've gotta protect the Iron Gear!"
+    },
+    {
+     "en": "Don't be ridiculous!\nWe've made Grados angry!"
+    },
+    {
+     "en": "Oh...!\nNow the Iron Gear won't\nbe able to do business..."
+    },
+    {
+     "en": "If you don't protect\nthe Iron Gear for us,"
+    },
+    {
+     "en": "then we soldiers can't fight\nwith everything we've got!"
+    },
+    {
+     "en": "Jiron......"
+    },
+    {
+     "en": "Real men have guts!"
+    },
+    {
+     "en": "Jiron...?\nWhat are you doing?!"
+    },
+    {
+     "en": "Don't tell me... don't tell me..."
+    },
+    {
+     "en": "Raaah, you bastaaaard!"
+    },
+    {
+     "en": "Everyone, let's go!!"
+    },
+    {
+     "en": "We'll do what we can!"
+    },
+    {
+     "en": "Looks like talking still\nwon't get through to you..."
+    },
+    {
+     "en": "Are the Walker Machines\nready?"
+    },
+    {
+     "en": "Ready anytime,\nBoss!"
+    },
+    {
+     "en": "Good!\nGo wild all you like!"
+    },
+    {
+     "en": "You sure?"
+    },
+    {
+     "en": "Then here\nwe go!"
+    },
+    {
+     "en": "Heh heh!\nFinally, an opponent with some backbone!"
+    }
+   ],
+   "notes": "[jp] = \"outlaws\" (kept in quotes as in the source; also rows 13/18 neighbours). Seg 20 is tagged Rag but uses polite [jp] -- kept as Rag, sarcastic. Seg 22/25-26: Jiron is asking Elchi to defend the ship so the pilots can fight. Seg 28 [jp] rendered 'Real men have guts!' (no established English form found). Seg 7 [jp] read as Jiron hailing the Walker Machines. | [proofread 4] question: JP has [jp] then the vocative; '?!' (editorial flag) | [proofread 12] question ending in '!!' -> '?!!' (style sheet doubled form); same phrase is 'What did you say?!' elsewhere | [proofread 36] capitalisation: 'Boss' as a form of address (Timp's men), as at row 18 k6 and dlg_3986_09447_00",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "They're more stubborn than I thought.\nFigured they were just a bunch of kids...\nbut they've got some real pros."
+    },
+    {
+     "en": "Still, they're badly outnumbered."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Damn!\nThere's so many of them!"
+    },
+    {
+     "en": "This is\nnever-ending!"
+    },
+    {
+     "en": "No whining!"
+    },
+    {
+     "en": "If you're gonna do it, then\ndo it right, to the very end!"
+    },
+    {
+     "en": "The captain's right.\nEveryone, stay sharp!"
+    },
+    {
+     "en": "Heh... Now it's just\na matter of time."
+    },
+    {
+     "en": "Boss!\nWe've got a transmission\nfrom the Grados Army."
+    },
+    {
+     "en": "Hm...?\nFrom the Grados Army?"
+    },
+    {
+     "en": "Nwahahahahaha!\nKill 'em all!!"
+    },
+    {
+     "en": "Ahaha.\nSo it's you."
+    },
+    {
+     "en": "Just wait a little longer.\nI've almost got this wrapped up."
+    },
+    {
+     "en": "Ehahahaha!"
+    },
+    {
+     "en": "I can feel it~\nI can smell Eiji~"
+    },
+    {
+     "en": "...?!"
+    },
+    {
+     "en": "What's that?\nThat blue machine!"
+    },
+    {
+     "en": "Isn't it obvious?\nI'm gonna kill him!"
+    },
+    {
+     "en": "There's actually some idiot\nwho'd help \"outlaws\"?!"
+    },
+    {
+     "en": "What?\nMore of them?!"
+    },
+    {
+     "en": "That thing moves fast..."
+    },
+    {
+     "en": "That one's different from\nthe other Walker Machines!"
+    },
+    {
+     "en": "That's no Walker Machine!\nThat's gotta be an \"SPT\"!!"
+    },
+    {
+     "en": "An SPT...?\nThen...!\nThat means the Grados Army!"
+    },
+    {
+     "en": "This is bad!\nJiron!"
+    },
+    {
+     "en": "Did we do something\nwrong or what?!\nI'm not giving up!!"
+    },
+    {
+     "en": "Jiron..."
+    },
+    {
+     "en": "It's moving to attack!!\nEveryone, watch out!"
+    },
+    {
+     "en": "Rei!\nActivate V-MAX!!"
+    },
+    {
+     "en": "Yikes!\nWhat the heck was that attack?!"
+    },
+    {
+     "en": "That SPT...\nIs it on our side?"
+    },
+    {
+     "en": "Hey, you there!\nYou gonna back us up?"
+    },
+    {
+     "en": "Yeah...!"
+    },
+    {
+     "en": "Ahh...\nTalk about an angel in hell..."
+    },
+    {
+     "en": "All riiight!\nLet's go, everyone!!"
+    },
+    {
+     "en": "What is that thing...\nIt's crazy fast."
+    },
+    {
+     "en": "No mistake about it!\nThat's the Layzner!\nThe finest SPT there is!"
+    },
+    {
+     "en": "An SPT?!"
+    },
+    {
+     "en": "What's the meaning\nof this?!"
+    },
+    {
+     "en": "He's a disgrace to Grados...\na filthy traitor!!"
+    },
+    {
+     "en": "As the representative of Grados,\nI'll finish him off myself!!"
+    },
+    {
+     "en": "Well?\nAin't you grateful~?!"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "All right...\nLend me your strength."
+    },
+    {
+     "en": "Goood!\nHold out somehow\nuntil I get there!!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "So Grados isn't exactly\nunited either......"
+    },
+    {
+     "en": "The situation's changed.\nLooks like I need to size up\ntheir strength a bit more."
+    },
+    {
+     "en": "When the time's right,\nwe pull back for now!"
+    }
+   ],
+   "notes": "Seg 15: Gosterro's [jp] [jp] follows Timp's question about the blue machine; object left implicit in JP, rendered 'him' (= Eiji, male, whom he just named). Seg 26: AI [jp] = 'Rei' as in the Layzner library entry. Seg 31: [jp] = 'an angel in hell'. | [accuracy 18] verb/subject restored (Amuro about the blue SPT, next line 'That one's different'); was a verbless fragment",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "Argh! Damn it!\nAll that work for nothing?!"
+    },
+    {
+     "en": "Walker Machines alone just\ncan't hold a candle to them..."
+    },
+    {
+     "en": "Time to pull out.\nAll units, fall back!"
+    },
+    {
+     "en": "Timp, you rat!\nYou're running away?!"
+    },
+    {
+     "en": "Jiron!\nDon't chase him too far!!"
+    },
+    {
+     "en": "He's the one who killed my dad!\nLet me go after him!!"
+    },
+    {
+     "en": "Don't be reckless, Jiron!"
+    },
+    {
+     "en": "Let go of me!\nLet goooo!!"
+    },
+    {
+     "en": "No!!\nWe're heading back to the Iron Gear."
+    },
+    {
+     "en": "Raaaaargh...!"
+    },
+    {
+     "en": "Yikes...\nIs Jiron gonna be okay?"
+    },
+    {
+     "en": "When Timp's involved,\nhe just loses it."
+    },
+    {
+     "en": "Last time,\nnobody could stop him, though..."
+    },
+    {
+     "en": "Let's hurry back to\nthe Iron Gear, too."
+    },
+    {
+     "en": "Right.\nShall we go meet\nour helper pilot?"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "So this is an SPT..."
+    },
+    {
+     "en": "Yep, it's a whole other\nbeast from a Walker Machine."
+    },
+    {
+     "en": "Hey, Blume,\nthis is a Grados Army\nmachine, right?"
+    },
+    {
+     "en": "Yeah...\nIt should be."
+    },
+    {
+     "en": "Did its pilot desert\nfrom the army, or..."
+    },
+    {
+     "en": "The pilot's coming down."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Is the person in charge\nof this ship here?"
+    },
+    {
+     "en": "Ah, um..."
+    },
+    {
+     "en": "I'm the captain of this ship,\nElchi Cargo."
+    },
+    {
+     "en": "Welcome\nto the Iron Gear."
+    },
+    {
+     "en": "My name is Eiji!"
+    },
+    {
+     "en": "You people...\nare being targeted by Grados!"
+    },
+    {
+     "en": "Us...? Targeted by Grados?"
+    },
+    {
+     "en": "Hey, hold on. This could just\nbe some rumor the Breakers\nare spreading."
+    },
+    {
+     "en": "Eiji!\nAre you sure your info's\nright?"
+    },
+    {
+     "en": "The Grados regular army\nis already headed this way."
+    },
+    {
+     "en": "Anyway,\nyou need to get away from here."
+    },
+    {
+     "en": "Eiji has joined the unit."
+    },
+    {
+     "en": "Machine added:\nLayzner"
+    },
+    {
+     "en": "Eiji of the blue SPT..."
+    },
+    {
+     "en": "Seems he's joined the Resistance\nand is fighting Grados..."
+    },
+    {
+     "en": "I don't know why the\nGrados Army has its eye on us."
+    },
+    {
+     "en": "Either way... they're clearly an\nenemy the Iron Gear can't\nhandle with its own strength..."
+    }
+   ],
+   "notes": "Segs 4-5: the pilot is still unidentified, so 'its pilot' / 'the pilot' instead of he/she (JP has no subject). | [editorial 19] system line aligned to the standard 'Machine added:\n<name>' form",
+   "status": "proofread"
+  }
+ ]
+}

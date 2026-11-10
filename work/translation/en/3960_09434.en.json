@@ -1,0 +1,3047 @@
+{
+ "table": "3960_09434",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "What's behind this? What made the weight\ndrop by three kilos?!"
+    },
+    {
+     "en": "We changed the material of the frame\naround the cockpit."
+    },
+    {
+     "en": "It's actually stronger now, so it's\nabsolutely not dangerous."
+    },
+    {
+     "en": "Well, obviously! If it got any weaker,\nwe'd be in real trouble! Why didn't you\nnotify us in advance..."
+    },
+    {
+     "en": "If you hadn't moved the delivery date\nup by ten whole days..."
+    },
+    {
+     "en": "Then take that up with Char of Neo Zeon!"
+    },
+    {
+     "en": "If he hadn't pulled off his meteor drop\nthis soon, we wouldn't be in this mess!"
+    }
+   ],
+   "notes": "Seg 2 has no header; read as the Anaheim manager continuing. Seg 6: Chan continuing; 'he' = Char (male), [jp] rendered 'asteroid drop' (Fifth Luna).",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Not having Lieutenant Amuro around at a time\nlike this sure makes me nervous."
+    },
+    {
+     "en": "This ship's okay, but the fleet's MS...\nlooks like they took a real beating."
+    },
+    {
+     "en": "Hey, Kanji, are we gonna be okay?"
+    },
+    {
+     "en": "Amuro or no Amuro, we've got to hold our\nown!"
+    },
+    {
+     "en": "Kanji's right."
+    },
+    {
+     "en": "If we lean on Lieutenant Amuro for every\nlittle thing, we can't call ourselves\nreal pilots!"
+    },
+    {
+     "en": "But still~"
+    },
+    {
+     "en": "Relax, Tapp. We won't make our move until\nAmuro gets back."
+    },
+    {
+     "en": "Right now, our job is to protect this\nfleet."
+    },
+    {
+     "en": "In that case, let's rest up good and\nproper till the enemy shows!"
+    },
+    {
+     "en": "Agreed!"
+    },
+    {
+     "en": "We're still tracking the Neo Zeon fleet,\nright?!"
+    },
+    {
+     "en": "Yes, sir!"
+    },
+    {
+     "en": "Good. We'll detach two ships from the\nfleet to shadow the Neo Zeon fleet."
+    },
+    {
+     "en": "Once we've made contact with La Vie en\nRose and fully resupplied, we go after\nthe enemy fleet!"
+    },
+    {
+     "en": "Show La Vie en Rose's current position on\nthe nav chart."
+    }
+   ],
+   "notes": "[jp] rendered 'Captain Amuro' ([jp] = Captain; same rank word Cameron uses for Kanji in row 8). Seg 5 (no header) = Kayra continuing; [jp] -> 'real pilots'. Seg 14 (no header) = Bright continuing.",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "The Clop-class we sent ahead has sent us\nthe Neo Zeon fleet's position."
+    },
+    {
+     "en": "Putting it on the nav chart."
+    },
+    {
+     "en": "We will now pursue the enemy fleet."
+    },
+    {
+     "en": "We'll settle this before they reach Sweetwater."
+    }
+   ],
+   "notes": "[jp] read as the Clop-class cruiser (glossary 'Clop-class'), not a ship name. | [proofread 3] decided spelling 'Sweetwater'; the term_fixes regex ('Sweet Water') misses it because the name is split across a line break",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "The operation to drop Fifth Luna was Neo Zeon's first fleet battle as an army."
+    },
+    {
+     "en": "I have been moved by the work each of you\ndid in this operation."
+    },
+    {
+     "en": "Today, to bring these operations to a\nclose,"
+    },
+    {
+     "en": "we will launch a diversion against the\nLondo Bell fleet in pursuit of us."
+    },
+    {
+     "en": "It is a simple operation... but I want\nyou to carry out your mission and return\nsafely to Sweetwater."
+    },
+    {
+     "en": "Colonel, we'll use the 3rd Squadron for\nthe diversion."
+    },
+    {
+     "en": "I leave it to you, Captain Lyle."
+    },
+    {
+     "en": "Colonel, it's nearly time to depart."
+    },
+    {
+     "en": "I know."
+    },
+    {
+     "en": "Lyle, I'm heading to Londenion. I'm\ncounting on you for the rest."
+    },
+    {
+     "en": "Sir!"
+    },
+    {
+     "en": "3rd Squadron, break off from the main\nforce! Head for the enemy fleet at once!"
+    },
+    {
+     "en": "3rd Squadron here, mission acknowledged!!"
+    },
+    {
+     "en": "You're early, Mr. Amuro. How's the Re-GZ\ntreating you?"
+    },
+    {
+     "en": "It's not a bad machine, but they got the\nbetter of me at Fifth Luna."
+    },
+    {
+     "en": "Against an opponent with Funnels, I need the Nu Gundam."
+    },
+    {
+     "en": "Rest assured. It looks like we'll just\nabout make the delivery date you asked\nfor."
+    },
+    {
+     "en": "...By the way, you said there was\nsomething you wanted to show me."
+    },
+    {
+     "en": "Yes, right this way."
+    },
+    {
+     "en": "This is a sample of the \"Psycho-Frame.\""
+    },
+    {
+     "en": "It's packed with computer chips as small\nas metal particles."
+    },
+    {
+     "en": "In theory, it's a \"new material\" that should far outperform any conventional psycommu."
+    },
+    {
+     "en": "That's an incredible idea."
+    },
+    {
+     "en": "We used material with the same\nperformance as this in the Nu Gundam."
+    },
+    {
+     "en": "It's in the frame around the cockpit."
+    },
+    {
+     "en": "However, we haven't run any experiments\nyet, so its capabilities are an unknown\nquantity..."
+    },
+    {
+     "en": "But this technology... you said even you\ndon't know much about it..."
+    },
+    {
+     "en": "It's information that trickled over from\nthe materials development division."
+    },
+    {
+     "en": "That's why I want to keep testing the\nframe even after we're back with the\nunit."
+    },
+    {
+     "en": "I know, I know. You can have that one."
+    },
+    {
+     "en": "Huh, really? Thank you so much!"
+    },
+    {
+     "en": "Chan obtained a Psycho-Frame sample."
+    },
+    {
+     "en": "What do you think, Mr. Amuro? We could\nstill take it out now, if you like."
+    },
+    {
+     "en": "No, leave the Psycho-Frame installed."
+    },
+    {
+     "en": "I'm taking the Nu Gundam back with me\nright away."
+    },
+    {
+     "en": "Th-That's impossible!"
+    },
+    {
+     "en": "It still needs three more days to be\ncombat-ready."
+    },
+    {
+     "en": "No way!"
+    },
+    {
+     "en": "That's right, no way!"
+    }
+   ],
+   "notes": "[jp] -> '3rd Squadron'. Seg 13: scene cuts to Anaheim; [jp] -> 'Mr. Amuro'. Seg 26 ([jp]) kept vague: 'even you don't know much about it' -- answered by seg 27 (info from another division). Seg 21: [jp] -> 'Psycommu' (library form). | [editorial 0] tense mix smoothed (was/has fought), per accuracy flag | [editorial 15] consistency: Funnels capitalised as in rows 11-12 and the corpus | [editorial 21] term: project decision is lowercase 'psycommu'",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Enemy fleet sighted!!"
+    },
+    {
+     "en": "The enemy's on the move? What are they up\nto?!"
+    },
+    {
+     "en": "Anaheim's supposed to be keeping pace\nwith our movements..."
+    },
+    {
+     "en": "Get Amuro on the line!"
+    },
+    {
+     "en": "Understood!"
+    },
+    {
+     "en": "Everyone, let's go!!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Roger!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "All right, enemy ship destroyed!"
+    },
+    {
+     "en": "You did it, Kanji!"
+    },
+    {
+     "en": "We're really getting the hang of this,\nhuh?"
+    },
+    {
+     "en": "Hey! Enemy units are closing on the\nfleet!! From the other side! They're\ncoming from another direction!"
+    },
+    {
+     "en": "What?"
+    },
+    {
+     "en": "This is bad! We've gotten too far from\nthe Ra Cailum!"
+    },
+    {
+     "en": "We can't just sit around here. Come on,\nlet's get back!"
+    },
+    {
+     "en": "Yeah!"
+    },
+    {
+     "en": "Will we make it in time...?!"
+    },
+    {
+     "en": "Where's the mobile suit team?!"
+    },
+    {
+     "en": "They've broken through!!"
+    },
+    {
+     "en": "Ngh! Intercept! Barrage!"
+    },
+    {
+     "en": "Waaaagh!!"
+    },
+    {
+     "en": "What are you doing?! Where's the Jegan\nteam?!!"
+    },
+    {
+     "en": "The barrage is too thin!!"
+    },
+    {
+     "en": "Hm? That's Kayra's machine!"
+    },
+    {
+     "en": "Kayra! Do you read me?!!"
+    },
+    {
+     "en": "You'll get hit by our own fire! Get\nclear!!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Not bad, scurrying around like that!"
+    },
+    {
+     "en": "A backup fleet?!"
+    },
+    {
+     "en": "Is that it?!"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "That machine's not in our data..."
+    },
+    {
+     "en": "......?!"
+    },
+    {
+     "en": "The way they pulled back... that was\nslick..."
+    },
+    {
+     "en": "Sorry, Amuro. We fell right into the\nenemy's trap."
+    },
+    {
+     "en": "Don't worry about it... That enemy's\ntough..."
+    },
+    {
+     "en": "More importantly, there should be a\ncivilian shuttle drifting somewhere\nnearby."
+    },
+    {
+     "en": "Tow it to the Ra Cailum."
+    },
+    {
+     "en": "Got it."
+    },
+    {
+     "en": "The Nu Gundam has been deployed."
+    },
+    {
+     "en": "Amuro and Chan are rejoining their unit."
+    },
+    {
+     "en": "Drifting civilian shuttle recovered. All\ncrew and passengers are safe."
+    },
+    {
+     "en": "So that's the shuttle that dodged the\nfalling Fifth Luna... What a reckless\nthing to do..."
+    },
+    {
+     "en": "Show the people aboard to the officers'\nmess. I'll go see how they're doing."
+    },
+    {
+     "en": "Please don't go any further than this!"
+    },
+    {
+     "en": "Stay inside the officers' mess!"
+    },
+    {
+     "en": "Oka~y!"
+    },
+    {
+     "en": "Wow, so this is a Londo Bell ship."
+    },
+    {
+     "en": "Come to think of it, Hathaway, your dad's\nin the military, right?"
+    },
+    {
+     "en": "Yeah, that's right."
+    },
+    {
+     "en": "Ah, Captain Bright, this way."
+    },
+    {
+     "en": "...Huh?!"
+    },
+    {
+     "en": "Dad!!"
+    },
+    {
+     "en": "...Hathaway?!"
+    },
+    {
+     "en": "You... you were on that shuttle...? But\nwhy?"
+    },
+    {
+     "en": "I can't believe you're the captain of\nthis ship, Dad."
+    },
+    {
+     "en": "What about your mother and Cheimin?"
+    },
+    {
+     "en": "Oh... um... I was the only one who\nmanaged to get on the shuttle."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Excuse me, Captain..."
+    },
+    {
+     "en": "What is it?"
+    },
+    {
+     "en": "Actually, the Federation government's\nVice Chief of Staff was aboard that\nshuttle..."
+    },
+    {
+     "en": "Dad! It's thanks to that official that\nI... got on the shuttle."
+    },
+    {
+     "en": "I see... You can tell me the details\nlater. Go to the mess and get some rest."
+    },
+    {
+     "en": "Oh... okay."
+    },
+    {
+     "en": "Come on! Hathaway!"
+    },
+    {
+     "en": "Yeah!"
+    },
+    {
+     "en": "This ship will now make all speed for\nLondenion!"
+    },
+    {
+     "en": "Londenion? Why?!"
+    },
+    {
+     "en": "You're giving up the pursuit?!"
+    },
+    {
+     "en": "Special orders from the government. We\ncan't refuse them..."
+    },
+    {
+     "en": "The Vice Chief of Staff was on the\nshuttle we just rescued."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "What could a politician want at\nLondenion..."
+    },
+    {
+     "en": "Ra Cailum correcting course for\nLondenion!"
+    }
+   ],
+   "notes": "Seg 12-13: read as two different operators (seg 13 shouts at the Jegans). Seg 17 (no header) = operator continuing. Segs 20-23 Rezin; seg 25 Amuro about Rezin -> 'they' (gender unknown to him). [jp] -> 'Vice Chief of Staff' (not in glossary). Seg 54 [jp] -> 'that official' (avoids gender). Seg 48 [jp] -> Cheimin (library form). Seg 31 [jp] -> 'deployed'. | [accuracy 20] [jp] = a fleet arriving in support; 'Backup for the fleet' lost that what Rezin sees is a fleet | [proofread 8] question punctuation: a direct question ended in '!' only; '?' added per style sheet ('?!')",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "So this ship's heading for Londenion?"
+    },
+    {
+     "en": "Yeah, we're breaking off the pursuit of\nthe Neo Zeon fleet."
+    },
+    {
+     "en": "How come... all of a sudden...?"
+    },
+    {
+     "en": "The shuttle we rescued... it was on its\nway to Londenion, apparently......"
+    },
+    {
+     "en": "Wow~ So they really bend over backwards for civilians, huh..."
+    },
+    {
+     "en": "Plus, the Ra Cailum's damage needs\nrepairing..."
+    },
+    {
+     "en": "That's just the official line! The big\nshot on that shuttle is some Federation\nhigh-up, right?"
+    },
+    {
+     "en": "That's supposed to be kept under wraps,\nso... don't tell the rest of the staff,\nokay?"
+    },
+    {
+     "en": "Look! Hathaway, it was over here!"
+    },
+    {
+     "en": "Quess! Hey, we're gonna get in trouble!"
+    },
+    {
+     "en": "What's this? Civilians from the shuttle?"
+    },
+    {
+     "en": "Hey there! You!"
+    },
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "Ah...! It's those guys..."
+    },
+    {
+     "en": "I'm Quess Paraya!"
+    },
+    {
+     "en": "I'm Kanji Akatsuki. You were a passenger\non the shuttle, right?"
+    },
+    {
+     "en": "Yep, that's right!"
+    },
+    {
+     "en": "Hey! Kanji, you're the one in charge\nhere, aren't you?"
+    },
+    {
+     "en": "Well... yeah..."
+    },
+    {
+     "en": "I knew it!"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "(She sure seems like a girl who does\nthings her own way...)"
+    },
+    {
+     "en": "(But how did she know I was the one in\ncharge?)"
+    },
+    {
+     "en": "(I don't think I really give off that\nvibe...)"
+    },
+    {
+     "en": "Hey! I want you to show me the mobile\nsuits."
+    },
+    {
+     "en": "Come on, please!"
+    },
+    {
+     "en": "W-Well, see... civilians are supposed to\nbe banned from this floor..."
+    },
+    {
+     "en": "That's why I'm asking you!"
+    },
+    {
+     "en": "Quess! Don't bother them."
+    },
+    {
+     "en": "Hathaway, you're interested in mobile\nsuits too, aren't you?"
+    },
+    {
+     "en": "Well... sure..."
+    },
+    {
+     "en": "Eh, what's the harm? All that's left is\ngetting to Londenion anyway, right?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Okay... just for a little while..."
+    },
+    {
+     "en": "Hehe! Yay!"
+    },
+    {
+     "en": "But just looking at 'em is boring."
+    },
+    {
+     "en": "Light! Wouldn't that thing feel close to\nactually piloting one?"
+    },
+    {
+     "en": "I get it, the simulation."
+    },
+    {
+     "en": "I've set it up in the cockpit so it's\nready to go anytime!"
+    },
+    {
+     "en": "A simulation? You mean the one for\npilots?"
+    },
+    {
+     "en": "Yeah, it's a lot of fun! Follow me."
+    },
+    {
+     "en": "Yaaay!"
+    },
+    {
+     "en": "Ah, no fa~ir! I'm going first~!"
+    },
+    {
+     "en": "Looks like we'd better leave this to Tapp\nfor a while."
+    },
+    {
+     "en": "Let's do that. More importantly, we need\nto make sure nobody else spots us."
+    },
+    {
+     "en": "Guess we'll stand guard, then."
+    },
+    {
+     "en": "Ugh!"
+    },
+    {
+     "en": "Ah... did I get hit...?"
+    },
+    {
+     "en": "Yep, that's it!"
+    },
+    {
+     "en": "Hmph! The stick's so big, it doesn't fit\nmy hand!"
+    },
+    {
+     "en": "Hahaha! Once you've got a normal suit on,\nit fits just right."
+    },
+    {
+     "en": "Oh~ I see!"
+    },
+    {
+     "en": "Still, that was pretty impressive."
+    },
+    {
+     "en": "Is this really your first time?"
+    },
+    {
+     "en": "Hehe! Sure is."
+    },
+    {
+     "en": "Let me have a turn now!"
+    },
+    {
+     "en": "Sure! Hang on a sec!"
+    },
+    {
+     "en": "Man, Tapp's really popular with kids,\nhuh."
+    },
+    {
+     "en": "How rude! You're the last person I want\nto hear that from!"
+    },
+    {
+     "en": "Whoa! When did you get here?!"
+    },
+    {
+     "en": "Ahahaha! She got you there, Kaine!"
+    },
+    {
+     "en": "Quess!"
+    },
+    {
+     "en": "I shot down two of them!"
+    },
+    {
+     "en": "Oh! Then that's the same as me~"
+    },
+    {
+     "en": "(Two kills, huh...... Those two aren't\neven pilot cadets, but they're pretty\nimpressive...)"
+    },
+    {
+     "en": "Shall we get going?"
+    },
+    {
+     "en": "I don't want to go back to the mess!"
+    },
+    {
+     "en": "Why not? All the shuttle passengers are\nin there, aren't they?"
+    },
+    {
+     "en": "There's someone among the shuttle\npassengers who's kind of hard to be\naround."
+    },
+    {
+     "en": "I see... Then how about the break room we\nuse? That'd be okay, right?"
+    },
+    {
+     "en": "Yeah! Sounds good."
+    },
+    {
+     "en": "Then let's go."
+    },
+    {
+     "en": "Oka~y!"
+    },
+    {
+     "en": "Phew~"
+    },
+    {
+     "en": "You've got it rough too, huh. Hang in\nthere!"
+    },
+    {
+     "en": "Oh, I will!"
+    },
+    {
+     "en": "Hehe! Feeling this light is great!"
+    },
+    {
+     "en": "Hey! Turn right there! Otherwise you'll\ndrift right past it!"
+    },
+    {
+     "en": "Huh? Right here..."
+    },
+    {
+     "en": "Aah!"
+    },
+    {
+     "en": "Whoa!"
+    },
+    {
+     "en": "Oh, sorry."
+    },
+    {
+     "en": "Hm? You must be Miss Quess Paraya."
+    },
+    {
+     "en": "...Y-Yes!"
+    },
+    {
+     "en": "Civilians had better not go any further\nthan this."
+    },
+    {
+     "en": "Sorry about this, Amuro."
+    },
+    {
+     "en": "Don't worry, I'm taking Quess and\nHathaway to the break room now."
+    },
+    {
+     "en": "I see. So Hathaway's with you too."
+    },
+    {
+     "en": "Amurooo! Over heeere!"
+    },
+    {
+     "en": "Yeah, coming!"
+    },
+    {
+     "en": "Lieutenant!"
+    },
+    {
+     "en": "Right. What's the problem?"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "So that's... Amuro Ray..."
+    },
+    {
+     "en": "Amuro's a Newtype?"
+    },
+    {
+     "en": "Huh? You didn't know?"
+    },
+    {
+     "en": "Hey, did you know? They say he's a\nNewtype."
+    },
+    {
+     "en": "I think... it said something like that\nsomewhere..."
+    },
+    {
+     "en": "You're kidding, right? I can't believe\nit."
+    },
+    {
+     "en": "Look, Hathaway. Sure, people say Amuro's\na Newtype, but"
+    },
+    {
+     "en": "for regular folks like us, this whole\n\"Newtype\" thing is hard to get, see."
+    },
+    {
+     "en": "Hathaway, do you know what a Newtype is?"
+    },
+    {
+     "en": "Uh, umm... it's a little hard to explain\nin words..."
+    },
+    {
+     "en": "Tell us! Hathaway, how do you see it?"
+    },
+    {
+     "en": "Let's see..."
+    },
+    {
+     "en": "For example, when Amuro got into a mobile\nsuit for the very first time,"
+    },
+    {
+     "en": "he'd had no real training, but he piloted\nit just fine and took down a Zeon Zaku."
+    },
+    {
+     "en": "Is that for real?"
+    },
+    {
+     "en": "They say just sitting in the cockpit, he\nfigured out all of the Gundam's\nwiring...!"
+    },
+    {
+     "en": "Ahahaha! And that's what you call a\nNewtype?"
+    },
+    {
+     "en": "That's right...!"
+    },
+    {
+     "en": "So basically, he's a genius pilot?"
+    },
+    {
+     "en": "N-No... it's not like that... How do I\nput it..."
+    },
+    {
+     "en": "Heh heh heh... That's not what Christina\nin India told me."
+    },
+    {
+     "en": "A Newtype is someone who can accurately\nperceive the existence of things and\npeople."
+    },
+    {
+     "en": "And what's more, they can sense it no\nmatter how far apart they are."
+    },
+    {
+     "en": "Yeah, that's right. I think the way you\nsee it is more accurate, Quess."
+    },
+    {
+     "en": "(...I don't really get it... Is it\nsomething like being a psychic?)"
+    },
+    {
+     "en": "Well, if you spend time around Amuro,\nyou'll see he's something special."
+    },
+    {
+     "en": "It's like he's got eyes in the back of\nhis head."
+    },
+    {
+     "en": "So it's true, then?"
+    },
+    {
+     "en": "Yep, yep. When you do mock battles with\nAmuro, there's no point hiding."
+    },
+    {
+     "en": "Huh~ Is that so..."
+    }
+   ],
+   "notes": "Seg 2 [jp] -> 'How come... all of a sudden...?'. Seg 13 [jp] -> 'those guys' (Quess recognising the pilots). Seg 37-39 [jp] -> 'simulation'. Seg 68: Hathaway's [jp] kept impersonal ('hard to be around') -- whose problem it is (presumably Quess's father) is left unstated as in JP. Seg 90 [jp] -> 'Captain' (Chan to Amuro). Seg 94 starts a new scene (break room). Seg 113: [jp] -> 'Christina in India' (not in glossary); [jp] rendered 'told me'. | [editorial 4] 'Hee~' is not an English interjection (reads as a giggle) | [editorial 75] 'Oh, yes!' does not answer 'Hang in there!' naturally | [editorial 122] 'Hee~' is not an English interjection",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Let's see..."
+    },
+    {
+     "en": "Ah! This way!"
+    },
+    {
+     "en": "So that's it...! The new mobile suit."
+    },
+    {
+     "en": "Ah!"
+    },
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "Civilians aren't allowed in here."
+    },
+    {
+     "en": "I've been in here before!"
+    },
+    {
+     "en": "What about you? Why are you here?"
+    },
+    {
+     "en": "Huh? Why...?"
+    },
+    {
+     "en": "I'm a mechanic on this ship."
+    },
+    {
+     "en": "That's just the kind of thing a grown-up\nwould say."
+    },
+    {
+     "en": "That's not what I'm asking!"
+    },
+    {
+     "en": "I'm asking about you and Amuro Ray!"
+    },
+    {
+     "en": "Y-You and... what...?"
+    },
+    {
+     "en": "He's my superior, and I respect him."
+    },
+    {
+     "en": "That's not what I mean!!"
+    },
+    {
+     "en": "I trained in India!"
+    },
+    {
+     "en": "So that all of humanity could become\nNewtypes who feel for one another!"
+    },
+    {
+     "en": "That's why I was interested in Amuro,\nsince people say he's a Newtype... but..."
+    },
+    {
+     "en": "Why are you getting in my way?"
+    },
+    {
+     "en": "In your way...?"
+    },
+    {
+     "en": "That's what you are to me!"
+    },
+    {
+     "en": "Why don't you just get off this ship!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "I... I can't do that, obviously!"
+    },
+    {
+     "en": "Ah! Quess! You can't go in here!"
+    },
+    {
+     "en": "Shut up!"
+    },
+    {
+     "en": "C'mon, let's go back to the room!"
+    },
+    {
+     "en": "Ah, no!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "........................"
+    },
+    {
+     "en": "Quess, take a look. It's a colony!"
+    },
+    {
+     "en": "A colony?"
+    },
+    {
+     "en": "It's Londenion, in Side 1."
+    },
+    {
+     "en": "Seeing something like this, you can\nbelieve people really can evolve!"
+    },
+    {
+     "en": "No wonder the Zabi family wanted to\ndeclare independence."
+    },
+    {
+     "en": "But the Zabis' Zeon lost to the Earth\nFederation, didn't it?"
+    },
+    {
+     "en": "Yeah, but..."
+    },
+    {
+     "en": "It's been 100 years since the colonies\nwere built..."
+    },
+    {
+     "en": "and the Federation government still rules\nthe people living in space from Earth..."
+    },
+    {
+     "en": "Yeah... That's why..."
+    },
+    {
+     "en": "Char sided with Earth once, but now he's\nout to crush the Earth with this\noperation."
+    },
+    {
+     "en": "I get that."
+    },
+    {
+     "en": "People on Earth are stubborn and never\nchange, but they sure don't mind\nchanging wives and husbands!"
+    },
+    {
+     "en": "So Char's pulling all sorts of stunts to\nshow people what humanity can do!"
+    },
+    {
+     "en": "But does that mean it's okay to freeze\nthe Earth over?"
+    },
+    {
+     "en": "Hmm..."
+    },
+    {
+     "en": "I dunno!"
+    },
+    {
+     "en": "Captain, we've been cleared to enter\nport."
+    },
+    {
+     "en": "Good. Bring the ship into port."
+    },
+    {
+     "en": "Is Char really serious about freezing the\nEarth?"
+    },
+    {
+     "en": "He already went through with round one."
+    },
+    {
+     "en": "To freeze the Earth completely, he'd have\nto drop at least one more rock."
+    },
+    {
+     "en": "But every rock inside the moon's orbit is\nunder Federation control... so...!"
+    },
+    {
+     "en": "He'll get them to recognize Sweetwater\nas Neo Zeon territory..."
+    },
+    {
+     "en": "And you think high-ranking Federation\nofficials are gathering at Londenion to\nnegotiate it?"
+    },
+    {
+     "en": "Yeah, that's how it looks."
+    },
+    {
+     "en": "Char fought alongside us against the\nanti-Federation crowd, but"
+    },
+    {
+     "en": "that showed him what the people left on\nEarth are really like, and he got truly\nsick of them."
+    },
+    {
+     "en": "I know that."
+    },
+    {
+     "en": "So now he's made up his mind to settle\neverything once and for all."
+    },
+    {
+     "en": "Finally here. It's been ages since I got\nto stand on solid ground!"
+    },
+    {
+     "en": "Yeah... It's a space colony, but there's\nsoil and greenery."
+    },
+    {
+     "en": "Well then, shall we head out?"
+    }
+   ],
+   "notes": "Seg 13 [jp] -> 'Y-you and... what...?' echoing seg 12's phrasing. Seg 34 [jp] -> 'evolve'. Seg 45 [jp] -> 'freeze the Earth over'. Seg 57: [jp] kept literal ('anti-Federation crowd'); it does not match Zeta canon (Char fought the Titans, a Federation faction) but is translated as written. | [accuracy 22] softening removed: [jp] is Quess ordering Chan off the ship, not a suggestion ('You should')",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Come to think of it, I haven't seen Amuro\nsince we split up at the port..."
+    },
+    {
+     "en": "Where'd he go?"
+    },
+    {
+     "en": "Outskirts of Londenion"
+    },
+    {
+     "en": "(Amuro and the others are taking a\nwhile...)"
+    },
+    {
+     "en": "Excuse me! You're Lieutenant Kanji Akatsuki,\naren't you?"
+    },
+    {
+     "en": "Yes, and you are?"
+    },
+    {
+     "en": "Cameron Bloom, from the Accounting Audit Bureau."
+    },
+    {
+     "en": "Could you put me through to Captain\nBright?"
+    },
+    {
+     "en": "If you tell him someone from the Accounting\nAudit Bureau is here, I think he'll know."
+    },
+    {
+     "en": "Understood. Please wait here a moment."
+    },
+    {
+     "en": "So it was you after all... Mr. Cameron."
+    },
+    {
+     "en": "Sorry to bother you when you're so\nbusy..."
+    },
+    {
+     "en": "So, what is it you wanted to talk\nabout..."
+    },
+    {
+     "en": "Mirai... ah, I mean, your wife... is she\nwell?"
+    },
+    {
+     "en": "I haven't seen her in about six months.\nShe's been on Earth the whole time."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "Is something wrong...?"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "I wasn't sure who I ought to tell about\nthis..."
+    },
+    {
+     "en": "Char Aznable met with high-ranking\nFederation officials in this colony."
+    },
+    {
+     "en": "They believe peace with Char has been\nsecured."
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "Why, that's..."
+    },
+    {
+     "en": "After the Neo Zeon fleet is disarmed at\nLuna II,"
+    },
+    {
+     "en": "the Federation government and Neo Zeon\nare to sign a peace agreement."
+    },
+    {
+     "en": "Neo Zeon... is disarming...?"
+    },
+    {
+     "en": "And there's one more thing..."
+    },
+    {
+     "en": "On those conditions, Neo Zeon has bought\nAxis."
+    },
+    {
+     "en": "You're saying the Federation government\nsold Axis?"
+    },
+    {
+     "en": "The Federation government says it'll put\nthe money for Axis toward expanding\nwelfare programs."
+    },
+    {
+     "en": "Ridiculous! Even after having Fifth Luna\ndropped on them, they still don't get\nit!"
+    },
+    {
+     "en": "So that's Captain Bright Noa... Looks\nlike he and Mirai are doing well."
+    },
+    {
+     "en": "Ah, Mr. Cameron. Did you finish your business?"
+    },
+    {
+     "en": "Thank you, Kanji."
+    },
+    {
+     "en": "Thanks to your quick thinking, I got to\nmeet Captain Bright."
+    },
+    {
+     "en": "Huh? All I did was pass the message\nalong."
+    },
+    {
+     "en": "I want to stop this plan to crush the\nEarth, no matter what."
+    },
+    {
+     "en": "Londo Bell is the last hope we have left."
+    },
+    {
+     "en": "That's why I'll spare no effort to help\nyou...!"
+    },
+    {
+     "en": "Thank you very much."
+    },
+    {
+     "en": "Well then, Kanji, I'll be going. See you\nagain at Side 7!"
+    },
+    {
+     "en": "At Side 7?! What could he mean by that..."
+    }
+   ],
+   "notes": "Seg 4 [jp] -> 'Captain Kanji Akatsuki'. Seg 6 [jp] -> 'Audit Bureau'. Seg 10 Bright's [jp] -> 'Cameron' (old acquaintance); seg 32 Kanji's [jp] -> 'Mr. Bloom'. Seg 31 is Cameron's aside after leaving Bright. Seg 23 [jp] -> 'Luna II' (elf_ui form). | [editorial 10] address form: Bright's polite [jp] is 'Mr. Cameron' in row 13 k0; Bright speaks formally to him here | [editorial 32] address form: Kanji's [jp] is 'Mr. Cameron' in row 14 k6/k9 (next unit) | [proofread 8] decided name 'Accounting Audit Bureau' (as in k6); the term_fixes regex misses 'Audit Bureau' split across a line break",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "This ship will now head for Side 7."
+    },
+    {
+     "en": "In part, it's to keep the Neo Zeon\ndisarmament at Luna II in check, but"
+    },
+    {
+     "en": "our real aim is to receive equipment for\ndestroying Axis, just in case."
+    },
+    {
+     "en": "Destroying Axis... Don't tell me--nuclear\nweapons!"
+    },
+    {
+     "en": "The target is Axis, and it's unmanned.\nWe won't use them against any fleet!"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "A bitter choice..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "Unidentified fleet sighted!"
+    },
+    {
+     "en": "One of the ships is approaching us!"
+    },
+    {
+     "en": "Identify it, now!"
+    },
+    {
+     "en": "Identification complete!"
+    },
+    {
+     "en": "It's a new Federation warship -- Balket-class."
+    },
+    {
+     "en": "Balket-class? I've never heard of it."
+    },
+    {
+     "en": "That may be so, sir, but it's right there in the computer's records."
+    },
+    {
+     "en": "Incoming transmission!"
+    },
+    {
+     "en": "You're Captain Bright of Londo Bell, I take it?"
+    },
+    {
+     "en": "I am Jean-Paul Rochina, commander of the Konpei Island 2nd Fleet."
+    },
+    {
+     "en": "It's an honor to meet you, sir!"
+    },
+    {
+     "en": "I'll get straight to it. There's something about Neo Zeon I'd like to discuss with you in person."
+    },
+    {
+     "en": "I'd like to come over to your ship now. Would that be all right?"
+    },
+    {
+     "en": "Yes, sir! We'll prepare for your landing at once."
+    },
+    {
+     "en": "Thank you. Until then!"
+    },
+    {
+     "en": "Light, can't you find out more about that ship?"
+    },
+    {
+     "en": "What do you think I'm doing right now?!"
+    },
+    {
+     "en": "Dammit! These codes are nothing like any Federation code I've seen before!"
+    },
+    {
+     "en": "For now, could you just tell me what you know so far?"
+    },
+    {
+     "en": "The Federation's newest battleship, the Balket-class..."
+    },
+    {
+     "en": "Its carrying capacity and firepower are both pretty serious, but..."
+    },
+    {
+     "en": "the detailed specs are classified top secret."
+    },
+    {
+     "en": "So it's definitely a \"Federation\" ship?"
+    },
+    {
+     "en": "Yeah! It's properly registered."
+    },
+    {
+     "en": "Kanji...! Is something up with that ship?"
+    },
+    {
+     "en": "Yeah... That ship doesn't belong to the Earth Federation or to Neo Zeon."
+    },
+    {
+     "en": "The Balket-class is the main class of warship built in Claudia, where I came from."
+    },
+    {
+     "en": "It's the same class as Binzvanker's flagship..."
+    },
+    {
+     "en": "You mean it's from the fleet you've been chasing, Kanji?"
+    },
+    {
+     "en": "Odds are it is... At the very least, that's one of the ships from the Claudian rebellion."
+    },
+    {
+     "en": "Federation Salamis-class ships make up most of that fleet... It's probably a mixed force..."
+    },
+    {
+     "en": "But if it's registered as a Federation ship..."
+    },
+    {
+     "en": "that means they've got someone over there hacking into Federation systems, just like me."
+    },
+    {
+     "en": "Commander Rochina's shuttle will be arriving shortly."
+    },
+    {
+     "en": "All mobile suit deck personnel, please fall in!"
+    },
+    {
+     "en": "Here he comes!"
+    },
+    {
+     "en": "So this is the Ra Cailum... Impressive, as you'd expect of a new ship."
+    },
+    {
+     "en": "So that's Commander Rochina..."
+    },
+    {
+     "en": "Check out the uniforms on his escort. You don't see those in the Federation..."
+    },
+    {
+     "en": "That pilot suit... I've seen it somewhere before..."
+    },
+    {
+     "en": "Gah! It's him!!"
+    },
+    {
+     "en": "Hey! You've gotta be kidding me!"
+    },
+    {
+     "en": "What's wrong? Is there somebody you know?"
+    },
+    {
+     "en": "It's Meio Plato! He's our enemy -- you could call him the Giganos Army's ace pilot."
+    },
+    {
+     "en": "Hm...! It's him!"
+    },
+    {
+     "en": "Hm? What is it, Plato?"
+    },
+    {
+     "en": "I have fought alongside these people on the battlefield."
+    },
+    {
+     "en": "I would very much like to get better acquainted with them."
+    },
+    {
+     "en": "Heh... I don't mind. What do you say, Captain Bright?"
+    },
+    {
+     "en": "Yes, I have no objection."
+    },
+    {
+     "en": "Very well, Plato. Assemble on the deck in 20 minutes."
+    },
+    {
+     "en": "Yes, sir!"
+    },
+    {
+     "en": "Didn't expect the Practies' little rich boys to tag along too!"
+    },
+    {
+     "en": "Don't get the wrong idea. I have no intention of picking a pointless fight over the Dragonars at this point!"
+    },
+    {
+     "en": "Exactly!! We fight for a greater cause!"
+    },
+    {
+     "en": "Next to the great task ahead, you lot are a trifle."
+    },
+    {
+     "en": "What was thaaat!!"
+    },
+    {
+     "en": "Kaine, calm down."
+    },
+    {
+     "en": "Right now we're allies. More importantly, think about the situation we all share!"
+    },
+    {
+     "en": "You're saying we should cooperate...?"
+    },
+    {
+     "en": "That's right, Lieutenant Kanji!"
+    },
+    {
+     "en": "How do you know who I am...?!"
+    },
+    {
+     "en": "I've heard about you from Commander Rochina."
+    },
+    {
+     "en": "That you're one of Claudia's finest pilots..."
+    },
+    {
+     "en": "Commander Rochina...?"
+    },
+    {
+     "en": "Commander Rochina included, none of us belong to this universe."
+    },
+    {
+     "en": "And now we're attached to the Federation, fighting a common enemy... I want you to think about what that means."
+    },
+    {
+     "en": "So us outsiders should all get along, huh?"
+    },
+    {
+     "en": "But listen, we're not fighting 'cause we want to."
+    },
+    {
+     "en": "If we can get back to our own world, that's all we need."
+    },
+    {
+     "en": "True, that may be so for you."
+    },
+    {
+     "en": "But it's different for Kanji, isn't it?"
+    },
+    {
+     "en": "I hear Kanji crossed the wall between worlds of his own accord."
+    },
+    {
+     "en": "Yeah, that's true. But you know..."
+    },
+    {
+     "en": "You people are working with Binzvanker, right?"
+    },
+    {
+     "en": "I came to this universe from Claudia chasing Binzvanker!"
+    },
+    {
+     "en": "Lieutenant Kanji... I don't know what happened between you and the Supreme Commander in the past."
+    },
+    {
+     "en": "But once a war is over, even sworn enemies can become comrades."
+    },
+    {
+     "en": "Supreme Commander...? So it IS Binzvanker's army!"
+    },
+    {
+     "en": "He's the man who staged a coup d'etat in Claudia!!"
+    },
+    {
+     "en": "I've heard enough out of you lot! How dare you talk that way to our captain!"
+    },
+    {
+     "en": "Captain! There's no need to take riffraff like this seriously!"
+    },
+    {
+     "en": "Now, now, that's enough..."
+    },
+    {
+     "en": "In our original world, I was on the opposite side from the Dragonar Team here."
+    },
+    {
+     "en": "But now, they are not our opponents."
+    },
+    {
+     "en": "At least for the time being, neither His Excellency Rochina nor I consider you an enemy."
+    },
+    {
+     "en": "We may not be able to reconcile right away, but I'd like you to keep this in mind..."
+    },
+    {
+     "en": "Hey, Kanji, you'd better not trust them."
+    },
+    {
+     "en": "These guys are rotten to the core!"
+    },
+    {
+     "en": "We lead fulfilling lives under a wise and generous superior."
+    },
+    {
+     "en": "Lieutenant Kanji! You are not like these Dragonar Team thugs."
+    },
+    {
+     "en": "I don't know how you came to be traveling with them, but"
+    },
+    {
+     "en": "these three are nothing but punks who stole our army's Dragonars!"
+    },
+    {
+     "en": "Enough, Welner!"
+    },
+    {
+     "en": "They're already skilled pilots."
+    },
+    {
+     "en": "You should know that from firsthand experience!"
+    },
+    {
+     "en": "Ngh!"
+    },
+    {
+     "en": "We are no longer Giganos. Forget the old grudges."
+    },
+    {
+     "en": "But...!"
+    },
+    {
+     "en": "Listen! For convenience, we each refer to one another's worlds as \"other worlds.\""
+    },
+    {
+     "en": "But now that the doors between worlds have been revealed, this world has become one!"
+    },
+    {
+     "en": "An age has come in which we must seek a new view of the world."
+    },
+    {
+     "en": "We must think more deeply about what that means."
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Our fleet is currently heading for the lunar sector."
+    },
+    {
+     "en": "That way, if Neo Zeon resists, we can seize Sweetwater at once."
+    },
+    {
+     "en": "I see. So the Federation's regular fleets are finally on the move."
+    },
+    {
+     "en": "No... They may be moving, but it's only part of the force."
+    },
+    {
+     "en": "Many fleets can't move, as they're busy keeping an eye on rebellions in the colonies."
+    },
+    {
+     "en": "We're being forced to deal with an extremely difficult situation."
+    },
+    {
+     "en": "I agree..."
+    },
+    {
+     "en": "However, many forces not belonging to Neo Zeon remain in this universe."
+    },
+    {
+     "en": "I need your Londo Bell unit to keep responding flexibly to situations, as you have so far."
+    },
+    {
+     "en": "Understood, sir!"
+    },
+    {
+     "en": "Beyond that, the matter of the Federation government handing over Axis concerns me..."
+    },
+    {
+     "en": "So you think so too, Commander..."
+    },
+    {
+     "en": "Yes. I suspect Char intends to start something."
+    },
+    {
+     "en": "But don't you think it's too blatant for one of Char's schemes?"
+    },
+    {
+     "en": "Indeed. His goal may be to lure us out into the Axis sector."
+    },
+    {
+     "en": "In that case, it would be reasonable to assume Char aims to split up our forces..."
+    },
+    {
+     "en": "Exactly, Captain Bright."
+    },
+    {
+     "en": "The attacking side always holds the advantage of choosing where to strike."
+    },
+    {
+     "en": "An attacker can concentrate forces on a single \"point,\" while the defender must cover a whole \"area.\""
+    },
+    {
+     "en": "Meaning the wider the area the defenders must cover, the more they need forces several times the enemy's."
+    },
+    {
+     "en": "That is the reality the Earth Federation faces..."
+    },
+    {
+     "en": "But my fleet has its hands full just covering the lunar sector."
+    },
+    {
+     "en": "I'll send a squadron to Axis just in case, but that won't be enough to defend it."
+    },
+    {
+     "en": "If only Char truly wanted peace, this would all turn out to be needless worry."
+    },
+    {
+     "en": "Even a small force should be able to raise the alarm from Axis."
+    },
+    {
+     "en": "As for Axis, Londo Bell is taking action of its own."
+    },
+    {
+     "en": "We intend to stop any operation to crush the Earth, whatever it takes."
+    },
+    {
+     "en": "Impressive. That's a relief to hear."
+    },
+    {
+     "en": "I'll cooperate as much as I can. You can leave the aftermath to me."
+    },
+    {
+     "en": "Then I'm counting on you, Captain Bright!"
+    },
+    {
+     "en": "Yes, sir!"
+    },
+    {
+     "en": "The Ra Cailum seems to be a fine unit."
+    },
+    {
+     "en": "They make good use of youthful energy and seem to fight above their true ability."
+    },
+    {
+     "en": "Someone like me has much to learn from them."
+    },
+    {
+     "en": "Indeed...!"
+    },
+    {
+     "en": "They're gone..."
+    },
+    {
+     "en": "Who'd have thought the Practies would be on our side..."
+    },
+    {
+     "en": "Kanji, what do you make of those guys?"
+    },
+    {
+     "en": "What their captain, Meio Plato, said makes sense."
+    },
+    {
+     "en": "If there's room to talk things out, we shouldn't be fighting..."
+    },
+    {
+     "en": "Whoa, whoa, are you serious?"
+    },
+    {
+     "en": "No... I've got no intention of joining hands with Binzvanker."
+    },
+    {
+     "en": "He's holding up false ideals... just to achieve his own ambitions."
+    },
+    {
+     "en": "Still... you've got nothing to prove that."
+    },
+    {
+     "en": "Even false ideals become true if enough people believe in them and rally behind them."
+    },
+    {
+     "en": "If they had enough military strength to stage a coup,"
+    },
+    {
+     "en": "that means they had a just cause to match."
+    },
+    {
+     "en": "Grr...! So all I can do is sit and watch his forces grow stronger?!"
+    },
+    {
+     "en": "He's a tough one to go up against... We don't have any political clout at all."
+    },
+    {
+     "en": "Still, I'm gonna lend Kanji a hand."
+    },
+    {
+     "en": "After all, we only ended up in this world because those guys connected the worlds in the first place."
+    },
+    {
+     "en": "I'm gonna make 'em pay for that in full!"
+    },
+    {
+     "en": "Yeah, you said it. I believe what Kanji says, too."
+    },
+    {
+     "en": "In the end, it's not about logic, is it?"
+    },
+    {
+     "en": "Guess it's fate. I'm with you till the end!"
+    },
+    {
+     "en": "Thanks, everyone."
+    },
+    {
+     "en": "Don't get all formal on us! We're friends, aren't we?"
+    },
+    {
+     "en": "That's right!"
+    },
+    {
+     "en": "I'll dig up some info on Commander Rochina's fleet for you."
+    },
+    {
+     "en": "Anyway, for now let's deal with the enemy right in front of us!"
+    },
+    {
+     "en": "Yeah... Right now we're up against Neo Zeon..."
+    },
+    {
+     "en": "We have to protect all the people living on Earth."
+    }
+   ],
+   "notes": "Seg 4 (no header): read as the Londo Bell operator continuing the ID report. Seg 9: [jp] = Konpei Island (as in the existing machine-library draft). [jp] (Rochina) = Commander; [jp] (Binzvanker) = Supreme Commander; [jp] = His Excellency. Meio's [jp] = 'Captain Kanji' (matches Kanji's library rank); [jp] (Meio, from Karl/Welner/Kanji) = 'captain' as unit leader. Seg 70-72: Meio's '[jp]' rendered as plain 'Kanji' (third person, talking to Kaine). Seg 52: [jp] = 'the Practies' little rich boys'; glossary spelling Practies is low confidence. Seg 82 [jp] (Meio, calming his men) = 'Now, now, that's enough...'. Seg 99: [jp] -- rendered as each side calling the others' worlds 'other worlds'. Seg 126: 1[jp] = 'a squadron'. Seg 135: [jp] = 'unit' (Rochina praising the Ra Cailum's crew). Seg 146 speaker header repeats Kanji (continuation). | [accuracy 44] source [jp] is singular (one person Meio recognizes, as Kaine's 'It's him!!' just before); 'them' was added. All Dragonar pilots and Kanji are male, so 'him' is safe | [accuracy 152] [jp] = the opponent is too tough for us, not that we are fighting the wrong person | [editorial 6] 'You can say that, sir' is unidiomatic for [jp] | [editorial 16] rhetorical question needs question punctuation | [editorial 18] per accuracy flag: [jp] = just what is known now, not further digging | [editorial 26] 'a main warship' awkward for [jp] | [editorial 80] Karl's [jp]! made explicit (accuracy flag); force restored | [editorial 99] tautology 'calls the other worlds other worlds' clarified (accuracy flag) | [editorial 100] 'is already one' unnatural for [jp]...[jp] (accuracy flag) | [editorial 107] 'Even if they're moving, it's only some of the units' clumsy | [editorial 109] 'respond in an extremely difficult position' awkward (accuracy flag) | [editorial 123] 'the more they need several times the enemy's strength' clumsy (accuracy flag) | [editorial 136] 'their young people's strength' awkward for [jp] | [proofread 61] question punctuation: a direct question ended in '!' only; '?' added per style sheet ('?!')",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Only four or five tries, and look at that...! She's the real thing!"
+    },
+    {
+     "en": "Yes. The link between Quess's brainwaves and the psycommu is perfect."
+    },
+    {
+     "en": "Quess, you know the target, don't you?"
+    },
+    {
+     "en": "Yes!"
+    },
+    {
+     "en": "From here, the Funnels will move in automatically."
+    },
+    {
+     "en": "Yes."
+    },
+    {
+     "en": "Release Funnels."
+    },
+    {
+     "en": "Yes."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Just like that girl..."
+    }
+   ],
+   "notes": "Seg 4: [jp] -- 'move in' for [jp]. Seg 9: [jp] kept as 'that girl' (Char's memory; not named in source). | [editorial 1] term: project decision is lowercase 'psycommu'",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "We've arrived at \"Side 7.\""
+    },
+    {
+     "en": "We've been cleared to enter port."
+    },
+    {
+     "en": "All right, we're going in!"
+    },
+    {
+     "en": "Whoa... Look at that! The flagship Rewloola, making a grand triumphant return!"
+    },
+    {
+     "en": "Long live Neo Zeon!!"
+    },
+    {
+     "en": "Long live Neo Zeeeon!!"
+    },
+    {
+     "en": "Don't get carried away!!"
+    },
+    {
+     "en": "The war's not over yet!"
+    },
+    {
+     "en": "We're starting maintenance on the whole fleet now!!"
+    },
+    {
+     "en": "Team B, check the hull immediately!"
+    },
+    {
+     "en": "Move the damaged mobile suits to Block 2!"
+    },
+    {
+     "en": "Wow~ So this is Sweetwater?!"
+    },
+    {
+     "en": "Oh right, this is your first time here, Quess."
+    },
+    {
+     "en": "Gyunei, I'm counting on you for the operation starting tomorrow!"
+    },
+    {
+     "en": "Yes, sir!"
+    },
+    {
+     "en": "Quess, did you get any headaches during training?"
+    },
+    {
+     "en": "Nope, of course not!!"
+    },
+    {
+     "en": "Are you sure? The operation starting tomorrow is no game..."
+    },
+    {
+     "en": "Of course!"
+    },
+    {
+     "en": "I see......"
+    },
+    {
+     "en": "...Colonel?"
+    },
+    {
+     "en": "Get some good rest today..."
+    },
+    {
+     "en": "Okay!"
+    },
+    {
+     "en": "Gyunei, show her around."
+    },
+    {
+     "en": "Understood!"
+    },
+    {
+     "en": "The gravity block's up ahead. Your quarters are at a military facility on the outskirts, Quess, so..."
+    },
+    {
+     "en": "Before that, show me around the city!"
+    },
+    {
+     "en": "W-Well... The operation starts up again tomorrow."
+    },
+    {
+     "en": "You need to get some good rest today..."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Hehe~ You really want to go too, don't you, Gyunei!"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Are you really okay? You just had psycommu training, right?"
+    },
+    {
+     "en": "Hehehe...! I'm totally fine!"
+    },
+    {
+     "en": "There's no beating you, Quess... Okay, I'll take you anywhere you want."
+    },
+    {
+     "en": "Yaaay!"
+    },
+    {
+     "en": "Everything is going according to plan so far... Londo Bell... what will your move be?"
+    },
+    {
+     "en": "It's finally happening, Colonel..."
+    },
+    {
+     "en": "Yes. With this, mankind can move on to a new era."
+    },
+    {
+     "en": "That's true."
+    },
+    {
+     "en": "But... Colonel?"
+    },
+    {
+     "en": "What is it?"
+    },
+    {
+     "en": "Just dropping Axis on Earth will do damage on the same scale as a nuclear winter."
+    },
+    {
+     "en": "That's an atrocity no dictator has ever committed."
+    },
+    {
+     "en": "Are you sure about this, Colonel Char?"
+    },
+    {
+     "en": "It's a little late for a sermon, Nanai..."
+    },
+    {
+     "en": "I believe in the evolution of mankind that has gone out into space."
+    },
+    {
+     "en": "But to turn all of mankind into Newtypes..."
+    },
+    {
+     "en": "someone has to take mankind's sins upon themselves."
+    },
+    {
+     "en": "Are you sure about this?"
+    },
+    {
+     "en": "You came up with this operation because you want to show up that Amuro, didn't you?"
+    },
+    {
+     "en": "Am I such a small man?"
+    },
+    {
+     "en": "Amuro Ray is a man who mistakenly believes kindness is a Newtype's weapon."
+    },
+    {
+     "en": "A woman could forgive a man like that, but you can't forgive Amuro for it, Colonel."
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "(Just because I can sense the will of others, if only imperfectly...)"
+    },
+    {
+     "en": "What's wrong?"
+    },
+    {
+     "en": "People who are too much alike end up hating each other..."
+    },
+    {
+     "en": "So love turned into a hundredfold hate?"
+    },
+    {
+     "en": "Heh... Something like that."
+    },
+    {
+     "en": "I'm counting on you for tomorrow's operation, Nanai."
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "I'll go ahead to Axis and wait for you there."
+    },
+    {
+     "en": "Quess... Are you sure about her?"
+    },
+    {
+     "en": "I don't think she needs any more enhancement than that...?"
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "That girl is a Newtype who can control Funnels even without using the Psycho-Frame."
+    },
+    {
+     "en": "I suppose she is..."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "I'd like to think his resolve to inherit Zeon Deikun's name changed the Colonel, but..."
+    },
+    {
+     "en": "Dammit!"
+    },
+    {
+     "en": "Letting a little girl like that distract him...!"
+    },
+    {
+     "en": "The Colonel's just using the war as an outlet for his frustrations."
+    },
+    {
+     "en": "When guys like the Colonel blow their top, they go and do stuff like smashing colonies."
+    },
+    {
+     "en": "What does that mean...?!"
+    },
+    {
+     "en": "At times like that, somebody needs the power to stop him, right?"
+    },
+    {
+     "en": "That's why I had them enhance me into a Newtype."
+    },
+    {
+     "en": "My parents... got killed when a colony was smashed..."
+    },
+    {
+     "en": "Hmm... So that's why you want to become an esper, Gyunei."
+    },
+    {
+     "en": "Yeah... but"
+    },
+    {
+     "en": "I figured out the Newtype Lab's enhancement can't make me like you, Quess."
+    },
+    {
+     "en": "So I'm gonna go out with you, Quess, and get to study you."
+    },
+    {
+     "en": "You mean you want to go out with me?"
+    },
+    {
+     "en": "Does the age difference bother you?"
+    },
+    {
+     "en": "Ah...! You're jealous because I like the Colonel!"
+    },
+    {
+     "en": "That's not it!"
+    },
+    {
+     "en": "Ah...!"
+    },
+    {
+     "en": "Quess!"
+    }
+   ],
+   "notes": "Seg 47: [jp] = 'the evolution of mankind that has gone out into space' (CCA theme of 'innovation'). Seg 49: [jp] = 'sins'. Seg 56: [jp]...[jp] -- 'half sense' renders [jp] (imperfectly); sentence trails off as in source. Seg 59: [jp] idiom kept as 'love turned into a hundredfold hate'. Seg 70-72: Nanai's private thoughts about Char (no parentheses in source). Seg 78: [jp] = 'smashing colonies' / 'a colony was smashed'. Seg 80-81: sentence split across pages kept ('Yeah... but' / continuation). | [editorial 33] term: project decision is lowercase 'psycommu' | [editorial 35] 'I can't win against you' stiff for [jp] | [editorial 56] 'half sense' unclear; [jp] = imperfect ability, trailing kept | [editorial 73] 'venting his frustrations on the war' makes the war the target; [jp] = war is the outlet",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "Looks like Mr. Cameron hasn't arrived yet."
+    },
+    {
+     "en": "We're checking the port authority's schedule now."
+    },
+    {
+     "en": "Found it!"
+    },
+    {
+     "en": "A regular shuttle run under the Accounting Audit Bureau seems to be heading here from Side 6."
+    },
+    {
+     "en": "That's the one..."
+    },
+    {
+     "en": "I want the loading done as quickly as possible."
+    },
+    {
+     "en": "Have the cargo hold cleared out before it arrives."
+    },
+    {
+     "en": "Understood!"
+    },
+    {
+     "en": "Looks like there's a little time before we leave port."
+    },
+    {
+     "en": "Guess I'll do some maintenance until then."
+    }
+   ],
+   "notes": "[jp] = Accounting Audit Bureau (as in Cameron's library entry). [jp] = 'regular shuttle run'.",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "What's that? Sounds noisy over by the port..."
+    },
+    {
+     "en": "Hey! Out of the way, out of the way!"
+    },
+    {
+     "en": "You there! Quit dawdling!"
+    },
+    {
+     "en": "Yessiiir!!"
+    },
+    {
+     "en": "Even Kaine and the guys... What's going on?"
+    },
+    {
+     "en": "Hey there, Kanji!"
+    },
+    {
+     "en": "Oh, Mr. Cameron. What's all this commotion?"
+    },
+    {
+     "en": "They're moving the cargo over from the freighter."
+    },
+    {
+     "en": "It's unofficial, you see. I imagine everyone's pitching in to finish as fast as possible."
+    },
+    {
+     "en": "Did you arrange all this, Mr. Cameron? But you're with the Accounting Audit Bureau..."
+    },
+    {
+     "en": "That's exactly why it's unofficial. I brought supplies Londo Bell needs."
+    },
+    {
+     "en": "Mostly things the military doesn't issue. I brought everything I could arrange."
+    },
+    {
+     "en": "I see. Thank you very much."
+    },
+    {
+     "en": "Don't mention it. I'm doing this because I want to."
+    },
+    {
+     "en": "Heeey! Where've you been, Kanji?!"
+    },
+    {
+     "en": "Hurry up and give us a hand!"
+    },
+    {
+     "en": "Okay, okay!!"
+    }
+   ],
+   "notes": "Seg 1-2: generic Londo Bell Member barking at the loading crew. Seg 3: Kaine's mock-cheerful [jp] = 'Yessiiir!!'. | [proofread 14] question punctuation: a direct question ended in '!' only; '?' added per style sheet ('?!')",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "So that's the Rewloola..."
+    },
+    {
+     "en": "But... can a dummy like this really fool them?"
+    },
+    {
+     "en": "Navy types feel safe as long as the number of ships adds up..."
+    },
+    {
+     "en": "With a fleet padded out with dummies we strike Luna II, and meanwhile you yourself advance on Axis, Colonel."
+    },
+    {
+     "en": "If all goes well, we may even be able to use Luna II's nuclear weapons."
+    },
+    {
+     "en": "Yes..."
+    },
+    {
+     "en": "Both to accelerate Axis, and to contaminate the Earth..."
+    },
+    {
+     "en": "How many nuclear weapons from the old century are stockpiled at Luna II?"
+    },
+    {
+     "en": "Enough to annihilate Neo Zeon's fleet a hundred times over."
+    },
+    {
+     "en": "Char knows that. He's a wise man."
+    },
+    {
+     "en": "Are you saying that we in Londo Bell want a war?"
+    },
+    {
+     "en": "Yes, that's how it looks from Earth."
+    },
+    {
+     "en": "Vice Chief of Staff! A Neo Zeon fleet appears to have left port at Sweetwater."
+    },
+    {
+     "en": "Good! Can we see footage?"
+    },
+    {
+     "en": "On the upper monitor..."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "So the flagship Rewloola's at the rear..."
+    },
+    {
+     "en": "The numbers match."
+    },
+    {
+     "en": "Ah... no, wait... There's one more ship than reported!"
+    },
+    {
+     "en": "Char's an honest man."
+    },
+    {
+     "en": "To think there were 15 nuclear warheads outside of Luna II..."
+    },
+    {
+     "en": "But since they fell under the Accounting Audit Bureau, they're museum pieces."
+    },
+    {
+     "en": "Please be careful..."
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Won't you be charged with a crime?"
+    },
+    {
+     "en": "If the current Federation government survives, I'll get life in prison."
+    },
+    {
+     "en": "Are you sure about this?"
+    },
+    {
+     "en": "I'm doing this because I want Mirai to live."
+    },
+    {
+     "en": "As her former fiance, you have that right."
+    },
+    {
+     "en": "Thank you..."
+    },
+    {
+     "en": "I've gathered you all here so that you understand that, in the operation about to begin,"
+    },
+    {
+     "en": "we may use sealed nuclear weapons."
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "..................."
+    },
+    {
+     "en": "You can't be serious...!"
+    },
+    {
+     "en": "But wouldn't that be pretty much the same thing Char did?"
+    },
+    {
+     "en": "Hold on. The captain has his reasons. We should hear him out first, right?"
+    },
+    {
+     "en": "Thanks, Kayra. Now, let me continue."
+    },
+    {
+     "en": "The operation I'm about to explain will not be carried out if Neo Zeon and the Federation make a complete peace."
+    },
+    {
+     "en": "If everything goes peacefully, we will be charged with illegally handling nuclear weapons."
+    },
+    {
+     "en": "But I will take full responsibility for that!"
+    },
+    {
+     "en": "We don't have any other options left now."
+    },
+    {
+     "en": "Bright, get to the heart of the operation."
+    },
+    {
+     "en": "Right."
+    },
+    {
+     "en": "As you know, Axis is a resource asteroid far more massive than Fifth Luna."
+    },
+    {
+     "en": "If it hits the Earth's surface, it will certainly plunge the planet into a cold age."
+    },
+    {
+     "en": "Even if we tactically repel the Neo Zeon fleet..."
+    },
+    {
+     "en": "as long as Axis is drifting in the Earth Sphere, the Earth will still be in danger..."
+    },
+    {
+     "en": "Therefore, this operation's main objective is to destroy Axis itself!"
+    },
+    {
+     "en": "The equipment you all loaded today includes 15 nuclear warheads."
+    },
+    {
+     "en": "However, they're old-generation weapons, each built to a different standard."
+    },
+    {
+     "en": "To use them in combat, we have to modify them to work as warheads for current missiles."
+    },
+    {
+     "en": "...For these reasons, we'll first head to \"La Vie en Rose.\""
+    },
+    {
+     "en": "That's all. Any questions?!"
+    },
+    {
+     "en": "Then all hands, to your stations. This ship is now leaving port!"
+    }
+   ],
+   "notes": "Seg 0-6: Neo Zeon High Official and Char; seg 0 refers to the dummy of the Rewloola. Seg 7-19: Federation side; [jp] = 'Undersecretary' (title used to address the Senior Official). Seg 10: source has an Earth Federation Officer say [jp] -- kept literally. Seg 19: [jp] kept as the official's (ironic) 'Char's an honest man.' Seg 21: [jp] -- read as warheads held under the Audit Bureau's records, i.e. obsolete stock. Seg 45: [jp] = 'plunge the planet into a cold age'. Seg 44: [jp] = 'resource asteroid'. | [editorial 30] page-split sentence restructured for flow; cut point unchanged | [editorial 31] continuation of k30 restructure",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "We will now begin modifying the nuclear warheads."
+    },
+    {
+     "en": "All staff other than engineers are prohibited from entering the work block!"
+    },
+    {
+     "en": "Now, what should I do..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "Looks like they're done modifying the warheads."
+    },
+    {
+     "en": "So we're finally setting out for Axis..."
+    },
+    {
+     "en": "Neo Zeon fleet confirmed!"
+    },
+    {
+     "en": "Same number of ships as when they left Sweetwater!"
+    },
+    {
+     "en": "Captain! Why isn't our Clop moving to the front?!"
+    },
+    {
+     "en": "That's rude to Char!"
+    },
+    {
+     "en": "I have to ensure the flagship's safety!"
+    },
+    {
+     "en": "Direct visual coming up!"
+    },
+    {
+     "en": "They're spreading out sideways..."
+    },
+    {
+     "en": "They should be coming in single file..."
+    },
+    {
+     "en": "Launch a recon plane!!"
+    },
+    {
+     "en": "Sir! The Rewloola is a dummy!!"
+    },
+    {
+     "en": "Damn! They're dispersing Minovsky particles!"
+    },
+    {
+     "en": "They mean to fight!!"
+    },
+    {
+     "en": "Impossible! That's a treaty violation!!"
+    },
+    {
+     "en": "Quess! All you need to do is get a feel for real combat. Follow me!"
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Amazing..."
+    },
+    {
+     "en": "......!!"
+    },
+    {
+     "en": "I'll clean this up all by myself!"
+    },
+    {
+     "en": "Gyunei!!"
+    },
+    {
+     "en": "Aah!"
+    },
+    {
+     "en": "Damn it!!"
+    },
+    {
+     "en": "Hah... hah..."
+    },
+    {
+     "en": "So this is war...! Gyunei..."
+    },
+    {
+     "en": "Grr! I can take on the Federation single-handed!!"
+    },
+    {
+     "en": "A total victory without even going to the combat bridge!"
+    },
+    {
+     "en": "Now we can deliver Luna II's nukes to the Colonel."
+    },
+    {
+     "en": "Yes, things are going to get busy."
+    },
+    {
+     "en": "Colonel... your plan is perfect."
+    },
+    {
+     "en": "An alarm?! What happened?!!"
+    },
+    {
+     "en": "Kanji! Luna II got hit by a surprise attack! The enemy's on the move!"
+    },
+    {
+     "en": "Everyone here? We're leaving port right away!!"
+    },
+    {
+     "en": "Are we going to help Luna II?"
+    },
+    {
+     "en": "Only part of the enemy fleet attacked Luna II!"
+    },
+    {
+     "en": "Their main force is already at Axis!"
+    },
+    {
+     "en": "Wait, you don't mean we're taking on an enemy fleet with battleships in it using just the fleet we've got here?"
+    },
+    {
+     "en": "Not all of Neo Zeon's fleet has gathered at Axis!"
+    },
+    {
+     "en": "As long as we destroy Axis, Char's plan fails!"
+    },
+    {
+     "en": "So the idea is to charge in before the whole enemy force gathers...!"
+    },
+    {
+     "en": "Looks like that's about the size of it..."
+    },
+    {
+     "en": "So that's why... we need the nuclear warheads..."
+    },
+    {
+     "en": "At least we'll be using them on an unmanned asteroid. That's some comfort."
+    },
+    {
+     "en": "Even so, I bet some people will get caught up in it..."
+    },
+    {
+     "en": "This is rough..."
+    }
+   ],
+   "notes": "Seg 4: [jp] = our Clop (Clop-class flagship); speaker is the self-serving senior official. Seg 9: [jp] (single-column approach) = 'coming in single file'. Seg 11: [jp] = 'Sir!' (rank unclear). Seg 25: [jp]1[jp] = 'with my unit alone' (unit = his mobile suit). Seg 42: [jp] rendered 'asteroid' (Axis). | [editorial 25] 'with my unit alone' reads as his squad; [jp] = him alone | [editorial 36] double 'with' made the line hard to parse | [editorial 39] 'all the enemies gather' unnatural | [proofread 30] question punctuation: a direct question ended in '!' only; '?' added per style sheet ('?!')",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "Captain Bright, we have a transmission\nfrom Commander Rochina."
+    },
+    {
+     "en": "I take it you've already heard\nabout Luna II?"
+    },
+    {
+     "en": "Yes, sir. And as for Axis..."
+    },
+    {
+     "en": "We just heard from the fleet we'd sent\nto Axis. Char's main force is at Axis!"
+    },
+    {
+     "en": "Unfortunately, it seems our fleet\nhas been wiped out..."
+    },
+    {
+     "en": "Our fleet is heading for Axis as well,\nbut it'll take time for us to catch up."
+    },
+    {
+     "en": "Until then, I need you to hold Axis\nback somehow."
+    },
+    {
+     "en": "Understood, sir! We'll destroy\nthe nuclear nozzles before Axis\ncan use them!"
+    },
+    {
+     "en": "I'm counting on you!"
+    },
+    {
+     "en": "That is all!!"
+    },
+    {
+     "en": "The nuclear missiles are all loaded,\nI take it?"
+    },
+    {
+     "en": "Yes, sir, every one of them is loaded!"
+    },
+    {
+     "en": "Good. The fleet will now make\nall haste to Axis!!"
+    },
+    {
+     "en": "Both engines, full speed!!"
+    }
+   ],
+   "notes": "[jp] -> Commander Rochina. [jp] -> nuclear nozzles (Axis's nuclear-pulse thrusters). [jp] -> 'Both engines, full speed'.",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "A large-scale fleet battle is about\nto begin."
+    },
+    {
+     "en": "Lun... I swear I'll make it back alive."
+    },
+    {
+     "en": "Everyone in Claudia... hang in there\nuntil I get back!"
+    },
+    {
+     "en": "We'll be entering the Axis combat zone\nshortly."
+    },
+    {
+     "en": "All personnel, prepare to launch."
+    },
+    {
+     "en": "So this is it..."
+    },
+    {
+     "en": "Hm? Isn't that the Dragonar Team\nover there? Looks like they're arguing\nabout something..."
+    },
+    {
+     "en": "Hey! What's going on?!"
+    },
+    {
+     "en": "Hathaway stowed away on the ship!"
+    },
+    {
+     "en": "Ah... Kanji."
+    },
+    {
+     "en": "Hathaway...! Didn't you get off\nthe ship at Londenion?"
+    },
+    {
+     "en": "...Yes... It was at Londenion that\nI slipped aboard this ship."
+    },
+    {
+     "en": "So you haven't told the captain...\nyour dad, I mean."
+    },
+    {
+     "en": "I lied to my father... I just had\nto be on this ship, no matter what!"
+    },
+    {
+     "en": "I see... You've been hiding this whole\ntime, huh. You must be pretty\ndetermined, but still..."
+    },
+    {
+     "en": "Hathaway... This ship is about to head\ninto a fierce battle. Do you understand\nthat?"
+    },
+    {
+     "en": "I'm prepared for that!"
+    },
+    {
+     "en": "I have to go to Axis\nto get Quess back!"
+    },
+    {
+     "en": "Quess... You mean that girl\nwho was with you?"
+    },
+    {
+     "en": "What about Quess?"
+    },
+    {
+     "en": "Quess... Quess went off\nwith Char!"
+    },
+    {
+     "en": "At Londenion... right in front of me\nand Amuro...!"
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "Went off with Char?\nWhat's that supposed to mean?"
+    },
+    {
+     "en": "That's..."
+    },
+    {
+     "en": "Come on, just tell us."
+    },
+    {
+     "en": "Okay..."
+    },
+    {
+     "en": "Even if Quess did go to Sweetwater\nwith Char..."
+    },
+    {
+     "en": "that doesn't mean she'd go to Axis,\ndoes it?"
+    },
+    {
+     "en": "Yeah. Quess is a civilian, so there's\nno way she'd be with the fleet."
+    },
+    {
+     "en": "Especially not somewhere that's about\nto become the fiercest battlefield..."
+    },
+    {
+     "en": "They're making Quess fly\nas a pilot."
+    },
+    {
+     "en": "I just... know it, somehow..."
+    },
+    {
+     "en": "No way! That wildcat,\na pilot?"
+    },
+    {
+     "en": "Even if she's got talent, I can't see\nthem putting her right on the front\nline..."
+    },
+    {
+     "en": "Quess is a Newtype! That's why\nChar was able to lead her astray!"
+    },
+    {
+     "en": "So they make her a pilot just\nbecause she's a Newtype?"
+    },
+    {
+     "en": "If that's true, I won't stand for it.\nWe'll just have to rescue her ourselves!"
+    },
+    {
+     "en": "Yeah!"
+    },
+    {
+     "en": "But hey... are we just gonna keep\nhiding Hathaway like this?"
+    },
+    {
+     "en": "At this point, we can't exactly\nput him off the ship."
+    },
+    {
+     "en": "But we can't keep Captain Bright\nin the dark either."
+    },
+    {
+     "en": "Yeah... There's no guarantee\nthis ship won't sink."
+    },
+    {
+     "en": "You'd better see your father before\nit's too late."
+    },
+    {
+     "en": "Right!"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "Ugh!"
+    },
+    {
+     "en": "With you out here too, what's going\nto happen to your mother and Cheimin?!"
+    },
+    {
+     "en": "A boy ought to have\nthis much spirit."
+    },
+    {
+     "en": "This is no joke!!"
+    },
+    {
+     "en": "You want to see Quess,\nHathaway?"
+    },
+    {
+     "en": "I'm going to get Quess back!"
+    },
+    {
+     "en": "Hathaway..."
+    },
+    {
+     "en": "Char is exploiting Quess's gift --\nshe senses far too much."
+    },
+    {
+     "en": "Exploiting her? But..."
+    },
+    {
+     "en": "Her talent has been enhanced, and now\nshe's been reduced to a tool for Char."
+    },
+    {
+     "en": "No...!"
+    },
+    {
+     "en": "Char is a man who can only remake\nthe world on top of people's deaths."
+    },
+    {
+     "en": "And Quess, used by a man like that,\nwill be dragged by the power of the dead\nto a tragic end..."
+    },
+    {
+     "en": "Quess isn't going to die! I'll get\nher back before that happens!!"
+    },
+    {
+     "en": "That's why I even learned\nhow to pilot a mobile suit!!"
+    },
+    {
+     "en": "With that attitude, Hathaway, you'll\nbe dragged off by the dead too!"
+    },
+    {
+     "en": "Nngh...!"
+    },
+    {
+     "en": "Amuro, it's time we headed\nto the bridge."
+    },
+    {
+     "en": "Chan, keep Hathaway confined."
+    },
+    {
+     "en": "Understood."
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "You sure are reckless.\nCome on, let's go."
+    },
+    {
+     "en": "If anything happens, I'll contact you\non the headset. Got it?!"
+    },
+    {
+     "en": "Yes, ma'am!"
+    },
+    {
+     "en": "Yo! Hathaway! Did your old man\nchew you out?"
+    },
+    {
+     "en": "Hold on! Don't tell me\nyou guys knew?!"
+    },
+    {
+     "en": "Well, we couldn't exactly toss him\nout into space, could we?"
+    },
+    {
+     "en": "L-Lieutenant Kanji...\nYou too..."
+    },
+    {
+     "en": "Well, he's here now, so there's\nnothing we can do about it."
+    },
+    {
+     "en": "Hathaway, we'll bring\nQuess back for you!"
+    },
+    {
+     "en": "Kaine..."
+    },
+    {
+     "en": "Sigh... The fate of the Earth rides\non this battle, and..."
+    },
+    {
+     "en": "One person's whole life rides on it\ntoo, doesn't it?"
+    },
+    {
+     "en": "Quess isn't some girl who has nothing\nto do with us."
+    },
+    {
+     "en": "It may look like we're fooling around,\nbut we're serious."
+    },
+    {
+     "en": "Kanji..."
+    },
+    {
+     "en": "......?!"
+    },
+    {
+     "en": "Oh, Chan, something's glowing\nat your waist."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "What's that? That T-shaped\nthing."
+    },
+    {
+     "en": "Oh, this is... the Psycho-Frame\nwe use in the Gundam."
+    },
+    {
+     "en": "There was something about its\nperformance I wanted to check, so I've\nbeen carrying it around, but..."
+    },
+    {
+     "en": "It looked like it was...\nresonating with something..."
+    },
+    {
+     "en": "Resonating...? But with what,\nI wonder..."
+    },
+    {
+     "en": "Hmm... Just looks like a hunk\nof iron to me..."
+    },
+    {
+     "en": "Maybe it's a Newtype detector!"
+    },
+    {
+     "en": "Here! Light, is it you?"
+    },
+    {
+     "en": "H-Hey, cut it out!"
+    },
+    {
+     "en": "It might be giving off\ndangerous waves!"
+    },
+    {
+     "en": "Hey, give that back!!"
+    },
+    {
+     "en": "Kanji, it's you, isn't it?"
+    },
+    {
+     "en": "Whoa, don't shove it on me!!\nI'm all tingly~~~"
+    },
+    {
+     "en": "Give it back!\nIt's not a toy!"
+    },
+    {
+     "en": "Honestly, you guys!"
+    },
+    {
+     "en": "I'll examine the Psycho-Frame\nproperly myself!"
+    },
+    {
+     "en": "Well then, Hathaway!\nBehave yourself."
+    },
+    {
+     "en": "Okaaay!"
+    },
+    {
+     "en": "And you lot -- don't go taking\nHathaway out on your own."
+    },
+    {
+     "en": "Roger!"
+    },
+    {
+     "en": "Well, we'd better get going too."
+    },
+    {
+     "en": "We'll come see you again\nwhen we get back!"
+    }
+   ],
+   "notes": "Seg 10/11: Hathaway was supposed to leave at Londenion and instead slipped aboard there. [jp] -> Londenion, [jp] -> Sweetwater, [jp] -> Cheimin (Hathaway's sister), [jp] -> Claudia: none in glossary, official CCA / project forms used. Seg 73: [jp] -> Captain Kanji ([jp] = Captain per library precedent 'Captain Min'). Seg 68: Chan will contact Hathaway via [jp] (headset), rendered 'headset'. Seg 94: [jp] kept literal ('dangerous waves'); the slang sense 'crazy' is not carried. | [editorial 55] 'reduced to Char's tool' unidiomatic",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "Prepare to fire\ndummy missiles!!"
+    },
+    {
+     "en": "Prepare to fire missiles!"
+    },
+    {
+     "en": "Control now transfers\nto the combat bridge!!"
+    },
+    {
+     "en": "Disperse Minovsky particles\nat combat density!!"
+    },
+    {
+     "en": "All hands!\nPrepare for visual-range combat!"
+    },
+    {
+     "en": "Londo Bell...\nYou're later than I expected."
+    },
+    {
+     "en": "Moving heat sources approaching!!"
+    },
+    {
+     "en": "Prepare to intercept!!"
+    },
+    {
+     "en": "Open the combat bridge!\nLaunch the MS squads!!"
+    },
+    {
+     "en": "Naval gunfire!!\nIncoming!!"
+    },
+    {
+     "en": "Right!\nCommence interception!!"
+    },
+    {
+     "en": "First wave of missiles!\nFire!!"
+    },
+    {
+     "en": "Here they come!!"
+    },
+    {
+     "en": "Intercept! Lay down a barrage!!"
+    },
+    {
+     "en": "Hmm!!"
+    },
+    {
+     "en": "There was a nuke among\nthe missiles...?!"
+    },
+    {
+     "en": "Not bad, Londo Bell!!"
+    },
+    {
+     "en": "Right!\nMobile suit squads, launch!!"
+    }
+   ],
+   "notes": "[editorial 9] 'Ship cannon fire' awkward; natural military phrasing | [editorial 13] bare noun 'Barrage!!' read as a label; made it a spoken order",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "Not bad, Londo Bell."
+    },
+    {
+     "en": "However!"
+    },
+    {
+     "en": "Go, Axis! Along with all\nthose loathsome memories...!"
+    },
+    {
+     "en": "Ah!"
+    },
+    {
+     "en": "Axis has ignited!\nIt's begun its descent to Earth!"
+    },
+    {
+     "en": "Not yet!"
+    },
+    {
+     "en": "Release the dummies!\nEvasive maneuvers at the same time!"
+    },
+    {
+     "en": "Fire the fifth wave of missiles!\nFiiire!"
+    },
+    {
+     "en": "......!!"
+    },
+    {
+     "en": "Only one nuclear missile\nin this wave as well."
+    },
+    {
+     "en": "Not bad, Bright..."
+    },
+    {
+     "en": "Nanai...\nhurry and get here."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "Mobile suit squads, hit the enemy fleet\nfrom the flank! Support the Colonel!!"
+    },
+    {
+     "en": "Once the mobile suits launch, we'll give\n30 seconds of covering fire!"
+    },
+    {
+     "en": "Aren't we thorough..."
+    },
+    {
+     "en": "Good luck to you all."
+    },
+    {
+     "en": "Yeah, yeah."
+    },
+    {
+     "en": "Londo Bell should stick to\nringing its little bells!"
+    },
+    {
+     "en": "Heat source to the right!\nIt's the enemy!"
+    },
+    {
+     "en": "So they're reinforcements\nfrom Luna II!!"
+    }
+   ],
+   "notes": "Seg 2: [jp] = Rezin sneering at Nanai's thoroughness. Seg 5: pun on the name Londo Bell kept. | [editorial 7] verb restored to Bright's realisation (accuracy flag suggestion)",
+   "status": "proofread"
+  },
+  {
+   "id": 24,
+   "segments": [
+    {
+     "en": "Tch!!\nGyunei's squad still isn't here?!"
+    },
+    {
+     "en": "Rezin!\nFall back!!"
+    },
+    {
+     "en": "......"
+    },
+    {
+     "en": "Enemy mobile suits repelled!!"
+    },
+    {
+     "en": "Londo Bell\nmobile suits?"
+    },
+    {
+     "en": "No, missiles...!"
+    },
+    {
+     "en": "These are\nnuclear missiles!"
+    },
+    {
+     "en": "The missiles!\nEvery one of them was shot down!!"
+    },
+    {
+     "en": "New enemy fleet detected!!"
+    },
+    {
+     "en": "So this is as far as we can go..."
+    },
+    {
+     "en": "Retreat signal...!\nThe fleet will fall back for now!"
+    },
+    {
+     "en": "Kanji!\nWe're pulling out."
+    },
+    {
+     "en": "Are we really just going to back off\nlike this?!"
+    },
+    {
+     "en": "Axis has already started to fall,\nyou know!"
+    },
+    {
+     "en": "We still have options!\nRight now we need to regroup."
+    },
+    {
+     "en": "Roger..."
+    },
+    {
+     "en": "The Londo Bell fleet\nis withdrawing."
+    },
+    {
+     "en": "We'll regroup our fleet as well.\nRecover the mobile suit squads."
+    },
+    {
+     "en": "The first wave has passed."
+    },
+    {
+     "en": "Good work, Colonel."
+    },
+    {
+     "en": "Gyunei stopped the enemy's\nnuclear missiles for us."
+    },
+    {
+     "en": "That is the work\nof a cyber-Newtype."
+    },
+    {
+     "en": "A second wave will probably\nbe coming."
+    },
+    {
+     "en": "Indeed..."
+    },
+    {
+     "en": "Londo Bell is desperate too. Next\ntime they'll come ready to throw their\nlives away."
+    }
+   ],
+   "notes": "Seg 21: [jp] -> cyber-Newtype (glossary position wording for Gyunei).",
+   "status": "proofread"
+  }
+ ]
+}

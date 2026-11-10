@@ -1,0 +1,1371 @@
+{
+ "table": "4817_10305",
+ "rows": [
+  {
+   "id": 0,
+   "segments": [
+    {
+     "en": "What are you being so laid-back about?! The enemy's right on our doorstep!"
+    },
+    {
+     "en": "That's why! Let's get old man Alex to hand over some more machines!"
+    },
+    {
+     "en": "Machines are no good to us if there's nobody who can handle them!"
+    },
+    {
+     "en": "Right, right! What's the use if we've got no drivers?!"
+    },
+    {
+     "en": "Sounds like they're arguing up on the bridge..."
+    },
+    {
+     "en": "Le Caine's fleet is closing in on this city step by step."
+    },
+    {
+     "en": "The Iron Gear alone just isn't enough firepower..."
+    },
+    {
+     "en": "And Quess has to go missing at a time like this..."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "Come to think of it, the Military Police really helped us out... I should go say hello."
+    },
+    {
+     "en": "......?!"
+    },
+    {
+     "en": "Oh, Mr. Dastun. Thanks for the help back there."
+    },
+    {
+     "en": "Oh! You're Kanji, if I remember right."
+    },
+    {
+     "en": "We in the Military Police are going to take on the Grados Army too."
+    },
+    {
+     "en": "Let's both give it our best!"
+    },
+    {
+     "en": "Don't worry, we can win! No... we have to believe we can win!"
+    },
+    {
+     "en": "That's right."
+    },
+    {
+     "en": "Well, I've still got things to do!"
+    },
+    {
+     "en": "So that's the Iron Gear's crew?"
+    },
+    {
+     "en": "Yeah. There's no one more reliable to have on your side than that bunch."
+    },
+    {
+     "en": "We can't let them outdo us!"
+    },
+    {
+     "en": "We protect our own city with our own hands!"
+    },
+    {
+     "en": "Isn't that right... partner...?"
+    }
+   ],
+   "notes": "[11]-[12] unlabelled; taken as Dastun continuing (rallying his men after answering the MP). [13] [jp] kept as 'partner' -- addressee not shown (possibly a thought about Roger, his former subordinate). | [editorial 2] address form unified: Kanji's [jp] is 'Mr. Dastun' in dlg_4015_09503_00 (r19 k16); 'Major' is kept for [jp] lines | [editorial 4] 'We of the' stiff for spoken line | [proofread 13] punctuation: question mark missing",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "Huh? There's a ship landing at a time like this?"
+    },
+    {
+     "en": "Bebop"
+    },
+    {
+     "en": "Bebop: Interior"
+    },
+    {
+     "en": "Hey! What are you doing here?"
+    },
+    {
+     "en": "I just happened to be passing by. I figured I'd watch the show."
+    },
+    {
+     "en": "Heh... Is that so."
+    },
+    {
+     "en": "What about you? What are you up to?"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Call it the code of the drifter..."
+    },
+    {
+     "en": "Acting all cool. What an idiot."
+    },
+    {
+     "en": "Hehe... How much do you think one kill is worth?"
+    },
+    {
+     "en": "What's that supposed to mean?"
+    },
+    {
+     "en": "Y'know~ the Paradigm Corporation put bounties on the Terminator Police~!"
+    },
+    {
+     "en": "That sly old badger...!"
+    },
+    {
+     "en": "The Terminator Police are all unmanned, right?"
+    },
+    {
+     "en": "No guilty conscience, and it's easy money!"
+    },
+    {
+     "en": "Oh, really... I think I'll head back after all."
+    },
+    {
+     "en": "Won't you stay and eat something? I got paid a bit up front."
+    },
+    {
+     "en": "Maybe next time."
+    },
+    {
+     "en": "Just don't drag us down out there on the battlefield!"
+    },
+    {
+     "en": "Yeah, yeah!"
+    },
+    {
+     "en": "Ah, that ship...!"
+    },
+    {
+     "en": "Spike's friends... So they came after all."
+    },
+    {
+     "en": "Hey, you!"
+    },
+    {
+     "en": "Huh? Me?"
+    },
+    {
+     "en": "Who else would I be talking to?"
+    },
+    {
+     "en": "You're the one organizing the squads on the Iron Gear, right?"
+    },
+    {
+     "en": "Yeah... I guess that's mostly me?"
+    },
+    {
+     "en": "Then put me in your squad, right now."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "I'm saying I'll lend you a hand, just this once!"
+    },
+    {
+     "en": "Whoa... You can't just spring that on me..."
+    },
+    {
+     "en": "Add Faye to the squad\nTurn down Faye's offer"
+    },
+    {
+     "en": "Well then, I guess I'll take you up on it..."
+    },
+    {
+     "en": "Thanks! You're pretty understanding, aren't you?"
+    },
+    {
+     "en": "Now, make sure you keep an exact count of how many I shoot down!"
+    },
+    {
+     "en": "Y-Yeah..."
+    },
+    {
+     "en": "Faye has joined the unit."
+    },
+    {
+     "en": "The Red Tail has been deployed."
+    },
+    {
+     "en": "Come on, this is way too short notice..."
+    },
+    {
+     "en": "You're such a boring guy."
+    },
+    {
+     "en": "Well, do your best, I guess!"
+    },
+    {
+     "en": "Sigh... Did I handle that right...? Something tells me she'd be scary if I made her mad..."
+    },
+    {
+     "en": "Don't let it get to you, Kanji."
+    },
+    {
+     "en": "There's all kinds of people in this world. If you let every one of them get to you, you'll never get by."
+    },
+    {
+     "en": "Y-Yeah..."
+    }
+   ],
+   "notes": "[8] [jp] rendered 'the code of the drifter' (yakuza-flavoured 'duty among those who live outside the law'). [16] Spike heads back (to the Iron Gear) rather than staying on the Bebop. [32] two choice options, one per line. | [accuracy 4] subjects restored (Jet is speaking of himself) | [accuracy 5] verb restored ([jp]) | [accuracy 16] subject restored (Spike) | [editorial 16] [jp] is unimpressed; 'Oh, yeah...' read as remembering something | [editorial 39] 'now is way too sudden' ungrammatical/awkward | [editorial 42] clunky 'Somehow she seems like she'd be' | [proofread 2] location card format 'Place: Room' (style sheet)",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "Kanji! How's the squad setup coming along?"
+    },
+    {
+     "en": "Ah... About that..."
+    },
+    {
+     "en": "Quess... She's gone missing."
+    },
+    {
+     "en": "Quess has...?"
+    },
+    {
+     "en": "At this rate, we can't count on Quess's strength."
+    },
+    {
+     "en": "I see..."
+    },
+    {
+     "en": "But... right now, what matters is how we stand up to the main Grados force."
+    },
+    {
+     "en": "...Understood."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "Well? Have you settled on a way to counter the Grados Army?"
+    },
+    {
+     "en": "Yes. As expected, we have no choice but to make up for our lack of strength with the lay of the land."
+    },
+    {
+     "en": "Around here, the Sea of Clouds closes in and the land narrows."
+    },
+    {
+     "en": "Even the Grados Army won't be able to break through so easily."
+    },
+    {
+     "en": "If we take out the enemy one at a time as they come through the narrow corridor, we can hold them off even with a small force."
+    },
+    {
+     "en": "That's why we absolutely have to defend Paradigm City, no matter what."
+    },
+    {
+     "en": "So this is our Liangshan Marsh, huh."
+    },
+    {
+     "en": "I see."
+    },
+    {
+     "en": "But then this fight's going to drag on..."
+    },
+    {
+     "en": "And if it does, won't we be the ones who suffer?"
+    },
+    {
+     "en": "No... If we can drag it into a long war, they're the ones who'll suffer."
+    },
+    {
+     "en": "Every city on the Gaia Continent is under Grados occupation, and they're all in ruins."
+    },
+    {
+     "en": "So they can't resupply properly, huh."
+    },
+    {
+     "en": "Their great numbers become their undoing."
+    },
+    {
+     "en": "Looks like we'll manage somehow."
+    },
+    {
+     "en": "But Le Caine must know all that perfectly well."
+    },
+    {
+     "en": "He's surely going to throw everything at us from the very start."
+    },
+    {
+     "en": "This fight will be decided by how well we seize control at the outset."
+    },
+    {
+     "en": "Fuhahaha!! Exactly right!!"
+    },
+    {
+     "en": "You've grown, you Iron Gear whelps!"
+    },
+    {
+     "en": "...!!"
+    },
+    {
+     "en": "Is Master Asia here?!"
+    },
+    {
+     "en": "Fuhahahahaha! Where are you looking?!"
+    },
+    {
+     "en": "I'm here! Right here!!"
+    },
+    {
+     "en": "Hyah!!"
+    },
+    {
+     "en": "I've had a good, long look at how you fight!"
+    },
+    {
+     "en": "Hahaha! In the short time I've been away, you've learned to fight splendidly!"
+    },
+    {
+     "en": "Everyone! We can win this battle!!"
+    },
+    {
+     "en": "That's right! If we join forces as we are now, we'll beat Le Caine for sure!"
+    },
+    {
+     "en": "Yeah, exactly!"
+    },
+    {
+     "en": "Ah...! Eiji!!"
+    },
+    {
+     "en": "Everyone came rushing here to help!"
+    },
+    {
+     "en": "Then the Janous Team too?!"
+    },
+    {
+     "en": "Y-Y-Yes, sir! The Janous Team has just arrived!!"
+    },
+    {
+     "en": "Let's do this!"
+    },
+    {
+     "en": "With this, our strength's doubled!"
+    },
+    {
+     "en": "Waah~! Big brother~!!"
+    },
+    {
+     "en": "Hey, Fred. Have you been doing okay?"
+    },
+    {
+     "en": "Hahaha! Save the chitchat for later! Get ready to intercept!!"
+    },
+    {
+     "en": "Got it!!"
+    },
+    {
+     "en": "Eiji has rejoined the unit."
+    },
+    {
+     "en": "Master Asia, Domon and Rain have rejoined the unit."
+    },
+    {
+     "en": "The three from the Janous Team -- Roddy, Barts and Scott -- have rejoined the unit."
+    }
+   ],
+   "notes": "[6] [jp] kept as 'Liangshan Marsh' (Water Margin rebel stronghold) -- fits Sai Saici's Chinese background. [jp] -> 'Janous Team' from glossary ship [jp] Janous (not in glossary as a team). [33] Scott's 'sir' added to suit his flustered, earnest reply to Kanji; [39] [jp] as 'Got it!!' to avoid 'Roger' with Roger Smith in the cast. | [accuracy 15] conjecture [jp] restored (was stated as fact) | [accuracy 21] project decision: [jp] = Master Asia outside his own intro | [accuracy 41] project decision: [jp] = Master Asia in narration | [editorial 33] fragment read as grammar slip (accuracy flag); stammer kept",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "Wait! From here on, there is no turning back."
+    },
+    {
+     "en": "Are you fully prepared to meet Le Caine?"
+    },
+    {
+     "en": "Not ready yet...\nTake on Grados!"
+    },
+    {
+     "en": "Hmm. There's no need to rush."
+    },
+    {
+     "en": "Very well!"
+    },
+    {
+     "en": "Iron Gear! March out!!"
+    }
+   ],
+   "notes": "[2] two choice options, one per line. | [proofread 2] style sheet: faction name plain 'Grados' (no article)",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Grados Fleet Flagship: Bridge and Fleet Command HQ"
+    },
+    {
+     "en": "Your Excellency! A message from Lord Arthea."
+    },
+    {
+     "en": "Lord Arthea's forces are preparing to attack GEAR HQ, so they say they cannot come to support us."
+    },
+    {
+     "en": "Heh... Just as I thought."
+    },
+    {
+     "en": "But if anything, that suits us better."
+    },
+    {
+     "en": "Listen! Once we break through Paradigm, we press straight on into Asia."
+    },
+    {
+     "en": "We shall show the world just how incompetent the Black Knight of Arktos is."
+    },
+    {
+     "en": "Commence the attack!!"
+    }
+   ],
+   "notes": "[jp] -> 'Arktos' (missing from glossary; the character library entries use Arktos, other notes mention Arcturus).",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "Hear me, all of you who have rushed here to defend Paradigm City!!"
+    },
+    {
+     "en": "We may be a motley rabble, gathered here with differing beliefs!"
+    },
+    {
+     "en": "But! Surely we all share the same loathing for the inhumane tyranny of Grados!"
+    },
+    {
+     "en": "The might of Asia and Gaia is now united here!!"
+    },
+    {
+     "en": "Meet the enemy with unshakable faith in victory!!"
+    }
+   ],
+   "notes": "[editorial 2] 'the Grados's' awkward (accuracy flag) | [proofread 2] style sheet: plain 'Grados'; also clears the accuracy/editorial 'the Grados's' flag",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "Your Excellency! Our first wave has been driven back!!"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Gosterro! Hoist Julia up!!"
+    },
+    {
+     "en": "Yes, sir!!"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": "Ah..."
+    },
+    {
+     "en": "Hey! Isn't that Eiji's sister?"
+    },
+    {
+     "en": "How cruel... Taking a defenseless saint hostage..."
+    },
+    {
+     "en": "You've sunk low, Le Caine!! Taking a hostage is cowardly!"
+    },
+    {
+     "en": "Do not misunderstand! This is, if you will, a sacrifice to adorn the field of battle."
+    },
+    {
+     "en": "This battle shall decide which is superior: Grados or Terra."
+    },
+    {
+     "en": "What are you talking about?!"
+    },
+    {
+     "en": "All you need do is defeat me. Do so, and I will free Julia and promise to withdraw as well."
+    },
+    {
+     "en": "But if I win, Julia... no... the Saint of Cusco shall be executed for the crime of leading the people astray!"
+    },
+    {
+     "en": "What did you say?!"
+    },
+    {
+     "en": "That's right! Don't go deciding that all on your own!"
+    },
+    {
+     "en": "No matter!! If he says he'll keep his word, then we simply win, as we are!"
+    },
+    {
+     "en": "Oho... As one would expect of the enemy commander."
+    },
+    {
+     "en": "Now, have at you!!"
+    }
+   ],
+   "notes": "[2] [jp] = suspend her on display as a hostage (she is alive in later rows), so 'String Julia up' in the hoist sense, not an execution. [10] [jp] -> 'Terra' (matches 'Terran'). [jp] 'the Saint of Cuzco' per Julia's glossary position. | [accuracy 2] 'String up' reads as execution by hanging; Julia is suspended alive as a hostage (see notes, later rows)",
+   "status": "proofread"
+  },
+  {
+   "id": 9,
+   "segments": [
+    {
+     "en": "Oho... It seems they'll entertain me a little."
+    },
+    {
+     "en": "Otherwise, all my efforts to set the stage would have been for nothing."
+    },
+    {
+     "en": "Please wait!! Lord Le Caine!!"
+    },
+    {
+     "en": "...What is it?!"
+    },
+    {
+     "en": "I bring orders from His Excellency Gresco!"
+    },
+    {
+     "en": "You are to withdraw your troops at once and return to Grados City!"
+    },
+    {
+     "en": "What nonsense is this?! The battle has already begun! Would you shame me here and now?!"
+    },
+    {
+     "en": "It is His Excellency's absolute order! Forgive me!!"
+    },
+    {
+     "en": "Hey! You! What are you doing with Julia?! Give her back, damn it!!"
+    },
+    {
+     "en": "Lord Le Caine! I'm terribly sorry!"
+    },
+    {
+     "en": "I'll be taking the Saint of Cusco!"
+    },
+    {
+     "en": "What?!"
+    },
+    {
+     "en": "Nngh! Karla...! What is she thinking?!"
+    },
+    {
+     "en": "Hahahaha! What's the matter, Le Caine?!"
+    },
+    {
+     "en": "It seems your so-called sacrifice has gone missing!"
+    },
+    {
+     "en": "What will you do?! Will you fight?! Or won't you?!"
+    },
+    {
+     "en": "Nnnngh!!"
+    },
+    {
+     "en": "I cannot defy Admiral Gresco's orders!!"
+    },
+    {
+     "en": "All forces!! Withdraw!!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 10,
+   "segments": [
+    {
+     "en": "We'll settle this another time! But I will be back, mark my words!!"
+    },
+    {
+     "en": "Fuhahaha! Insolent pup! Come at me as many times as you like!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 11,
+   "segments": [
+    {
+     "en": "Yeah~!! Easy win! Easy win!"
+    },
+    {
+     "en": "Yeah, you said it!"
+    },
+    {
+     "en": "Everyone came together like this and we won! It's the best!"
+    },
+    {
+     "en": "Still, we can't just sit here celebrating. You saw the enemy's strength."
+    },
+    {
+     "en": "Heh... Maybe it was Le Caine's personality that saved us..."
+    },
+    {
+     "en": "Unless we do more damage to that fleet, we can't leave this place."
+    },
+    {
+     "en": "So as things stand, we can't move on to the next continent?"
+    },
+    {
+     "en": "Exactly. At the very least, we must sweep out the enemy forces remaining in Asia."
+    },
+    {
+     "en": "I see. So we liberate Asia before we take down Le Caine."
+    },
+    {
+     "en": "Indeed. Right now, that should be possible."
+    },
+    {
+     "en": "Oh, Kanji! Once maintenance is done, we're heading to the Asia Continent."
+    },
+    {
+     "en": "I know. We're going to GEAR HQ, right?"
+    },
+    {
+     "en": "Well then, I'm counting on you!"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 12,
+   "segments": [
+    {
+     "en": "Looks like we'll be with the Iron Gear for a long time."
+    },
+    {
+     "en": "Looks that way..."
+    },
+    {
+     "en": "Say, Dorothy?"
+    },
+    {
+     "en": "What is it?"
+    },
+    {
+     "en": "How would you like to see the other continents? Along with Big O."
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "I'm going aboard the Iron Gear too?"
+    },
+    {
+     "en": "Yes... I want you to come."
+    },
+    {
+     "en": "All right. I'll take care of loading the machine."
+    },
+    {
+     "en": "Yes, I'm counting on you."
+    },
+    {
+     "en": "Roger..."
+    },
+    {
+     "en": "Hm?"
+    },
+    {
+     "en": "I'm glad I can go with you."
+    },
+    {
+     "en": "Yes......"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 13,
+   "segments": [
+    {
+     "en": "Hey! Hurry up, Hokuto!"
+    },
+    {
+     "en": "There's a Megadeus in the hangar!"
+    },
+    {
+     "en": "Okay! Wait up, Ginga!"
+    },
+    {
+     "en": "Wh-What's going on?"
+    },
+    {
+     "en": "It's Roger's Megadeus. He says he'll help us out."
+    },
+    {
+     "en": "Huh? Roger will?"
+    },
+    {
+     "en": "It's huge... So this is a Megadeus."
+    },
+    {
+     "en": "This is Big O. I'll be relying on you from now on."
+    },
+    {
+     "en": "Yeah, good to have you aboard, Roger!"
+    },
+    {
+     "en": "...Hm?"
+    },
+    {
+     "en": "Who's that over there?"
+    },
+    {
+     "en": "Dorothy!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "This is our mechanic, R. Dorothy Wayneright."
+    },
+    {
+     "en": "Nice to meet you."
+    },
+    {
+     "en": "Uh... y-yeah..."
+    },
+    {
+     "en": "Still, you're incredibly athletic, aren't you?"
+    },
+    {
+     "en": "You hadn't noticed? She's an android."
+    },
+    {
+     "en": "Huh? An android...?"
+    },
+    {
+     "en": "She may seem a bit unfriendly,"
+    },
+    {
+     "en": "but to me, she's the best partner there is."
+    },
+    {
+     "en": "Big O's maintenance is perfect."
+    },
+    {
+     "en": "I won't cause you any trouble."
+    },
+    {
+     "en": "Haha! Well, thanks."
+    },
+    {
+     "en": "Roger and R. Dorothy have joined the unit."
+    },
+    {
+     "en": "Big O has been deployed."
+    }
+   ],
+   "notes": "[19]-[20] one sentence cut across two pages; English cut at the same point. | [editorial 16] 'have some amazing physical abilities' stiff for spoken line",
+   "status": "proofread"
+  },
+  {
+   "id": 14,
+   "segments": [
+    {
+     "en": "Le Caine has only just pulled back, so I don't think there'll be another attack right away."
+    },
+    {
+     "en": "Let's head back to GEAR HQ while we can and work out a plan."
+    },
+    {
+     "en": "Aye, sir!!"
+    }
+   ],
+   "notes": "[2] Blume's [jp] to Elchi kept as 'Aye, sir!!' (stock reply, not a gender call).",
+   "status": "proofread"
+  },
+  {
+   "id": 15,
+   "segments": [
+    {
+     "en": "Iron Gear! Can you hear me?"
+    },
+    {
+     "en": "GEAR HQ is under enemy attack! Please come to our aid at once!!"
+    },
+    {
+     "en": "Also, the enemy's main force is a black Dendoh... No... It's Knight Ouga!!"
+    },
+    {
+     "en": "Knight Ouga...? Him again?!"
+    },
+    {
+     "en": "Damn it! What's with this guy?!"
+    },
+    {
+     "en": "Heh... So they've come. Sooner than I expected."
+    },
+    {
+     "en": "Which means they won the battle at Paradigm."
+    },
+    {
+     "en": "I must acknowledge their strength!"
+    },
+    {
+     "en": "Lord Omega, are you ready?"
+    },
+    {
+     "en": "They're here. We will now intercept the Iron Gear!"
+    }
+   ],
+   "notes": "[jp] -> 'Knight Ogre' (library/speaker data; glossary machine is [jp] Ouga). [3] [jp] taken as Arthea (Knight Ogre's pilot, a known male).",
+   "status": "proofread"
+  },
+  {
+   "id": 16,
+   "segments": [
+    {
+     "en": "...!!"
+    },
+    {
+     "en": "Ah! That's a Claudian ship! It belongs to the Redros Army!!"
+    },
+    {
+     "en": "Why are they together with Arthea?!"
+    },
+    {
+     "en": "The Redros Army must have joined hands with either Grados or Galfa."
+    },
+    {
+     "en": "Since they weren't with Le Caine, Galfa seems more likely..."
+    },
+    {
+     "en": "And that business at the supply base... They were probably aiming to whittle the Grados Army's strength down just enough."
+    },
+    {
+     "en": "Kh... I can't believe the Redros Army's gotten this far ahead of us...!"
+    },
+    {
+     "en": "I don't really get it... but Arthea's the one who set this up, right?"
+    },
+    {
+     "en": "You've gotta be kidding me! Damn it!"
+    },
+    {
+     "en": "Show me, Dendoh! Show me how much you've improved!"
+    },
+    {
+     "en": "Omega Fokurosu! Launching!!"
+    },
+    {
+     "en": "The Blue Falcon of Giganos is coming!!"
+    },
+    {
+     "en": "...!!"
+    },
+    {
+     "en": "Meio Plato...! That bastard~!"
+    },
+    {
+     "en": "Watch out, Kaine. He's got the usual extras tagging along, too!"
+    },
+    {
+     "en": "I know!"
+    },
+    {
+     "en": "Those Practies! Of all people, they had to go and become the Redros Army's lackeys!"
+    },
+    {
+     "en": "So what're you gonna do?!"
+    },
+    {
+     "en": "What do you think? We've got no choice but to fight!"
+    },
+    {
+     "en": "Come on! Here I go!!"
+    },
+    {
+     "en": "All ships! Battle stations!!"
+    }
+   ],
+   "notes": "[5] subject of the supply-base scheme taken as the Redros Army (Amuro's running theory). [14] [jp] = Meio's Practies, named in [16]. | [editorial 11] mixed third person + 'I'; aligned to Meio's [jp] line in dlg_2364_07303_07 (accuracy flag) | [proofread 3] style sheet: plain 'Grados'; bare 'Galfa' as in the corpus (37 vs 1) | [proofread 4] consistency: bare 'Galfa' (corpus form); verb agreement follows",
+   "status": "proofread"
+  },
+  {
+   "id": 17,
+   "segments": [
+    {
+     "en": "Lord Omega!"
+    },
+    {
+     "en": "They're breaking through our center."
+    },
+    {
+     "en": "I believe it would be wise to pull back the units on our wings."
+    },
+    {
+     "en": "Indeed. There are enemy unmanned units at our rear. There's no need to push it."
+    },
+    {
+     "en": "How fragile, though... Grados machines alone can no longer win, it seems..."
+    },
+    {
+     "en": "I would like our own forces to have a bit more depth..."
+    },
+    {
+     "en": "I understand, but if we reinforce you too openly, we'll provoke Grados."
+    },
+    {
+     "en": "I'll have any ships you run short of replaced at any time."
+    },
+    {
+     "en": "Lord Arthea, I'd like you to devote all your efforts to capturing Dendoh."
+    },
+    {
+     "en": "Naturally. That is my intent."
+    },
+    {
+     "en": "Making Dendoh and its Data Weapons our own is the will of Emperor Galfa."
+    },
+    {
+     "en": "I, Arthea, shall see this mission through without fail!"
+    },
+    {
+     "en": "We've gathered all the data we need. We'll be pulling out soon."
+    },
+    {
+     "en": "Then I'll cover your withdrawal. Leave the rearguard to me."
+    },
+    {
+     "en": "Until we meet again, Lord Arthea!"
+    },
+    {
+     "en": "I have no intention of annihilating you now."
+    },
+    {
+     "en": "I must leave you enough strength to tear into Grados!"
+    },
+    {
+     "en": "But for now, I'll be buying myself some time!"
+    }
+   ],
+   "notes": "[2] [jp] = units deployed in the crane-wing formation; rendered 'units on our wings'. [3] [jp] kept as 'at our rear'; which unmanned force is meant is not stated. [15]-[17] Arthea addressing the player side. | [proofread 6] style sheet: plain 'Grados' | [proofread 16] style sheet: plain 'Grados'",
+   "status": "proofread"
+  },
+  {
+   "id": 18,
+   "segments": [
+    {
+     "en": "What are they up to? Doesn't the enemy even mean to win?"
+    },
+    {
+     "en": "I guess he's covering the fleet's withdrawal... but why won't he fight us properly?"
+    },
+    {
+     "en": "We've got to break through somehow! If we beat him, we can liberate Asia!!"
+    },
+    {
+     "en": "Hokuto! Ginga!"
+    },
+    {
+     "en": "Leave the rest to me!"
+    },
+    {
+     "en": "Ms. Vega?"
+    },
+    {
+     "en": "You! Why...!"
+    },
+    {
+     "en": "My name is Vega. But by now, it's a meaningless name."
+    },
+    {
+     "en": "Just as meaningless as your name being Arthea!"
+    },
+    {
+     "en": "Nngh...!"
+    },
+    {
+     "en": "Mmmgh...!"
+    },
+    {
+     "en": "Vice-Commander Vega has engaged the enemy commander! Let's hurry too!"
+    },
+    {
+     "en": "Halt!"
+    },
+    {
+     "en": "Master?!"
+    },
+    {
+     "en": "Can you not sense it? The city is filled with an evil aura!"
+    },
+    {
+     "en": "Mmgh...!"
+    },
+    {
+     "en": "Could this aura be...!!"
+    },
+    {
+     "en": "Protecting the lives of the citizens comes first!"
+    },
+    {
+     "en": "Let's go!!"
+    },
+    {
+     "en": "Right!!"
+    },
+    {
+     "en": "Fuhahahaha!! Hiding is useless, humans!!"
+    },
+    {
+     "en": "These guys! There were still some left?!"
+    },
+    {
+     "en": "Fuhaha!! Diiie!!"
+    }
+   ],
+   "notes": "[jp] from the boys -> 'Ms. Vega' (same treatment as the project's 'Ms. Diane'). [1]-[2] 'he/him' = Arthea, the rearguard. | [editorial 16] [jp]: 'Surely this aura is' read as certainty, not dread | [proofread 11] style sheet: [jp] 'Vice-Commander' (hyphen)",
+   "status": "proofread"
+  },
+  {
+   "id": 19,
+   "segments": [
+    {
+     "en": "Nngh...!"
+    },
+    {
+     "en": "Arthea!!"
+    },
+    {
+     "en": "Nngh!! Vega..."
+    },
+    {
+     "en": "Vega...... How did it come to this..."
+    },
+    {
+     "en": "Huh...?!"
+    },
+    {
+     "en": "Vega. Why must we fight each other?"
+    },
+    {
+     "en": "What...?"
+    },
+    {
+     "en": "Arthea... What do you mean by this?"
+    },
+    {
+     "en": "Why must the only two siblings left fight like this..."
+    },
+    {
+     "en": "Have you forgotten? Those peaceful days on Arktos..."
+    },
+    {
+     "en": "......!"
+    },
+    {
+     "en": "Brother...? Could it be... your memories...!"
+    },
+    {
+     "en": "Come with me! And together we will right every wrong."
+    },
+    {
+     "en": "Ah...!"
+    },
+    {
+     "en": "Tch! It can't be helped."
+    },
+    {
+     "en": "We can't talk here. Forgive me."
+    },
+    {
+     "en": "Ugh!!"
+    }
+   ],
+   "notes": "[jp] rendered 'siblings' (Arthea and Vega are brother and sister); [jp] -> 'Brother'.",
+   "status": "proofread"
+  },
+  {
+   "id": 20,
+   "segments": [
+    {
+     "en": "Knight Ouga..."
+    },
+    {
+     "en": "What the? He's pulling out just like that?!"
+    }
+   ],
+   "notes": "[accuracy 0] project decision Knight Ouga (not Ogre); term_fixes only catches 'Knight Ogre', and bare 'Ouga' would point at the other machine",
+   "status": "proofread"
+  },
+  {
+   "id": 21,
+   "segments": [
+    {
+     "en": "I can't believe Ms. Vega got kidnapped, though."
+    },
+    {
+     "en": "Yeah. We have to go rescue her soon..."
+    },
+    {
+     "en": "Anyway, we have to head back to HQ for now."
+    },
+    {
+     "en": "Yeah!"
+    }
+   ],
+   "notes": "[accuracy 0] subject restored (Ginga)",
+   "status": "proofread"
+  },
+  {
+   "id": 22,
+   "segments": [
+    {
+     "en": "Ah!"
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "What's up, Elise? Don't you have to be at HQ?"
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "I've got business with the Iron Gear..."
+    },
+    {
+     "en": "Hmm~ You seem pretty busy."
+    },
+    {
+     "en": "Sort of..."
+    },
+    {
+     "en": "Oh, and also, they say you two can go home now."
+    },
+    {
+     "en": "Oh yeah? Let's go, Hokuto."
+    },
+    {
+     "en": "Okay..."
+    },
+    {
+     "en": "See ya!"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "She seems to have a lot on her plate, huh."
+    },
+    {
+     "en": "And the city's taken... quite a bit of damage, too..."
+    },
+    {
+     "en": "On top of that, Ms. Vega got captured by the enemy."
+    },
+    {
+     "en": "Yeah..."
+    },
+    {
+     "en": "Looks like we don't have to go back to HQ... Should we head home?"
+    },
+    {
+     "en": "Hmm~..."
+    },
+    {
+     "en": "What should I do..."
+    },
+    {
+     "en": "Take a detour\nGo home"
+    },
+    {
+     "en": "Let's take a little detour. I want to see the damage in the city, too."
+    },
+    {
+     "en": "Sure!"
+    },
+    {
+     "en": "So much has happened, I'm worn out."
+    },
+    {
+     "en": "Let's go home."
+    },
+    {
+     "en": "Sure!"
+    }
+   ],
+   "notes": "[7] [jp] = Hokuto and Ginga ('you two'). [12] subject of [jp] taken as Elise (busy, just left). [19] two choice options, one per line. | [accuracy 16] subject restored; [jp] is Ginga proposing for both of them",
+   "status": "proofread"
+  },
+  {
+   "id": 23,
+   "segments": [
+    {
+     "en": "Should we head home soon?"
+    },
+    {
+     "en": "What should I do..."
+    },
+    {
+     "en": "Not going home yet\nGo home"
+    },
+    {
+     "en": "I want to walk around a little more."
+    },
+    {
+     "en": "Yeah? So where are we going next?"
+    },
+    {
+     "en": "You're right. Let's go home now."
+    },
+    {
+     "en": "Let's go, then!"
+    }
+   ],
+   "notes": "[2] two choice options, one per line. | [accuracy 0] subject restored; [jp] proposes for both | [accuracy 4] verb and subject restored ([jp])",
+   "status": "proofread"
+  },
+  {
+   "id": 24,
+   "segments": [
+    {
+     "en": "Hey! Hokuto!"
+    },
+    {
+     "en": "Dad!"
+    },
+    {
+     "en": "Welcome home, Hokuto! And you too, Ginga! Did you have fun at the sleepover?"
+    },
+    {
+     "en": "Ah... Yeah, kind of!"
+    },
+    {
+     "en": "I see... Well, anyway, I'm just glad you're safe."
+    },
+    {
+     "en": "Hokuto, your dad has to stay at the station tonight because of that battle earlier."
+    },
+    {
+     "en": "Could you let your mom know for me?"
+    },
+    {
+     "en": "Okay. Good luck with work, Dad!"
+    },
+    {
+     "en": "Yeah! See you, Hokuto!"
+    },
+    {
+     "en": "Your dad sure looks busy."
+    },
+    {
+     "en": "Yeah, but he's got nothing on your dad, Ginga."
+    },
+    {
+     "en": "Mine's a special case. I wonder where he's off reporting right now..."
+    },
+    {
+     "en": "Ahahaha... Things are tough at your place too, huh."
+    },
+    {
+     "en": "Ginga's House"
+    },
+    {
+     "en": "Hokuto, sure, it really burns me up how that guy carried off Ms. Vega, but"
+    },
+    {
+     "en": "moping about it now won't do us any good."
+    },
+    {
+     "en": "Yeah! You're right!"
+    },
+    {
+     "en": "We have to rest now so we're ready to move anytime."
+    },
+    {
+     "en": "That's the idea!"
+    },
+    {
+     "en": "See ya, Hokuto!"
+    },
+    {
+     "en": "Hokuto's House"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Huh?"
+    },
+    {
+     "en": "..............."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Huh? Why isn't anyone answering?"
+    },
+    {
+     "en": "............"
+    },
+    {
+     "en": "Mom...?"
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": ".................."
+    },
+    {
+     "en": "Mom...... I... made it home alive."
+    },
+    {
+     "en": "But... but... why aren't you here?"
+    },
+    {
+     "en": "Mom..."
+    }
+   ],
+   "notes": "[5] [jp] -> 'the station' (Keisuke is a TV news announcer). [14]-[15] one sentence across two pages, cut at the same point. [27] [jp] left as 'nobody answering' (door/phone not specified). | [accuracy 11] subject restored (Ginga wondering) | [editorial 14] 'that that guy' clunky; sentence still cut at the same point",
+   "status": "proofread"
+  }
+ ]
+}

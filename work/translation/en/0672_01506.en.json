@@ -1,0 +1,166 @@
+{
+ "table": "0672_01506",
+ "rows": [
+  {
+   "id": 1,
+   "segments": [
+    {
+     "en": "All right, everyone's here."
+    },
+    {
+     "en": "Then let's go over this project,\nthe Sea of Clouds Survey Plan,\none more time."
+    },
+    {
+     "en": "Lieutenant JG Rie, are you ready?"
+    },
+    {
+     "en": "Okay,\nI'll begin the briefing."
+    },
+    {
+     "en": "First, please take a look\nat this footage."
+    }
+   ],
+   "notes": "Test scene; speaker headers are placeholders (segments 3-4 headed Kanji are Rie's answer).",
+   "status": "proofread"
+  },
+  {
+   "id": 2,
+   "segments": [
+    {
+     "en": "You're late."
+    },
+    {
+     "en": "I've checked and adjusted the\nImpulse 7's Cloud System."
+    },
+    {
+     "en": "You take care of adjusting\nthe rest of the controls."
+    },
+    {
+     "en": "Ugh... what a pain..."
+    },
+    {
+     "en": "You could've just done\nthat much for me."
+    },
+    {
+     "en": "I still have work to do."
+    },
+    {
+     "en": "Besides, you're old enough to\nput your own pants on by now, right?"
+    },
+    {
+     "en": "I'm going to move the\ncamera zoom a bit."
+    },
+    {
+     "en": "See, it's moving, right? This\nmovement is specified by the\nmessage text."
+    },
+    {
+     "en": "Yeah, yeah, I'll do it."
+    },
+    {
+     "en": "Then go handle the %6Depart%1\nprocedures first and head\nup to the bridge."
+    },
+    {
+     "en": "And Akatsuki-- no, take\na message to the captain."
+    },
+    {
+     "en": "Tell them I'll head up to the\nbridge after a few more checks."
+    },
+    {
+     "en": "The Astante..."
+    },
+    {
+     "en": "...there are still some things about\nits Cloud System bugging me..."
+    },
+    {
+     "en": "Okay, roger."
+    },
+    {
+     "en": "Well then, see you later."
+    }
+   ],
+   "notes": "Developer test scene (segments 7-8 test camera zoom). Speaker headers alternate wrongly; translated from content (father briefing Kanji). %6..%1 colour codes kept around 'Depart' (UI term). Seg 11 '[jp] [jp]' kept ambiguous (calls Akatsuki, then corrects to 'the captain'). Seg 12: 'Tell them' added since it is the message content; captain's gender unknown here.",
+   "status": "proofread"
+  },
+  {
+   "id": 3,
+   "segments": [
+    {
+     "en": "The enemy's wiped out, nari!"
+    },
+    {
+     "en": "We did it."
+    },
+    {
+     "en": "We did it~!"
+    }
+   ],
+   "notes": "Test text. [jp] is a jokey verbal tic; kept as 'nari'.",
+   "status": "proofread"
+  },
+  {
+   "id": 4,
+   "segments": [
+    {
+     "en": "So it's my turn, then."
+    },
+    {
+     "en": "We did it."
+    }
+   ],
+   "notes": "Test text.",
+   "status": "proofread"
+  },
+  {
+   "id": 5,
+   "segments": [
+    {
+     "en": "This place sure has gone downhill."
+    },
+    {
+     "en": "Tell me about it."
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 6,
+   "segments": [
+    {
+     "en": "Someone's there. Hide!"
+    },
+    {
+     "en": "We're hiding?"
+    }
+   ],
+   "notes": "",
+   "status": "proofread"
+  },
+  {
+   "id": 7,
+   "segments": [
+    {
+     "en": "This is a placeholder event."
+    },
+    {
+     "en": "End of epilogue."
+    }
+   ],
+   "notes": "Developer placeholder.",
+   "status": "proofread"
+  },
+  {
+   "id": 8,
+   "segments": [
+    {
+     "en": "This is a placeholder event."
+    },
+    {
+     "en": "Campaign start event."
+    }
+   ],
+   "notes": "Developer placeholder.",
+   "status": "proofread"
+  }
+ ]
+}
