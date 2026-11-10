@@ -2,7 +2,7 @@
 
 English fan translation and tools for **Sunrise World War from Sunrise Eiyuutan** on PlayStation 2 (**Japan, SLPS-25270**).
 
-![Sunrise World War English translation patch](assets/social-preview.jpg)
+![Original Japanese PlayStation 2 box art for Sunrise World War](assets/social-preview.jpg)
 
 ## Contribute
 
