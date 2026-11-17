@@ -10,17 +10,25 @@ Bug reports, proofreading and playtesting are welcome. Include the build version
 
 ## Play it
 
-**v0.8.0** is the first private test release. It includes the translated dialogue, briefings, profiles, unit and pilot names, and interface textures from the local builds. The opening song “Destination” has spaced romaji and English subtitles. See the [release notes](docs/releases/v0.8.0.md) and [changelog](CHANGELOG.md) for coverage and known issues.
+The latest public release is **[v0.8.0](https://github.com/retro-trans/Sunrise-World-War/releases/tag/v0.8.0)**. It includes the translated dialogue, briefings, profiles, unit and pilot names, and interface textures from the local builds. The opening song “Destination” has spaced romaji and English subtitles. See the [release notes](docs/releases/v0.8.0.md) and [changelog](CHANGELOG.md) for coverage and known issues.
 
 ### Apply
 
-Download `SWW-English-v0.8.0.xdelta` from [v0.8.0](https://github.com/retro-trans/Sunrise-World-War/releases/tag/v0.8.0) and apply it to your own unpacked Japanese disc image (**SLPS-25270**) with Delta Patcher or xdelta3.
+Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) for automatic patching.
+
+1. Open Retro Trans and click **Refresh catalog**.
+2. In **Automatic**, select your original Japanese ISO (**SLPS-25270**), then **Sunrise World War** and **English**.
+3. Leave the target on **Latest**, choose a new output filename, and click **Patch**. The app downloads the matching patch and verifies the result.
+
+Automatic patching has been tested against the original Japanese ISO. Supported CHD inputs can be unpacked by Retro Trans with your permission.
+
+For manual patching, download `SWW-English-v0.8.0.xdelta` from [v0.8.0](https://github.com/retro-trans/Sunrise-World-War/releases/tag/v0.8.0) and apply it to your own unpacked Japanese disc image (**SLPS-25270**) with Delta Patcher or xdelta3.
 
 ```powershell
 xdelta3 -d -s "Sunrise World War (Japan).iso" SWW-English-v0.8.0.xdelta "Sunrise World War EN v0.8.0.iso"
 ```
 
-For a CHD, extract the disc to an ISO or BIN first. Keep checksum verification enabled and compare the source hash in the release notes if your patcher reports a mismatch. Boot the patched image fresh and load a normal memory-card save. Older save states can restore the previous executable and graphics.
+For manual patching of a CHD, extract the disc to an ISO or BIN first. Keep checksum verification enabled and compare the source hash in the release notes or `BUILD-MANIFEST.json` if your patcher reports a mismatch. Boot the patched image fresh and load a normal memory-card save. Older save states can restore the previous executable and graphics.
 
 ## Check the translation
 

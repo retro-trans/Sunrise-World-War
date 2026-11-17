@@ -2,6 +2,10 @@
 
 Local builds and release packages are under `work/output/v<version>/`.
 
+## README update — 2026-11-17
+
+- Updated the README for the public v0.8.0 release and added Retro Trans Automatic instructions, including catalog refresh and output verification.
+
 ## Repository preview — 2026-11-10
 
 - Added the [original Japanese PS2 front cover](https://gamesdb.launchbox-app.com/games/images/130937-sunrise-world-war) to the ACE-style preview card in the README.
