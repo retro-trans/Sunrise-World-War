@@ -6,7 +6,7 @@ English fan translation and tools for **Sunrise World War from Sunrise Eiyuutan*
 
 ## Contribute
 
-Bug reports, proofreading and playtesting are welcome. Include the build version and a screenshot or the route and scene when you report a problem. You can find the team on [Discord](https://discord.gg/MssepShjmB).
+Bug reports, proofreading and playtesting are welcome. Include the build version and a screenshot or the route and scene when you report a problem. You can find the team on [Discord](https://discord.gg/nZBZfTDfCP).
 
 ## Play it
 
